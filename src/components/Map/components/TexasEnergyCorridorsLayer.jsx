@@ -215,12 +215,23 @@ const TexasEnergyCorridorsLayer = ({ map, visible }) => {
       }
 
       try {
-        console.log('📥 [TexasEnergyCorridors] Fetching GeoJSON from:', GEOJSON_URL);
-        const response = await fetch(GEOJSON_URL);
+        // Try full dataset first, fallback to sample
+        let url = GEOJSON_URL;
+        let response = await fetch(url);
+        
         if (!response.ok) {
-          console.error('❌ [TexasEnergyCorridors] Failed to fetch GeoJSON:', response.status);
-          return;
+          console.log('⚠️ [TexasEnergyCorridors] Full dataset not found, trying sample...');
+          url = GEOJSON_SAMPLE_URL;
+          response = await fetch(url);
+          
+          if (!response.ok) {
+            console.error('❌ [TexasEnergyCorridors] Failed to fetch GeoJSON (tried both full and sample):', response.status);
+            console.error('   💡 Generate data with: python3 scripts/osm-tools/tx_ercot_energy_osm.py');
+            return;
+          }
         }
+        
+        console.log('📥 [TexasEnergyCorridors] Fetching GeoJSON from:', url);
         const data = await response.json();
         const featureCount = Array.isArray(data.features) ? data.features.length : 0;
         console.log('✅ [TexasEnergyCorridors] Loaded GeoJSON with features:', featureCount);
