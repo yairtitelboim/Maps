@@ -93,6 +93,7 @@ An interactive geo-AI mapping application for visualizing and analyzing infrastr
 - Power transmission lines (color-coded by voltage)
 - Gas pipelines
 - Infrastructure from OpenStreetMap
+- **Note**: A sample dataset (~6MB) is included. For the full dataset (~128MB), see [Generating Energy Data](./docs/GENERATING_ENERGY_DATA.md)
 
 ### Data Centers
 - Texas data center locations

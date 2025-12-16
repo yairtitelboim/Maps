@@ -8,7 +8,9 @@ const POWER_LABEL_LAYER_ID = 'tx-energy-power-lines-labels';
 const GAS_LINES_LAYER_ID = 'tx-energy-gas-lines';
 const GAS_LABEL_LAYER_ID = 'tx-energy-gas-lines-labels';
 
+// Try full dataset first, fallback to sample
 const GEOJSON_URL = '/osm/tx_ercot_energy.json';
+const GEOJSON_SAMPLE_URL = '/osm/tx_ercot_energy_sample.json';
 
 const TexasEnergyCorridorsLayer = ({ map, visible }) => {
   const sourceLoadedRef = useRef(false);
