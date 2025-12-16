@@ -1,0 +1,88 @@
+{
+  "projects": [
+    {
+      "project_name": "CyrusOne AUS2-AUS3 Campus",
+      "company": "CyrusOne",
+      "city": "Austin",
+      "county": "Travis",
+      "approx_mw": 18,
+      "approx_sqft": 242000,
+      "status": "operational",
+      "primary_source_url": "https://www.cyrusone.com/data-centers/north-america/austin-texas",
+      "announced_year": 2018
+    },
+    {
+      "project_name": "Data Foundry Texas 1",
+      "company": "Data Foundry",
+      "city": "Austin",
+      "county": "Travis",
+      "approx_mw": 0,
+      "approx_sqft": 130000,
+      "status": "operational",
+      "primary_source_url": "https://www.datafoundry.com/data-centers/austin-data-centers/",
+      "announced_year": 2000
+    },
+    {
+      "project_name": "Data Foundry Texas 2",
+      "company": "Data Foundry",
+      "city": "Austin",
+      "county": "Travis",
+      "approx_mw": 36,
+      "approx_sqft": 325000,
+      "status": "operational",
+      "primary_source_url": "https://www.datafoundry.com/data-centers/austin-data-centers/",
+      "announced_year": 2018
+    },
+    {
+      "project_name": "Data Foundry Austin 1 (00)",
+      "company": "Data Foundry",
+      "city": "Austin",
+      "county": "Travis",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "operational",
+      "primary_source_url": "https://www.datafoundry.com/data-centers/austin-data-centers/",
+      "announced_year": 1990
+    },
+    {
+      "project_name": "Data Foundry Data Ranch Campus",
+      "company": "Data Foundry",
+      "city": "Austin",
+      "county": "Travis",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "operational",
+      "primary_source_url": "https://www.datacentermap.com/usa/texas/austin/",
+      "announced_year": 2020
+    },
+    {
+      "project_name": "Digital Realty AUS11",
+      "company": "Digital Realty",
+      "city": "Austin",
+      "county": "Travis",
+      "approx_mw": 0,
+      "approx_sqft": 86000,
+      "status": "operational",
+      "primary_source_url": "https://www.digitalrealty.com/data-centers/americas/austin/aus11",
+      "announced_year": 2020
+    },
+    {
+      "project_name": "Sabey Data Centers Austin Campus",
+      "company": "Sabey Data Centers",
+      "city": "Round Rock",
+      "county": "Williamson",
+      "approx_mw": 84,
+      "approx_sqft": 603300,
+      "status": "operational",
+      "primary_source_url": "https://sabeydatacenters.com/locations/austin-data-center",
+      "announced_year": 2023
+    },
+    {
+      "project_name": "Skybox Austin I Campus",
+      "company": "Skybox Datacenters",
+      "city": "Austin",
+      "county": "Travis",
+      "approx_mw": 30,
+      "approx_sqft": 141000,
+      "status": "operational",
+      "primary_source_url": "https://ww

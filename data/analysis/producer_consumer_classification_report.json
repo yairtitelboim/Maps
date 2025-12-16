@@ -1,0 +1,1588 @@
+{
+  "summary": {
+    "total_counties": 254,
+    "by_category": {
+      "producer": 39,
+      "hybrid": 4,
+      "producer-leaning": 57,
+      "consumer": 13,
+      "hybrid-leaning": 4,
+      "unclassified": 137
+    }
+  },
+  "unclassified": [
+    {
+      "name": "Menard",
+      "dc_count": 0,
+      "energy_gw": 0.20383,
+      "total_capacity_mw": 203.83,
+      "category": "unclassified",
+      "reason": "Energy: 0.20 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hale",
+      "dc_count": 0,
+      "energy_gw": 0.2008,
+      "total_capacity_mw": 200.8,
+      "category": "unclassified",
+      "reason": "Energy: 0.20 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Orange",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Kerr",
+      "dc_count": 0,
+      "energy_gw": 0.1226,
+      "total_capacity_mw": 122.6,
+      "category": "unclassified",
+      "reason": "Energy: 0.12 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Jim Hogg",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Dimmit",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Jefferson",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Bandera",
+      "dc_count": 0,
+      "energy_gw": 0.12465000000000001,
+      "total_capacity_mw": 124.65,
+      "category": "unclassified",
+      "reason": "Energy: 0.12 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Grayson",
+      "dc_count": 0,
+      "energy_gw": 0.2052,
+      "total_capacity_mw": 205.2,
+      "category": "unclassified",
+      "reason": "Energy: 0.21 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Crosby",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Zavala",
+      "dc_count": 0,
+      "energy_gw": 0.08038,
+      "total_capacity_mw": 80.38,
+      "category": "unclassified",
+      "reason": "Energy: 0.08 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Rockwall",
+      "dc_count": 0,
+      "energy_gw": 0.12536,
+      "total_capacity_mw": 125.36,
+      "category": "unclassified",
+      "reason": "Energy: 0.13 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Eastland",
+      "dc_count": 0,
+      "energy_gw": 0.26352,
+      "total_capacity_mw": 263.52,
+      "category": "unclassified",
+      "reason": "Energy: 0.26 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Angelina",
+      "dc_count": 0,
+      "energy_gw": 0.181,
+      "total_capacity_mw": 181.0,
+      "category": "unclassified",
+      "reason": "Energy: 0.18 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "McMullen",
+      "dc_count": 0,
+      "energy_gw": 0.26142000000000004,
+      "total_capacity_mw": 261.42,
+      "category": "unclassified",
+      "reason": "Energy: 0.26 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Sutton",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Parker",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Kinney",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Fayette",
+      "dc_count": 0,
+      "energy_gw": 0.24062999999999998,
+      "total_capacity_mw": 240.63,
+      "category": "unclassified",
+      "reason": "Energy: 0.24 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Briscoe",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Harrison",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Reagan",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Ochiltree",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Washington",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Lynn",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Oldham",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Sabine",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Houston",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Randall",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Rusk",
+      "dc_count": 0,
+      "energy_gw": 0.20106,
+      "total_capacity_mw": 201.06,
+      "category": "unclassified",
+      "reason": "Energy: 0.20 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Coryell",
+      "dc_count": 0,
+      "energy_gw": 0.1076,
+      "total_capacity_mw": 107.6,
+      "category": "unclassified",
+      "reason": "Energy: 0.11 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Comal",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Aransas",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hemphill",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "San Jacinto",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Kendall",
+      "dc_count": 0,
+      "energy_gw": 0.25105,
+      "total_capacity_mw": 251.05,
+      "category": "unclassified",
+      "reason": "Energy: 0.25 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Floyd",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Karnes",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Duval",
+      "dc_count": 0,
+      "energy_gw": 0.24149,
+      "total_capacity_mw": 241.49,
+      "category": "unclassified",
+      "reason": "Energy: 0.24 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Edwards",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Kleberg",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Gaines",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Martin",
+      "dc_count": 0,
+      "energy_gw": 0.10083,
+      "total_capacity_mw": 100.83,
+      "category": "unclassified",
+      "reason": "Energy: 0.10 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Bowie",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Andrews",
+      "dc_count": 0,
+      "energy_gw": 0.2,
+      "total_capacity_mw": 200.0,
+      "category": "unclassified",
+      "reason": "Energy: 0.20 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Garza",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Caldwell",
+      "dc_count": 0,
+      "energy_gw": 0.2826,
+      "total_capacity_mw": 282.6,
+      "category": "unclassified",
+      "reason": "Energy: 0.28 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Parmer",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Titus",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Terry",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Real",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Motley",
+      "dc_count": 0,
+      "energy_gw": 0.252,
+      "total_capacity_mw": 252.0,
+      "category": "unclassified",
+      "reason": "Energy: 0.25 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Midland",
+      "dc_count": 0,
+      "energy_gw": 0.15802000000000002,
+      "total_capacity_mw": 158.02,
+      "category": "unclassified",
+      "reason": "Energy: 0.16 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Tyler",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Presidio",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Lubbock",
+      "dc_count": 0,
+      "energy_gw": 0.2548,
+      "total_capacity_mw": 254.8,
+      "category": "unclassified",
+      "reason": "Energy: 0.25 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Walker",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Sterling",
+      "dc_count": 0,
+      "energy_gw": 0.281,
+      "total_capacity_mw": 281.0,
+      "category": "unclassified",
+      "reason": "Energy: 0.28 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Winkler",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Frio",
+      "dc_count": 0,
+      "energy_gw": 0.2011,
+      "total_capacity_mw": 201.1,
+      "category": "unclassified",
+      "reason": "Energy: 0.20 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Lipscomb",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Collingsworth",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Wise",
+      "dc_count": 0,
+      "energy_gw": 0.14636000000000002,
+      "total_capacity_mw": 146.36,
+      "category": "unclassified",
+      "reason": "Energy: 0.15 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Comanche",
+      "dc_count": 0,
+      "energy_gw": 0.1015,
+      "total_capacity_mw": 101.5,
+      "category": "unclassified",
+      "reason": "Energy: 0.10 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Burnet",
+      "dc_count": 0,
+      "energy_gw": 0.12409999999999999,
+      "total_capacity_mw": 124.1,
+      "category": "unclassified",
+      "reason": "Energy: 0.12 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hudspeth",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Cass",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Cochran",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Irion",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Brooks",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Dallam",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hunt",
+      "dc_count": 0,
+      "energy_gw": 0.20369,
+      "total_capacity_mw": 203.69,
+      "category": "unclassified",
+      "reason": "Energy: 0.20 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Wood",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Jeff Davis",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Montague",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Brown",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Coke",
+      "dc_count": 0,
+      "energy_gw": 0.1512,
+      "total_capacity_mw": 151.2,
+      "category": "unclassified",
+      "reason": "Energy: 0.15 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Polk",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Cottle",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Lee",
+      "dc_count": 0,
+      "energy_gw": 0.15084,
+      "total_capacity_mw": 150.84,
+      "category": "unclassified",
+      "reason": "Energy: 0.15 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hall",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hood",
+      "dc_count": 0,
+      "energy_gw": 0.20115,
+      "total_capacity_mw": 201.15,
+      "category": "unclassified",
+      "reason": "Energy: 0.20 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Archer",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "San Augustine",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Madison",
+      "dc_count": 0,
+      "energy_gw": 0.15530000000000002,
+      "total_capacity_mw": 155.3,
+      "category": "unclassified",
+      "reason": "Energy: 0.16 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Camp",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Runnels",
+      "dc_count": 0,
+      "energy_gw": 0.22913,
+      "total_capacity_mw": 229.13,
+      "category": "unclassified",
+      "reason": "Energy: 0.23 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Terrell",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Marion",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Liberty",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Jasper",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hansford",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hardin",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Throckmorton",
+      "dc_count": 0,
+      "energy_gw": 0.2843,
+      "total_capacity_mw": 284.3,
+      "category": "unclassified",
+      "reason": "Energy: 0.28 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Red River",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hardeman",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Palo Pinto",
+      "dc_count": 0,
+      "energy_gw": 0.12068000000000001,
+      "total_capacity_mw": 120.68,
+      "category": "unclassified",
+      "reason": "Energy: 0.12 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Live Oak",
+      "dc_count": 0,
+      "energy_gw": 0.11040000000000001,
+      "total_capacity_mw": 110.4,
+      "category": "unclassified",
+      "reason": "Energy: 0.11 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Sherman",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Uvalde",
+      "dc_count": 0,
+      "energy_gw": 0.18087,
+      "total_capacity_mw": 180.87,
+      "category": "unclassified",
+      "reason": "Energy: 0.18 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Bailey",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Culberson",
+      "dc_count": 0,
+      "energy_gw": 0.060759999999999995,
+      "total_capacity_mw": 60.76,
+      "category": "unclassified",
+      "reason": "Energy: 0.06 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Atascosa",
+      "dc_count": 0,
+      "energy_gw": 0.22281,
+      "total_capacity_mw": 222.81,
+      "category": "unclassified",
+      "reason": "Energy: 0.22 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Kimble",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "McCulloch",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Kent",
+      "dc_count": 0,
+      "energy_gw": 0.20113999999999999,
+      "total_capacity_mw": 201.14,
+      "category": "unclassified",
+      "reason": "Energy: 0.20 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Loving",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Lamb",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Val Verde",
+      "dc_count": 0,
+      "energy_gw": 0.17508,
+      "total_capacity_mw": 175.08,
+      "category": "unclassified",
+      "reason": "Energy: 0.18 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Smith",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Gillespie",
+      "dc_count": 0,
+      "energy_gw": 0.14861000000000002,
+      "total_capacity_mw": 148.61,
+      "category": "unclassified",
+      "reason": "Energy: 0.15 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Yoakum",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Somervell",
+      "dc_count": 0,
+      "energy_gw": 0.17086,
+      "total_capacity_mw": 170.86,
+      "category": "unclassified",
+      "reason": "Energy: 0.17 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Kenedy",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "San Saba",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Burleson",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Trinity",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Brewster",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Gregg",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hamilton",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Stephens",
+      "dc_count": 0,
+      "energy_gw": 0.1484,
+      "total_capacity_mw": 148.4,
+      "category": "unclassified",
+      "reason": "Energy: 0.15 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Lavaca",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Roberts",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Morris",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Upshur",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Wheeler",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Moore",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Blanco",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Newton",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hockley",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Panola",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Montgomery",
+      "dc_count": 0,
+      "energy_gw": 0.21716,
+      "total_capacity_mw": 217.16,
+      "category": "unclassified",
+      "reason": "Energy: 0.22 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Llano",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Mason",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Hartley",
+      "dc_count": 0,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "unclassified",
+      "reason": "Energy: 0.00 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Jim Wells",
+      "dc_count": 0,
+      "energy_gw": 0.19199000000000002,
+      "total_capacity_mw": 191.99,
+      "category": "unclassified",
+      "reason": "Energy: 0.19 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    },
+    {
+      "name": "Howard",
+      "dc_count": 0,
+      "energy_gw": 0.10031999999999999,
+      "total_capacity_mw": 100.32,
+      "category": "unclassified",
+      "reason": "Energy: 0.10 GW, DCs: 0 - falls outside all categories",
+      "color": "transparent"
+    }
+  ],
+  "top_producers": [
+    {
+      "name": "Brazoria",
+      "dc_count": 0,
+      "energy_gw": 9.53644,
+      "total_capacity_mw": 9536.44,
+      "category": "producer",
+      "reason": "High energy (9.54 GW) with low DC count (0)",
+      "color": "#00AA00"
+    },
+    {
+      "name": "Wharton",
+      "dc_count": 0,
+      "energy_gw": 4.64626,
+      "total_capacity_mw": 4646.26,
+      "category": "producer",
+      "reason": "High energy (4.65 GW) with low DC count (0)",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "Lamar",
+      "dc_count": 0,
+      "energy_gw": 3.66034,
+      "total_capacity_mw": 3660.34,
+      "category": "producer",
+      "reason": "High energy (3.66 GW) with low DC count (0)",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "Navarro",
+      "dc_count": 0,
+      "energy_gw": 3.11665,
+      "total_capacity_mw": 3116.65,
+      "category": "producer",
+      "reason": "High energy (3.12 GW) with low DC count (0)",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "Haskell",
+      "dc_count": 0,
+      "energy_gw": 2.9993000000000003,
+      "total_capacity_mw": 2999.3,
+      "category": "producer",
+      "reason": "High energy (3.00 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Fort Bend",
+      "dc_count": 0,
+      "energy_gw": 2.89903,
+      "total_capacity_mw": 2899.03,
+      "category": "producer",
+      "reason": "High energy (2.90 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Borden",
+      "dc_count": 0,
+      "energy_gw": 2.8574,
+      "total_capacity_mw": 2857.4,
+      "category": "producer",
+      "reason": "High energy (2.86 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Deaf Smith",
+      "dc_count": 0,
+      "energy_gw": 2.6681,
+      "total_capacity_mw": 2668.1,
+      "category": "producer",
+      "reason": "High energy (2.67 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Milam",
+      "dc_count": 0,
+      "energy_gw": 2.24139,
+      "total_capacity_mw": 2241.39,
+      "category": "producer",
+      "reason": "High energy (2.24 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Bell",
+      "dc_count": 0,
+      "energy_gw": 2.2331,
+      "total_capacity_mw": 2233.1,
+      "category": "producer",
+      "reason": "High energy (2.23 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Ward",
+      "dc_count": 0,
+      "energy_gw": 2.23,
+      "total_capacity_mw": 2230.0,
+      "category": "producer",
+      "reason": "High energy (2.23 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Webb",
+      "dc_count": 0,
+      "energy_gw": 2.19401,
+      "total_capacity_mw": 2194.01,
+      "category": "producer",
+      "reason": "High energy (2.19 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Starr",
+      "dc_count": 0,
+      "energy_gw": 2.15233,
+      "total_capacity_mw": 2152.33,
+      "category": "producer",
+      "reason": "High energy (2.15 GW) with low DC count (0)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Pecos",
+      "dc_count": 1,
+      "energy_gw": 2.13287,
+      "total_capacity_mw": 2132.87,
+      "category": "producer",
+      "reason": "High energy (2.13 GW) with low DC count (1)",
+      "color": "#50C878"
+    },
+    {
+      "name": "Refugio",
+      "dc_count": 0,
+      "energy_gw": 1.93371,
+      "total_capacity_mw": 1933.71,
+      "category": "producer",
+      "reason": "High energy (1.93 GW) with low DC count (0)",
+      "color": "#32CD32"
+    },
+    {
+      "name": "Matagorda",
+      "dc_count": 0,
+      "energy_gw": 1.9201,
+      "total_capacity_mw": 1920.1,
+      "category": "producer",
+      "reason": "High energy (1.92 GW) with low DC count (0)",
+      "color": "#32CD32"
+    },
+    {
+      "name": "Robertson",
+      "dc_count": 0,
+      "energy_gw": 1.88063,
+      "total_capacity_mw": 1880.63,
+      "category": "producer",
+      "reason": "High energy (1.88 GW) with low DC count (0)",
+      "color": "#32CD32"
+    },
+    {
+      "name": "Hopkins",
+      "dc_count": 0,
+      "energy_gw": 1.80274,
+      "total_capacity_mw": 1802.74,
+      "category": "producer",
+      "reason": "High energy (1.80 GW) with low DC count (0)",
+      "color": "#32CD32"
+    },
+    {
+      "name": "Galveston",
+      "dc_count": 0,
+      "energy_gw": 1.77334,
+      "total_capacity_mw": 1773.34,
+      "category": "producer",
+      "reason": "High energy (1.77 GW) with low DC count (0)",
+      "color": "#32CD32"
+    },
+    {
+      "name": "Concho",
+      "dc_count": 0,
+      "energy_gw": 1.69951,
+      "total_capacity_mw": 1699.51,
+      "category": "producer",
+      "reason": "High energy (1.70 GW) with low DC count (0)",
+      "color": "#32CD32"
+    }
+  ],
+  "top_consumers": [
+    {
+      "name": "Dallas",
+      "dc_count": 13,
+      "energy_gw": 0.2471,
+      "total_capacity_mw": 247.1,
+      "category": "consumer",
+      "reason": "Low energy (0.25 GW) with DCs (13)",
+      "color": "#5C0000"
+    },
+    {
+      "name": "Williamson",
+      "dc_count": 8,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "consumer",
+      "reason": "Low energy (0.00 GW) with DCs (8)",
+      "color": "#B22222"
+    },
+    {
+      "name": "El Paso",
+      "dc_count": 4,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "consumer",
+      "reason": "Low energy (0.00 GW) with DCs (4)",
+      "color": "#DC143C"
+    },
+    {
+      "name": "Tarrant",
+      "dc_count": 3,
+      "energy_gw": 0.356,
+      "total_capacity_mw": 356.0,
+      "category": "consumer",
+      "reason": "Low energy (0.36 GW) with DCs (3)",
+      "color": "#FF4444"
+    },
+    {
+      "name": "Travis",
+      "dc_count": 3,
+      "energy_gw": 0.30089,
+      "total_capacity_mw": 300.89,
+      "category": "consumer",
+      "reason": "Low energy (0.30 GW) with DCs (3)",
+      "color": "#FF4444"
+    },
+    {
+      "name": "Shackelford",
+      "dc_count": 2,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "consumer",
+      "reason": "Low energy (0.00 GW) with DCs (2)",
+      "color": "#FF6B6B"
+    },
+    {
+      "name": "Hays",
+      "dc_count": 2,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "consumer",
+      "reason": "Low energy (0.00 GW) with DCs (2)",
+      "color": "#FF6B6B"
+    },
+    {
+      "name": "Taylor",
+      "dc_count": 2,
+      "energy_gw": 0.25655,
+      "total_capacity_mw": 256.55,
+      "category": "consumer",
+      "reason": "Low energy (0.26 GW) with DCs (2)",
+      "color": "#FF6B6B"
+    },
+    {
+      "name": "Brazos",
+      "dc_count": 1,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "consumer",
+      "reason": "Low energy (0.00 GW) with DCs (1)",
+      "color": "#FFB6C1"
+    },
+    {
+      "name": "Medina",
+      "dc_count": 1,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "consumer",
+      "reason": "Low energy (0.00 GW) with DCs (1)",
+      "color": "#FFB6C1"
+    },
+    {
+      "name": "Shelby",
+      "dc_count": 1,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "consumer",
+      "reason": "Low energy (0.00 GW) with DCs (1)",
+      "color": "#FFB6C1"
+    },
+    {
+      "name": "Donley",
+      "dc_count": 1,
+      "energy_gw": 0.0,
+      "total_capacity_mw": 0,
+      "category": "consumer",
+      "reason": "Low energy (0.00 GW) with DCs (1)",
+      "color": "#FFB6C1"
+    },
+    {
+      "name": "Cherokee",
+      "dc_count": 1,
+      "energy_gw": 0.05094,
+      "total_capacity_mw": 50.94,
+      "category": "consumer",
+      "reason": "Low energy (0.05 GW) with DCs (1)",
+      "color": "#FFB6C1"
+    }
+  ],
+  "top_hybrids": [
+    {
+      "name": "Harris",
+      "dc_count": 3,
+      "energy_gw": 3.36129,
+      "total_capacity_mw": 3361.29,
+      "category": "hybrid",
+      "reason": "High energy (3.36 GW) and DCs (3), score: 10.08",
+      "color": "#4B0082"
+    },
+    {
+      "name": "Hill",
+      "dc_count": 2,
+      "energy_gw": 3.23191,
+      "total_capacity_mw": 3231.91,
+      "category": "hybrid",
+      "reason": "High energy (3.23 GW) and DCs (2), score: 6.46",
+      "color": "#6A0DAD"
+    },
+    {
+      "name": "Bexar",
+      "dc_count": 3,
+      "energy_gw": 1.99704,
+      "total_capacity_mw": 1997.04,
+      "category": "hybrid",
+      "reason": "High energy (2.00 GW) and DCs (3), score: 5.99",
+      "color": "#8B008B"
+    },
+    {
+      "name": "McLennan",
+      "dc_count": 2,
+      "energy_gw": 1.61646,
+      "total_capacity_mw": 1616.46,
+      "category": "hybrid",
+      "reason": "High energy (1.62 GW) and DCs (2), score: 3.23",
+      "color": "#9370DB"
+    }
+  ],
+  "edge_cases": []
+}

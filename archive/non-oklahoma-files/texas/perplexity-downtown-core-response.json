@@ -1,0 +1,108 @@
+{
+  "id": "6f1762a5-3a32-4e20-a8de-00b00e823269",
+  "model": "sonar",
+  "created": 1758912523,
+  "usage": {
+    "prompt_tokens": 434,
+    "completion_tokens": 501,
+    "total_tokens": 935,
+    "search_context_size": "low",
+    "cost": {
+      "input_tokens_cost": 0.0,
+      "output_tokens_cost": 0.001,
+      "request_cost": 0.005,
+      "total_cost": 0.006
+    }
+  },
+  "citations": [
+    "https://www.brookings.edu/articles/adapting-office-use-to-build-housing-resilience-in-houston/",
+    "https://www.houstonpermittingcenter.org/media/9976/download?inline",
+    "https://ctycms.com/tx-houston/docs/downtown-houston-office-conversion-study-optimized-11302023-2.pdf",
+    "https://www.pillsburylaw.com/a/web/180820/Horner-Van-Vliet-Weaver.pdf",
+    "https://www.brookings.edu/articles/a-community-guide-to-office-to-residential-conversion-part-2-policy-levers/",
+    "https://www.chron.com/business/article/downtown-houston-office-apartments-20822242.php",
+    "https://www.pew.org/en/research-and-analysis/articles/2025/02/04/converting-offices-to-tiny-apartments-could-add-low-cost-housing",
+    "https://www.americanprogress.org/article/converting-vacant-office-space-into-housing/",
+    "https://www.gensler.com/blog/office-to-hotel-conversions-resilient-opportunities"
+  ],
+  "search_results": [
+    {
+      "title": "Adapting office use to build housing resilience in Houston | Brookings",
+      "url": "https://www.brookings.edu/articles/adapting-office-use-to-build-housing-resilience-in-houston/",
+      "date": "2025-03-26",
+      "last_updated": "2025-09-20",
+      "snippet": "This publication is part of a broader series examining the potential of office-to-residential conversions across six US case studies."
+    },
+    {
+      "title": "[PDF] 2024 Guidelines for Converting Existing Buildings to Multi-Unit ...",
+      "url": "https://www.houstonpermittingcenter.org/media/9976/download?inline",
+      "date": null,
+      "last_updated": "2025-09-25",
+      "snippet": "To convert existing buildings into multi-unit residential development, you must submit a complete set of plans electronically to the Houston Permitting ..."
+    },
+    {
+      "title": "[PDF] Downtown Houston",
+      "url": "https://ctycms.com/tx-houston/docs/downtown-houston-office-conversion-study-optimized-11302023-2.pdf",
+      "date": "2023-11-30",
+      "last_updated": "2024-10-09",
+      "snippet": "Core Measure: Creation of Office-to-Residential Conversion Incentive Program. Financial Incentive Structure. Project Selection Criteria."
+    },
+    {
+      "title": "[PDF] Adaptive Reuse: Creative Reimagining of Former Office Space to ...",
+      "url": "https://www.pillsburylaw.com/a/web/180820/Horner-Van-Vliet-Weaver.pdf",
+      "date": null,
+      "last_updated": "2025-09-08",
+      "snippet": "And residential uses are not always allowed by- right in central business districts, meaning that conversion projects may face additional (often discretionary) ..."
+    },
+    {
+      "title": "A community guide to office-to-residential conversion: Part 2 ...",
+      "url": "https://www.brookings.edu/articles/a-community-guide-to-office-to-residential-conversion-part-2-policy-levers/",
+      "date": "2025-07-17",
+      "last_updated": "2025-09-26",
+      "snippet": "In 1999, the city adopted an adaptive reuse ordinance (ARO) that allowed for by-right conversions downtown. The area covered by the ordinance ..."
+    },
+    {
+      "title": "Downtown Houston office tower to undergo $26.5M apartment ...",
+      "url": "https://www.chron.com/business/article/downtown-houston-office-apartments-20822242.php",
+      "date": "2025-08-18",
+      "last_updated": "2025-08-18",
+      "snippet": "One City Centre in downtown Houston to be converted into 553 apartments in a $26.5M project amid a surge in office-to-residential ..."
+    },
+    {
+      "title": "Converting Offices to Tiny Apartments Could Add Low-Cost Housing",
+      "url": "https://www.pew.org/en/research-and-analysis/articles/2025/02/04/converting-offices-to-tiny-apartments-could-add-low-cost-housing",
+      "date": "2025-02-04",
+      "last_updated": "2025-09-24",
+      "snippet": "Los Angeles and Houston could add thousands of low-cost housing units to their downtowns by converting vacant office buildings to "tiny apartments" with shared ..."
+    },
+    {
+      "title": "Converting Vacant Office Space Into Housing",
+      "url": "https://www.americanprogress.org/article/converting-vacant-office-space-into-housing/",
+      "date": "2024-07-30",
+      "last_updated": null,
+      "snippet": "The program is designed for property owners who add a minimum of 10 housing units and change the use of a building located in the downtown area."
+    },
+    {
+      "title": "Office-to-Hotel Conversions: Resilient Opportunities for Downtown ...",
+      "url": "https://www.gensler.com/blog/office-to-hotel-conversions-resilient-opportunities",
+      "date": "2025-06-18",
+      "last_updated": "2025-09-26",
+      "snippet": "In many cases, converting an office into a hotel makes better use of the existing infrastructure and design of a building than a residential use."
+    }
+  ],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"type\": \"FeatureCollection\",\n  \"features\": [\n    {\n      \"type\": \"Feature\",\n      \"geometry\": {\n        \"type\": \"Point\",\n        \"coordinates\": [-95.3698, 29.7604]\n      },\n      \"properties\": {\n        \"address\": \"705 Main St\",\n        \"conversion_probability\": 0.86,\n        \"reasoning\": \"High conversion score (0.86) supported by strong walkability (score 1), clustering potential (0.7), and presence of public investment. The building size (ranging 762-1496 sqft) is suitable for residential units. The Downtown Core zone has 100% office vacancy and no residential listings, indicating strong market need for residential conversion. The presence of 125 restaurants/cafes enhances livability. However, economic factors scored 0, indicating potential financial challenges that may require incentives or subsidies.\",\n        \"timeline\": \"Active renovation projects ongoing (6 active, 9 renovations total), indicating momentum for conversions in the zone.\",\n        \"walkability_assessment\": \"High walkability corridor with average walkability score of 1; supports residential lifestyle and access to amenities.\",\n        \"clustering_potential\": \"Moderate to high clustering potential (0.7), with 10 clustered candidates and 2 critical mass zones identified, enhancing neighborhood vibrancy and feasibility.\"\n      }\n    },\n    {\n      \"type\": \"Feature\",\n      \"geometry\": {\n        \"type\": \"Point\",\n        \"coordinates\": [-95.3697, 29.7605]\n      },\n      \"properties\": {\n        \"address\": \"1120 Texas St\",\n        \"conversion_probability\": 0.86,\n        \"reasoning\": \"High conversion score (0.86) with similar attributes to 705 Main St candidates. Building size (1329 sqft) is appropriate for residential units. The location benefits from the same high walkability and clustering environment. The lack of existing residential listings and 100% office vacancy supports conversion potential, but economic incentives may be needed.\",\n        \"timeline\": \"Included in current renovation projects, aligning with active conversion momentum.\",\n        \"walkability_assessment\": \"Located within a high walkability corridor (score 1), facilitating resident access to amenities.\",\n        \"clustering_potential\": \"Part of identified clusters with clustering potential of 0.7, supporting neighborhood synergy.\"\n      }\n    }\n  ]\n}"
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,2311 @@
+{
+  "metadata": {
+    "batch_number": 3,
+    "companies_range": "101-150",
+    "total_companies": 50,
+    "geocoding_date": "2025-01-27",
+    "source_file": "public/companies/companies-9-24-2025-geocoded.json",
+    "geocoding_method": "google_places_api",
+    "api_key_used": "AIzaSyBGFq...",
+    "geocoding_stats": {
+      "total": 50,
+      "successful": 50,
+      "failed": 0
+    }
+  },
+  "companies": [
+    {
+      "id": 101,
+      "name": "American Surgical Professionals",
+      "url": "https://www.crunchbase.com/organization/american-surgical-professionals",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7459359,
+          "lng": -95.4578832
+        },
+        "formatted_address": "2100 W Loop S #1200, Houston, TX 77056, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ4SMhoWrBQIYRqzsJiWy45F8"
+      },
+      "industries": [
+        "Health Care"
+      ],
+      "description": "American Surgical Professionals is a provider of professional surgical assistant services to hospitals, clinics, surgeons and patients.",
+      "cb_rank_organization": "369,958",
+      "stage": "",
+      "cb_rank_company": "350,389",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7459359,
+          "lng": -95.4578832
+        },
+        "formatted_address": "2100 W Loop S #1200, Houston, TX 77056, United States",
+        "method": "places_api",
+        "place_id": "ChIJ4SMhoWrBQIYRqzsJiWy45F8"
+      }
+    },
+    {
+      "id": 102,
+      "name": "Pilot Water Solutions",
+      "url": "https://www.crunchbase.com/organization/pilot-water-solutions",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.731394,
+          "lng": -95.439049
+        },
+        "formatted_address": "20 Greenway Plz, Houston, TX 77046, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ3_KBcizBQIYR16pJCJGp9TI"
+      },
+      "industries": [
+        "Environmental Consulting",
+        "Recycling",
+        "Water"
+      ],
+      "description": "Pilot Water Solutions offers water management services for the oil and gas industry, including disposal, recycling, and logistics.",
+      "cb_rank_organization": "370,067",
+      "stage": "",
+      "cb_rank_company": "350,458",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.731394,
+          "lng": -95.439049
+        },
+        "formatted_address": "20 Greenway Plz, Houston, TX 77046, United States",
+        "method": "places_api",
+        "place_id": "ChIJ3_KBcizBQIYR16pJCJGp9TI"
+      }
+    },
+    {
+      "id": 103,
+      "name": "St. Luke\u2019s Health",
+      "url": "https://www.crunchbase.com/organization/st-luke-s-health",
+      "employees": {
+        "min": 1001,
+        "max": 5000,
+        "range": "1001-5000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7076745,
+          "lng": -95.4004595
+        },
+        "formatted_address": "1101 Bates Ave, Houston, TX 77030, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ_VQh6HPAQIYR7GUW_kTlhdw"
+      },
+      "industries": [
+        "Health Care",
+        "Hospital",
+        "Non Profit",
+        "Wellness"
+      ],
+      "description": "St. Luke\u2019s Health provides advanced medical care offering diagnostic and comprehensive treatment services.",
+      "cb_rank_organization": "371,090",
+      "stage": "",
+      "cb_rank_company": "351,481",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7076745,
+          "lng": -95.4004595
+        },
+        "formatted_address": "1101 Bates Ave, Houston, TX 77030, United States",
+        "method": "places_api",
+        "place_id": "ChIJ_VQh6HPAQIYR7GUW_kTlhdw"
+      }
+    },
+    {
+      "id": 104,
+      "name": "Triad Resources",
+      "url": "https://www.crunchbase.com/organization/triad-resources",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.733292,
+          "lng": -95.42265119999999
+        },
+        "formatted_address": "2925 Richmond Ave. Suite 1200, Houston, TX 77098, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJN7uyysnAQIYRedjJzGqswF8"
+      },
+      "industries": [
+        "Human Resources",
+        "Information Technology",
+        "Robotics",
+        "Software"
+      ],
+      "description": "Triad Resources is a staffing and recruiting company providing risk management and project management solutions.",
+      "cb_rank_organization": "371,776",
+      "stage": "",
+      "cb_rank_company": "352,134",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.733292,
+          "lng": -95.42265119999999
+        },
+        "formatted_address": "2925 Richmond Ave. Suite 1200, Houston, TX 77098, United States",
+        "method": "places_api",
+        "place_id": "ChIJN7uyysnAQIYRedjJzGqswF8"
+      }
+    },
+    {
+      "id": 105,
+      "name": "GHX Industrial, LLC",
+      "url": "https://www.crunchbase.com/organization/ghx-industrial-llc",
+      "employees": {
+        "min": 501,
+        "max": 1000,
+        "range": "501-1000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.914648,
+          "lng": -95.2128219
+        },
+        "formatted_address": "13311 Lockwood Rd, Houston, TX 77044, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJnybXJr6vQIYRqxJU6IzDoZM"
+      },
+      "industries": [
+        "Manufacturing"
+      ],
+      "description": "GHX Industrial is a wholesale company specializing in fluid sealing and fluid transfer.",
+      "cb_rank_organization": "372,179",
+      "stage": "",
+      "cb_rank_company": "352,481",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.914648,
+          "lng": -95.2128219
+        },
+        "formatted_address": "13311 Lockwood Rd, Houston, TX 77044, United States",
+        "method": "places_api",
+        "place_id": "ChIJnybXJr6vQIYRqxJU6IzDoZM"
+      }
+    },
+    {
+      "id": 106,
+      "name": "Travisoft",
+      "url": "https://www.crunchbase.com/organization/travisoft",
+      "employees": {
+        "min": 5001,
+        "max": 10000,
+        "range": "5001-10000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7303282,
+          "lng": -95.4405647
+        },
+        "formatted_address": "24 Greenway Plz Suite 800, Houston, TX 77046, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJYT5b8APBQIYRAjX0q1MRSLs"
+      },
+      "industries": [
+        "Computer",
+        "Software"
+      ],
+      "description": "Provides inventive software for benefit administrators, specializing in COBRA, ACA, Direct Bill and Cafeteria Plans.",
+      "cb_rank_organization": "373,038",
+      "stage": "",
+      "cb_rank_company": "353,335",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7303282,
+          "lng": -95.4405647
+        },
+        "formatted_address": "24 Greenway Plz Suite 800, Houston, TX 77046, United States",
+        "method": "places_api",
+        "place_id": "ChIJYT5b8APBQIYRAjX0q1MRSLs"
+      }
+    },
+    {
+      "id": 107,
+      "name": "Daxwell",
+      "url": "https://www.crunchbase.com/organization/daxwell",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.833508,
+          "lng": -95.525786
+        },
+        "formatted_address": "9414 Clay Rd, Houston, TX 77080, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJQdUzkAzFQIYR7CuJveCUwqA"
+      },
+      "industries": [
+        "Consumer Goods",
+        "Health Care",
+        "Manufacturing",
+        "Wholesale"
+      ],
+      "description": "Daxwell is a manufacturer of single-use product companies in healthcare, food service, and industrial disposables.",
+      "cb_rank_organization": "373,389",
+      "stage": "",
+      "cb_rank_company": "353,666",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.833508,
+          "lng": -95.525786
+        },
+        "formatted_address": "9414 Clay Rd, Houston, TX 77080, United States",
+        "method": "places_api",
+        "place_id": "ChIJQdUzkAzFQIYR7CuJveCUwqA"
+      }
+    },
+    {
+      "id": 108,
+      "name": "ZTERS",
+      "url": "https://www.crunchbase.com/organization/zters",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 30.17143549999999,
+          "lng": -95.6725858
+        },
+        "formatted_address": "34910 Circle Lake Dr, Pinehurst, TX 77362, United States",
+        "geocoding_method": "places_api_headquarters",
+        "place_id": "ChIJd_-t4WYpR4YRZ40z-3I2qgw"
+      },
+      "industries": [
+        "Facilities Support Services",
+        "Recycling",
+        "Waste Management"
+      ],
+      "description": "ZTERS offers affordable commercial waste and construction site solutions to event producers, construction companies and project managers.",
+      "cb_rank_organization": "374,716",
+      "stage": "",
+      "cb_rank_company": "354,901",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 30.17143549999999,
+          "lng": -95.6725858
+        },
+        "formatted_address": "34910 Circle Lake Dr, Pinehurst, TX 77362, United States",
+        "method": "places_api_headquarters",
+        "place_id": "ChIJd_-t4WYpR4YRZ40z-3I2qgw"
+      }
+    },
+    {
+      "id": 109,
+      "name": "CREW Houston",
+      "url": "https://www.crunchbase.com/organization/crew-houston-is-a-commercial-real-estate-agency-network-such-as-luncheons-or-golf-tournament",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7622527,
+          "lng": -95.3617238
+        },
+        "formatted_address": "311 Travis St, Houston, TX 77002, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJI43GynG_QIYRjztZH2TlD6A"
+      },
+      "industries": [
+        "Events",
+        "Marketing",
+        "Real Estate",
+        "Social Network"
+      ],
+      "description": "CREW Houston is a commercial real-estate agency network such as luncheons or golf tournament.",
+      "cb_rank_organization": "374,868",
+      "stage": "",
+      "cb_rank_company": "355,046",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7622527,
+          "lng": -95.3617238
+        },
+        "formatted_address": "311 Travis St, Houston, TX 77002, United States",
+        "method": "places_api",
+        "place_id": "ChIJI43GynG_QIYRjztZH2TlD6A"
+      }
+    },
+    {
+      "id": 110,
+      "name": "Gaffney, Cline & Associates",
+      "url": "https://www.crunchbase.com/organization/gaffney-cline-associates",
+      "employees": {
+        "min": 501,
+        "max": 1000,
+        "range": "501-1000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7526982,
+          "lng": -95.4599636
+        },
+        "formatted_address": "1360 Post Oak Blvd #3050, Houston, TX 77056, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJreTv5HHBQIYRvSXXmwUAMb0"
+      },
+      "industries": [
+        "Consulting"
+      ],
+      "description": "Gaffney, Cline & Associates is a petroleum consulting company.",
+      "cb_rank_organization": "376,269",
+      "stage": "",
+      "cb_rank_company": "356,385",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7526982,
+          "lng": -95.4599636
+        },
+        "formatted_address": "1360 Post Oak Blvd #3050, Houston, TX 77056, United States",
+        "method": "places_api",
+        "place_id": "ChIJreTv5HHBQIYRvSXXmwUAMb0"
+      }
+    },
+    {
+      "id": 111,
+      "name": "Restech",
+      "url": "https://www.crunchbase.com/organization/restech-05b0",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.6602242,
+          "lng": -95.5622353
+        },
+        "formatted_address": "11011 Brooklet Dr STE 300, Houston, TX 77099, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ3_rfG17qQIYRxRqxd2uMkOU"
+      },
+      "industries": [
+        "Biotechnology",
+        "Health Care",
+        "Medical Device"
+      ],
+      "description": "Restech offers minimally invasive tools and therapies to multiple specialties in order to accurately diagnose.",
+      "cb_rank_organization": "379,752",
+      "stage": "",
+      "cb_rank_company": "359,655",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.6602242,
+          "lng": -95.5622353
+        },
+        "formatted_address": "11011 Brooklet Dr STE 300, Houston, TX 77099, United States",
+        "method": "places_api",
+        "place_id": "ChIJ3_rfG17qQIYRxRqxd2uMkOU"
+      }
+    },
+    {
+      "id": 112,
+      "name": "Perryman Company",
+      "url": "https://www.crunchbase.com/organization/perryman-company",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 40.2413558,
+          "lng": -80.20906060000002
+        },
+        "formatted_address": "149 S Johnson Rd, Houston, PA 15342, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ4z6iIEBTNIgRwfwvc7rv0C8"
+      },
+      "industries": [
+        "Manufacturing",
+        "Mining"
+      ],
+      "description": "Perryman Company is a mining & metals company offering titanium products.",
+      "cb_rank_organization": "382,347",
+      "stage": "",
+      "cb_rank_company": "362,149",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 40.2413558,
+          "lng": -80.20906060000002
+        },
+        "formatted_address": "149 S Johnson Rd, Houston, PA 15342, United States",
+        "method": "places_api",
+        "place_id": "ChIJ4z6iIEBTNIgRwfwvc7rv0C8"
+      }
+    },
+    {
+      "id": 113,
+      "name": "HNW",
+      "url": "https://www.crunchbase.com/organization/hnw",
+      "employees": {
+        "min": 1001,
+        "max": 5000,
+        "range": "1001-5000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.9810999,
+          "lng": -95.570818
+        },
+        "formatted_address": "19911 Texas 249 Access Rd, Houston, TX 77070, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJR5NENnDSQIYR0TpE_IhICSw"
+      },
+      "industries": [
+        "Wealth Management"
+      ],
+      "description": "HNW is a religious organization.",
+      "cb_rank_organization": "383,609",
+      "stage": "",
+      "cb_rank_company": "363,363",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.9810999,
+          "lng": -95.570818
+        },
+        "formatted_address": "19911 Texas 249 Access Rd, Houston, TX 77070, United States",
+        "method": "places_api",
+        "place_id": "ChIJR5NENnDSQIYR0TpE_IhICSw"
+      }
+    },
+    {
+      "id": 114,
+      "name": "Electronic Power Design",
+      "url": "https://www.crunchbase.com/organization/electronic-power-design",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.9880178,
+          "lng": -95.4216038
+        },
+        "formatted_address": "15200 North Fwy, Houston, TX 77090, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJg4IdUoO-QIYRJJuNEiq6q4U"
+      },
+      "industries": [
+        "Electrical Distribution",
+        "Electronics",
+        "Manufacturing"
+      ],
+      "description": "Electronic Power Design has designed, built, and installed power solutions that manage the complexities of modern grids.",
+      "cb_rank_organization": "383,829",
+      "stage": "",
+      "cb_rank_company": "363,572",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.9880178,
+          "lng": -95.4216038
+        },
+        "formatted_address": "15200 North Fwy, Houston, TX 77090, United States",
+        "method": "places_api",
+        "place_id": "ChIJg4IdUoO-QIYRJJuNEiq6q4U"
+      }
+    },
+    {
+      "id": 115,
+      "name": "Quietflex Manufacturing",
+      "url": "https://www.crunchbase.com/organization/quietflex-manufacturing",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.8403562,
+          "lng": -95.56763509999999
+        },
+        "formatted_address": "4518 Brittmoore Rd, Houston, TX 77041, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ2wRuRrHaQIYRcHrFy_Uners"
+      },
+      "industries": [
+        "Building Material",
+        "Heating",
+        "Ventilation",
+        "and Air Conditioning (HVAC)",
+        "Industrial",
+        "Manufacturing",
+        "Product Design",
+        "Textiles"
+      ],
+      "description": "Quietflex is a manufacturing company which provides flex ducts and HVAC accessories.",
+      "cb_rank_organization": "384,361",
+      "stage": "",
+      "cb_rank_company": "364,110",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.8403562,
+          "lng": -95.56763509999999
+        },
+        "formatted_address": "4518 Brittmoore Rd, Houston, TX 77041, United States",
+        "method": "places_api",
+        "place_id": "ChIJ2wRuRrHaQIYRcHrFy_Uners"
+      }
+    },
+    {
+      "id": 116,
+      "name": "TriSMART Solar",
+      "url": "https://www.crunchbase.com/organization/trismart-solar",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.99181219999999,
+          "lng": -95.4154247
+        },
+        "formatted_address": "600 Northpark Central Dr Suite 140, Houston, TX 77073, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJL9CNXu_JQIYRivYOEws3eqg"
+      },
+      "industries": [
+        "Energy",
+        "Renewable Energy",
+        "Residential",
+        "Solar"
+      ],
+      "description": "TriSMART Solar provides residential and commercial solar solutions.",
+      "cb_rank_organization": "384,675",
+      "stage": "",
+      "cb_rank_company": "364,413",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.99181219999999,
+          "lng": -95.4154247
+        },
+        "formatted_address": "600 Northpark Central Dr Suite 140, Houston, TX 77073, United States",
+        "method": "places_api",
+        "place_id": "ChIJL9CNXu_JQIYRivYOEws3eqg"
+      }
+    },
+    {
+      "id": 117,
+      "name": "Shield Air Solutions, Inc.",
+      "url": "https://www.crunchbase.com/organization/shield-air-solutions-inc",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.8255229,
+          "lng": -95.6995541
+        },
+        "formatted_address": "3708 Greenhouse Rd, Houston, TX 77084, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJv6VRbLPZQIYRm0rKKPUaiSU"
+      },
+      "industries": [
+        "Energy",
+        "Manufacturing",
+        "Renewable Energy"
+      ],
+      "description": "Shield Air Solutions is an oil & energy company providing explosion proof environmental control systems.",
+      "cb_rank_organization": "387,853",
+      "stage": "",
+      "cb_rank_company": "367,418",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.8255229,
+          "lng": -95.6995541
+        },
+        "formatted_address": "3708 Greenhouse Rd, Houston, TX 77084, United States",
+        "method": "places_api",
+        "place_id": "ChIJv6VRbLPZQIYRm0rKKPUaiSU"
+      }
+    },
+    {
+      "id": 118,
+      "name": "Enuit",
+      "url": "https://www.crunchbase.com/organization/enuit",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7836322,
+          "lng": -95.5937982
+        },
+        "formatted_address": "11767 Katy Fwy, Houston, TX 77079, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ-wB20GO_QIYRMSHLXf-yYd4"
+      },
+      "industries": [
+        "Energy",
+        "Enterprise Software",
+        "Risk Management",
+        "Software",
+        "Trading Platform"
+      ],
+      "description": "Enuit is a software company that builds state-of-the-art enterprise applications for energy commodity trading and risk management business.",
+      "cb_rank_organization": "388,957",
+      "stage": "",
+      "cb_rank_company": "368,475",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7836322,
+          "lng": -95.5937982
+        },
+        "formatted_address": "11767 Katy Fwy, Houston, TX 77079, United States",
+        "method": "places_api",
+        "place_id": "ChIJ-wB20GO_QIYRMSHLXf-yYd4"
+      }
+    },
+    {
+      "id": 119,
+      "name": "Softway",
+      "url": "https://www.crunchbase.com/organization/softway-26c9",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.5472032,
+          "lng": -95.5861979
+        },
+        "formatted_address": "18722 University Blvd Suite 249, Sugar Land, TX 77479, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ1TzfIV_CQIYRY65oikNYnV8"
+      },
+      "industries": [
+        "Advertising",
+        "Marketing"
+      ],
+      "description": "Softway is a digital agency in the business of transformation.",
+      "cb_rank_organization": "389,606",
+      "stage": "",
+      "cb_rank_company": "369,116",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.5472032,
+          "lng": -95.5861979
+        },
+        "formatted_address": "18722 University Blvd Suite 249, Sugar Land, TX 77479, United States",
+        "method": "places_api",
+        "place_id": "ChIJ1TzfIV_CQIYRY65oikNYnV8"
+      }
+    },
+    {
+      "id": 120,
+      "name": "International Association of Drilling Contractors (IADC)",
+      "url": "https://www.crunchbase.com/organization/international-association-of-drilling-contractors-iadc",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7254447,
+          "lng": -95.5483627
+        },
+        "formatted_address": "3657 Briarpark Dr #200, Houston, TX 77042, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ88-ldy7DQIYR9W_Yy3Aan9E"
+      },
+      "industries": [
+        "Association",
+        "Energy",
+        "Renewable Energy",
+        "Solar"
+      ],
+      "description": "Since 1940, IADC has exclusively represented the worldwide oil and gas drilling industry.",
+      "cb_rank_organization": "389,947",
+      "stage": "",
+      "cb_rank_company": "369,414",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7254447,
+          "lng": -95.5483627
+        },
+        "formatted_address": "3657 Briarpark Dr #200, Houston, TX 77042, United States",
+        "method": "places_api",
+        "place_id": "ChIJ88-ldy7DQIYR9W_Yy3Aan9E"
+      }
+    },
+    {
+      "id": 121,
+      "name": "Tarantino Properties, Inc.",
+      "url": "https://www.crunchbase.com/organization/tarantino-properties-inc",
+      "employees": {
+        "min": 501,
+        "max": 1000,
+        "range": "501-1000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7508744,
+          "lng": -95.5060745
+        },
+        "formatted_address": "7887 San Felipe St UNIT 237, Houston, TX 77063, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJQwuXI5HDQIYRMkYD_d9nwbs"
+      },
+      "industries": [
+        "Real Estate"
+      ],
+      "description": "Tarantino Properties is a real estate company that provides brokerage, leasing, and renovation services throughout the United States.",
+      "cb_rank_organization": "391,006",
+      "stage": "",
+      "cb_rank_company": "370,429",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7508744,
+          "lng": -95.5060745
+        },
+        "formatted_address": "7887 San Felipe St UNIT 237, Houston, TX 77063, United States",
+        "method": "places_api",
+        "place_id": "ChIJQwuXI5HDQIYRMkYD_d9nwbs"
+      }
+    },
+    {
+      "id": 122,
+      "name": "RediClinic",
+      "url": "https://www.crunchbase.com/organization/rediclinic",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7825935,
+          "lng": -95.52343189999999
+        },
+        "formatted_address": "9337 B Katy Fwy Suite #131, Houston, TX 77024, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJX-o3_sbFQIYR1DMdeEoqi2A"
+      },
+      "industries": [
+        "Health Care"
+      ],
+      "description": "RediClinic has provided high-quality, convenient and affordable healthcare.",
+      "cb_rank_organization": "391,875",
+      "stage": "",
+      "cb_rank_company": "371,255",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7825935,
+          "lng": -95.52343189999999
+        },
+        "formatted_address": "9337 B Katy Fwy Suite #131, Houston, TX 77024, United States",
+        "method": "places_api",
+        "place_id": "ChIJX-o3_sbFQIYR1DMdeEoqi2A"
+      }
+    },
+    {
+      "id": 123,
+      "name": "Continuum Energy",
+      "url": "https://www.crunchbase.com/organization/continuum-energy",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7547523,
+          "lng": -95.369799
+        },
+        "formatted_address": "1415 Louisiana St #4200, Houston, TX 77002, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ8Slx0D6_QIYRy5Snxita324"
+      },
+      "industries": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "description": "Continuum Energy is an integrated energy products and services company.",
+      "cb_rank_organization": "392,698",
+      "stage": "",
+      "cb_rank_company": "372,040",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7547523,
+          "lng": -95.369799
+        },
+        "formatted_address": "1415 Louisiana St #4200, Houston, TX 77002, United States",
+        "method": "places_api",
+        "place_id": "ChIJ8Slx0D6_QIYRy5Snxita324"
+      }
+    },
+    {
+      "id": 124,
+      "name": "Union Tech",
+      "url": "https://www.crunchbase.com/organization/union-tech-8e52",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.9545104,
+          "lng": -95.47391189999999
+        },
+        "formatted_address": "11727 Veterans Memorial Dr, Houston, TX 77067, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJwQgV9lrJQIYR7yvu82rCL58"
+      },
+      "industries": [
+        "Industrial Engineering",
+        "Machinery Manufacturing",
+        "Manufacturing",
+        "Oil and Gas"
+      ],
+      "description": "Union Tech is a contract manufacturing firm that specializes in gantry machining, honing, deep-hole gun drilling, and robotic welding.",
+      "cb_rank_organization": "394,360",
+      "stage": "",
+      "cb_rank_company": "373,624",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.9545104,
+          "lng": -95.47391189999999
+        },
+        "formatted_address": "11727 Veterans Memorial Dr, Houston, TX 77067, United States",
+        "method": "places_api",
+        "place_id": "ChIJwQgV9lrJQIYR7yvu82rCL58"
+      }
+    },
+    {
+      "id": 125,
+      "name": "Odyssey Space Research, LLC",
+      "url": "https://www.crunchbase.com/organization/odyssey-space-research-llc",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.5453956,
+          "lng": -95.1023756
+        },
+        "formatted_address": "1120 E NASA Pkwy #505, Houston, TX 77058, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJZ5u75_2cQIYR8AVaJBc9MJ4"
+      },
+      "industries": [
+        "CRM",
+        "Information Technology"
+      ],
+      "description": "Odyssey Space Researchis a defense & space company offering systems engineering, guidance, and navigation services.",
+      "cb_rank_organization": "394,480",
+      "stage": "",
+      "cb_rank_company": "373,743",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.5453956,
+          "lng": -95.1023756
+        },
+        "formatted_address": "1120 E NASA Pkwy #505, Houston, TX 77058, United States",
+        "method": "places_api",
+        "place_id": "ChIJZ5u75_2cQIYR8AVaJBc9MJ4"
+      }
+    },
+    {
+      "id": 126,
+      "name": "First Financial Group of America",
+      "url": "https://www.crunchbase.com/organization/first-financial-group-of-america",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.9474849,
+          "lng": -95.40696310000001
+        },
+        "formatted_address": "16945 Northchase Dr Ste. 1800, Houston, TX 77060, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ65rzO-vJQIYRl4gG3JjGppk"
+      },
+      "industries": [
+        "Finance",
+        "Financial Services",
+        "Health Care",
+        "Insurance",
+        "Mental Health"
+      ],
+      "description": "First Financial Group of America provides supplemental health insurance benefits and financial services.",
+      "cb_rank_organization": "396,002",
+      "stage": "",
+      "cb_rank_company": "375,171",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.9474849,
+          "lng": -95.40696310000001
+        },
+        "formatted_address": "16945 Northchase Dr Ste. 1800, Houston, TX 77060, United States",
+        "method": "places_api",
+        "place_id": "ChIJ65rzO-vJQIYRl4gG3JjGppk"
+      }
+    },
+    {
+      "id": 127,
+      "name": "TE3CO",
+      "url": "https://www.crunchbase.com/organization/te3co",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.903415,
+          "lng": -95.3548235
+        },
+        "formatted_address": "13106 Aldine Westfield Rd, Houston, TX 77039, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJUaRRAKm3QIYRPfKLbrVs-s8"
+      },
+      "industries": [
+        "Energy",
+        "Energy Management",
+        "Manufacturing",
+        "Oil and Gas"
+      ],
+      "description": "TE3CO designs and manufactures automated safety systems for customers engaged in the hydraulic fracturing process.",
+      "cb_rank_organization": "396,091",
+      "stage": "",
+      "cb_rank_company": "375,252",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.903415,
+          "lng": -95.3548235
+        },
+        "formatted_address": "13106 Aldine Westfield Rd, Houston, TX 77039, United States",
+        "method": "places_api",
+        "place_id": "ChIJUaRRAKm3QIYRPfKLbrVs-s8"
+      }
+    },
+    {
+      "id": 128,
+      "name": "Tucker Energy Services",
+      "url": "https://www.crunchbase.com/organization/tucker-energy-services",
+      "employees": {
+        "min": 1001,
+        "max": 5000,
+        "range": "1001-5000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.9399354,
+          "lng": -95.39389539999999
+        },
+        "formatted_address": "411 N Sam Houston Pkwy E # 300, Houston, TX 77060, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJR3O76OPJQIYRJVYkWuPBmzI"
+      },
+      "industries": [
+        "Energy",
+        "Energy Management",
+        "Oil and Gas"
+      ],
+      "description": "Tucker Energy Services is a multinational oil and gas services corporation providing innovative technology solutions company.",
+      "cb_rank_organization": "397,422",
+      "stage": "",
+      "cb_rank_company": "376,559",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.9399354,
+          "lng": -95.39389539999999
+        },
+        "formatted_address": "411 N Sam Houston Pkwy E # 300, Houston, TX 77060, United States",
+        "method": "places_api",
+        "place_id": "ChIJR3O76OPJQIYRJVYkWuPBmzI"
+      }
+    },
+    {
+      "id": 129,
+      "name": "Star Pipe Products",
+      "url": "https://www.crunchbase.com/organization/star-pipe-products",
+      "employees": {
+        "min": 1001,
+        "max": 5000,
+        "range": "1001-5000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.71343599999999,
+          "lng": -95.63167999999999
+        },
+        "formatted_address": "4018 Westhollow Pkwy, Houston, TX 77082, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJeTuG8czdQIYRXItLnPTKgzo"
+      },
+      "industries": [
+        "Manufacturing"
+      ],
+      "description": "Star Pipe Products is a utilities company specializing in ductile iron pipe fittings and accessories.",
+      "cb_rank_organization": "397,606",
+      "stage": "",
+      "cb_rank_company": "376,704",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.71343599999999,
+          "lng": -95.63167999999999
+        },
+        "formatted_address": "4018 Westhollow Pkwy, Houston, TX 77082, United States",
+        "method": "places_api",
+        "place_id": "ChIJeTuG8czdQIYRXItLnPTKgzo"
+      }
+    },
+    {
+      "id": 130,
+      "name": "Stellium",
+      "url": "https://www.crunchbase.com/organization/stellium-inc",
+      "employees": {
+        "min": 1001,
+        "max": 5000,
+        "range": "1001-5000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7284945,
+          "lng": -95.56451729999999
+        },
+        "formatted_address": "10700 Richmond Ave., Houston, TX 77042, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJV7jCvrbdQIYRmC6MbcyuwPE"
+      },
+      "industries": [
+        "Consulting",
+        "Information Technology"
+      ],
+      "description": "Stellium is a specialized management consulting firm committed to designing and delivering solutions that improve businesses worldwide.",
+      "cb_rank_organization": "398,369",
+      "stage": "",
+      "cb_rank_company": "377,434",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7284945,
+          "lng": -95.56451729999999
+        },
+        "formatted_address": "10700 Richmond Ave., Houston, TX 77042, United States",
+        "method": "places_api",
+        "place_id": "ChIJV7jCvrbdQIYRmC6MbcyuwPE"
+      }
+    },
+    {
+      "id": 131,
+      "name": "Tootsies",
+      "url": "https://www.crunchbase.com/organization/tootsies",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.742097,
+          "lng": -95.419017
+        },
+        "formatted_address": "2601 Westheimer Rd, Houston, TX 77098, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ30pT9OvAQIYRpT1-ey1GyfA"
+      },
+      "industries": [
+        "Fashion",
+        "Lifestyle",
+        "Retail",
+        "Web Design"
+      ],
+      "description": "Tootsies is a retail company that offers handbags, jewelry, and accessories.",
+      "cb_rank_organization": "400,669",
+      "stage": "",
+      "cb_rank_company": "379,620",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.742097,
+          "lng": -95.419017
+        },
+        "formatted_address": "2601 Westheimer Rd, Houston, TX 77098, United States",
+        "method": "places_api",
+        "place_id": "ChIJ30pT9OvAQIYRpT1-ey1GyfA"
+      }
+    },
+    {
+      "id": 132,
+      "name": "Twin Eagle",
+      "url": "https://www.crunchbase.com/organization/twin-eagle",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 30.0985167,
+          "lng": -95.44228749999999
+        },
+        "formatted_address": "1700 City Plaza Dr Suite 500, Spring, TX 77389, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJOy3a4k3BQIYRh0vqcb2gyyE"
+      },
+      "industries": [
+        "Energy",
+        "Marketing"
+      ],
+      "description": "Twin Eagle provides wholesale marketing in power and gas, along with midstream services focused on creating value for our customers.",
+      "cb_rank_organization": "401,751",
+      "stage": "",
+      "cb_rank_company": "380,672",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 30.0985167,
+          "lng": -95.44228749999999
+        },
+        "formatted_address": "1700 City Plaza Dr Suite 500, Spring, TX 77389, United States",
+        "method": "places_api",
+        "place_id": "ChIJOy3a4k3BQIYRh0vqcb2gyyE"
+      }
+    },
+    {
+      "id": 133,
+      "name": "Inrock",
+      "url": "https://www.crunchbase.com/organization/inrock",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.8558789,
+          "lng": -95.56887499999999
+        },
+        "formatted_address": "6000 Brittmoore Rd, Houston, TX 77041, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJDSwU7qnaQIYRZmahlbhjJzY"
+      },
+      "industries": [
+        "Consumer Goods",
+        "Industrial Engineering",
+        "Machinery Manufacturing",
+        "Manufacturing"
+      ],
+      "description": "Inrock is a manufacturing company that offers and manufactures drilling tools, equipment and services with sales and operations facilities.",
+      "cb_rank_organization": "402,765",
+      "stage": "",
+      "cb_rank_company": "381,615",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.8558789,
+          "lng": -95.56887499999999
+        },
+        "formatted_address": "6000 Brittmoore Rd, Houston, TX 77041, United States",
+        "method": "places_api",
+        "place_id": "ChIJDSwU7qnaQIYRZmahlbhjJzY"
+      }
+    },
+    {
+      "id": 134,
+      "name": "Perry\u2019s Restaurants",
+      "url": "https://www.crunchbase.com/organization/perry-s-restaurants",
+      "employees": {
+        "min": 1001,
+        "max": 5000,
+        "range": "1001-5000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7526276,
+          "lng": -95.40814859999999
+        },
+        "formatted_address": "1997 W Gray St, Houston, TX 77019, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJU2oMa7zAQIYRkEg9eGVDXnE"
+      },
+      "industries": [
+        "Food and Beverage",
+        "Food Processing",
+        "Restaurants"
+      ],
+      "description": "Perry\u2019s Restaurants is a shop that offers grill food processing services.",
+      "cb_rank_organization": "405,676",
+      "stage": "",
+      "cb_rank_company": "384,435",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7526276,
+          "lng": -95.40814859999999
+        },
+        "formatted_address": "1997 W Gray St, Houston, TX 77019, United States",
+        "method": "places_api",
+        "place_id": "ChIJU2oMa7zAQIYRkEg9eGVDXnE"
+      }
+    },
+    {
+      "id": 135,
+      "name": "Russell & Smith Ford",
+      "url": "https://www.crunchbase.com/organization/russell-smith-ford",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.6793947,
+          "lng": -95.4302354
+        },
+        "formatted_address": "3440 S Loop W, Houston, TX 77025, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJBzcI-CnAQIYRqppNmPUmbs0"
+      },
+      "industries": [
+        "Automotive",
+        "Sales",
+        "Technical Support"
+      ],
+      "description": "Russell & Smith Ford is a car dealership and service center.",
+      "cb_rank_organization": "406,316",
+      "stage": "",
+      "cb_rank_company": "385,043",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.6793947,
+          "lng": -95.4302354
+        },
+        "formatted_address": "3440 S Loop W, Houston, TX 77025, United States",
+        "method": "places_api",
+        "place_id": "ChIJBzcI-CnAQIYRqppNmPUmbs0"
+      }
+    },
+    {
+      "id": 136,
+      "name": "Symmetry Energy Solutions",
+      "url": "https://www.crunchbase.com/organization/symmetry-energy-solutions",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7824314,
+          "lng": -95.5366379
+        },
+        "formatted_address": "9811 Katy Fwy Suite 1400, Houston, TX 77024, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJd3dUvw5U0WMR3IsQ53QrVjo"
+      },
+      "industries": [
+        "Energy",
+        "Oil and Gas",
+        "Professional Services"
+      ],
+      "description": "Symmetry Energy Solutions is an energy supplier providing over 1 trillion cubic feet of natural gas.",
+      "cb_rank_organization": "406,541",
+      "stage": "",
+      "cb_rank_company": "385,238",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7824314,
+          "lng": -95.5366379
+        },
+        "formatted_address": "9811 Katy Fwy Suite 1400, Houston, TX 77024, United States",
+        "method": "places_api",
+        "place_id": "ChIJd3dUvw5U0WMR3IsQ53QrVjo"
+      }
+    },
+    {
+      "id": 137,
+      "name": "ABIP CPAs & Advisors",
+      "url": "https://www.crunchbase.com/organization/abip-cpas-advisors",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7486633,
+          "lng": -95.4727338
+        },
+        "formatted_address": "1717 Saint James Place #500, Houston, TX 77056, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJfRaDQl7BQIYRyowXSu8biKk"
+      },
+      "industries": [
+        "Accounting",
+        "Consulting",
+        "Finance"
+      ],
+      "description": "ABIP CPAs & Advisors is an accounting firm thatp rovides advisory, tax, accounting and assurance services.",
+      "cb_rank_organization": "408,610",
+      "stage": "",
+      "cb_rank_company": "387,206",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7486633,
+          "lng": -95.4727338
+        },
+        "formatted_address": "1717 Saint James Place #500, Houston, TX 77056, United States",
+        "method": "places_api",
+        "place_id": "ChIJfRaDQl7BQIYRyowXSu8biKk"
+      }
+    },
+    {
+      "id": 138,
+      "name": "Vault Pressure Control",
+      "url": "https://www.crunchbase.com/organization/vault-pressure-control",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.8220376,
+          "lng": -95.5646593
+        },
+        "formatted_address": "2929 W Sam Houston Pkwy N Suite #200, Houston, TX 77043, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJz8-H78TbQIYR-z9gnbx0NGA"
+      },
+      "industries": [
+        "Energy",
+        "Manufacturing",
+        "Oil and Gas"
+      ],
+      "description": "Vault is a leader in wellhead product sales and service as well as rental of frac trees, valves, zipper manifolds, and flowback.",
+      "cb_rank_organization": "408,674",
+      "stage": "",
+      "cb_rank_company": "387,270",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.8220376,
+          "lng": -95.5646593
+        },
+        "formatted_address": "2929 W Sam Houston Pkwy N Suite #200, Houston, TX 77043, United States",
+        "method": "places_api",
+        "place_id": "ChIJz8-H78TbQIYR-z9gnbx0NGA"
+      }
+    },
+    {
+      "id": 139,
+      "name": "First Service Credit Union",
+      "url": "https://www.crunchbase.com/organization/first-service-credit-union",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.9095072,
+          "lng": -95.5570465
+        },
+        "formatted_address": "9621 W Sam Houston Pkwy N #110, Houston, TX 77064, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJa23wACzOQIYRIvPobMMOgl8"
+      },
+      "industries": [
+        "Financial Services"
+      ],
+      "description": "First Service Credit Union is a full service financial institution based in Texas.",
+      "cb_rank_organization": "408,777",
+      "stage": "",
+      "cb_rank_company": "387,401",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.9095072,
+          "lng": -95.5570465
+        },
+        "formatted_address": "9621 W Sam Houston Pkwy N #110, Houston, TX 77064, United States",
+        "method": "places_api",
+        "place_id": "ChIJa23wACzOQIYRIvPobMMOgl8"
+      }
+    },
+    {
+      "id": 140,
+      "name": "UT Physicians",
+      "url": "https://www.crunchbase.com/organization/ut-physicians",
+      "employees": {
+        "min": 1001,
+        "max": 5000,
+        "range": "1001-5000"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7145085,
+          "lng": -95.3979125
+        },
+        "formatted_address": "6410 Fannin St entrance, 77030 Main St #200, Houston, TX, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJU3KSpXjAQIYR9bOqV5hLE40"
+      },
+      "industries": [
+        "Health Care",
+        "Medical"
+      ],
+      "description": "UT Physicians is a clinical practice of the John P. and Kathrine G. McGovern Medical School that provides multi-specialty care.",
+      "cb_rank_organization": "408,917",
+      "stage": "",
+      "cb_rank_company": "387,495",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7145085,
+          "lng": -95.3979125
+        },
+        "formatted_address": "6410 Fannin St entrance, 77030 Main St #200, Houston, TX, United States",
+        "method": "places_api",
+        "place_id": "ChIJU3KSpXjAQIYR9bOqV5hLE40"
+      }
+    },
+    {
+      "id": 141,
+      "name": "Groves Industrial",
+      "url": "https://www.crunchbase.com/organization/groves-industrial",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.84056,
+          "lng": -95.50059
+        },
+        "formatted_address": "7301 Pinemont Dr, Houston, TX 77040, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJnQlv9JTFQIYRzZhn2PZhs2Q"
+      },
+      "industries": [
+        "Consumer Electronics",
+        "Hardware",
+        "Wholesale"
+      ],
+      "description": "Groves Industrial provides band saw services and supply chain solutions.",
+      "cb_rank_organization": "409,314",
+      "stage": "",
+      "cb_rank_company": "387,879",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.84056,
+          "lng": -95.50059
+        },
+        "formatted_address": "7301 Pinemont Dr, Houston, TX 77040, United States",
+        "method": "places_api",
+        "place_id": "ChIJnQlv9JTFQIYRzZhn2PZhs2Q"
+      }
+    },
+    {
+      "id": 142,
+      "name": "InterLinc Mortgage Services, LLC",
+      "url": "https://www.crunchbase.com/organization/interlinc-mortgage-services-llc",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.9359048,
+          "lng": -95.5127716
+        },
+        "formatted_address": "5875 North Sam Houston Pkwy W Suite 300, Houston, TX 77086, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJsfxL7SLOQIYRT7Ry_SdjbIw"
+      },
+      "industries": [
+        "Financial Services",
+        "Mortgage"
+      ],
+      "description": "InterLinc Mortgage Services is a financial services company that specializes in mortgage services.",
+      "cb_rank_organization": "409,953",
+      "stage": "",
+      "cb_rank_company": "388,494",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.9359048,
+          "lng": -95.5127716
+        },
+        "formatted_address": "5875 North Sam Houston Pkwy W Suite 300, Houston, TX 77086, United States",
+        "method": "places_api",
+        "place_id": "ChIJsfxL7SLOQIYRT7Ry_SdjbIw"
+      }
+    },
+    {
+      "id": 143,
+      "name": "Slow Dough Bread",
+      "url": "https://www.crunchbase.com/organization/slow-dough-bread",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.6433333,
+          "lng": -95.5411111
+        },
+        "formatted_address": "9330 W Airport Blvd #100, Houston, TX 77031, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ4QXm3KrDQIYRu6kjj-uZIqw"
+      },
+      "industries": [
+        "Bakery",
+        "Food and Beverage"
+      ],
+      "description": "Slow Dough Bread is a wholesale artisan bread bakery.",
+      "cb_rank_organization": "410,468",
+      "stage": "",
+      "cb_rank_company": "388,985",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.6433333,
+          "lng": -95.5411111
+        },
+        "formatted_address": "9330 W Airport Blvd #100, Houston, TX 77031, United States",
+        "method": "places_api",
+        "place_id": "ChIJ4QXm3KrDQIYRu6kjj-uZIqw"
+      }
+    },
+    {
+      "id": 144,
+      "name": "Hooli Software",
+      "url": "https://www.crunchbase.com/organization/hooli-software",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.6771079,
+          "lng": -95.55296990000001
+        },
+        "formatted_address": "9894 Bissonnet St # 675, Houston, TX 77036, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJPcrA6ajCQIYRf9lhkbc4ttg"
+      },
+      "industries": [
+        "Information Technology",
+        "Mobile Apps",
+        "Product Design",
+        "Software",
+        "UX Design"
+      ],
+      "description": "Hooli Software is an IT company that provides UX design, mobile application, and product development services to organizations.",
+      "cb_rank_organization": "410,659",
+      "stage": "",
+      "cb_rank_company": "389,166",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.6771079,
+          "lng": -95.55296990000001
+        },
+        "formatted_address": "9894 Bissonnet St # 675, Houston, TX 77036, United States",
+        "method": "places_api",
+        "place_id": "ChIJPcrA6ajCQIYRf9lhkbc4ttg"
+      }
+    },
+    {
+      "id": 145,
+      "name": "Novum Energy",
+      "url": "https://www.crunchbase.com/organization/novum-energy",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7350144,
+          "lng": -95.4190464
+        },
+        "formatted_address": "3200 Kirby Dr #1000, Houston, TX 77098, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ5ZipIqHAQIYRkuNIj8wHoyE"
+      },
+      "industries": [
+        "Energy",
+        "Logistics",
+        "Oil and Gas",
+        "Supply Chain Management"
+      ],
+      "description": "Novum Energy is an oil supply and trading company that delivers refined oil products such as gasoline, distillates, and fuel oil.",
+      "cb_rank_organization": "411,051",
+      "stage": "",
+      "cb_rank_company": "389,543",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7350144,
+          "lng": -95.4190464
+        },
+        "formatted_address": "3200 Kirby Dr #1000, Houston, TX 77098, United States",
+        "method": "places_api",
+        "place_id": "ChIJ5ZipIqHAQIYRkuNIj8wHoyE"
+      }
+    },
+    {
+      "id": 146,
+      "name": "United Way of Greater Houston",
+      "url": "https://www.crunchbase.com/organization/united-way-of-greater-houston",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.7669438,
+          "lng": -95.39849160000001
+        },
+        "formatted_address": "50 Waugh Dr, Houston, TX 77007, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJOyv67qvAQIYRuEK72jtIdVA"
+      },
+      "industries": [
+        "Financial Services"
+      ],
+      "description": "We transform individual lives and bring long-lasting, systemic change to tough issues, like family financial stability and academic success.",
+      "cb_rank_organization": "411,962",
+      "stage": "",
+      "cb_rank_company": "390,394",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.7669438,
+          "lng": -95.39849160000001
+        },
+        "formatted_address": "50 Waugh Dr, Houston, TX 77007, United States",
+        "method": "places_api",
+        "place_id": "ChIJOyv67qvAQIYRuEK72jtIdVA"
+      }
+    },
+    {
+      "id": 147,
+      "name": "GB Tech",
+      "url": "https://www.crunchbase.com/organization/gb-tech",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.748458,
+          "lng": -95.47278419999999
+        },
+        "formatted_address": "1717 Saint James Place # 315, Houston, TX 77056, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJAQDAgF7BQIYR6rXXTp3KwCE"
+      },
+      "industries": [
+        "IT Infrastructure",
+        "Project Management",
+        "Quality Assurance",
+        "Software"
+      ],
+      "description": "GB Tech specializes in software quality, assurance, IT infrastructure, and project management services.",
+      "cb_rank_organization": "412,189",
+      "stage": "",
+      "cb_rank_company": "390,607",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.748458,
+          "lng": -95.47278419999999
+        },
+        "formatted_address": "1717 Saint James Place # 315, Houston, TX 77056, United States",
+        "method": "places_api",
+        "place_id": "ChIJAQDAgF7BQIYR6rXXTp3KwCE"
+      }
+    },
+    {
+      "id": 148,
+      "name": "Rilco Manufacturing Company, Inc.",
+      "url": "https://www.crunchbase.com/organization/rilco-manufacturing-company-inc",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.8516549,
+          "lng": -95.60117819999999
+        },
+        "formatted_address": "12700 Tanner Rd, Houston, TX 77041, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJpQlby7zaQIYRJastHD0FA8s"
+      },
+      "industries": [
+        "Manufacturing",
+        "Oil and Gas",
+        "Transportation"
+      ],
+      "description": "Rilco Manufacturing Company, Inc. is a world leader in the development of custom pipe supports systems and components.",
+      "cb_rank_organization": "413,550",
+      "stage": "",
+      "cb_rank_company": "391,930",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.8516549,
+          "lng": -95.60117819999999
+        },
+        "formatted_address": "12700 Tanner Rd, Houston, TX 77041, United States",
+        "method": "places_api",
+        "place_id": "ChIJpQlby7zaQIYRJastHD0FA8s"
+      }
+    },
+    {
+      "id": 149,
+      "name": "Cafeto Software",
+      "url": "https://www.crunchbase.com/organization/cafeto",
+      "employees": {
+        "min": 251,
+        "max": 500,
+        "range": "251-500"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.8062222,
+          "lng": -95.5651784
+        },
+        "formatted_address": "1919 W Sam Houston Pkwy N Suite 325, Houston, TX 77043, United States",
+        "geocoding_method": "places_api_headquarters",
+        "place_id": "ChIJmWu2DCwnQYYRgPjivBgLH5E"
+      },
+      "industries": [
+        "Information Technology",
+        "IT Management",
+        "Software"
+      ],
+      "description": "Cafeto Software is a software development company that offers IT, mobile, and web custom software development services.",
+      "cb_rank_organization": "416,851",
+      "stage": "",
+      "cb_rank_company": "395,082",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.8062222,
+          "lng": -95.5651784
+        },
+        "formatted_address": "1919 W Sam Houston Pkwy N Suite 325, Houston, TX 77043, United States",
+        "method": "places_api_headquarters",
+        "place_id": "ChIJmWu2DCwnQYYRgPjivBgLH5E"
+      }
+    },
+    {
+      "id": 150,
+      "name": "IDS Engineering Group",
+      "url": "https://www.crunchbase.com/organization/ids-engineering-group",
+      "employees": {
+        "min": 101,
+        "max": 250,
+        "range": "101-250"
+      },
+      "heat_score_tier": "High",
+      "operating_status": "Active",
+      "ipo_status": "Private",
+      "headquarters_location": {
+        "raw": "Houston, Texas, United States",
+        "cleaned": "Houston, Texas",
+        "geocoded": true,
+        "coordinates": {
+          "lat": 29.8511828,
+          "lng": -95.50767839999999
+        },
+        "formatted_address": "13430 Northwest Fwy, Houston, TX 77040, United States",
+        "geocoding_method": "places_api",
+        "place_id": "ChIJ_eWB5o_FQIYRC_YXBPQ0hkU"
+      },
+      "industries": [
+        "Consulting"
+      ],
+      "description": "IDS Engineering Group is a civil engineering firm based in Texas.",
+      "cb_rank_organization": "417,175",
+      "stage": "",
+      "cb_rank_company": "395,389",
+      "geocoding_status": "success",
+      "geocoding_notes": null,
+      "geocoding_result": {
+        "success": true,
+        "coordinates": {
+          "lat": 29.8511828,
+          "lng": -95.50767839999999
+        },
+        "formatted_address": "13430 Northwest Fwy, Houston, TX 77040, United States",
+        "method": "places_api",
+        "place_id": "ChIJ_eWB5o_FQIYRC_YXBPQ0hkU"
+      }
+    }
+  ]
+}

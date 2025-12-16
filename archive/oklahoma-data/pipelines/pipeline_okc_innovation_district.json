@@ -1,0 +1,2195 @@
+{
+  "marker": {
+    "key": "okc_innovation_district",
+    "name": "Oklahoma City Innovation District",
+    "center": {
+      "lat": 35.4676,
+      "lng": -97.5164
+    },
+    "radius_m": 8046
+  },
+  "summary": {
+    "generated_at": "2025-11-07T21:19:05.661762+00:00",
+    "feature_count": 69,
+    "categories": {
+      "pipeline": 69
+    },
+    "query_radius_m": 8046,
+    "bounding_box": {
+      "min_lon": -97.58867811713978,
+      "min_lat": 35.394811869006695,
+      "max_lon": -97.44412188286023,
+      "max_lat": 35.5403881309933
+    },
+    "raw_element_count": 69
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5796607,
+            35.4858567
+          ],
+          [
+            -97.578959,
+            35.4858496
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 133573218,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5792629,
+            35.493093
+          ],
+          [
+            -97.5785776,
+            35.4930873
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 133584651,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.576594,
+            35.5075748
+          ],
+          [
+            -97.5756271,
+            35.5075628
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 136962716,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.585137,
+            35.4506634
+          ],
+          [
+            -97.584677,
+            35.4506612
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 139268809,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5849009,
+            35.4503728
+          ],
+          [
+            -97.584373,
+            35.4502747
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 139268810,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5104213,
+            35.4822278
+          ],
+          [
+            -97.5096435,
+            35.482224
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 140958072,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5099526,
+            35.478215
+          ],
+          [
+            -97.5091855,
+            35.478215
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 140958073,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5187602,
+            35.5097319
+          ],
+          [
+            -97.5184466,
+            35.5098673
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246407185,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5282661,
+            35.5276249
+          ],
+          [
+            -97.5280435,
+            35.5278082
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246478525,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5013233,
+            35.5296505
+          ],
+          [
+            -97.5008464,
+            35.5295701
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246480570,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.4947573,
+            35.5321084
+          ],
+          [
+            -97.4944488,
+            35.5322742
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246480571,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5171752,
+            35.5280789
+          ],
+          [
+            -97.5171323,
+            35.5278126
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246480573,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5172422,
+            35.5280833
+          ],
+          [
+            -97.5171569,
+            35.5275641
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246480574,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.4841304,
+            35.5316194
+          ],
+          [
+            -97.4838756,
+            35.5316041
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246482954,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.4870218,
+            35.531805
+          ],
+          [
+            -97.4868051,
+            35.5317922
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246482961,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.459352,
+            35.4642714
+          ],
+          [
+            -97.4590905,
+            35.4642594
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246698146,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5090639,
+            35.4505467
+          ],
+          [
+            -97.5088258,
+            35.4508072
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246846900,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.4947424,
+            35.4577812
+          ],
+          [
+            -97.4945943,
+            35.457803
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 246846977,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5568194,
+            35.5263729
+          ],
+          [
+            -97.5568208,
+            35.5264733
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 248062339,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5170068,
+            35.4089498
+          ],
+          [
+            -97.5169585,
+            35.4089503
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 248759319,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5232476,
+            35.4072282
+          ],
+          [
+            -97.5232476,
+            35.4071424
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 248761568,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline",
+          "source": "Bing"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.5100401,
+            35.4518935
+          ],
+          [
+            -97.50868,
+            35.4511452
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 1167198162,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "overhead",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "location": "overhead",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.4711654,
+            35.4619942
+          ],
+          [
+            -97.4716943,
+            35.4632524
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "way",
+        "osm_id": 1167198167,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "overhead",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "location": "overhead",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.585137,
+          35.4506634
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1526729436,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5849009,
+          35.4503728
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1526729447,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.584677,
+          35.4506612
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1526729448,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.584373,
+          35.4502747
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1526729449,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5232476,
+          35.4072282
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2555010194,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5232476,
+          35.4071424
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2555010195,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5169585,
+          35.4089503
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2554974852,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5170068,
+          35.4089498
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2554974869,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5088258,
+          35.4508072
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2538296540,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5090639,
+          35.4505467
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2538296542,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.50868,
+          35.4511452
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 10853481406,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5100401,
+          35.4518935
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 10853481405,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4945943,
+          35.457803
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2538297752,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4947424,
+          35.4577812
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2538297753,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.578959,
+          35.4858496
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1470130956,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5796607,
+          35.4858567
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1470130967,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5792629,
+          35.493093
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1470323022,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5785776,
+          35.4930873
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1470323023,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.576594,
+          35.5075748
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1502603954,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5756271,
+          35.5075628
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1502604217,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5187602,
+          35.5097319
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2534579631,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5184466,
+          35.5098673
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2534579686,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5568194,
+          35.5263729
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2549085843,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5568208,
+          35.5264733
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2549085847,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5282661,
+          35.5276249
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535147596,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5280435,
+          35.5278082
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535147598,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5099526,
+          35.478215
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1543112398,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5091855,
+          35.478215
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1543112404,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5096435,
+          35.482224
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1543112492,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5104213,
+          35.4822278
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 1543112631,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4716943,
+          35.4632524
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 10853481423,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4711654,
+          35.4619942
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 10853481422,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4590905,
+          35.4642594
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2537042483,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.459352,
+          35.4642714
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2537042486,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5171323,
+          35.5278126
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535170319,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5171752,
+          35.5280789
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535170331,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5172422,
+          35.5280833
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535170353,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5171569,
+          35.5275641
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535170363,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5008464,
+          35.5295701
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535170342,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5013233,
+          35.5296505
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535170362,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4947573,
+          35.5321084
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535170338,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4944488,
+          35.5322742
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535170339,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4870218,
+          35.531805
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535200232,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4868051,
+          35.5317922
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535200268,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4841304,
+          35.5316194
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535200306,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4838756,
+          35.5316041
+        ]
+      },
+      "properties": {
+        "marker_key": "okc_innovation_district",
+        "osm_type": "node",
+        "osm_id": 2535200335,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "capturedAt": "2025-07-31T17:17:00.243Z",
+    "totalScenes": 0,
+    "appVersion": "Tx Transmission Navigator",
+    "description": "Backup of saved map scenes including camera position, layer visibility, and scene configurations",
+    "format": {
+      "scenes": "Array of scene objects with localStorage keys and scene data",
+      "metadata": "Backup information and versioning"
+    }
+  },
+  "scenes": [],
+  "instructions": {
+    "restore": "Use scripts/restore_scenes_backup.js to restore these scenes",
+    "manual": "Copy scenes array to localStorage manually if needed"
+  }
+}

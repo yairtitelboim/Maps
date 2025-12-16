@@ -1,0 +1,10 @@
+dc_id,name,city,county,lat,lon,company,source_url,notes
+DC001,Microsoft Taylor Data Center,Taylor,Williamson,30.5728854,-97.4141053,Microsoft,https://www.microsoft.com/en-us/cloud-infrastructure,"Major Microsoft data center campus in Taylor, TX"
+DC002,Google Midlothian Data Center,Midlothian,Ellis,32.482361,-96.9944489,Google,https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/,Google cloud campus expansion
+DC003,Google Dallas Data Center,Dallas,Dallas,32.7762719,-96.7968559,Google,https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/,Google cloud campus
+DC004,Vantage Frontier Data Center,Albany,Shackelford,32.728072,-99.2946024,Vantage Data Centers,https://www.reuters.com/business/vantage-data-centers-plans-25-billion-ai-campus-texas-2025-08-19/,"1.4 GW AI campus, 1,200 acres"
+DC005,OpenAI Stargate Data Center,Abilene,Taylor,32.44645,-99.7475905,OpenAI,https://apnews.com/article/0b3f4fa6e8d8141b4c143e3e7f41aba1,"900 MW AI supercluster, world's largest"
+DC006,Rowan Cinco Data Center,San Antonio,Bexar,29.4246002,-98.4951405,Rowan Digital Infrastructure,https://rowan.digital/news/cinco-data-center/,300 MW hyperscale project
+DC007,Google Armstrong County Data Center,Claude,Armstrong,35.1081103,-101.362741,Google,https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/,"Announced 2025, planned by 2027"
+DC008,Google Haskell County Data Center 1,Haskell,Haskell,33.1605761,-99.7345168,Google,https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/,"Announced 2025, planned by 2027"
+DC009,Google Haskell County Data Center 2,Haskell,Haskell,33.1605761,-99.7345168,Google,https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/,"Announced 2025, planned by 2027 (second site)"

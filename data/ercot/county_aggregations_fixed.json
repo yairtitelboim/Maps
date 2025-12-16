@@ -1,0 +1,3792 @@
+{
+  "Glasscock": {
+    "project_count": 8,
+    "total_capacity_mw": 1210.88,
+    "avg_capacity_mw": 151.36,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 4,
+        "capacity": 461.65
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 201.13
+      },
+      "SOL": {
+        "count": 2,
+        "capacity": 449.5
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 98.6
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5,
+      "SS Completed, FIS Started, IA": 3
+    },
+    "project_ids_sample": [
+      "15INR0064b",
+      "20INR0296",
+      "25INR0138",
+      "25INR0578",
+      "26INR0447",
+      "26INR0452",
+      "26INR0453",
+      "27INR0355"
+    ]
+  },
+  "Castro": {
+    "project_count": 4,
+    "total_capacity_mw": 892.11,
+    "avg_capacity_mw": 223.03,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 427.67
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 163.4
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 301.04
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2,
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "16INR0049",
+      "20INR0050",
+      "24INR0116",
+      "25INR0460"
+    ]
+  },
+  "Starr": {
+    "project_count": 9,
+    "total_capacity_mw": 2152.33,
+    "avg_capacity_mw": 239.15,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 4,
+        "capacity": 999.3
+      },
+      "SOL": {
+        "count": 4,
+        "capacity": 1053.03
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 100.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 7
+    },
+    "project_ids_sample": [
+      "16INR0081",
+      "20INR0162",
+      "20INR0216",
+      "23INR0354",
+      "28INR0037",
+      "28INR0038",
+      "28INR0039",
+      "28INR0127",
+      "21INR0226"
+    ]
+  },
+  "Mills": {
+    "project_count": 1,
+    "total_capacity_mw": 302.4,
+    "avg_capacity_mw": 302.4,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 302.4
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "16INR0085"
+    ]
+  },
+  "Crockett": {
+    "project_count": 5,
+    "total_capacity_mw": 1100.52,
+    "avg_capacity_mw": 220.1,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 489.32
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 101.2
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 510.0
+      },
+      "BAT": {
+        "count": 1,
+        "capacity": 0.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "16INR0104",
+      "22INR0455",
+      "24INR0442",
+      "24INR0568",
+      "22INR0502"
+    ]
+  },
+  "La Salle": {
+    "project_count": 2,
+    "total_capacity_mw": 709.61,
+    "avg_capacity_mw": 354.81,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 197.01
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 512.6
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "16INR0112",
+      "26INR0088"
+    ]
+  },
+  "Mitchell": {
+    "project_count": 1,
+    "total_capacity_mw": 742.9,
+    "avg_capacity_mw": 742.9,
+    "fuel_breakdown": {
+      "GAS": {
+        "count": 1,
+        "capacity": 742.9
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "17INR0010"
+    ]
+  },
+  "Scurry": {
+    "project_count": 6,
+    "total_capacity_mw": 793.71,
+    "avg_capacity_mw": 132.28,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 551.42
+      },
+      "STR": {
+        "count": 3,
+        "capacity": 58.29
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 184.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "17INR0027b",
+      "18INR0030",
+      "23INR0372",
+      "24INR0629",
+      "24INR0630",
+      "25INR0400"
+    ]
+  },
+  "Taylor": {
+    "project_count": 3,
+    "total_capacity_mw": 256.55,
+    "avg_capacity_mw": 85.52,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 3,
+        "capacity": 256.55
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "17INR0052",
+      "17INR0053",
+      "26INR0626"
+    ]
+  },
+  "Sterling": {
+    "project_count": 3,
+    "total_capacity_mw": 281.0,
+    "avg_capacity_mw": 93.67,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 3,
+        "capacity": 281.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "17INR0054",
+      "17INR0061",
+      "27INR0076"
+    ]
+  },
+  "Nolan": {
+    "project_count": 7,
+    "total_capacity_mw": 551.11,
+    "avg_capacity_mw": 78.73,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 7,
+        "capacity": 551.11
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "17INR0068",
+      "17INR0069",
+      "18INR0031",
+      "18INR0073",
+      "24INR0627",
+      "26INR0622",
+      "26INR0625"
+    ]
+  },
+  "Pecos": {
+    "project_count": 18,
+    "total_capacity_mw": 2132.87,
+    "avg_capacity_mw": 118.49,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 6,
+        "capacity": 305.1
+      },
+      "STR": {
+        "count": 4,
+        "capacity": 531.29
+      },
+      "OTH": {
+        "count": 5,
+        "capacity": 604.02
+      },
+      "SOL": {
+        "count": 3,
+        "capacity": 692.46
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 12,
+      "SS Completed, FIS Started, IA": 6
+    },
+    "project_ids_sample": [
+      "17INR0070",
+      "18INR0069",
+      "18INR0079",
+      "18INR0080",
+      "19INR0120",
+      "22INR0525",
+      "23INR0219",
+      "23INR0287",
+      "23INR0401",
+      "24INR0452"
+    ]
+  },
+  "Eastland": {
+    "project_count": 5,
+    "total_capacity_mw": 263.52,
+    "avg_capacity_mw": 52.7,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 4,
+        "capacity": 263.52
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 0.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5
+    },
+    "project_ids_sample": [
+      "18INR0064",
+      "19INR0117",
+      "21INR0515",
+      "21INR0546",
+      "23INR0538"
+    ]
+  },
+  "Willacy": {
+    "project_count": 3,
+    "total_capacity_mw": 642.5,
+    "avg_capacity_mw": 214.17,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 3,
+        "capacity": 642.5
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "19INR0022",
+      "19INR0023",
+      "20INR0097"
+    ]
+  },
+  "Runnels": {
+    "project_count": 2,
+    "total_capacity_mw": 229.13,
+    "avg_capacity_mw": 114.56,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 128.48
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 100.65
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "19INR0035",
+      "24INR0485"
+    ]
+  },
+  "Brazoria": {
+    "project_count": 45,
+    "total_capacity_mw": 9536.44,
+    "avg_capacity_mw": 211.92,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 14,
+        "capacity": 3590.42
+      },
+      "STR": {
+        "count": 8,
+        "capacity": 1437.93
+      },
+      "BAT": {
+        "count": 2,
+        "capacity": 351.59
+      },
+      "OTH": {
+        "count": 16,
+        "capacity": 3495.17
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 202.33
+      },
+      "GAS": {
+        "count": 4,
+        "capacity": 459.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 34,
+      "SS Completed, FIS Started, IA": 11
+    },
+    "project_ids_sample": [
+      "19INR0041",
+      "19INR0042",
+      "19INR0134",
+      "20INR0248",
+      "21INR0256",
+      "21INR0443",
+      "21INR0444",
+      "22INR0279",
+      "22INR0417",
+      "23INR0054"
+    ]
+  },
+  "Hidalgo": {
+    "project_count": 7,
+    "total_capacity_mw": 1149.97,
+    "avg_capacity_mw": 164.28,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 234.5
+      },
+      "BAT": {
+        "count": 1,
+        "capacity": 60.37
+      },
+      "OTH": {
+        "count": 2,
+        "capacity": 255.65
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 291.4
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 308.05
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "19INR0054",
+      "22INR0468",
+      "24INR0436",
+      "24INR0491",
+      "27INR0118",
+      "23INR0166",
+      "23INR0369"
+    ]
+  },
+  "Fisher": {
+    "project_count": 2,
+    "total_capacity_mw": 568.9,
+    "avg_capacity_mw": 284.45,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 418.9
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 150.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "19INR0080",
+      "21INR0031"
+    ]
+  },
+  "Grimes": {
+    "project_count": 4,
+    "total_capacity_mw": 622.09,
+    "avg_capacity_mw": 155.52,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 421.25
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 200.84
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 4
+    },
+    "project_ids_sample": [
+      "19INR0085",
+      "21INR0538",
+      "23INR0160",
+      "27INR0085"
+    ]
+  },
+  "McLennan": {
+    "project_count": 7,
+    "total_capacity_mw": 1616.46,
+    "avg_capacity_mw": 230.92,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 297.2
+      },
+      "SOL": {
+        "count": 5,
+        "capacity": 1005.01
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 314.25
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "19INR0100",
+      "20INR0230",
+      "23INR0349",
+      "24INR0038",
+      "24INR0039",
+      "24INR0356",
+      "26INR0380"
+    ]
+  },
+  "Andrews": {
+    "project_count": 1,
+    "total_capacity_mw": 200.0,
+    "avg_capacity_mw": 200.0,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 200.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "19INR0103"
+    ]
+  },
+  "Angelina": {
+    "project_count": 1,
+    "total_capacity_mw": 181.0,
+    "avg_capacity_mw": 181.0,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 181.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "19INR0110"
+    ]
+  },
+  "Frio": {
+    "project_count": 1,
+    "total_capacity_mw": 201.1,
+    "avg_capacity_mw": 201.1,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 201.1
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "19INR0155"
+    ]
+  },
+  "Howard": {
+    "project_count": 2,
+    "total_capacity_mw": 100.32,
+    "avg_capacity_mw": 50.16,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 0.0
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 100.32
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "19INR0174",
+      "25INR0143"
+    ]
+  },
+  "Wharton": {
+    "project_count": 22,
+    "total_capacity_mw": 4646.26,
+    "avg_capacity_mw": 211.19,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 362.7
+      },
+      "SOL": {
+        "count": 10,
+        "capacity": 2914.32
+      },
+      "STR": {
+        "count": 5,
+        "capacity": 760.41
+      },
+      "OTH": {
+        "count": 3,
+        "capacity": 514.73
+      },
+      "GAS": {
+        "count": 2,
+        "capacity": 94.1
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 17,
+      "SS Completed, FIS Not Started, IA": 1,
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "19INR0177",
+      "20INR0069",
+      "20INR0130",
+      "21INR0220",
+      "21INR0341",
+      "21INR0505",
+      "22INR0205",
+      "22INR0517",
+      "23INR0058",
+      "23INR0111"
+    ]
+  },
+  "Tom Green": {
+    "project_count": 3,
+    "total_capacity_mw": 478.38,
+    "avg_capacity_mw": 159.46,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 195.41
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 180.0
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 102.97
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "19INR0203",
+      "20INR0247",
+      "23INR0418"
+    ]
+  },
+  "Young": {
+    "project_count": 2,
+    "total_capacity_mw": 472.14,
+    "avg_capacity_mw": 236.07,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 472.14
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "20INR0019",
+      "21INR0401"
+    ]
+  },
+  "Cooke": {
+    "project_count": 4,
+    "total_capacity_mw": 649.47,
+    "avg_capacity_mw": 162.37,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 189.08
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 150.59
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 309.8
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "20INR0033",
+      "21INR0511",
+      "23INR0296",
+      "24INR0198"
+    ]
+  },
+  "Bosque": {
+    "project_count": 4,
+    "total_capacity_mw": 734.43,
+    "avg_capacity_mw": 183.61,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 672.9
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 61.53
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "20INR0035",
+      "21INR0359",
+      "23INR0030",
+      "23INR0266"
+    ]
+  },
+  "Webb": {
+    "project_count": 9,
+    "total_capacity_mw": 2194.01,
+    "avg_capacity_mw": 243.78,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 502.73
+      },
+      "SOL": {
+        "count": 4,
+        "capacity": 1228.3
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 360.28
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 102.7
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 3,
+      "SS Completed, FIS Completed, IA": 6
+    },
+    "project_ids_sample": [
+      "20INR0047",
+      "22INR0257",
+      "23INR0007",
+      "23INR0343",
+      "23INR0351",
+      "24INR0059",
+      "24INR0632",
+      "27INR0126",
+      "22INR0551"
+    ]
+  },
+  "Callahan": {
+    "project_count": 4,
+    "total_capacity_mw": 1311.82,
+    "avg_capacity_mw": 327.96,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 493.0
+      },
+      "SOL": {
+        "count": 2,
+        "capacity": 818.82
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "20INR0083",
+      "22INR0261",
+      "22INR0262",
+      "21INR0325"
+    ]
+  },
+  "Cameron": {
+    "project_count": 6,
+    "total_capacity_mw": 1043.01,
+    "avg_capacity_mw": 173.84,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 100.0
+      },
+      "STR": {
+        "count": 3,
+        "capacity": 636.31
+      },
+      "OTH": {
+        "count": 2,
+        "capacity": 306.7
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 3,
+      "SS Completed, FIS Completed, IA": 3
+    },
+    "project_ids_sample": [
+      "20INR0086",
+      "22INR0401",
+      "22INR0466",
+      "24INR0294",
+      "24INR0306",
+      "27INR0399"
+    ]
+  },
+  "Childress": {
+    "project_count": 3,
+    "total_capacity_mw": 519.35,
+    "avg_capacity_mw": 173.12,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 519.35
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "20INR0091",
+      "25INR0672",
+      "26INR0524"
+    ]
+  },
+  "Bee": {
+    "project_count": 5,
+    "total_capacity_mw": 831.6,
+    "avg_capacity_mw": 166.32,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 268.2
+      },
+      "SOL": {
+        "count": 2,
+        "capacity": 371.4
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 192.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "20INR0129",
+      "22INR0559",
+      "23INR0392",
+      "25INR0060",
+      "25INR0061"
+    ]
+  },
+  "Matagorda": {
+    "project_count": 9,
+    "total_capacity_mw": 1920.1,
+    "avg_capacity_mw": 213.34,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 241.2
+      },
+      "SOL": {
+        "count": 5,
+        "capacity": 1098.59
+      },
+      "OTH": {
+        "count": 3,
+        "capacity": 580.31
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5,
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "20INR0155",
+      "22INR0342",
+      "23INR0057",
+      "23INR0084",
+      "24INR0337",
+      "24INR0338",
+      "25INR0232",
+      "25INR0271",
+      "26INR0250"
+    ]
+  },
+  "Hopkins": {
+    "project_count": 11,
+    "total_capacity_mw": 1802.74,
+    "avg_capacity_mw": 163.89,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 6,
+        "capacity": 1196.16
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 179.26
+      },
+      "OTH": {
+        "count": 3,
+        "capacity": 427.32
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 9,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "20INR0203",
+      "22INR0242",
+      "22INR0302",
+      "22INR0409",
+      "22INR0526",
+      "23INR0494",
+      "24INR0326",
+      "25INR0204",
+      "25INR0205",
+      "26INR0409"
+    ]
+  },
+  "Falls": {
+    "project_count": 5,
+    "total_capacity_mw": 1199.71,
+    "avg_capacity_mw": 239.94,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 4,
+        "capacity": 1018.38
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 181.33
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5
+    },
+    "project_ids_sample": [
+      "20INR0205",
+      "22INR0506",
+      "23INR0118",
+      "23INR0119",
+      "23INR0114"
+    ]
+  },
+  "Hunt": {
+    "project_count": 2,
+    "total_capacity_mw": 203.69,
+    "avg_capacity_mw": 101.84,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 203.69
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "20INR0208",
+      "22INR0281"
+    ]
+  },
+  "Potter": {
+    "project_count": 2,
+    "total_capacity_mw": 388.62,
+    "avg_capacity_mw": 194.31,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 165.42
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 223.2
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "20INR0217",
+      "21INR0274"
+    ]
+  },
+  "Lamar": {
+    "project_count": 16,
+    "total_capacity_mw": 3660.34,
+    "avg_capacity_mw": 228.77,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 11,
+        "capacity": 2729.86
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 396.8
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 175.89
+      },
+      "STR": {
+        "count": 3,
+        "capacity": 357.79
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 11,
+      "SS Completed, FIS Started, IA": 5
+    },
+    "project_ids_sample": [
+      "20INR0222",
+      "21INR0221",
+      "21INR0490",
+      "21INR0491",
+      "22INR0202",
+      "22INR0203",
+      "23INR0026",
+      "23INR0225",
+      "23INR0441",
+      "24INR0186"
+    ]
+  },
+  "Jackson": {
+    "project_count": 5,
+    "total_capacity_mw": 1332.11,
+    "avg_capacity_mw": 266.42,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 1028.21
+      },
+      "OTH": {
+        "count": 2,
+        "capacity": 303.9
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 3
+    },
+    "project_ids_sample": [
+      "20INR0236",
+      "21INR0344",
+      "23INR0223",
+      "23INR0361",
+      "25INR0441"
+    ]
+  },
+  "Jones": {
+    "project_count": 6,
+    "total_capacity_mw": 1369.14,
+    "avg_capacity_mw": 228.19,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 5,
+        "capacity": 1215.59
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 153.55
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 4,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "20INR0241",
+      "20INR0242",
+      "22INR0274",
+      "22INR0457",
+      "23INR0244",
+      "29INR0015"
+    ]
+  },
+  "Coryell": {
+    "project_count": 2,
+    "total_capacity_mw": 107.6,
+    "avg_capacity_mw": 53.8,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 51.6
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 56.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "20INR0246",
+      "24INR0181"
+    ]
+  },
+  "Deaf Smith": {
+    "project_count": 4,
+    "total_capacity_mw": 2668.1,
+    "avg_capacity_mw": 667.02,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 2046.5
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 621.6
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "20INR0255",
+      "23INR0056",
+      "29INR0003",
+      "29INR0004"
+    ]
+  },
+  "Calhoun": {
+    "project_count": 2,
+    "total_capacity_mw": 345.5,
+    "avg_capacity_mw": 172.75,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 195.0
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 150.5
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "20INR0266",
+      "25INR0160"
+    ]
+  },
+  "Kent": {
+    "project_count": 1,
+    "total_capacity_mw": 201.14,
+    "avg_capacity_mw": 201.14,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 201.14
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "20INR0269"
+    ]
+  },
+  "Wise": {
+    "project_count": 2,
+    "total_capacity_mw": 146.36,
+    "avg_capacity_mw": 73.18,
+    "fuel_breakdown": {
+      "GAS": {
+        "count": 1,
+        "capacity": 21.0
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 125.36
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "20INR0286",
+      "23INR0403"
+    ]
+  },
+  "Galveston": {
+    "project_count": 9,
+    "total_capacity_mw": 1773.34,
+    "avg_capacity_mw": 197.04,
+    "fuel_breakdown": {
+      "GAS": {
+        "count": 1,
+        "capacity": 14.0
+      },
+      "OTH": {
+        "count": 3,
+        "capacity": 716.73
+      },
+      "STR": {
+        "count": 5,
+        "capacity": 1042.61
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 8,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0012",
+      "23INR0290",
+      "24INR0281",
+      "24INR0460",
+      "25INR0262",
+      "25INR0300",
+      "26INR0333",
+      "26INR0340",
+      "24INR0395"
+    ]
+  },
+  "Dawson": {
+    "project_count": 5,
+    "total_capacity_mw": 876.7,
+    "avg_capacity_mw": 175.34,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 673.6
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 100.0
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 103.1
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 4,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0022",
+      "21INR0029",
+      "21INR0033",
+      "21INR0021",
+      "24INR0273"
+    ]
+  },
+  "Milam": {
+    "project_count": 15,
+    "total_capacity_mw": 2241.39,
+    "avg_capacity_mw": 149.43,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 10,
+        "capacity": 1638.59
+      },
+      "STR": {
+        "count": 4,
+        "capacity": 500.9
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 101.9
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 12,
+      "SS Completed, FIS Started, IA": 3
+    },
+    "project_ids_sample": [
+      "21INR0203",
+      "22INR0356",
+      "22INR0511",
+      "22INR0605",
+      "23INR0235",
+      "23INR0502",
+      "24INR0031",
+      "24INR0042",
+      "24INR0070",
+      "24INR0169"
+    ]
+  },
+  "Haskell": {
+    "project_count": 13,
+    "total_capacity_mw": 2999.3,
+    "avg_capacity_mw": 230.72,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 7,
+        "capacity": 1680.39
+      },
+      "OTH": {
+        "count": 2,
+        "capacity": 113.77
+      },
+      "STR": {
+        "count": 3,
+        "capacity": 979.54
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 225.6
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 8,
+      "SS Completed, FIS Started, IA": 5
+    },
+    "project_ids_sample": [
+      "21INR0207",
+      "22INR0270",
+      "22INR0328",
+      "22INR0374",
+      "22INR0375",
+      "23INR0031",
+      "23INR0059",
+      "24INR0044",
+      "24INR0058",
+      "24INR0291"
+    ]
+  },
+  "Wichita": {
+    "project_count": 2,
+    "total_capacity_mw": 879.21,
+    "avg_capacity_mw": 439.61,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 879.21
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "21INR0210",
+      "24INR0201"
+    ]
+  },
+  "Goliad": {
+    "project_count": 6,
+    "total_capacity_mw": 965.66,
+    "avg_capacity_mw": 160.94,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 4,
+        "capacity": 965.66
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 0.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "21INR0223",
+      "22INR0283",
+      "24INR0065",
+      "24INR0066",
+      "24INR0067",
+      "24INR0068"
+    ]
+  },
+  "Stephens": {
+    "project_count": 1,
+    "total_capacity_mw": 148.4,
+    "avg_capacity_mw": 148.4,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 148.4
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0240"
+    ]
+  },
+  "Coke": {
+    "project_count": 1,
+    "total_capacity_mw": 151.2,
+    "avg_capacity_mw": 151.2,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 151.2
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0253"
+    ]
+  },
+  "Hill": {
+    "project_count": 17,
+    "total_capacity_mw": 3231.91,
+    "avg_capacity_mw": 190.11,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 11,
+        "capacity": 2146.57
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 297.4
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 144.9
+      },
+      "OTH": {
+        "count": 3,
+        "capacity": 643.04
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 13,
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "21INR0257",
+      "21INR0379",
+      "22INR0499",
+      "23INR0153",
+      "24INR0023",
+      "24INR0106",
+      "24INR0124",
+      "24INR0126",
+      "24INR0138",
+      "24INR0139"
+    ]
+  },
+  "Throckmorton": {
+    "project_count": 1,
+    "total_capacity_mw": 284.3,
+    "avg_capacity_mw": 284.3,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 284.3
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0263"
+    ]
+  },
+  "Ector": {
+    "project_count": 5,
+    "total_capacity_mw": 1035.86,
+    "avg_capacity_mw": 207.17,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 5,
+        "capacity": 1035.86
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5
+    },
+    "project_ids_sample": [
+      "21INR0265",
+      "21INR0268",
+      "24INR0421",
+      "26INR0669",
+      "26INR0670"
+    ]
+  },
+  "Fort Bend": {
+    "project_count": 14,
+    "total_capacity_mw": 2899.03,
+    "avg_capacity_mw": 207.07,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 888.08
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 207.89
+      },
+      "OTH": {
+        "count": 6,
+        "capacity": 1395.06
+      },
+      "GAS": {
+        "count": 4,
+        "capacity": 408.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 14
+    },
+    "project_ids_sample": [
+      "21INR0278",
+      "21INR0406",
+      "23INR0336",
+      "24INR0405",
+      "24INR0493",
+      "26INR0201",
+      "26INR0375",
+      "26INR0405",
+      "22INR0597",
+      "23INR0363"
+    ]
+  },
+  "Navarro": {
+    "project_count": 15,
+    "total_capacity_mw": 3116.65,
+    "avg_capacity_mw": 207.78,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 3,
+        "capacity": 734.2
+      },
+      "SOL": {
+        "count": 7,
+        "capacity": 1979.89
+      },
+      "STR": {
+        "count": 3,
+        "capacity": 179.81
+      },
+      "OTH": {
+        "count": 2,
+        "capacity": 222.75
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 11,
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "21INR0324",
+      "21INR0421",
+      "22INR0437",
+      "24INR0140",
+      "24INR0141",
+      "24INR0188",
+      "24INR0189",
+      "24INR0206",
+      "24INR0207",
+      "25INR0018"
+    ]
+  },
+  "Duval": {
+    "project_count": 2,
+    "total_capacity_mw": 241.49,
+    "avg_capacity_mw": 120.75,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 241.49
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "21INR0326",
+      "25INR0109"
+    ]
+  },
+  "Uvalde": {
+    "project_count": 1,
+    "total_capacity_mw": 180.87,
+    "avg_capacity_mw": 180.87,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 180.87
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0334"
+    ]
+  },
+  "Ellis": {
+    "project_count": 5,
+    "total_capacity_mw": 819.79,
+    "avg_capacity_mw": 163.96,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 397.5
+      },
+      "OTH": {
+        "count": 3,
+        "capacity": 422.29
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1,
+      "SS Completed, FIS Completed, IA": 4
+    },
+    "project_ids_sample": [
+      "21INR0362",
+      "23INR0195",
+      "24INR0178",
+      "26INR0241",
+      "26INR0242"
+    ]
+  },
+  "Kaufman": {
+    "project_count": 6,
+    "total_capacity_mw": 969.8,
+    "avg_capacity_mw": 161.63,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 4,
+        "capacity": 665.5
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 304.3
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0368",
+      "22INR0260",
+      "22INR0426",
+      "22INR0552",
+      "24INR0303",
+      "24INR0339"
+    ]
+  },
+  "Atascosa": {
+    "project_count": 2,
+    "total_capacity_mw": 222.81,
+    "avg_capacity_mw": 111.41,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 121.89
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 100.92
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "21INR0391",
+      "23INR0200"
+    ]
+  },
+  "Jim Wells": {
+    "project_count": 2,
+    "total_capacity_mw": 191.99,
+    "avg_capacity_mw": 96.0,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 130.6
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 61.39
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "21INR0393",
+      "23INR0331"
+    ]
+  },
+  "Bastrop": {
+    "project_count": 5,
+    "total_capacity_mw": 610.38,
+    "avg_capacity_mw": 122.08,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 403.74
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 80.0
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 105.64
+      },
+      "GAS": {
+        "count": 1,
+        "capacity": 21.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "21INR0413",
+      "21INR0469",
+      "25INR0422",
+      "25INR0447",
+      "22INR0535"
+    ]
+  },
+  "Leon": {
+    "project_count": 4,
+    "total_capacity_mw": 1292.28,
+    "avg_capacity_mw": 323.07,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 991.38
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 300.9
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2,
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "21INR0428",
+      "24INR0422",
+      "25INR0230",
+      "26INR0023"
+    ]
+  },
+  "Tarrant": {
+    "project_count": 2,
+    "total_capacity_mw": 356.0,
+    "avg_capacity_mw": 178.0,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 150.6
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 205.4
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0492",
+      "24INR0498"
+    ]
+  },
+  "Robertson": {
+    "project_count": 8,
+    "total_capacity_mw": 1880.63,
+    "avg_capacity_mw": 235.08,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 3,
+        "capacity": 405.03
+      },
+      "OTH": {
+        "count": 2,
+        "capacity": 407.24
+      },
+      "SOL": {
+        "count": 3,
+        "capacity": 1068.36
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5,
+      "SS Completed, FIS Started, IA": 3
+    },
+    "project_ids_sample": [
+      "21INR0517",
+      "22INR0503",
+      "22INR0504",
+      "23INR0385",
+      "23INR0423",
+      "26INR0431",
+      "29INR0017",
+      "29INR0018"
+    ]
+  },
+  "Somervell": {
+    "project_count": 1,
+    "total_capacity_mw": 170.86,
+    "avg_capacity_mw": 170.86,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 170.86
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0520"
+    ]
+  },
+  "Wilbarger": {
+    "project_count": 5,
+    "total_capacity_mw": 849.29,
+    "avg_capacity_mw": 169.86,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 602.85
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 100.0
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 146.44
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 4,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0209",
+      "25INR0492",
+      "27INR0004",
+      "27INR0007",
+      "27INR0012"
+    ]
+  },
+  "Comanche": {
+    "project_count": 1,
+    "total_capacity_mw": 101.5,
+    "avg_capacity_mw": 101.5,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 101.5
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0220"
+    ]
+  },
+  "Schleicher": {
+    "project_count": 3,
+    "total_capacity_mw": 826.45,
+    "avg_capacity_mw": 275.48,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 2,
+        "capacity": 381.04
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 445.41
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 3
+    },
+    "project_ids_sample": [
+      "22INR0239",
+      "26INR0290",
+      "26INR0291"
+    ]
+  },
+  "DeWitt": {
+    "project_count": 2,
+    "total_capacity_mw": 410.4,
+    "avg_capacity_mw": 205.2,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 410.4
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "22INR0251",
+      "22INR0267"
+    ]
+  },
+  "Jack": {
+    "project_count": 3,
+    "total_capacity_mw": 996.34,
+    "avg_capacity_mw": 332.11,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 1,
+        "capacity": 295.3
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 653.7
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 47.34
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3
+    },
+    "project_ids_sample": [
+      "22INR0301",
+      "24INR0010",
+      "24INR0304"
+    ]
+  },
+  "Zapata": {
+    "project_count": 6,
+    "total_capacity_mw": 1161.5,
+    "avg_capacity_mw": 193.58,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 374.5
+      },
+      "WIN": {
+        "count": 4,
+        "capacity": 787.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 6
+    },
+    "project_ids_sample": [
+      "22INR0307",
+      "23INR0162",
+      "23INR0561",
+      "24INR0424",
+      "24INR0505",
+      "24INR0506"
+    ]
+  },
+  "Delta": {
+    "project_count": 4,
+    "total_capacity_mw": 414.45,
+    "avg_capacity_mw": 103.61,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 279.71
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 134.74
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Not Started, IA": 1,
+      "SS Completed, FIS Completed, IA": 3
+    },
+    "project_ids_sample": [
+      "22INR0335",
+      "24INR0136",
+      "24INR0137",
+      "22INR0336"
+    ]
+  },
+  "Val Verde": {
+    "project_count": 2,
+    "total_capacity_mw": 175.08,
+    "avg_capacity_mw": 87.54,
+    "fuel_breakdown": {
+      "BAT": {
+        "count": 1,
+        "capacity": 72.38
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 102.7
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "22INR0349",
+      "23INR0364"
+    ]
+  },
+  "Nueces": {
+    "project_count": 8,
+    "total_capacity_mw": 1526.64,
+    "avg_capacity_mw": 190.83,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 4,
+        "capacity": 783.89
+      },
+      "SOL": {
+        "count": 2,
+        "capacity": 667.75
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 75.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 5
+    },
+    "project_ids_sample": [
+      "22INR0353",
+      "23INR0061",
+      "23INR0062",
+      "24INR0528",
+      "25INR0329",
+      "25INR0375",
+      "27INR0047",
+      "27INR0048"
+    ]
+  },
+  "Harris": {
+    "project_count": 19,
+    "total_capacity_mw": 3361.29,
+    "avg_capacity_mw": 176.91,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 110.78
+      },
+      "GAS": {
+        "count": 8,
+        "capacity": 1847.53
+      },
+      "OTH": {
+        "count": 6,
+        "capacity": 1035.97
+      },
+      "STR": {
+        "count": 3,
+        "capacity": 367.01
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 16,
+      "SS Completed, FIS Started, IA": 3
+    },
+    "project_ids_sample": [
+      "22INR0354",
+      "22INR0546",
+      "22INR0558",
+      "23INR0040",
+      "23INR0345",
+      "24INR0196",
+      "24INR0329",
+      "24INR0382",
+      "24INR0397",
+      "24INR0410"
+    ]
+  },
+  "Culberson": {
+    "project_count": 2,
+    "total_capacity_mw": 60.76,
+    "avg_capacity_mw": 30.38,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 60.76
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "22INR0363",
+      "22INR0454"
+    ]
+  },
+  "Bexar": {
+    "project_count": 19,
+    "total_capacity_mw": 1997.04,
+    "avg_capacity_mw": 105.11,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 6,
+        "capacity": 839.69
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 152.32
+      },
+      "STR": {
+        "count": 3,
+        "capacity": 566.53
+      },
+      "OIL": {
+        "count": 9,
+        "capacity": 438.5
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 15,
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "22INR0368",
+      "22INR0422",
+      "23INR0207",
+      "23INR0381",
+      "23INR0467",
+      "23INR0479",
+      "24INR0108",
+      "24INR0533",
+      "26INR0330",
+      "28INR0024"
+    ]
+  },
+  "Guadalupe": {
+    "project_count": 4,
+    "total_capacity_mw": 823.09,
+    "avg_capacity_mw": 205.77,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 205.46
+      },
+      "SOL": {
+        "count": 3,
+        "capacity": 617.63
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "22INR0388",
+      "23INR0088",
+      "24INR0007",
+      "24INR0287"
+    ]
+  },
+  "San Patricio": {
+    "project_count": 6,
+    "total_capacity_mw": 1339.54,
+    "avg_capacity_mw": 223.26,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 2,
+        "capacity": 362.25
+      },
+      "SOL": {
+        "count": 4,
+        "capacity": 977.29
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 3
+    },
+    "project_ids_sample": [
+      "22INR0443",
+      "23INR0093",
+      "23INR0180",
+      "24INR0302",
+      "25INR0052",
+      "25INR0081"
+    ]
+  },
+  "Live Oak": {
+    "project_count": 2,
+    "total_capacity_mw": 110.4,
+    "avg_capacity_mw": 55.2,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 60.4
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 50.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Not Started, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0467",
+      "23INR0487"
+    ]
+  },
+  "Bell": {
+    "project_count": 14,
+    "total_capacity_mw": 2233.1,
+    "avg_capacity_mw": 159.51,
+    "fuel_breakdown": {
+      "GAS": {
+        "count": 2,
+        "capacity": 67.0
+      },
+      "SOL": {
+        "count": 7,
+        "capacity": 1540.15
+      },
+      "STR": {
+        "count": 4,
+        "capacity": 424.35
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 201.6
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 13,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0533",
+      "23INR0070",
+      "23INR0079",
+      "23INR0248",
+      "23INR0249",
+      "23INR0344",
+      "23INR0469",
+      "23INR0524",
+      "24INR0166",
+      "24INR0365"
+    ]
+  },
+  "Austin": {
+    "project_count": 2,
+    "total_capacity_mw": 529.89,
+    "avg_capacity_mw": 264.94,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 205.31
+      },
+      "GAS": {
+        "count": 1,
+        "capacity": 324.58
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "22INR0540",
+      "26INR0519"
+    ]
+  },
+  "Henderson": {
+    "project_count": 4,
+    "total_capacity_mw": 826.81,
+    "avg_capacity_mw": 206.7,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 3,
+        "capacity": 625.01
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 201.8
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0549",
+      "23INR0261",
+      "24INR0355",
+      "24INR0471"
+    ]
+  },
+  "Fannin": {
+    "project_count": 1,
+    "total_capacity_mw": 309.53,
+    "avg_capacity_mw": 309.53,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 309.53
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0554"
+    ]
+  },
+  "Rockwall": {
+    "project_count": 1,
+    "total_capacity_mw": 125.36,
+    "avg_capacity_mw": 125.36,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 125.36
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0555"
+    ]
+  },
+  "Swisher": {
+    "project_count": 3,
+    "total_capacity_mw": 811.32,
+    "avg_capacity_mw": 270.44,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 811.32
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 0.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3
+    },
+    "project_ids_sample": [
+      "23INR0021",
+      "25INR0282",
+      "25INR0283"
+    ]
+  },
+  "Wilson": {
+    "project_count": 6,
+    "total_capacity_mw": 1383.18,
+    "avg_capacity_mw": 230.53,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 4,
+        "capacity": 1073.51
+      },
+      "OTH": {
+        "count": 2,
+        "capacity": 309.67
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 4,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0027",
+      "24INR0156",
+      "24INR0160",
+      "24INR0376",
+      "26INR0074",
+      "26INR0077"
+    ]
+  },
+  "Chambers": {
+    "project_count": 3,
+    "total_capacity_mw": 1068.67,
+    "avg_capacity_mw": 356.22,
+    "fuel_breakdown": {
+      "GAS": {
+        "count": 1,
+        "capacity": 697.0
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 371.67
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0029",
+      "23INR0425",
+      "24INR0285"
+    ]
+  },
+  "Gonzales": {
+    "project_count": 4,
+    "total_capacity_mw": 336.06,
+    "avg_capacity_mw": 84.02,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 239.29
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 63.6
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 33.17
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 3,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0035",
+      "23INR0181",
+      "23INR0231",
+      "23INR0232"
+    ]
+  },
+  "Waller": {
+    "project_count": 1,
+    "total_capacity_mw": 484.56,
+    "avg_capacity_mw": 484.56,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 484.56
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0044"
+    ]
+  },
+  "Van Zandt": {
+    "project_count": 4,
+    "total_capacity_mw": 530.86,
+    "avg_capacity_mw": 132.71,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 121.04
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 102.41
+      },
+      "OTH": {
+        "count": 2,
+        "capacity": 307.41
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1,
+      "SS Completed, FIS Completed, IA": 3
+    },
+    "project_ids_sample": [
+      "23INR0045",
+      "24INR0472",
+      "25INR0253",
+      "25INR0384"
+    ]
+  },
+  "Refugio": {
+    "project_count": 3,
+    "total_capacity_mw": 1933.71,
+    "avg_capacity_mw": 644.57,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 1422.72
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 510.99
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0047",
+      "26INR0155",
+      "26INR0156"
+    ]
+  },
+  "Bandera": {
+    "project_count": 1,
+    "total_capacity_mw": 124.65,
+    "avg_capacity_mw": 124.65,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 124.65
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0078"
+    ]
+  },
+  "Colorado": {
+    "project_count": 3,
+    "total_capacity_mw": 832.62,
+    "avg_capacity_mw": 277.54,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 508.61
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 202.21
+      },
+      "GAS": {
+        "count": 1,
+        "capacity": 121.8
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0082",
+      "23INR0083",
+      "27INR0321"
+    ]
+  },
+  "Coleman": {
+    "project_count": 2,
+    "total_capacity_mw": 500.22,
+    "avg_capacity_mw": 250.11,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 398.83
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 101.39
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0086",
+      "24INR0057"
+    ]
+  },
+  "Dickens": {
+    "project_count": 4,
+    "total_capacity_mw": 703.45,
+    "avg_capacity_mw": 175.86,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 397.48
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 202.7
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 103.27
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 3,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0089",
+      "25INR0172",
+      "25INR0173",
+      "23INR0103"
+    ]
+  },
+  "Victoria": {
+    "project_count": 9,
+    "total_capacity_mw": 1407.32,
+    "avg_capacity_mw": 156.37,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 472.11
+      },
+      "OTH": {
+        "count": 4,
+        "capacity": 617.3
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 41.11
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 276.8
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 8,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0090",
+      "23INR0342",
+      "24INR0093",
+      "24INR0109",
+      "24INR0401",
+      "24INR0403",
+      "24INR0425",
+      "26INR0021",
+      "27INR0224"
+    ]
+  },
+  "Reeves": {
+    "project_count": 6,
+    "total_capacity_mw": 1280.76,
+    "avg_capacity_mw": 213.46,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 557.0
+      },
+      "STR": {
+        "count": 3,
+        "capacity": 499.26
+      },
+      "GAS": {
+        "count": 1,
+        "capacity": 224.5
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 4,
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0116",
+      "23INR0117",
+      "25INR0112",
+      "26INR0034",
+      "27INR0297",
+      "24INR0609"
+    ]
+  },
+  "Foard": {
+    "project_count": 2,
+    "total_capacity_mw": 501.39,
+    "avg_capacity_mw": 250.69,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 301.19
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 200.2
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0140",
+      "20INR0040"
+    ]
+  },
+  "Grayson": {
+    "project_count": 1,
+    "total_capacity_mw": 205.2,
+    "avg_capacity_mw": 205.2,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 205.2
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0144"
+    ]
+  },
+  "Erath": {
+    "project_count": 2,
+    "total_capacity_mw": 308.2,
+    "avg_capacity_mw": 154.1,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 207.4
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 100.8
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0202",
+      "24INR0295"
+    ]
+  },
+  "Rusk": {
+    "project_count": 1,
+    "total_capacity_mw": 201.06,
+    "avg_capacity_mw": 201.06,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 201.06
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0286"
+    ]
+  },
+  "Anderson": {
+    "project_count": 2,
+    "total_capacity_mw": 313.39,
+    "avg_capacity_mw": 156.69,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 137.26
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 176.13
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0289",
+      "25INR0432"
+    ]
+  },
+  "Dallas": {
+    "project_count": 1,
+    "total_capacity_mw": 247.1,
+    "avg_capacity_mw": 247.1,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 247.1
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0299"
+    ]
+  },
+  "Midland": {
+    "project_count": 2,
+    "total_capacity_mw": 158.02,
+    "avg_capacity_mw": 79.01,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 17.7
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 140.32
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0300",
+      "23INR0387"
+    ]
+  },
+  "Cherokee": {
+    "project_count": 1,
+    "total_capacity_mw": 50.94,
+    "avg_capacity_mw": 50.94,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 50.94
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0324"
+    ]
+  },
+  "Upton": {
+    "project_count": 2,
+    "total_capacity_mw": 717.06,
+    "avg_capacity_mw": 358.53,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 307.46
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 409.6
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0340",
+      "25INR0557"
+    ]
+  },
+  "Maverick": {
+    "project_count": 3,
+    "total_capacity_mw": 604.22,
+    "avg_capacity_mw": 201.41,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 101.52
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 251.4
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 251.3
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0350",
+      "27INR0389",
+      "27INR0465"
+    ]
+  },
+  "Limestone": {
+    "project_count": 4,
+    "total_capacity_mw": 750.49,
+    "avg_capacity_mw": 187.62,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 4,
+        "capacity": 750.49
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "23INR0367",
+      "24INR0298",
+      "25INR0105",
+      "25INR0199"
+    ]
+  },
+  "Crane": {
+    "project_count": 3,
+    "total_capacity_mw": 607.11,
+    "avg_capacity_mw": 202.37,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 203.87
+      },
+      "SOL": {
+        "count": 2,
+        "capacity": 403.24
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0501",
+      "20INR0143",
+      "23INR0080"
+    ]
+  },
+  "Armstrong": {
+    "project_count": 2,
+    "total_capacity_mw": 765.8,
+    "avg_capacity_mw": 382.9,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 765.8
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "23INR0637",
+      "14INR0033"
+    ]
+  },
+  "Franklin": {
+    "project_count": 7,
+    "total_capacity_mw": 964.24,
+    "avg_capacity_mw": 137.75,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 4,
+        "capacity": 715.81
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 175.45
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 72.98
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3,
+      "SS Completed, FIS Started, IA": 4
+    },
+    "project_ids_sample": [
+      "24INR0150",
+      "24INR0154",
+      "24INR0155",
+      "24INR0484",
+      "24INR0490",
+      "23INR0155",
+      "23INR0156"
+    ]
+  },
+  "McMullen": {
+    "project_count": 1,
+    "total_capacity_mw": 261.42,
+    "avg_capacity_mw": 261.42,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 261.42
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0161"
+    ]
+  },
+  "Knox": {
+    "project_count": 2,
+    "total_capacity_mw": 809.41,
+    "avg_capacity_mw": 404.71,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 457.5
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 351.91
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "24INR0258",
+      "26INR0531"
+    ]
+  },
+  "Freestone": {
+    "project_count": 7,
+    "total_capacity_mw": 1161.95,
+    "avg_capacity_mw": 165.99,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 482.0
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 120.3
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 103.65
+      },
+      "GAS": {
+        "count": 2,
+        "capacity": 456.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 6,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0269",
+      "24INR0271",
+      "25INR0168",
+      "25INR0169",
+      "26INR0033",
+      "26INR0049",
+      "26INR0109"
+    ]
+  },
+  "Collin": {
+    "project_count": 5,
+    "total_capacity_mw": 845.5,
+    "avg_capacity_mw": 169.1,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 5,
+        "capacity": 845.5
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 5
+    },
+    "project_ids_sample": [
+      "24INR0274",
+      "25INR0101",
+      "25INR0391",
+      "25INR0392",
+      "24INR0312"
+    ]
+  },
+  "Martin": {
+    "project_count": 1,
+    "total_capacity_mw": 100.83,
+    "avg_capacity_mw": 100.83,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 100.83
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0275"
+    ]
+  },
+  "Burnet": {
+    "project_count": 1,
+    "total_capacity_mw": 124.1,
+    "avg_capacity_mw": 124.1,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 124.1
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0313"
+    ]
+  },
+  "Palo Pinto": {
+    "project_count": 1,
+    "total_capacity_mw": 120.68,
+    "avg_capacity_mw": 120.68,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 120.68
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0315"
+    ]
+  },
+  "Travis": {
+    "project_count": 3,
+    "total_capacity_mw": 300.89,
+    "avg_capacity_mw": 100.3,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 2,
+        "capacity": 169.84
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 131.05
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2,
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0330",
+      "25INR0688",
+      "23INR0239"
+    ]
+  },
+  "Menard": {
+    "project_count": 1,
+    "total_capacity_mw": 203.83,
+    "avg_capacity_mw": 203.83,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 203.83
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0386"
+    ]
+  },
+  "Motley": {
+    "project_count": 1,
+    "total_capacity_mw": 252.0,
+    "avg_capacity_mw": 252.0,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 252.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0399"
+    ]
+  },
+  "Nacogdoches": {
+    "project_count": 2,
+    "total_capacity_mw": 474.82,
+    "avg_capacity_mw": 237.41,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 316.19
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 158.63
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "24INR0418",
+      "25INR0215"
+    ]
+  },
+  "Rains": {
+    "project_count": 2,
+    "total_capacity_mw": 301.94,
+    "avg_capacity_mw": 150.97,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 125.81
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 176.13
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "24INR0477",
+      "25INR0370"
+    ]
+  },
+  "Gillespie": {
+    "project_count": 1,
+    "total_capacity_mw": 148.61,
+    "avg_capacity_mw": 148.61,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 148.61
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0514"
+    ]
+  },
+  "Lampasas": {
+    "project_count": 2,
+    "total_capacity_mw": 346.52,
+    "avg_capacity_mw": 173.26,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 201.52
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 145.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0543",
+      "26INR0147"
+    ]
+  },
+  "Brown": {
+    "project_count": 1,
+    "total_capacity_mw": 0.0,
+    "avg_capacity_mw": 0.0,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 0.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "24INR0631"
+    ]
+  },
+  "Ward": {
+    "project_count": 3,
+    "total_capacity_mw": 2230.0,
+    "avg_capacity_mw": 743.33,
+    "fuel_breakdown": {
+      "GAS": {
+        "count": 3,
+        "capacity": 2230.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1,
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "25INR0008",
+      "28INR0105",
+      "28INR0109"
+    ]
+  },
+  "Gray": {
+    "project_count": 2,
+    "total_capacity_mw": 1411.64,
+    "avg_capacity_mw": 705.82,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 702.64
+      },
+      "WIN": {
+        "count": 1,
+        "capacity": 709.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "25INR0080",
+      "26INR0113"
+    ]
+  },
+  "Clay": {
+    "project_count": 1,
+    "total_capacity_mw": 451.69,
+    "avg_capacity_mw": 451.69,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 451.69
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "25INR0097"
+    ]
+  },
+  "Madison": {
+    "project_count": 1,
+    "total_capacity_mw": 155.3,
+    "avg_capacity_mw": 155.3,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 1,
+        "capacity": 155.3
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "25INR0131"
+    ]
+  },
+  "Concho": {
+    "project_count": 5,
+    "total_capacity_mw": 1699.51,
+    "avg_capacity_mw": 339.9,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 3,
+        "capacity": 1127.31
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 572.2
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 5
+    },
+    "project_ids_sample": [
+      "25INR0174",
+      "25INR0175",
+      "25INR0225",
+      "26INR0255",
+      "26INR0357"
+    ]
+  },
+  "Kerr": {
+    "project_count": 1,
+    "total_capacity_mw": 122.6,
+    "avg_capacity_mw": 122.6,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 122.6
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "25INR0202"
+    ]
+  },
+  "Borden": {
+    "project_count": 7,
+    "total_capacity_mw": 2857.4,
+    "avg_capacity_mw": 408.2,
+    "fuel_breakdown": {
+      "STR": {
+        "count": 2,
+        "capacity": 901.9
+      },
+      "SOL": {
+        "count": 4,
+        "capacity": 1802.16
+      },
+      "OTH": {
+        "count": 1,
+        "capacity": 153.34
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 7
+    },
+    "project_ids_sample": [
+      "25INR0208",
+      "26INR0359",
+      "26INR0621",
+      "27INR0434",
+      "27INR0500",
+      "23INR0470",
+      "26INR0636"
+    ]
+  },
+  "Caldwell": {
+    "project_count": 2,
+    "total_capacity_mw": 282.6,
+    "avg_capacity_mw": 141.3,
+    "fuel_breakdown": {
+      "GAS": {
+        "count": 2,
+        "capacity": 282.6
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "25INR0223",
+      "25INR0503"
+    ]
+  },
+  "Hood": {
+    "project_count": 1,
+    "total_capacity_mw": 201.15,
+    "avg_capacity_mw": 201.15,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 201.15
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "25INR0231"
+    ]
+  },
+  "Zavala": {
+    "project_count": 1,
+    "total_capacity_mw": 80.38,
+    "avg_capacity_mw": 80.38,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 80.38
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "25INR0304"
+    ]
+  },
+  "Lubbock": {
+    "project_count": 1,
+    "total_capacity_mw": 254.8,
+    "avg_capacity_mw": 254.8,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 254.8
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "25INR0313"
+    ]
+  },
+  "Stonewall": {
+    "project_count": 1,
+    "total_capacity_mw": 603.59,
+    "avg_capacity_mw": 603.59,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 603.59
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "26INR0269"
+    ]
+  },
+  "Kendall": {
+    "project_count": 1,
+    "total_capacity_mw": 251.05,
+    "avg_capacity_mw": 251.05,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 251.05
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "26INR0407"
+    ]
+  },
+  "Baylor": {
+    "project_count": 2,
+    "total_capacity_mw": 784.99,
+    "avg_capacity_mw": 392.5,
+    "fuel_breakdown": {
+      "WIN": {
+        "count": 2,
+        "capacity": 784.99
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "27INR0005",
+      "27INR0011"
+    ]
+  },
+  "Carson": {
+    "project_count": 2,
+    "total_capacity_mw": 811.1,
+    "avg_capacity_mw": 405.55,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 439.4
+      },
+      "STR": {
+        "count": 1,
+        "capacity": 371.7
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "27INR0022",
+      "27INR0025"
+    ]
+  },
+  "Hutchinson": {
+    "project_count": 2,
+    "total_capacity_mw": 564.7,
+    "avg_capacity_mw": 282.35,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 564.7
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 2
+    },
+    "project_ids_sample": [
+      "27INR0023",
+      "27INR0024"
+    ]
+  },
+  "Montgomery": {
+    "project_count": 1,
+    "total_capacity_mw": 217.16,
+    "avg_capacity_mw": 217.16,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 217.16
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "27INR0109"
+    ]
+  },
+  "King": {
+    "project_count": 2,
+    "total_capacity_mw": 406.0,
+    "avg_capacity_mw": 203.0,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 2,
+        "capacity": 406.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "27INR0127",
+      "27INR0128"
+    ]
+  },
+  "Johnson": {
+    "project_count": 2,
+    "total_capacity_mw": 975.56,
+    "avg_capacity_mw": 487.78,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 202.56
+      },
+      "SOL": {
+        "count": 1,
+        "capacity": 773.0
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 2
+    },
+    "project_ids_sample": [
+      "27INR0173",
+      "24INR0075"
+    ]
+  },
+  "Fayette": {
+    "project_count": 1,
+    "total_capacity_mw": 240.63,
+    "avg_capacity_mw": 240.63,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 240.63
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "21INR0351"
+    ]
+  },
+  "Denton": {
+    "project_count": 3,
+    "total_capacity_mw": 412.13,
+    "avg_capacity_mw": 137.38,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 245.83
+      },
+      "STR": {
+        "count": 2,
+        "capacity": 166.3
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 3
+    },
+    "project_ids_sample": [
+      "21INR0458",
+      "22INR0327",
+      "22INR0598"
+    ]
+  },
+  "Lee": {
+    "project_count": 1,
+    "total_capacity_mw": 150.84,
+    "avg_capacity_mw": 150.84,
+    "fuel_breakdown": {
+      "SOL": {
+        "count": 1,
+        "capacity": 150.84
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Started, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0211"
+    ]
+  },
+  "Hale": {
+    "project_count": 1,
+    "total_capacity_mw": 200.8,
+    "avg_capacity_mw": 200.8,
+    "fuel_breakdown": {
+      "OTH": {
+        "count": 1,
+        "capacity": 200.8
+      }
+    },
+    "status_breakdown": {
+      "SS Completed, FIS Completed, IA": 1
+    },
+    "project_ids_sample": [
+      "22INR0322"
+    ]
+  }
+}

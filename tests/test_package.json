@@ -1,0 +1,18 @@
+{
+  "name": "perplexity-node-test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Test script for Perplexity NODE-level analysis",
+  "main": "test_perplexity_node_analysis.js",
+  "scripts": {
+    "test": "node test_perplexity_node_analysis.js",
+    "test:verbose": "DEBUG=* node test_perplexity_node_analysis.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["perplexity", "ercot", "power-grid", "node-analysis"],
+  "author": "DCC Team",
+  "license": "MIT"
+}

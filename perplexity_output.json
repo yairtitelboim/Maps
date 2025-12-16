@@ -1,0 +1,286 @@
+🚀 Starting test... (Press Ctrl+C to cancel at any time)
+🧪 Starting Perplexity NODE Analysis Test...
+📍 Site: Whitney, TX (31.9315, -97.347)
+
+1️⃣ Simulating SERP data collection...
+   Found 5 power infrastructure facilities
+2️⃣ Simulating OSM data collection...
+   Found 1 geographic features
+3️⃣ Building infrastructure summary...
+   Total features: 6
+   Power infrastructure: 5
+   Geographic features: 1
+4️⃣ Building enhanced prompt for real ERCOT data...
+   Prompt length: 5839 characters
+5️⃣ Querying Perplexity API...
+   ⏳ API call in progress... (this may take 10-30 seconds)
+   ⚠️ API call taking longer than expected... still waiting...
+   ✅ API response received, parsing...
+   📊 Parsing response data...
+✅ Perplexity API Response Received
+   Response time: 64394ms
+   Analysis length: 10091 characters
+   Citations: 5
+
+📊 PERPLEXITY ANALYSIS RESULTS:
+================================
+## NODE 1: **Bosque Power Co LLC**
+- **Type:** Power Plant (likely Natural Gas, but specific EIA-860 data not found in public sources for this plant)
+- **EIA Plant ID:** Data not available from public EIA/FERC/ERCOT sources
+- **Current Status:** Data not available from public EIA/FERC/ERCOT sources
+
+**1. POWER SCORE:** Data not available from public EIA/FERC/ERCOT sources  
+- **Nameplate Capacity:** Data not available  
+- **Recent Generation:** Data not available  
+- **Capacity Factor:** Data not available  
+- **Source Link:** Data not available  
+- **Last Updated:** Data not available  
+
+**2. STABILITY SCORE:** Data not available from public EIA/FERC/ERCOT sources  
+- **ERCOT Zone:** Data not available  
+- **Grid Integration:** Data not available  
+- **Reliability Metrics:** Data not available  
+- **Source Link:** Data not available  
+
+**3. TRANSMISSION CAPACITY:** Data not available from public EIA/FERC/ERCOT sources  
+- **Transmission Lines:** Data not available  
+- **Voltage Level:** Data not available  
+- **Available Capacity:** Data not available  
+- **Regional Load:** Data not available  
+- **Source Link:** Data not available  
+
+**4. RELIABILITY METRICS:** Data not available from public EIA/FERC/ERCOT sources  
+- **Historical Outages:** Data not available  
+- **Fuel Dependencies:** Data not available  
+- **Weather Resilience:** Data not available  
+- **Maintenance History:** Data not available  
+- **Source Links:** Data not available  
+
+**5. REGIONAL CONTEXT:**  
+- **Load Zone Analysis:** See ERCOT North Zone for regional context.  
+- **Transmission Planning:** See FERC Texas market reports.  
+- **Infrastructure Investment:** See Texas PUC filings[3].  
+- **Regional Generation Mix:** See EIA Texas state data[1].  
+- **Source Links:**  
+  - ERCOT: https://www.ercot.com/news/reports  
+  - FERC: https://www.ferc.gov/market-oversight/markets-electricity  
+  - PUC: https://www.puc.texas.gov/  
+  - EIA: https://www.eia.gov/electricity/data/state/  
+
+**6. DATA CENTER IMPACT:**  
+- **Power Availability:** Regional data only[1].  
+- **Transmission Redundancy:** Regional data only.  
+- **Reliability Standards:** Regional data only[3].  
+- **Grid Stability:** Regional data only.  
+- **Source Link:** See above.
+
+---
+
+## NODE 2: **Hill County Water Supply Corporation**
+- **Type:** Electric Utility (distribution, not generation)
+- **EIA Plant ID:** Data not available from public EIA/FERC/ERCOT sources
+- **Current Status:** Data not available from public EIA/FERC/ERCOT sources
+
+**All metrics:** Data not available from public EIA/FERC/ERCOT sources.  
+This entity is a water utility with electric infrastructure, not a power generation or transmission node tracked in EIA/FERC/ERCOT databases.
+
+---
+
+## NODE 3: **Oncor Electric Delivery**
+- **Type:** Electric Utility (Transmission/Distribution)
+- **EIA Plant ID:** Data not available from public EIA/FERC/ERCOT sources
+- **Current Status:** Operational (major Texas T&D utility)
+
+**1. POWER SCORE:** Data not available (utility, not generation)  
+**2. STABILITY SCORE:**  
+- **ERCOT Zone:** North Zone (regional context)  
+- **Grid Integration:** Oncor is a principal T&D operator in ERCOT North  
+- **Reliability Metrics:** See ERCOT system reports  
+- **Source Link:**  
+  - ERCOT: https://www.ercot.com/news/reports  
+  - FERC: https://www.ferc.gov/market-oversight/markets-electricity  
+
+**3. TRANSMISSION CAPACITY:**  
+- **Transmission Lines:** Oncor operates 69 kV, 138 kV, and 345 kV lines in the region  
+- **Voltage Level:** 69–345 kV (regional)  
+- **Available Capacity:** See ERCOT transmission planning reports  
+- **Regional Load:** See EIA Texas state data[1]  
+- **Source Link:**  
+  - FERC: https://www.ferc.gov/market-oversight/markets-electricity  
+  - ERCOT: https://www.ercot.com/news/reports  
+
+**4. RELIABILITY METRICS:**  
+- **Historical Outages:** See ERCOT system reliability reports  
+- **Fuel Dependencies:** N/A (T&D utility)  
+- **Weather Resilience:** See Texas PUC filings and ERCOT reports[3]  
+- **Maintenance History:** See Texas PUC filings[3]  
+- **Source Links:**  
+  - ERCOT: https://www.ercot.com/news/reports  
+  - PUC: https://www.puc.texas.gov/  
+
+**5. REGIONAL CONTEXT:**  
+- **Load Zone Analysis:** ERCOT North Zone  
+- **Transmission Planning:** FERC Texas market reports  
+- **Infrastructure Investment:** Texas PUC filings[3]  
+- **Regional Generation Mix:** EIA Texas state data[1]  
+- **Source Links:** See above.
+
+**6. DATA CENTER IMPACT:**  
+- **Power Availability:** Regional data only[1]  
+- **Transmission Redundancy:** Oncor provides redundancy in ERCOT North  
+- **Reliability Standards:** Texas PUC compliance[3]  
+- **Grid Stability:** ERCOT system reports  
+- **Source Link:** See above.
+
+---
+
+## NODE 4: **Lake Whitney Power Plant**
+- **Type:** Hydroelectric Power Plant
+- **EIA Plant ID:** 6414[1][5]
+- **Current Status:** Operational (as of Dec 2024)[1]
+
+**1. POWER SCORE:** 6/10  
+- **Nameplate Capacity:** 48.00 MW[5]  
+- **Recent Generation:** 69.4 GWh (annual)[1]  
+- **Capacity Factor:**  
+  \[
+  \text{Capacity Factor} = \frac{69.4 \text{ GWh}}{48 \text{ MW} \times 8760 \text{ h}} = \frac{69,400 \text{ MWh}}{420,480 \text{ MWh}} \approx 0.165 \text{ or } 16.5\%
+  \]
+- **Source Link:**  
+  - EIA Plant Data: https://www.eia.gov/electricity/data/eia860/  
+  - OpenInfraMap: https://openinframap.org/stats/area/United%20States/plants/508017023  
+- **Last Updated:** Dec 2024[1]
+
+**2. STABILITY SCORE:** 7/10  
+- **ERCOT Zone:** North Zone (Balancing Authority: ERCOT)[1]  
+- **Grid Integration:** 69 kV transmission, owned by Brazos Electric Power Coop[1]  
+- **Reliability Metrics:** Hydroelectric, low forced outage rate (regional EIA data)[1]  
+- **Source Link:**  
+  - ERCOT: https://www.ercot.com/news/reports  
+  - FERC: https://www.ferc.gov/market-oversight/markets-electricity  
+- **Last Updated:** Dec 2024[1]
+
+**3. TRANSMISSION CAPACITY:**  
+- **Transmission Lines:** 69 kV, owned by Brazos Electric Power Coop[1]  
+- **Voltage Level:** 69 kV[1]  
+- **Available Capacity:** Data not available from public EIA/FERC/ERCOT sources  
+- **Regional Load:** See EIA Texas state data[1]  
+- **Source Link:**  
+  - EIA: https://www.eia.gov/electricity/data/state/  
+  - FERC: https://www.ferc.gov/market-oversight/markets-electricity  
+
+**4. RELIABILITY METRICS:**  
+- **Historical Outages:** Data not available from public EIA/FERC/ERCOT sources  
+- **Fuel Dependencies:** Water (Brazos River)[1]  
+- **Weather Resilience:** Hydroelectric plants are generally resilient, but drought can impact output (see FERC reliability studies)  
+- **Maintenance History:** Data not available from public EIA/FERC/ERCOT sources  
+- **Source Links:**  
+  - EIA: https://www.eia.gov/electricity/data/eia860/  
+  - FERC: https://www.ferc.gov/market-oversight/markets-electricity  
+
+**5. REGIONAL CONTEXT:**  
+- **Load Zone Analysis:** ERCOT North Zone  
+- **Transmission Planning:** FERC Texas market reports  
+- **Infrastructure Investment:** Texas PUC filings[3]  
+- **Regional Generation Mix:** Texas is dominated by natural gas, wind, and solar, with hydro <1% of mix[1]  
+- **Source Links:**  
+  - ERCOT: https://www.ercot.com/news/reports  
+  - FERC: https://www.ferc.gov/market-oversight/markets-electricity  
+  - PUC: https://www.puc.texas.gov/  
+  - EIA: https://www.eia.gov/electricity/data/state/  
+
+**6. DATA CENTER IMPACT:**  
+- **Power Availability:** Limited by plant size (48 MW), but contributes to local grid[1][5]  
+- **Transmission Redundancy:** 69 kV line, regional redundancy via ERCOT North[1]  
+- **Reliability Standards:** Subject to ERCOT and Texas PUC standards[3]  
+- **Grid Stability:** Hydroelectric provides grid support but is a small share of ERCOT mix[1]  
+- **Source Link:** See above.
+
+---
+
+## NODE 5: **Texas-New Mexico Power (TNMP)**
+- **Type:** Electric Utility (Transmission/Distribution)
+- **EIA Plant ID:** Data not available from public EIA/FERC/ERCOT sources
+- **Current Status:** Operational
+
+**All metrics:** Data not available from public EIA/FERC/ERCOT sources for specific infrastructure in Whitney, TX.  
+TNMP is a T&D utility, not a generation plant; see regional ERCOT/FERC/EIA data for context.
+
+---
+
+## GEOGRAPHIC INFRASTRUCTURE:  
+### Lake Whitney Substation (Operator: Brazos Electric Power Coop)
+- **Type:** Substation
+- **EIA Plant ID:** Data not available from public EIA/FERC/ERCOT sources
+- **Current Status:** Operational (as per regional grid data)
+
+**All metrics:** Data not available from public EIA/FERC/ERCOT sources for this specific substation.  
+Regional transmission and substation data available via FERC and ERCOT.
+
+---
+
+### REGIONAL CONTEXT (Whitney, TX, ERCOT North Zone)
+- **ERCOT Zone:** North Zone
+- **Regional Generation Mix:**  
+  - Natural Gas: ~50%  
+  - Wind: ~20%  
+  - Solar: ~7%  
+  - Coal: ~16%  
+  - Hydro: <1%  
+  - [EIA Texas State Data, 2023][1]
+- **Transmission Planning:**  
+  - ERCOT and FERC regularly assess North Zone transmission adequacy
+- **Reliability Standards:**  
+  - Texas PUC and ERCOT enforce standards for all utilities and plants[3]
+- **Source Links:**  
+  - EIA: https://www.eia.gov/electricity/data/state/  
+  - ERCOT: https://www.ercot.com/news/reports  
+  - FERC: https://www.ferc.gov/market-oversight/markets-electricity  
+  - PUC: https://www.puc.texas.gov/  
+
+---
+
+**Key Source Links Used:**
+- EIA State Electricity Data: https://www.eia.gov/electricity/data/state/
+- EIA Power Plant Data: https://www.eia.gov/electricity/data/eia860/
+- FERC Electric Power Markets: https://www.ferc.gov/market-oversight/markets-electricity
+- ERCOT Public Reports: https://www.ercot.com/news/reports
+- Texas PUC Filings: https://www.puc.texas.gov/
+- OpenInfraMap (EIA Plant ID 6414): https://openinframap.org/stats/area/United%20States/plants/508017023
+
+**Last Updated:**  
+- EIA Plant Data: Dec 2024[1]  
+- ERCOT/FERC/PUC: 2023–2024 (see respective report timestamps)
+
+**Note:**  
+Where specific plant or utility data is not available from public EIA/FERC/ERCOT sources, only regional or contextual data is provided as required by your instructions.
+
+📚 CITATIONS:
+==============
+1. https://www.gridinfo.com/plant/whitney/6414
+2. https://felt.com/explore/power-plants-mclennan-county-texas
+3. https://www.puc.texas.gov/industry/maps/supplychain/Default.aspx
+4. https://felt.com/explore/power-plants-hill-county-texas
+5. https://openinframap.org/stats/area/United%20States/plants/508017023
+
+🔍 RESPONSE QUALITY ANALYSIS:
+==============================
+✅ Contains EIA links: true
+✅ Contains FERC links: true
+✅ Contains ERCOT links: true
+✅ Contains specific MW numbers: true
+❌ Contains estimates (should be minimal): true
+✅ Contains timestamps: false
+✅ Contains source links: true
+✅ Contains EIA Plant IDs: false
+📚 Number of citations: 5
+🏢 Number of nodes analyzed: 5
+📊 Consistent structure check:
+   - Power scores: 3/5
+   - Stability scores: 3/5
+   - Transmission capacity: 3/5
+
+🎯 Overall Quality Score: 100/100
+✅ EXCELLENT: Response meets real-data requirements
+
+🎉 Test completed successfully!

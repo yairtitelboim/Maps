@@ -1,0 +1,540 @@
+2025-03-16 20:51:37,536 - INFO - Loading NLP model...
+2025-03-16 20:51:38,202 - INFO - Processing file: public/processed_planning_docs/enriched/development_potential.geojson
+2025-03-16 20:51:38,260 - INFO - Found 7530 features to analyze
+2025-03-16 20:51:38,470 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:38,752 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:51:38,850 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:51:40,968 - WARNING - Low coherence score (4.89) for: cant project
+2025-03-16 20:51:41,195 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:42,014 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:43,816 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:44,578 - WARNING - Low coherence score (4.85) for: san pedro
+2025-03-16 20:51:45,854 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:46,456 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:50,024 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:50,286 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:51:50,381 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:51:52,406 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:57,363 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:51:57,472 - WARNING - Low coherence score (4.95) for: san pedro
+2025-03-16 20:51:57,682 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:51:57,750 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:04,406 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:06,517 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:06,665 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:06,708 - WARNING - Low coherence score (4.92) for: san pedro
+2025-03-16 20:52:06,728 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:08,715 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:09,401 - WARNING - Low coherence score (4.99) for: san pedro
+2025-03-16 20:52:09,465 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:09,568 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:09,938 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:16,389 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:17,254 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:17,344 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:17,658 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:18,578 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:19,330 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:20,227 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:21,898 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:23,671 - WARNING - Low coherence score (4.75) for: harbor
+2025-03-16 20:52:23,773 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:24,023 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:24,074 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:25,757 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:27,862 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:27,951 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:28,264 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:29,192 - WARNING - Low coherence score (4.75) for: harbor
+2025-03-16 20:52:29,296 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:29,548 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:29,599 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:30,437 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:31,893 - WARNING - Low coherence score (4.84) for: san pedro
+2025-03-16 20:52:32,615 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:32,824 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:32,891 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:36,632 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:36,724 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:37,037 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:38,282 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 20:52:38,662 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:39,278 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 20:52:39,459 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:41,511 - WARNING - Low coherence score (4.93) for: san pedro
+2025-03-16 20:52:41,599 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:41,789 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:41,836 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:42,803 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:43,511 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:45,401 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:45,421 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:45,427 - WARNING - Low coherence score (1) for: BackgroundandPurpose TheGeneralPlanAnnualProgressReport
+2025-03-16 20:52:45,432 - WARNING - Low coherence score (1) for: AHousingElementAnnual ProgressReport
+2025-03-16 20:52:45,438 - WARNING - Low coherence score (1) for: AllAnnualProgressReportsareavailableontheLosAngelesCity Planningwebsite
+2025-03-16 20:52:45,443 - WARNING - Low coherence score (1) for: Thereportandrecordingsof eachsessionareavailableontheCEMOwebsite
+2025-03-16 20:52:45,455 - WARNING - Low coherence score (1) for: Majorcompletestreetproject
+2025-03-16 20:52:45,460 - WARNING - Low coherence score (1) for: fundingforRailtoRailproject
+2025-03-16 20:52:45,467 - WARNING - Low coherence score (1) for: theCityCouncilhasaskedkeydepartmentstoreport
+2025-03-16 20:52:45,474 - WARNING - Low coherence score (1) for: howLAisimprovingcommunity
+2025-03-16 20:52:45,479 - WARNING - Low coherence score (1) for: pagesoftheLos
+
+AngelesCityPlanningWebsite
+2025-03-16 20:52:45,485 - WARNING - Low coherence score (1) for: RailActiveTransportationCorridor
+2025-03-16 20:52:45,491 - WARNING - Low coherence score (1) for: DowntownLos AngelesandBoyleHeights
+2025-03-16 20:52:45,496 - WARNING - Low coherence score (1) for: isjobsatsite
+2025-03-16 20:52:45,502 - WARNING - Low coherence score (1) for: WoodlandHills
+2025-03-16 20:52:45,509 - WARNING - Low coherence score (1) for: MissionHills
+2025-03-16 20:52:45,515 - WARNING - Low coherence score (1) for: ShadowHills
+2025-03-16 20:52:45,521 - WARNING - Low coherence score (1) for: Thesefigur esrepresentthebestavailabledataonexistingdemographics withmoredetailedprofilesavailableforeachCommunityPlanArea
+2025-03-16 20:52:45,528 - WARNING - Low coherence score (1) for:  CanogaPark
+2025-03-16 20:52:45,534 - WARNING - Low coherence score (1) for: andurbanforestinfrastructureareaddressedintheOpenSpaceand Conservationsectionofthisreport
+2025-03-16 20:52:45,540 - WARNING - Low coherence score (1) for: andmasterplansfortheairportandport
+2025-03-16 20:52:45,547 - WARNING - Low coherence score (1) for: Thepolicydocumentlaysout thecommunity
+2025-03-16 20:52:45,559 - WARNING - Low coherence score (1) for: developmentstandardsforBunkerHilland
+
+CivicCenter
+2025-03-16 20:52:45,565 - WARNING - Low coherence score (1) for: theDepartmentreleasedPreliminaryDraftPlansfortwoCommunity Planareasintheharborarea
+2025-03-16 20:52:45,571 - WARNING - Low coherence score (1) for: memberAdvisoryGroupiscomposedofadiversegroupofcommunity
+2025-03-16 20:52:45,578 - WARNING - Low coherence score (1) for: ValleyVillage
+2025-03-16 20:52:45,583 - WARNING - Low coherence score (1) for: Cahuenga BoulevardCorridor
+2025-03-16 20:52:45,597 - WARNING - Low coherence score (1) for: usebuildinginanarea
+2025-03-16 20:52:45,603 - WARNING - Low coherence score (1) for: Theprojectwouldalsobeconsistentwiththescaleandcharacteristicsofthe surroundingresidentialneighborhood
+2025-03-16 20:52:45,610 - WARNING - Low coherence score (1) for: sobjectivesandgoalsbyincreasing jobsupplyandcommercialandprofessionalserviceswithinthearea
+2025-03-16 20:52:45,617 - WARNING - Low coherence score (1) for:  ThisprojectincludestheamendmentoftheNortheastLosAngelesCommunityPlanto redesignatethesubjectpropertiesfromLowMediumIIResidentialtoNeighborhood
+2025-03-16 20:52:45,623 - WARNING - Low coherence score (1) for: onlydevelopment
+2025-03-16 20:52:45,630 - WARNING - Low coherence score (1) for: describedinthezoningandlandusesectionofthisreport
+2025-03-16 20:52:45,635 - WARNING - Low coherence score (1) for: andtheDepartmentofHousingandCommunityDevelopment
+2025-03-16 20:52:45,641 - WARNING - Low coherence score (1) for: CornfieldArroyoSpecificPlan
+2025-03-16 20:52:45,646 - WARNING - Low coherence score (1) for: OverthepastseveralyearstherehasbeenanincreasedinterestintheGeneralPlan
+2025-03-16 20:52:45,651 - WARNING - Low coherence score (1) for: InadditiontoworkingtoupdatetheGeneralPlan
+2025-03-16 20:52:45,656 - WARNING - Low coherence score (1) for: swebsite
+2025-03-16 20:52:45,662 - WARNING - Low coherence score (1) for: WhiletheGeneralPlan
+2025-03-16 20:52:45,668 - WARNING - Low coherence score (1) for: Thisworkprogramhas recentlylaunchedaspartoftheHousingElementRezoningProgram
+2025-03-16 20:52:45,674 - WARNING - Low coherence score (1) for: splanningeffortstocontributemorepositivelyto citywidediscussionsonhousingandeconomicdevelopment
+2025-03-16 20:52:45,680 - WARNING - Low coherence score (1) for: Thisauditwillhelpthemto evaluatestrategiestoelevateEnvironmentalJusticeintheLosAngelesGeneralPlan
+2025-03-16 20:52:45,686 - WARNING - Low coherence score (1) for: OsbornStreetPathtoParkAccessProject
+2025-03-16 20:52:45,693 - WARNING - Low coherence score (1) for: CompleteStreetsProjects InadditiontoallocatingGeneralFunddollarstoimplementtheMobilityPlan
+2025-03-16 20:52:45,699 - WARNING - Low coherence score (1) for: SkidRowConnectivityandSafetyProgram
+2025-03-16 20:52:45,704 - WARNING - Low coherence score (1) for:  LADOTlaunchedtheUniversalBasicMobilityPilot
+2025-03-16 20:52:45,710 - WARNING - Low coherence score (1) for: MetroTransit CenterStation
+2025-03-16 20:52:45,716 - WARNING - Low coherence score (1) for: floorarea
+2025-03-16 20:52:45,722 - WARNING - Low coherence score (1) for: FutureCouncilinstructionsandbudgetdecisions haveapathwaytosupportincreasedresourcesdedicatedtoMobilityPlan
+2025-03-16 20:52:45,728 - WARNING - Low coherence score (1) for: LASANreleasedthefirstofficialLABiodiversityBaselineReport
+2025-03-16 20:52:45,734 - WARNING - Low coherence score (1) for: sordinanceexpandstheSouthLos AngelesCPIODistrict
+2025-03-16 20:52:45,740 - WARNING - Low coherence score (1) for: SlausonCorridorTransitNeighborhoodPlan
+2025-03-16 20:52:45,746 - WARNING - Low coherence score (1) for: CorridorTransitNeighborhoodPlan
+2025-03-16 20:52:45,751 - WARNING - Low coherence score (1) for: areavailableontheCityPlanningWebsite
+2025-03-16 20:52:45,758 - WARNING - Low coherence score (1) for:  releasedresultsbyCommunityPlanArea
+2025-03-16 20:52:45,763 - WARNING - Low coherence score (1) for: CanogaPark
+2025-03-16 20:52:45,775 - WARNING - Low coherence score (1) for: EchoPark
+2025-03-16 20:52:45,782 - WARNING - Low coherence score (1) for: BaldwinHills
+2025-03-16 20:52:45,787 - WARNING - Low coherence score (1) for: ACSdatais summarizedbelowwithmoreinformationavailableontheCityPlanningwebsite
+2025-03-16 20:52:45,793 - WARNING - Low coherence score (1) for:  GranadaHills
+2025-03-16 20:52:45,800 - WARNING - Low coherence score (1) for: InfrastructureMonitoringandReporting InfrastructureisdiscussedinseveralsectionsoftheGeneralPlan
+2025-03-16 20:52:45,805 - WARNING - Low coherence score (1) for: whichconnectsthelightrailsystemtoLAInternationalAirport
+2025-03-16 20:52:45,812 - WARNING - Low coherence score (1) for: AftersubmittingtheElementtotheStateDepartmentofHousingand CommunityDevelopment
+2025-03-16 20:52:45,818 - WARNING - Low coherence score (1) for: EachCommunity
+2025-03-16 20:52:45,824 - WARNING - Low coherence score (1) for: TermResourcePlan
+2025-03-16 20:52:45,829 - WARNING - Low coherence score (1) for: ThePortofLos AngeleshasaseparateMasterPlan
+2025-03-16 20:52:45,835 - WARNING - Low coherence score (1) for: WestsideCommunity
+2025-03-16 20:52:45,840 - WARNING - Low coherence score (1) for: CivicCenter
+2025-03-16 20:52:45,845 - WARNING - Low coherence score (1) for: CommunityPlan
+2025-03-16 20:52:45,850 - WARNING - Low coherence score (1) for: LACPpublishedtheBoyleHeightsCommunityPlan
+2025-03-16 20:52:45,857 - WARNING - Low coherence score (1) for: WestHIlls
+2025-03-16 20:52:45,869 - WARNING - Low coherence score (1) for: LookingAhead LACPiscurrentlyexploringseveralupdatestotheLosAngelesGeneralPlan
+2025-03-16 20:52:45,876 - WARNING - Low coherence score (1) for: Eachprojectwasfound tobeconsistentwiththegoalsandpoliciesoftheexistingGeneralPlan
+2025-03-16 20:52:45,893 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:47,183 - WARNING - Low coherence score (4.88) for: san pedro
+2025-03-16 20:52:47,202 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:47,301 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:47,472 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:48,053 - WARNING - Low coherence score (1) for: requiredprocessthatseekstoensurecitiesandcounties planforenoughhousingintheirHousingElementcycletoaccommodatealleconomic segmentsofthecommunity
+2025-03-16 20:52:48,059 - WARNING - Low coherence score (1) for: Thisresultsinatotaldevelopment
+2025-03-16 20:52:48,091 - WARNING - Low coherence score (1) for: ThisshortfallmustbeaccommodatedbyaRezoningProgram
+2025-03-16 20:52:48,419 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:49,228 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:50,301 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:51,153 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:51,359 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:51,425 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:52,435 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:52,640 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:52,706 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:53,679 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:54,500 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:58,060 - WARNING - Low coherence score (4.75) for: harbor
+2025-03-16 20:52:58,161 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:52:58,413 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:52:58,464 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:52:59,886 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 20:53:00,090 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:01,603 - WARNING - Low coherence score (4.75) for: harbor
+2025-03-16 20:53:01,705 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:01,956 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:53:02,007 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:02,849 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:03,596 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:53:04,532 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:53:05,317 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:05,708 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:53:05,797 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:06,109 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:06,932 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:08,036 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:09,205 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:10,507 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:12,720 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 20:53:13,349 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:53:15,428 - WARNING - Low coherence score (1) for: widehousing incentiveprogramwillnotmodifyunderlyingzoningofaparcelbutinsteadofferdevelopment
+2025-03-16 20:53:15,436 - WARNING - Low coherence score (1) for:  downtowncreatingtheAdaptivereuseincentiveareaspecificplantocoverpartsofHollywood KoreatownLincolnHeightsChinatownandSouthLosAngelesexistingbuildingsandotherparts ofthecitymaystillbereusedunderthecurrentzoningregulationbutthesamestreamline processesandincentivesindowntownandtheincentiveareasarenotyetavailableCitywide CityPlanningisdevelopinganewzoningcodeaddingnewincentivesforadaptivereuse projectsitbecomesoperationalasupdatestocommunityplansareadoptedthedowntown
+2025-03-16 20:53:15,442 - WARNING - Low coherence score (1) for: widepolicyforforinstanceindowntownconversionstoandfrom residentialusearepermittedandinthiscaseinthiscurrentdraftforareasoutsideofdowntown
+2025-03-16 20:53:15,448 - WARNING - Low coherence score (1) for: widelevelsonotnotaalocalatalocalizedlevelonethingIdowanttoclarifyistherethere hasbeensomeconfusionaboutRenaandRenaallocationskindofinthegeneralpublicand consensusaroundhousingelementrezoningthereisnotArenaallocationforeachCommunity
+2025-03-16 20:53:15,454 - WARNING - Low coherence score (1) for: venotenvisionedenvisionedenvisagedinthecraftingofthedraftordinance manyprojectsproposereuseofexistingbuildinginconjunctionwithnewconstructionthezoning administratorwillreviewsuchunifieddevelopmentprojectsbeforeapprovingfloorarea
+2025-03-16 20:53:15,460 - WARNING - Low coherence score (1) for: rehearingtodayandinourcommunity
+2025-03-16 20:53:16,360 - INFO - Processing file: public/processed_planning_docs/enriched/adaptive_reuse.geojson
+2025-03-16 20:53:16,367 - INFO - Found 2718 features to analyze
+2025-03-16 20:53:16,647 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 20:53:18,516 - WARNING - Low coherence score (4.95) for: san pedro
+2025-03-16 20:53:19,981 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 20:53:21,262 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:22,598 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:22,955 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:24,385 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:24,407 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:29,458 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:29,479 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:30,837 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 20:53:31,006 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 20:53:32,946 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:34,695 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 20:53:35,824 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:35,845 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:36,579 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:38,268 - WARNING - Low coherence score (4.94) for: san pedro
+2025-03-16 20:53:38,808 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 20:53:40,265 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:40,288 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:41,752 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 20:53:42,622 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:44,351 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 20:53:45,136 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:48,380 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 20:53:49,489 - WARNING - Low coherence score (1) for: andTransformativePlanningorganizedseveralpublicmeetingsto receiveinputfromCityresidentsandcommunity
+2025-03-16 20:53:49,514 - WARNING - Low coherence score (1) for: thedemandforstudenthousinghasdrivenupthepriceofpropertiesnearthe UniversityofSouthernCaliforniacampus
+2025-03-16 20:53:49,538 - WARNING - Low coherence score (1) for: Severalclassesof infrastructureareaddressedmorespecificallyinearliersectionsofthisreport
+2025-03-16 20:53:49,561 - WARNING - Low coherence score (1) for: sHospitalComplex
+2025-03-16 20:53:49,585 - WARNING - Low coherence score (1) for: MacarthurPark
+2025-03-16 20:53:49,608 - WARNING - Low coherence score (1) for:  InordertofacilitatethedevelopmentoftheprojecttheapplicantrequestedaGPA changingthesubjectproperty
+2025-03-16 20:53:49,630 - WARNING - Low coherence score (1) for: theprojectwill preservecommerciallandbybringingamixofservicestoanunderutilizedsite
+2025-03-16 20:53:49,654 - WARNING - Low coherence score (1) for: orientedcultureandcharacterofthe surroundingarea
+2025-03-16 20:53:49,676 - WARNING - Low coherence score (1) for: SustainabilityiscoveredacrossmanyElementsoftheGeneralPlan
+2025-03-16 20:53:49,697 - WARNING - Low coherence score (1) for: CityPlanninglaunchedtheLos AngelesAfricanAmericanHistoricPlacesProject
+2025-03-16 20:53:49,718 - WARNING - Low coherence score (1) for: orienteddevelopment
+2025-03-16 20:53:49,738 - WARNING - Low coherence score (1) for: inexchangefor includingaffordablehousinginaproject
+2025-03-16 20:53:49,744 - WARNING - Low coherence score (1) for: locatedinaneighborhood
+2025-03-16 20:53:50,271 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:50,622 - WARNING - Low coherence score (1) for: thedraftplanincludesapredictivemodelpreparedbytheTernerCenter
+2025-03-16 20:53:51,897 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:52,672 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 20:53:52,787 - WARNING - Low coherence score (4.94) for: san pedro
+2025-03-16 20:53:52,925 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 20:53:52,999 - WARNING - Low coherence score (4.94) for: san pedro
+2025-03-16 20:53:53,136 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 20:53:55,673 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:56,039 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 20:53:56,512 - WARNING - Low coherence score (4.82) for: hollywood
+2025-03-16 20:53:56,797 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:57,027 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:57,733 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:58,194 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:58,468 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:59,148 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:53:59,166 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:53:59,391 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:54:00,072 - WARNING - Low coherence score (4.82) for: hollywood
+2025-03-16 20:54:00,320 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:54:01,172 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:54:02,743 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 20:54:02,989 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 20:54:03,118 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:54:03,439 - WARNING - Low coherence score (1) for: sdeterminedbybuildingandsafetyduringtheproject
+2025-03-16 20:54:03,510 - INFO - 
+Coherence Analysis Report
+========================
+Total items analyzed: 10248
+Average coherence score: 8.58
+Items with low coherence (<5): 252
+        
+2025-03-16 20:59:42,806 - INFO - Loading NLP model...
+2025-03-16 20:59:43,533 - INFO - Processing file: public/processed_planning_docs/enriched/development_potential.geojson
+2025-03-16 20:59:43,591 - INFO - Found 7530 features to analyze
+2025-03-16 20:59:43,798 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:59:44,088 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:59:44,187 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:59:46,409 - WARNING - Low coherence score (4.89) for: cant project
+2025-03-16 20:59:46,648 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:59:47,510 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:59:49,401 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:59:50,218 - WARNING - Low coherence score (4.85) for: san pedro
+2025-03-16 20:59:51,571 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:59:52,218 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:59:56,049 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 20:59:56,332 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 20:59:56,435 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 20:59:58,626 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:03,919 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:04,035 - WARNING - Low coherence score (4.95) for: san pedro
+2025-03-16 21:00:04,262 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:04,335 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:11,622 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:13,900 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:14,060 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:14,107 - WARNING - Low coherence score (4.92) for: san pedro
+2025-03-16 21:00:14,128 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:16,265 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:17,001 - WARNING - Low coherence score (4.99) for: san pedro
+2025-03-16 21:00:17,070 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:17,181 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:17,583 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:24,563 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:25,502 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:25,600 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:25,942 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:26,928 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:27,738 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:28,698 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:30,490 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:32,406 - WARNING - Low coherence score (4.75) for: harbor
+2025-03-16 21:00:32,517 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:32,795 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:32,852 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:34,686 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:36,911 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:37,007 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:37,348 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:38,347 - WARNING - Low coherence score (4.75) for: harbor
+2025-03-16 21:00:38,456 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:38,731 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:38,786 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:39,697 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:41,274 - WARNING - Low coherence score (4.84) for: san pedro
+2025-03-16 21:00:42,060 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:42,287 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:42,359 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:46,425 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:46,523 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:46,866 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:48,226 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 21:00:48,643 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:49,316 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 21:00:49,514 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:51,752 - WARNING - Low coherence score (4.93) for: san pedro
+2025-03-16 21:00:51,848 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:52,057 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:52,109 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:53,165 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:53,930 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:55,952 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:55,974 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:55,981 - WARNING - Low coherence score (1) for: BackgroundandPurpose TheGeneralPlanAnnualProgressReport
+2025-03-16 21:00:55,986 - WARNING - Low coherence score (1) for: AHousingElementAnnual ProgressReport
+2025-03-16 21:00:55,992 - WARNING - Low coherence score (1) for: AllAnnualProgressReportsareavailableontheLosAngelesCity Planningwebsite
+2025-03-16 21:00:55,998 - WARNING - Low coherence score (1) for: Thereportandrecordingsof eachsessionareavailableontheCEMOwebsite
+2025-03-16 21:00:56,011 - WARNING - Low coherence score (1) for: Majorcompletestreetproject
+2025-03-16 21:00:56,017 - WARNING - Low coherence score (1) for: fundingforRailtoRailproject
+2025-03-16 21:00:56,023 - WARNING - Low coherence score (1) for: theCityCouncilhasaskedkeydepartmentstoreport
+2025-03-16 21:00:56,031 - WARNING - Low coherence score (1) for: howLAisimprovingcommunity
+2025-03-16 21:00:56,037 - WARNING - Low coherence score (1) for: pagesoftheLos
+
+AngelesCityPlanningWebsite
+2025-03-16 21:00:56,043 - WARNING - Low coherence score (1) for: RailActiveTransportationCorridor
+2025-03-16 21:00:56,049 - WARNING - Low coherence score (1) for: DowntownLos AngelesandBoyleHeights
+2025-03-16 21:00:56,055 - WARNING - Low coherence score (1) for: isjobsatsite
+2025-03-16 21:00:56,062 - WARNING - Low coherence score (1) for: WoodlandHills
+2025-03-16 21:00:56,069 - WARNING - Low coherence score (1) for: MissionHills
+2025-03-16 21:00:56,075 - WARNING - Low coherence score (1) for: ShadowHills
+2025-03-16 21:00:56,082 - WARNING - Low coherence score (1) for: Thesefigur esrepresentthebestavailabledataonexistingdemographics withmoredetailedprofilesavailableforeachCommunityPlanArea
+2025-03-16 21:00:56,089 - WARNING - Low coherence score (1) for:  CanogaPark
+2025-03-16 21:00:56,096 - WARNING - Low coherence score (1) for: andurbanforestinfrastructureareaddressedintheOpenSpaceand Conservationsectionofthisreport
+2025-03-16 21:00:56,103 - WARNING - Low coherence score (1) for: andmasterplansfortheairportandport
+2025-03-16 21:00:56,110 - WARNING - Low coherence score (1) for: Thepolicydocumentlaysout thecommunity
+2025-03-16 21:00:56,124 - WARNING - Low coherence score (1) for: developmentstandardsforBunkerHilland
+
+CivicCenter
+2025-03-16 21:00:56,130 - WARNING - Low coherence score (1) for: theDepartmentreleasedPreliminaryDraftPlansfortwoCommunity Planareasintheharborarea
+2025-03-16 21:00:56,137 - WARNING - Low coherence score (1) for: memberAdvisoryGroupiscomposedofadiversegroupofcommunity
+2025-03-16 21:00:56,144 - WARNING - Low coherence score (1) for: ValleyVillage
+2025-03-16 21:00:56,150 - WARNING - Low coherence score (1) for: Cahuenga BoulevardCorridor
+2025-03-16 21:00:56,165 - WARNING - Low coherence score (1) for: usebuildinginanarea
+2025-03-16 21:00:56,171 - WARNING - Low coherence score (1) for: Theprojectwouldalsobeconsistentwiththescaleandcharacteristicsofthe surroundingresidentialneighborhood
+2025-03-16 21:00:56,179 - WARNING - Low coherence score (1) for: sobjectivesandgoalsbyincreasing jobsupplyandcommercialandprofessionalserviceswithinthearea
+2025-03-16 21:00:56,187 - WARNING - Low coherence score (1) for:  ThisprojectincludestheamendmentoftheNortheastLosAngelesCommunityPlanto redesignatethesubjectpropertiesfromLowMediumIIResidentialtoNeighborhood
+2025-03-16 21:00:56,193 - WARNING - Low coherence score (1) for: onlydevelopment
+2025-03-16 21:00:56,201 - WARNING - Low coherence score (1) for: describedinthezoningandlandusesectionofthisreport
+2025-03-16 21:00:56,207 - WARNING - Low coherence score (1) for: andtheDepartmentofHousingandCommunityDevelopment
+2025-03-16 21:00:56,212 - WARNING - Low coherence score (1) for: CornfieldArroyoSpecificPlan
+2025-03-16 21:00:56,218 - WARNING - Low coherence score (1) for: OverthepastseveralyearstherehasbeenanincreasedinterestintheGeneralPlan
+2025-03-16 21:00:56,223 - WARNING - Low coherence score (1) for: InadditiontoworkingtoupdatetheGeneralPlan
+2025-03-16 21:00:56,229 - WARNING - Low coherence score (1) for: swebsite
+2025-03-16 21:00:56,235 - WARNING - Low coherence score (1) for: WhiletheGeneralPlan
+2025-03-16 21:00:56,242 - WARNING - Low coherence score (1) for: Thisworkprogramhas recentlylaunchedaspartoftheHousingElementRezoningProgram
+2025-03-16 21:00:56,249 - WARNING - Low coherence score (1) for: splanningeffortstocontributemorepositivelyto citywidediscussionsonhousingandeconomicdevelopment
+2025-03-16 21:00:56,255 - WARNING - Low coherence score (1) for: Thisauditwillhelpthemto evaluatestrategiestoelevateEnvironmentalJusticeintheLosAngelesGeneralPlan
+2025-03-16 21:00:56,263 - WARNING - Low coherence score (1) for: OsbornStreetPathtoParkAccessProject
+2025-03-16 21:00:56,270 - WARNING - Low coherence score (1) for: CompleteStreetsProjects InadditiontoallocatingGeneralFunddollarstoimplementtheMobilityPlan
+2025-03-16 21:00:56,276 - WARNING - Low coherence score (1) for: SkidRowConnectivityandSafetyProgram
+2025-03-16 21:00:56,282 - WARNING - Low coherence score (1) for:  LADOTlaunchedtheUniversalBasicMobilityPilot
+2025-03-16 21:00:56,289 - WARNING - Low coherence score (1) for: MetroTransit CenterStation
+2025-03-16 21:00:56,296 - WARNING - Low coherence score (1) for: floorarea
+2025-03-16 21:00:56,302 - WARNING - Low coherence score (1) for: FutureCouncilinstructionsandbudgetdecisions haveapathwaytosupportincreasedresourcesdedicatedtoMobilityPlan
+2025-03-16 21:00:56,309 - WARNING - Low coherence score (1) for: LASANreleasedthefirstofficialLABiodiversityBaselineReport
+2025-03-16 21:00:56,316 - WARNING - Low coherence score (1) for: sordinanceexpandstheSouthLos AngelesCPIODistrict
+2025-03-16 21:00:56,322 - WARNING - Low coherence score (1) for: SlausonCorridorTransitNeighborhoodPlan
+2025-03-16 21:00:56,329 - WARNING - Low coherence score (1) for: CorridorTransitNeighborhoodPlan
+2025-03-16 21:00:56,335 - WARNING - Low coherence score (1) for: areavailableontheCityPlanningWebsite
+2025-03-16 21:00:56,341 - WARNING - Low coherence score (1) for:  releasedresultsbyCommunityPlanArea
+2025-03-16 21:00:56,348 - WARNING - Low coherence score (1) for: CanogaPark
+2025-03-16 21:00:56,361 - WARNING - Low coherence score (1) for: EchoPark
+2025-03-16 21:00:56,368 - WARNING - Low coherence score (1) for: BaldwinHills
+2025-03-16 21:00:56,374 - WARNING - Low coherence score (1) for: ACSdatais summarizedbelowwithmoreinformationavailableontheCityPlanningwebsite
+2025-03-16 21:00:56,381 - WARNING - Low coherence score (1) for:  GranadaHills
+2025-03-16 21:00:56,388 - WARNING - Low coherence score (1) for: InfrastructureMonitoringandReporting InfrastructureisdiscussedinseveralsectionsoftheGeneralPlan
+2025-03-16 21:00:56,394 - WARNING - Low coherence score (1) for: whichconnectsthelightrailsystemtoLAInternationalAirport
+2025-03-16 21:00:56,401 - WARNING - Low coherence score (1) for: AftersubmittingtheElementtotheStateDepartmentofHousingand CommunityDevelopment
+2025-03-16 21:00:56,408 - WARNING - Low coherence score (1) for: EachCommunity
+2025-03-16 21:00:56,415 - WARNING - Low coherence score (1) for: TermResourcePlan
+2025-03-16 21:00:56,420 - WARNING - Low coherence score (1) for: ThePortofLos AngeleshasaseparateMasterPlan
+2025-03-16 21:00:56,426 - WARNING - Low coherence score (1) for: WestsideCommunity
+2025-03-16 21:00:56,431 - WARNING - Low coherence score (1) for: CivicCenter
+2025-03-16 21:00:56,438 - WARNING - Low coherence score (1) for: CommunityPlan
+2025-03-16 21:00:56,444 - WARNING - Low coherence score (1) for: LACPpublishedtheBoyleHeightsCommunityPlan
+2025-03-16 21:00:56,451 - WARNING - Low coherence score (1) for: WestHIlls
+2025-03-16 21:00:56,464 - WARNING - Low coherence score (1) for: LookingAhead LACPiscurrentlyexploringseveralupdatestotheLosAngelesGeneralPlan
+2025-03-16 21:00:56,471 - WARNING - Low coherence score (1) for: Eachprojectwasfound tobeconsistentwiththegoalsandpoliciesoftheexistingGeneralPlan
+2025-03-16 21:00:56,490 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:57,906 - WARNING - Low coherence score (4.88) for: san pedro
+2025-03-16 21:00:57,927 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:00:58,036 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:00:58,223 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:00:58,861 - WARNING - Low coherence score (1) for: requiredprocessthatseekstoensurecitiesandcounties planforenoughhousingintheirHousingElementcycletoaccommodatealleconomic segmentsofthecommunity
+2025-03-16 21:00:58,867 - WARNING - Low coherence score (1) for: Thisresultsinatotaldevelopment
+2025-03-16 21:00:58,901 - WARNING - Low coherence score (1) for: ThisshortfallmustbeaccommodatedbyaRezoningProgram
+2025-03-16 21:00:59,261 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:00,145 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:01,308 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:02,241 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:02,466 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:01:02,540 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:03,640 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:03,866 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:01:03,939 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:04,973 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:05,848 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:09,731 - WARNING - Low coherence score (4.75) for: harbor
+2025-03-16 21:01:09,842 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:10,119 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:01:10,175 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:11,739 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 21:01:11,963 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:13,628 - WARNING - Low coherence score (4.75) for: harbor
+2025-03-16 21:01:13,739 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:14,017 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:01:14,072 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:14,999 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:15,821 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:01:16,842 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:01:17,700 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:18,130 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:01:18,228 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:18,575 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:19,478 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:20,692 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:21,973 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:23,410 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:25,945 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 21:01:26,643 - WARNING - Low coherence score (1) for: reseda
+2025-03-16 21:01:28,939 - WARNING - Low coherence score (1) for: widehousing incentiveprogramwillnotmodifyunderlyingzoningofaparcelbutinsteadofferdevelopment
+2025-03-16 21:01:28,948 - WARNING - Low coherence score (1) for:  downtowncreatingtheAdaptivereuseincentiveareaspecificplantocoverpartsofHollywood KoreatownLincolnHeightsChinatownandSouthLosAngelesexistingbuildingsandotherparts ofthecitymaystillbereusedunderthecurrentzoningregulationbutthesamestreamline processesandincentivesindowntownandtheincentiveareasarenotyetavailableCitywide CityPlanningisdevelopinganewzoningcodeaddingnewincentivesforadaptivereuse projectsitbecomesoperationalasupdatestocommunityplansareadoptedthedowntown
+2025-03-16 21:01:28,953 - WARNING - Low coherence score (1) for: widepolicyforforinstanceindowntownconversionstoandfrom residentialusearepermittedandinthiscaseinthiscurrentdraftforareasoutsideofdowntown
+2025-03-16 21:01:28,961 - WARNING - Low coherence score (1) for: widelevelsonotnotaalocalatalocalizedlevelonethingIdowanttoclarifyistherethere hasbeensomeconfusionaboutRenaandRenaallocationskindofinthegeneralpublicand consensusaroundhousingelementrezoningthereisnotArenaallocationforeachCommunity
+2025-03-16 21:01:28,967 - WARNING - Low coherence score (1) for: venotenvisionedenvisionedenvisagedinthecraftingofthedraftordinance manyprojectsproposereuseofexistingbuildinginconjunctionwithnewconstructionthezoning administratorwillreviewsuchunifieddevelopmentprojectsbeforeapprovingfloorarea
+2025-03-16 21:01:28,973 - WARNING - Low coherence score (1) for: rehearingtodayandinourcommunity
+2025-03-16 21:01:29,959 - INFO - Processing file: public/processed_planning_docs/enriched/adaptive_reuse.geojson
+2025-03-16 21:01:29,968 - INFO - Found 2718 features to analyze
+2025-03-16 21:01:30,277 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 21:01:32,306 - WARNING - Low coherence score (4.95) for: san pedro
+2025-03-16 21:01:33,928 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 21:01:35,353 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:36,837 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:37,233 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:38,818 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:38,841 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:44,369 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:44,393 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:45,838 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 21:01:46,019 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 21:01:48,103 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:49,984 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 21:01:51,184 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:51,206 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:51,996 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:53,811 - WARNING - Low coherence score (4.94) for: san pedro
+2025-03-16 21:01:54,395 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 21:01:55,942 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:01:55,966 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:01:57,530 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 21:01:58,452 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:00,292 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 21:02:01,135 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:04,645 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 21:02:05,728 - WARNING - Low coherence score (1) for: andTransformativePlanningorganizedseveralpublicmeetingsto receiveinputfromCityresidentsandcommunity
+2025-03-16 21:02:05,756 - WARNING - Low coherence score (1) for: thedemandforstudenthousinghasdrivenupthepriceofpropertiesnearthe UniversityofSouthernCaliforniacampus
+2025-03-16 21:02:05,782 - WARNING - Low coherence score (1) for: Severalclassesof infrastructureareaddressedmorespecificallyinearliersectionsofthisreport
+2025-03-16 21:02:05,807 - WARNING - Low coherence score (1) for: sHospitalComplex
+2025-03-16 21:02:05,833 - WARNING - Low coherence score (1) for: MacarthurPark
+2025-03-16 21:02:05,859 - WARNING - Low coherence score (1) for:  InordertofacilitatethedevelopmentoftheprojecttheapplicantrequestedaGPA changingthesubjectproperty
+2025-03-16 21:02:05,884 - WARNING - Low coherence score (1) for: theprojectwill preservecommerciallandbybringingamixofservicestoanunderutilizedsite
+2025-03-16 21:02:05,910 - WARNING - Low coherence score (1) for: orientedcultureandcharacterofthe surroundingarea
+2025-03-16 21:02:05,934 - WARNING - Low coherence score (1) for: SustainabilityiscoveredacrossmanyElementsoftheGeneralPlan
+2025-03-16 21:02:05,959 - WARNING - Low coherence score (1) for: CityPlanninglaunchedtheLos AngelesAfricanAmericanHistoricPlacesProject
+2025-03-16 21:02:05,982 - WARNING - Low coherence score (1) for: orienteddevelopment
+2025-03-16 21:02:06,004 - WARNING - Low coherence score (1) for: inexchangefor includingaffordablehousinginaproject
+2025-03-16 21:02:06,011 - WARNING - Low coherence score (1) for: locatedinaneighborhood
+2025-03-16 21:02:06,601 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:02:06,988 - WARNING - Low coherence score (1) for: thedraftplanincludesapredictivemodelpreparedbytheTernerCenter
+2025-03-16 21:02:08,405 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:09,260 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 21:02:09,391 - WARNING - Low coherence score (4.94) for: san pedro
+2025-03-16 21:02:09,542 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 21:02:09,625 - WARNING - Low coherence score (4.94) for: san pedro
+2025-03-16 21:02:09,778 - WARNING - Low coherence score (1) for: predevelopment
+2025-03-16 21:02:12,643 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:13,045 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 21:02:13,569 - WARNING - Low coherence score (4.82) for: hollywood
+2025-03-16 21:02:13,885 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:14,144 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:14,918 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:02:15,426 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:02:15,830 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:16,582 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:02:16,601 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:16,855 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:17,618 - WARNING - Low coherence score (4.82) for: hollywood
+2025-03-16 21:02:17,898 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:18,858 - WARNING - Low coherence score (1) for: wilshire
+2025-03-16 21:02:20,627 - WARNING - Low coherence score (1) for: ternercenter
+2025-03-16 21:02:20,900 - WARNING - Low coherence score (1) for: Predevelopment
+2025-03-16 21:02:21,046 - WARNING - Low coherence score (1) for: westlake
+2025-03-16 21:02:21,403 - WARNING - Low coherence score (1) for: sdeterminedbybuildingandsafetyduringtheproject
+2025-03-16 21:02:21,481 - INFO - 
+Coherence Analysis Report
+========================
+Total items analyzed: 10248
+Average coherence score: 8.58
+Items with low coherence (<5): 252
+        
+2025-03-16 21:02:21,627 - INFO - Created filtered file: public/processed_planning_docs/enriched/development_potential_filtered.geojson
+2025-03-16 21:02:21,627 - INFO - Removed 0 low coherence items from development_potential.geojson
+2025-03-16 21:02:21,668 - INFO - Created filtered file: public/processed_planning_docs/enriched/adaptive_reuse_filtered.geojson
+2025-03-16 21:02:21,668 - INFO - Removed 0 low coherence items from adaptive_reuse.geojson

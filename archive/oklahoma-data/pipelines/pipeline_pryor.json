@@ -1,0 +1,4822 @@
+{
+  "marker": {
+    "key": "pryor",
+    "name": "Pryor (MidAmerica Industrial Park)",
+    "center": {
+      "lat": 36.2411,
+      "lng": -95.3301
+    },
+    "radius_m": 8046
+  },
+  "summary": {
+    "generated_at": "2025-11-07T21:18:29.142344+00:00",
+    "feature_count": 150,
+    "categories": {
+      "pipeline": 150
+    },
+    "query_radius_m": 8046,
+    "bounding_box": {
+      "min_lon": -95.40237811713978,
+      "min_lat": 36.1683118690067,
+      "max_lon": -95.25782188286023,
+      "max_lat": 36.313888130993305
+    },
+    "raw_element_count": 150
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.2674996,
+            36.2364196
+          ],
+          [
+            -95.2662846,
+            36.2360618
+          ],
+          [
+            -95.2656493,
+            36.2358681
+          ],
+          [
+            -95.2644746,
+            36.2354762
+          ],
+          [
+            -95.2631903,
+            36.2353868
+          ],
+          [
+            -95.2609166,
+            36.235242
+          ],
+          [
+            -95.259252,
+            36.2351295
+          ],
+          [
+            -95.2574881,
+            36.2350099
+          ],
+          [
+            -95.2564493,
+            36.234666
+          ],
+          [
+            -95.2553745,
+            36.2343103
+          ],
+          [
+            -95.2551185,
+            36.2340193
+          ],
+          [
+            -95.252924,
+            36.2314741
+          ],
+          [
+            -95.2524718,
+            36.230959
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "way",
+        "osm_id": 309791408,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.267221,
+            36.236271
+          ],
+          [
+            -95.2644536,
+            36.235411
+          ],
+          [
+            -95.2575216,
+            36.2349501
+          ],
+          [
+            -95.2554455,
+            36.2342833
+          ],
+          [
+            -95.2523564,
+            36.2307179
+          ],
+          [
+            -95.2507331,
+            36.2288604
+          ],
+          [
+            -95.2488721,
+            36.2267284
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "way",
+        "osm_id": 309791410,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.7245548,
+            36.2300164
+          ],
+          [
+            -95.7186224,
+            36.2304767
+          ],
+          [
+            -95.713544,
+            36.2307781
+          ],
+          [
+            -95.7091005,
+            36.2315465
+          ],
+          [
+            -95.7077582,
+            36.2317089
+          ],
+          [
+            -95.7066547,
+            36.231715
+          ],
+          [
+            -95.7057859,
+            36.2315947
+          ],
+          [
+            -95.7040895,
+            36.2312548
+          ],
+          [
+            -95.7018666,
+            36.2309008
+          ],
+          [
+            -95.7008859,
+            36.2308243
+          ],
+          [
+            -95.6994306,
+            36.2309646
+          ],
+          [
+            -95.6976063,
+            36.2316366
+          ],
+          [
+            -95.6964779,
+            36.2319896
+          ],
+          [
+            -95.6957924,
+            36.2320662
+          ],
+          [
+            -95.6935243,
+            36.2316582
+          ],
+          [
+            -95.692185,
+            36.2315391
+          ],
+          [
+            -95.6910043,
+            36.2316672
+          ],
+          [
+            -95.6784749,
+            36.2333377
+          ],
+          [
+            -95.6690504,
+            36.2351308
+          ],
+          [
+            -95.6361472,
+            36.2429371
+          ],
+          [
+            -95.6330731,
+            36.243924
+          ],
+          [
+            -95.6306266,
+            36.2449191
+          ],
+          [
+            -95.6277793,
+            36.245693
+          ],
+          [
+            -95.6234888,
+            36.2459877
+          ],
+          [
+            -95.6212954,
+            36.2459367
+          ],
+          [
+            -95.6183216,
+            36.2455115
+          ],
+          [
+            -95.6156008,
+            36.2456816
+          ],
+          [
+            -95.6129359,
+            36.246211
+          ],
+          [
+            -95.5703038,
+            36.253664
+          ],
+          [
+            -95.5682905,
+            36.2539527
+          ],
+          [
+            -95.5663517,
+            36.2540489
+          ],
+          [
+            -95.5647709,
+            36.2537602
+          ],
+          [
+            -95.5582119,
+            36.2523344
+          ],
+          [
+            -95.5538461,
+            36.251518
+          ],
+          [
+            -95.5508512,
+            36.251399
+          ],
+          [
+            -95.547254,
+            36.2517546
+          ],
+          [
+            -95.5373962,
+            36.2538592
+          ],
+          [
+            -95.5351737,
+            36.2541263
+          ],
+          [
+            -95.5338986,
+            36.2542526
+          ],
+          [
+            -95.5321015,
+            36.2542406
+          ],
+          [
+            -95.5199951,
+            36.2536996
+          ],
+          [
+            -95.5118807,
+            36.2533825
+          ],
+          [
+            -95.5098138,
+            36.2535355
+          ],
+          [
+            -95.5050262,
+            36.2542158
+          ],
+          [
+            -95.489979,
+            36.2572736
+          ],
+          [
+            -95.4826491,
+            36.2586143
+          ],
+          [
+            -95.4800127,
+            36.2590564
+          ],
+          [
+            -95.4786524,
+            36.2591415
+          ],
+          [
+            -95.4768721,
+            36.2588612
+          ],
+          [
+            -95.4759072,
+            36.2586273
+          ],
+          [
+            -95.4741725,
+            36.2584742
+          ],
+          [
+            -95.4719457,
+            36.2583674
+          ],
+          [
+            -95.4699527,
+            36.2583079
+          ],
+          [
+            -95.4681705,
+            36.2587841
+          ],
+          [
+            -95.4658302,
+            36.2592799
+          ],
+          [
+            -95.4644171,
+            36.2593139
+          ],
+          [
+            -95.4625717,
+            36.2589653
+          ],
+          [
+            -95.4468254,
+            36.2553961
+          ],
+          [
+            -95.4450854,
+            36.2548688
+          ],
+          [
+            -95.4433033,
+            36.2538228
+          ],
+          [
+            -95.43979,
+            36.2512525
+          ],
+          [
+            -95.4367846,
+            36.2500449
+          ],
+          [
+            -95.4277842,
+            36.2468139
+          ],
+          [
+            -95.4173348,
+            36.2432362
+          ],
+          [
+            -95.4136463,
+            36.2424298
+          ],
+          [
+            -95.4107094,
+            36.2422384
+          ],
+          [
+            -95.3774758,
+            36.2442912
+          ],
+          [
+            -95.3556881,
+            36.2456143
+          ],
+          [
+            -95.3466859,
+            36.2461972
+          ],
+          [
+            -95.3422164,
+            36.2465457
+          ],
+          [
+            -95.324753,
+            36.251434
+          ],
+          [
+            -95.3218554,
+            36.2524974
+          ],
+          [
+            -95.3140553,
+            36.2566163
+          ],
+          [
+            -95.304335,
+            36.2615337
+          ],
+          [
+            -95.2870368,
+            36.2701135
+          ],
+          [
+            -95.2589307,
+            36.2862606
+          ],
+          [
+            -95.2381632,
+            36.298352
+          ],
+          [
+            -95.2362421,
+            36.2997115
+          ],
+          [
+            -95.2344995,
+            36.3013772
+          ],
+          [
+            -95.2330819,
+            36.3033273
+          ],
+          [
+            -95.224984,
+            36.3153886
+          ],
+          [
+            -95.2235737,
+            36.3168124
+          ],
+          [
+            -95.2213853,
+            36.3181185
+          ],
+          [
+            -95.2190348,
+            36.3188499
+          ],
+          [
+            -95.2069869,
+            36.3214729
+          ],
+          [
+            -95.2042975,
+            36.3225928
+          ],
+          [
+            -95.2018216,
+            36.323858
+          ],
+          [
+            -95.2006862,
+            36.3246344
+          ],
+          [
+            -95.1897077,
+            36.3344486
+          ],
+          [
+            -95.1877791,
+            36.3357197
+          ],
+          [
+            -95.1854773,
+            36.3369864
+          ],
+          [
+            -95.1770965,
+            36.3415174
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "way",
+        "osm_id": 309797219,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "substance:water",
+        "pipeline_type": "",
+        "substance": "water",
+        "man_made": "pipeline",
+        "location": "underground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "layer": "-1",
+          "location": "underground",
+          "man_made": "pipeline",
+          "note": "Aqueduct",
+          "substance": "water"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.6025805,
+            36.1639932
+          ],
+          [
+            -95.5882317,
+            36.1698589
+          ],
+          [
+            -95.5879324,
+            36.1714695
+          ],
+          [
+            -95.585455,
+            36.1728117
+          ],
+          [
+            -95.585322,
+            36.1737512
+          ],
+          [
+            -95.5818305,
+            36.174986
+          ],
+          [
+            -95.5683962,
+            36.1793075
+          ],
+          [
+            -95.5588525,
+            36.1826089
+          ],
+          [
+            -95.551703,
+            36.1853331
+          ],
+          [
+            -95.5389837,
+            36.1902714
+          ],
+          [
+            -95.5308533,
+            36.1926196
+          ],
+          [
+            -95.5283427,
+            36.1931161
+          ],
+          [
+            -95.5247444,
+            36.1938054
+          ],
+          [
+            -95.5103892,
+            36.1965241
+          ],
+          [
+            -95.49212,
+            36.1991407
+          ],
+          [
+            -95.4824461,
+            36.2005766
+          ],
+          [
+            -95.4730855,
+            36.2019619
+          ],
+          [
+            -95.4607676,
+            36.2063401
+          ],
+          [
+            -95.4479485,
+            36.2101216
+          ],
+          [
+            -95.4358311,
+            36.2135996
+          ],
+          [
+            -95.4318212,
+            36.2151363
+          ],
+          [
+            -95.4265707,
+            36.2180278
+          ],
+          [
+            -95.4233127,
+            36.2196048
+          ],
+          [
+            -95.4128494,
+            36.2233958
+          ],
+          [
+            -95.3947171,
+            36.229097
+          ],
+          [
+            -95.3858121,
+            36.2309387
+          ],
+          [
+            -95.3791817,
+            36.2340196
+          ],
+          [
+            -95.3658779,
+            36.2395406
+          ],
+          [
+            -95.3517373,
+            36.2450613
+          ],
+          [
+            -95.3496344,
+            36.2451478
+          ],
+          [
+            -95.3462441,
+            36.2459439
+          ],
+          [
+            -95.341182,
+            36.2463607
+          ],
+          [
+            -95.3350269,
+            36.2479039
+          ],
+          [
+            -95.3328209,
+            36.2484347
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "way",
+        "osm_id": 1233731187,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "underground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "layer": "-1",
+          "location": "underground",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7245548,
+          36.2300164
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444836,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7186224,
+          36.2304767
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444837,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.713544,
+          36.2307781
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444838,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7091005,
+          36.2315465
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444844,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7040895,
+          36.2312548
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444842,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7008859,
+          36.2308243
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444839,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7018666,
+          36.2309008
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444840,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6994306,
+          36.2309646
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444841,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.692185,
+          36.2315391
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444843,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7057859,
+          36.2315947
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444845,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7077582,
+          36.2317089
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444849,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7066547,
+          36.231715
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444850,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6976063,
+          36.2316366
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444846,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6964779,
+          36.2319896
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444851,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6957924,
+          36.2320662
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444852,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6935243,
+          36.2316582
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444847,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6910043,
+          36.2316672
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444848,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6784749,
+          36.2333377
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444853,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6690504,
+          36.2351308
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444854,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6361472,
+          36.2429371
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444857,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6330731,
+          36.243924
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444859,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6306266,
+          36.2449191
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444860,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6025805,
+          36.1639932
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656187,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5879324,
+          36.1714695
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656185,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5882317,
+          36.1698589
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656186,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.585322,
+          36.1737512
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656183,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.585455,
+          36.1728117
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656184,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5818305,
+          36.174986
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656182,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5683962,
+          36.1793075
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656181,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5588525,
+          36.1826089
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656180,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.551703,
+          36.1853331
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656179,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5389837,
+          36.1902714
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656178,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5283427,
+          36.1931161
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656176,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5308533,
+          36.1926196
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656177,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6277793,
+          36.245693
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445063,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6183216,
+          36.2455115
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445061,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6212954,
+          36.2459367
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445064,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6234888,
+          36.2459877
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445065,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6156008,
+          36.2456816
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445062,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6129359,
+          36.246211
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445066,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5703038,
+          36.253664
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445076,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5647709,
+          36.2537602
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445078,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5682905,
+          36.2539527
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445081,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5663517,
+          36.2540489
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445082,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5582119,
+          36.2523344
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445073,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5538461,
+          36.251518
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445071,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5508512,
+          36.251399
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445070,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.547254,
+          36.2517546
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445072,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5373962,
+          36.2538592
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445080,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5351737,
+          36.2541263
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445083,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5321015,
+          36.2542406
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445085,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5338986,
+          36.2542526
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445086,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5247444,
+          36.1938054
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656224,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5103892,
+          36.1965241
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656223,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.49212,
+          36.1991407
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656222,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4824461,
+          36.2005766
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656221,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4730855,
+          36.2019619
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656220,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4607676,
+          36.2063401
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656219,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4479485,
+          36.2101216
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656218,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4358311,
+          36.2135996
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656217,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4318212,
+          36.2151363
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656216,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4265707,
+          36.2180278
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656215,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4233127,
+          36.2196048
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656214,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5199951,
+          36.2536996
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445077,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5118807,
+          36.2533825
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445074,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5098138,
+          36.2535355
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445075,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5050262,
+          36.2542158
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445084,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.489979,
+          36.2572736
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445089,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4826491,
+          36.2586143
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445093,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4800127,
+          36.2590564
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445098,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4741725,
+          36.2584742
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445092,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4759072,
+          36.2586273
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445094,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4768721,
+          36.2588612
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445096,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4786524,
+          36.2591415
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445099,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4468254,
+          36.2553961
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445088,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4699527,
+          36.2583079
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445090,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4719457,
+          36.2583674
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445091,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4681705,
+          36.2587841
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445095,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4625717,
+          36.2589653
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445097,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4658302,
+          36.2592799
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445100,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4644171,
+          36.2593139
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445101,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4367846,
+          36.2500449
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445068,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4433033,
+          36.2538228
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445079,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4450854,
+          36.2548688
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445087,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.43979,
+          36.2512525
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445069,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4277842,
+          36.2468139
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151445067,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4128494,
+          36.2233958
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656213,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3947171,
+          36.229097
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448656212,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4173348,
+          36.2432362
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444858,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4107094,
+          36.2422384
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444855,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4136463,
+          36.2424298
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151444856,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3858121,
+          36.2309387
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555792,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3791817,
+          36.2340196
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555793,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3774758,
+          36.2442912
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421741,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3658779,
+          36.2395406
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555794,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3556881,
+          36.2456143
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421742,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3517373,
+          36.2450613
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555795,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3496344,
+          36.2451478
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555796,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3466859,
+          36.2461972
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421743,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3422164,
+          36.2465457
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421744,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3462441,
+          36.2459439
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555797,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.341182,
+          36.2463607
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555798,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3350269,
+          36.2479039
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555799,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3328209,
+          36.2484347
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 11448555800,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.324753,
+          36.251434
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421745,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3218554,
+          36.2524974
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421746,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2631903,
+          36.2353868
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364680,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2644536,
+          36.235411
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364681,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2644746,
+          36.2354762
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364682,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2656493,
+          36.2358681
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364687,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2662846,
+          36.2360618
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364689,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.267221,
+          36.236271
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364691,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2674996,
+          36.2364196
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364693,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2507331,
+          36.2288604
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364459,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2523564,
+          36.2307179
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364663,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2524718,
+          36.230959
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364666,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.252924,
+          36.2314741
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364669,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2488721,
+          36.2267284
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364444,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2575216,
+          36.2349501
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364676,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2574881,
+          36.2350099
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364677,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.259252,
+          36.2351295
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364678,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2609166,
+          36.235242
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364679,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2551185,
+          36.2340193
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364670,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2554455,
+          36.2342833
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364671,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2553745,
+          36.2343103
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364672,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2564493,
+          36.234666
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151364673,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3140553,
+          36.2566163
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421747,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.304335,
+          36.2615337
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421748,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2870368,
+          36.2701135
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421749,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2589307,
+          36.2862606
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151421750,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2381632,
+          36.298352
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425043,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2362421,
+          36.2997115
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425044,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2344995,
+          36.3013772
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425045,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2330819,
+          36.3033273
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425046,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.224984,
+          36.3153886
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425047,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2235737,
+          36.3168124
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425048,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2213853,
+          36.3181185
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425049,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2190348,
+          36.3188499
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425050,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2069869,
+          36.3214729
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425051,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2042975,
+          36.3225928
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425052,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2018216,
+          36.323858
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425053,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2006862,
+          36.3246344
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425054,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1897077,
+          36.3344486
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425055,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1877791,
+          36.3357197
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425056,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1854773,
+          36.3369864
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425057,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1770965,
+          36.3415174
+        ]
+      },
+      "properties": {
+        "marker_key": "pryor",
+        "osm_type": "node",
+        "osm_id": 3151425058,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    }
+  ]
+}

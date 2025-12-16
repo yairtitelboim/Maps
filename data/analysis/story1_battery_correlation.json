@@ -1,0 +1,288 @@
+{
+  "combined_data": [
+    {
+      "county": "Dallas",
+      "dc_count": 14,
+      "battery_capacity_mw": 1350.33,
+      "battery_project_count": 11
+    },
+    {
+      "county": "Williamson",
+      "dc_count": 6,
+      "battery_capacity_mw": 100.51,
+      "battery_project_count": 1
+    },
+    {
+      "county": "Bosque",
+      "dc_count": 5,
+      "battery_capacity_mw": 463.78,
+      "battery_project_count": 5
+    },
+    {
+      "county": "Travis",
+      "dc_count": 5,
+      "battery_capacity_mw": 722.03,
+      "battery_project_count": 8
+    },
+    {
+      "county": "Ellis",
+      "dc_count": 4,
+      "battery_capacity_mw": 1005.47,
+      "battery_project_count": 11
+    },
+    {
+      "county": "El Paso",
+      "dc_count": 4,
+      "battery_capacity_mw": 0,
+      "battery_project_count": 0
+    },
+    {
+      "county": "Tarrant",
+      "dc_count": 3,
+      "battery_capacity_mw": 791.62,
+      "battery_project_count": 4
+    },
+    {
+      "county": "Harris",
+      "dc_count": 3,
+      "battery_capacity_mw": 7068.26,
+      "battery_project_count": 30
+    },
+    {
+      "county": "Bexar",
+      "dc_count": 3,
+      "battery_capacity_mw": 4867.23,
+      "battery_project_count": 21
+    },
+    {
+      "county": "Shackelford",
+      "dc_count": 3,
+      "battery_capacity_mw": 269.24,
+      "battery_project_count": 2
+    },
+    {
+      "county": "McLennan",
+      "dc_count": 2,
+      "battery_capacity_mw": 1548.89,
+      "battery_project_count": 8
+    },
+    {
+      "county": "Hays",
+      "dc_count": 2,
+      "battery_capacity_mw": 75.38,
+      "battery_project_count": 1
+    },
+    {
+      "county": "Bastrop",
+      "dc_count": 2,
+      "battery_capacity_mw": 951.41,
+      "battery_project_count": 5
+    },
+    {
+      "county": "Collin",
+      "dc_count": 2,
+      "battery_capacity_mw": 1180.54,
+      "battery_project_count": 6
+    },
+    {
+      "county": "Hill",
+      "dc_count": 2,
+      "battery_capacity_mw": 1117.0,
+      "battery_project_count": 9
+    },
+    {
+      "county": "Austin",
+      "dc_count": 1,
+      "battery_capacity_mw": 1882.24,
+      "battery_project_count": 9
+    },
+    {
+      "county": "Donley",
+      "dc_count": 1,
+      "battery_capacity_mw": 0,
+      "battery_project_count": 0
+    },
+    {
+      "county": "Shelby",
+      "dc_count": 1,
+      "battery_capacity_mw": 0,
+      "battery_project_count": 0
+    },
+    {
+      "county": "Medina",
+      "dc_count": 1,
+      "battery_capacity_mw": 744.95,
+      "battery_project_count": 5
+    },
+    {
+      "county": "Cherokee",
+      "dc_count": 1,
+      "battery_capacity_mw": 151.63,
+      "battery_project_count": 2
+    },
+    {
+      "county": "Pecos",
+      "dc_count": 1,
+      "battery_capacity_mw": 2247.74,
+      "battery_project_count": 17
+    },
+    {
+      "county": "Hidalgo",
+      "dc_count": 1,
+      "battery_capacity_mw": 3651.45,
+      "battery_project_count": 26
+    },
+    {
+      "county": "Armstrong",
+      "dc_count": 1,
+      "battery_capacity_mw": 1043.08,
+      "battery_project_count": 1
+    },
+    {
+      "county": "Brazos",
+      "dc_count": 1,
+      "battery_capacity_mw": 409.65,
+      "battery_project_count": 3
+    },
+    {
+      "county": "Ector",
+      "dc_count": 1,
+      "battery_capacity_mw": 2628.23,
+      "battery_project_count": 14
+    },
+    {
+      "county": "Taylor",
+      "dc_count": 1,
+      "battery_capacity_mw": 956.13,
+      "battery_project_count": 6
+    }
+  ],
+  "correlation_analysis": {
+    "counties_with_dcs": 26,
+    "counties_with_both": 17,
+    "counties_dc_only": 9,
+    "correlation_coefficient": -0.03807921207117633
+  },
+  "battery_only_counties": [
+    {
+      "county": "Brazoria",
+      "battery_capacity_mw": 7593.25,
+      "battery_project_count": 45,
+      "dc_count": 0
+    },
+    {
+      "county": "Harrison",
+      "battery_capacity_mw": 7068.26,
+      "battery_project_count": 30,
+      "dc_count": 0
+    },
+    {
+      "county": "Mitchell",
+      "battery_capacity_mw": 3767.11,
+      "battery_project_count": 9,
+      "dc_count": 0
+    },
+    {
+      "county": "Wharton",
+      "battery_capacity_mw": 3564.69,
+      "battery_project_count": 18,
+      "dc_count": 0
+    },
+    {
+      "county": "Scurry",
+      "battery_capacity_mw": 3396.64,
+      "battery_project_count": 14,
+      "dc_count": 0
+    },
+    {
+      "county": "Grimes",
+      "battery_capacity_mw": 3099.06,
+      "battery_project_count": 11,
+      "dc_count": 0
+    },
+    {
+      "county": "Fort Bend",
+      "battery_capacity_mw": 2931.24,
+      "battery_project_count": 12,
+      "dc_count": 0
+    },
+    {
+      "county": "Milam",
+      "battery_capacity_mw": 2917.45,
+      "battery_project_count": 13,
+      "dc_count": 0
+    },
+    {
+      "county": "Jack",
+      "battery_capacity_mw": 2691.69,
+      "battery_project_count": 10,
+      "dc_count": 0
+    },
+    {
+      "county": "Cameron",
+      "battery_capacity_mw": 2597.6,
+      "battery_project_count": 16,
+      "dc_count": 0
+    },
+    {
+      "county": "Robertson",
+      "battery_capacity_mw": 2408.96,
+      "battery_project_count": 18,
+      "dc_count": 0
+    },
+    {
+      "county": "Roberts",
+      "battery_capacity_mw": 2408.96,
+      "battery_project_count": 18,
+      "dc_count": 0
+    },
+    {
+      "county": "Galveston",
+      "battery_capacity_mw": 2307.9,
+      "battery_project_count": 10,
+      "dc_count": 0
+    },
+    {
+      "county": "Matagorda",
+      "battery_capacity_mw": 2236.43,
+      "battery_project_count": 14,
+      "dc_count": 0
+    },
+    {
+      "county": "Webb",
+      "battery_capacity_mw": 2168.57,
+      "battery_project_count": 14,
+      "dc_count": 0
+    },
+    {
+      "county": "Nueces",
+      "battery_capacity_mw": 2165.51,
+      "battery_project_count": 14,
+      "dc_count": 0
+    },
+    {
+      "county": "Comanche",
+      "battery_capacity_mw": 2163.87,
+      "battery_project_count": 7,
+      "dc_count": 0
+    },
+    {
+      "county": "Upton",
+      "battery_capacity_mw": 2119.07,
+      "battery_project_count": 10,
+      "dc_count": 0
+    },
+    {
+      "county": "Wichita",
+      "battery_capacity_mw": 2037.98,
+      "battery_project_count": 11,
+      "dc_count": 0
+    },
+    {
+      "county": "Howard",
+      "battery_capacity_mw": 1953.58,
+      "battery_project_count": 10,
+      "dc_count": 0
+    }
+  ]
+}

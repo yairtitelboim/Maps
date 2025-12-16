@@ -1,0 +1,1397 @@
+{
+  "marker": {
+    "key": "tulsa_suburbs",
+    "name": "Tulsa Suburbs (Coweta, Broken Arrow)",
+    "center": {
+      "lat": 36.0,
+      "lng": -95.72
+    },
+    "radius_m": 8046
+  },
+  "summary": {
+    "generated_at": "2025-11-07T21:18:37.475746+00:00",
+    "feature_count": 42,
+    "categories": {
+      "pipeline": 42
+    },
+    "query_radius_m": 8046,
+    "bounding_box": {
+      "min_lon": -95.79227811713977,
+      "min_lat": 35.9272118690067,
+      "max_lon": -95.64772188286022,
+      "max_lat": 36.0727881309933
+    },
+    "raw_element_count": 42
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.6998269,
+              36.0066399
+            ],
+            [
+              -95.6998258,
+              36.0062254
+            ],
+            [
+              -95.6993244,
+              36.0062254
+            ],
+            [
+              -95.6993222,
+              36.0066399
+            ],
+            [
+              -95.6998269,
+              36.0066399
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "way",
+        "osm_id": 1165378454,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:substation",
+        "pipeline_type": "substation",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "pipeline": "substation"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.6531214,
+              35.9533856
+            ],
+            [
+              -95.6531396,
+              35.9533854
+            ],
+            [
+              -95.6531403,
+              35.9534122
+            ],
+            [
+              -95.653122,
+              35.9534124
+            ],
+            [
+              -95.6531214,
+              35.9533856
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "way",
+        "osm_id": 1237555788,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:substation",
+        "pipeline_type": "substation",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "Oklahoma Natural Gas",
+        "length": "",
+        "tags": {
+          "operator": "Oklahoma Natural Gas",
+          "pipeline": "substation"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.7442843,
+              35.9886671
+            ],
+            [
+              -95.7442864,
+              35.988438
+            ],
+            [
+              -95.7440331,
+              35.9884389
+            ],
+            [
+              -95.7440022,
+              35.9884742
+            ],
+            [
+              -95.7440004,
+              35.9886396
+            ],
+            [
+              -95.7440001,
+              35.9886697
+            ],
+            [
+              -95.7442843,
+              35.9886671
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "way",
+        "osm_id": 1259764867,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:substation",
+        "pipeline_type": "substation",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "barrier": "fence",
+          "fence_type": "chain_link",
+          "height": "2",
+          "pipeline": "substation"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.6677197,
+              35.9588198
+            ],
+            [
+              -95.667715,
+              35.9588285
+            ],
+            [
+              -95.6677192,
+              35.9588374
+            ],
+            [
+              -95.66773,
+              35.9588413
+            ],
+            [
+              -95.667741,
+              35.9588379
+            ],
+            [
+              -95.6677458,
+              35.9588291
+            ],
+            [
+              -95.6677416,
+              35.9588202
+            ],
+            [
+              -95.6677308,
+              35.9588163
+            ],
+            [
+              -95.6677197,
+              35.9588198
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "way",
+        "osm_id": 1266564581,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "substance:oil",
+        "pipeline_type": "",
+        "substance": "oil",
+        "man_made": "storage_tank",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "storage_tank",
+          "substance": "oil"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.6676591,
+              35.9588249
+            ],
+            [
+              -95.6676547,
+              35.9588353
+            ],
+            [
+              -95.6676607,
+              35.9588452
+            ],
+            [
+              -95.6676735,
+              35.9588487
+            ],
+            [
+              -95.6676857,
+              35.9588439
+            ],
+            [
+              -95.6676901,
+              35.9588335
+            ],
+            [
+              -95.6676841,
+              35.9588236
+            ],
+            [
+              -95.6676712,
+              35.9588201
+            ],
+            [
+              -95.6676591,
+              35.9588249
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "way",
+        "osm_id": 1266564582,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "substance:oil",
+        "pipeline_type": "",
+        "substance": "oil",
+        "man_made": "storage_tank",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "storage_tank",
+          "substance": "oil"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.7069737,
+              36.0170568
+            ],
+            [
+              -95.7069756,
+              36.016868
+            ],
+            [
+              -95.7072731,
+              36.01687
+            ],
+            [
+              -95.7072962,
+              36.0168702
+            ],
+            [
+              -95.7072942,
+              36.017059
+            ],
+            [
+              -95.7071347,
+              36.0170579
+            ],
+            [
+              -95.7069737,
+              36.0170568
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "way",
+        "osm_id": 1348505807,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:substation",
+        "pipeline_type": "substation",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "Oklahoma Natural Gas",
+        "length": "",
+        "tags": {
+          "operator": "Oklahoma Natural Gas",
+          "pipeline": "substation"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.653122,
+          35.9534124
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11494700257,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6531403,
+          35.9534122
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11494700258,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6531396,
+          35.9533854
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11494700259,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6531214,
+          35.9533856
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11494700260,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6677308,
+          35.9588163
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278480,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6677416,
+          35.9588202
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278481,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6677458,
+          35.9588291
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278482,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66773,
+          35.9588413
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278483,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6677192,
+          35.9588374
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278484,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.667715,
+          35.9588285
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278485,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6677197,
+          35.9588198
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278486,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.667741,
+          35.9588379
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278487,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6676712,
+          35.9588201
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278488,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6676841,
+          35.9588236
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278489,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6676901,
+          35.9588335
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278490,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6676735,
+          35.9588487
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278491,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6676607,
+          35.9588452
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278492,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6676547,
+          35.9588353
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278493,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6676591,
+          35.9588249
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278494,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6676857,
+          35.9588439
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11764278495,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7440004,
+          35.9886396
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11711767967,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7440001,
+          35.9886697
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11711767968,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7440022,
+          35.9884742
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11711812169,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7440331,
+          35.9884389
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11711812170,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7442864,
+          35.988438
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11711812171,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7442843,
+          35.9886671
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 11711812172,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6998269,
+          36.0066399
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 10839584934,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6998258,
+          36.0062254
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 10839584935,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6993244,
+          36.0062254
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 10839584936,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6993222,
+          36.0066399
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 10839584937,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7072731,
+          36.01687
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 12473746989,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7071347,
+          36.0170579
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 12473746990,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7069756,
+          36.016868
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 12473786843,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7072962,
+          36.0168702
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 12473786844,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7072942,
+          36.017059
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 12473786845,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7069737,
+          36.0170568
+        ]
+      },
+      "properties": {
+        "marker_key": "tulsa_suburbs",
+        "osm_type": "node",
+        "osm_id": 12473786846,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    }
+  ]
+}

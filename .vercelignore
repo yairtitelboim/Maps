@@ -1,0 +1,26 @@
+# Python files (these are for local development only)
+*.py
+requirements*.txt
+alphaearth_*.py
+alphaearth_*.geojson
+generate_*.py
+comprehensive_detection.py
+
+# Local development servers
+proxy-server/
+scripts/
+
+# Data files
+*.geojson
+output/
+data/
+
+# Documentation (not needed for deployment)
+*README.md
+*_DOCS_*.md
+*_PLAN.md
+*_IMPLEMENTATION.md
+
+# OS files
+.DS_Store
+**/.DS_Store

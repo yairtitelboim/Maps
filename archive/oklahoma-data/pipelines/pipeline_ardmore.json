@@ -1,0 +1,25 @@
+{
+  "marker": {
+    "key": "ardmore",
+    "name": "Ardmore",
+    "center": {
+      "lat": 34.1743,
+      "lng": -97.1436
+    },
+    "radius_m": 8046
+  },
+  "summary": {
+    "generated_at": "2025-11-07T21:19:09.775067+00:00",
+    "feature_count": 0,
+    "categories": {},
+    "query_radius_m": 8046,
+    "bounding_box": {
+      "min_lon": -97.21587811713978,
+      "min_lat": 34.1015118690067,
+      "max_lon": -97.07132188286023,
+      "max_lat": 34.247088130993305
+    },
+    "raw_element_count": 0
+  },
+  "features": []
+}

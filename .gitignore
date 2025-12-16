@@ -1,0 +1,29 @@
+# Secrets
+.env
+.env.local
+*.json  # Service account files (review individually)
+**/gentle-cinema-*.json
+
+# Large files
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Build artifacts
+node_modules/
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

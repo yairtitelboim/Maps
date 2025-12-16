@@ -1,0 +1,804 @@
+{
+  "total_checked": 72,
+  "correct": 9,
+  "incorrect": 10,
+  "questionable": 6,
+  "no_reference": 47,
+  "issues": {
+    "incorrect": [
+      {
+        "project_id": "proj_8856cfc1ea89",
+        "company": "Unknown",
+        "location": "Armstrong County",
+        "current_coords": [
+          35.1025,
+          -101.0131
+        ],
+        "expected_city": "Armstrong County",
+        "expected_coords": [
+          34.9296,
+          -101.3449
+        ],
+        "distance_km": 35.81401160987889,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_a2cfea4a82ed",
+        "company": "Unknown",
+        "location": "Ellis County, TX",
+        "current_coords": [
+          32.39560756301054,
+          -96.60601368086346
+        ],
+        "expected_city": "Ellis County",
+        "expected_coords": [
+          32.4175,
+          -96.8403
+        ],
+        "distance_km": 22.128670429572143,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_33946bd1face",
+        "company": "Unknown",
+        "location": "bosque county",
+        "current_coords": [
+          31.8522,
+          -97.3931
+        ],
+        "expected_city": "Bosque County",
+        "expected_coords": [
+          31.8778,
+          -97.6561
+        ],
+        "distance_km": 24.999575635059934,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_be014b70966b",
+        "company": "Amazon",
+        "location": "work medina",
+        "current_coords": [
+          29.2521,
+          -98.8083
+        ],
+        "expected_city": "Medina County",
+        "expected_coords": [
+          29.3558,
+          -99.1103
+        ],
+        "distance_km": 31.472157748449835,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_96ac0eafe063",
+        "company": "Calpine",
+        "location": "Bosque County, Texas",
+        "current_coords": [
+          31.8594,
+          -97.3586
+        ],
+        "expected_city": "Bosque County",
+        "expected_coords": [
+          31.8778,
+          -97.6561
+        ],
+        "distance_km": 28.168369444124878,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_6c5910e85a48",
+        "company": "CyrusOne",
+        "location": "bosque county",
+        "current_coords": [
+          31.9433,
+          -97.3927
+        ],
+        "expected_city": "Bosque County",
+        "expected_coords": [
+          31.8778,
+          -97.6561
+        ],
+        "distance_km": 25.907289468815783,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_fd4946958da6",
+        "company": "Energy Capital Partners",
+        "location": "bosque county",
+        "current_coords": [
+          31.8594,
+          -97.3586
+        ],
+        "expected_city": "Bosque County",
+        "expected_coords": [
+          31.8778,
+          -97.6561
+        ],
+        "distance_km": 28.168369444124878,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_9d17ebbc517e",
+        "company": "Oracle",
+        "location": "new stargate site in shackelford",
+        "current_coords": [
+          32.4833,
+          -99.7331
+        ],
+        "expected_city": "Shackelford County",
+        "expected_coords": [
+          32.7089,
+          -99.3308
+        ],
+        "distance_km": 45.27295801540697,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_5d353b34c2ec",
+        "company": "Vantage",
+        "location": "Shackelford County, Texas",
+        "current_coords": [
+          32.4875,
+          -99.7333
+        ],
+        "expected_city": "Shackelford County",
+        "expected_coords": [
+          32.7089,
+          -99.3308
+        ],
+        "distance_km": 45.03081233316026,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_4149422794b2",
+        "company": "Vantage",
+        "location": "shackelford county",
+        "current_coords": [
+          32.608,
+          -99.5556
+        ],
+        "expected_city": "Shackelford County",
+        "expected_coords": [
+          32.7089,
+          -99.3308
+        ],
+        "distance_km": 23.8486520354658,
+        "confidence": "address",
+        "site_hint": null
+      }
+    ],
+    "questionable": [
+      {
+        "project_id": "proj_2d0725b8705d",
+        "company": "Unknown",
+        "location": "Austin County, TX",
+        "current_coords": [
+          29.826,
+          -96.143
+        ],
+        "expected_city": "Austin County",
+        "expected_coords": [
+          29.8916,
+          -96.2443
+        ],
+        "distance_km": 12.19169844105916,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_02da704f6343",
+        "company": "Unknown",
+        "location": "South Fort Worth, TX",
+        "current_coords": [
+          32.6505,
+          -97.4542
+        ],
+        "expected_city": "Fort Worth",
+        "expected_coords": [
+          32.7555,
+          -97.3308
+        ],
+        "distance_km": 16.420564645945223,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_51b06f4013fa",
+        "company": "CyrusOne",
+        "location": "bexar county",
+        "current_coords": [
+          29.5497611,
+          -98.4084556
+        ],
+        "expected_city": "Bexar County",
+        "expected_coords": [
+          29.4484,
+          -98.52
+        ],
+        "distance_km": 15.606716420977602,
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_21909c0fe290",
+        "company": "Microsoft",
+        "location": "Plano",
+        "current_coords": [
+          32.8707059,
+          -96.700351
+        ],
+        "expected_city": "Plano",
+        "expected_coords": [
+          33.0198,
+          -96.6989
+        ],
+        "distance_km": 16.57906040776825,
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_a19b7d001ee2",
+        "company": "Oracle",
+        "location": "santa teresa",
+        "current_coords": [
+          31.864,
+          -106.635
+        ],
+        "expected_city": "Santa Teresa",
+        "expected_coords": [
+          31.8475,
+          -106.5702
+        ],
+        "distance_km": 6.389238513710391,
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_cc1cec9ebbfb",
+        "company": "Switch",
+        "location": "reading street in dallas",
+        "current_coords": [
+          32.8064955,
+          -96.8652681
+        ],
+        "expected_city": "Dallas",
+        "expected_coords": [
+          32.7767,
+          -96.797
+        ],
+        "distance_km": 7.190198048542966,
+        "confidence": "address",
+        "site_hint": "Reading Street"
+      }
+    ],
+    "no_reference": [
+      {
+        "project_id": "proj_a1344fc84322",
+        "company": "Unknown",
+        "location": null,
+        "current_coords": [
+          32.5920798,
+          -96.7561083
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_1751f6add42a",
+        "company": "Unknown",
+        "location": "Fort Worth moving forward",
+        "current_coords": [
+          32.62,
+          -97.264
+        ],
+        "confidence": "address",
+        "site_hint": "southeast Fort"
+      },
+      {
+        "project_id": "proj_2939ca7d3063",
+        "company": "Unknown",
+        "location": "Jarrell, TX",
+        "current_coords": [
+          30.8249094,
+          -97.604454
+        ],
+        "confidence": "city",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_a3fea98293a9",
+        "company": "Unknown",
+        "location": "and Beyond",
+        "current_coords": [
+          29.8688353,
+          -95.4248406
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_9751b5340d31",
+        "company": "Unknown",
+        "location": "crews in",
+        "current_coords": [
+          31.7952814,
+          -94.1803576
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_119e848d8619",
+        "company": "Unknown",
+        "location": "ew",
+        "current_coords": [
+          31.6175,
+          -97.1203
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_e4d7694f1871",
+        "company": "Unknown",
+        "location": "ey",
+        "current_coords": [
+          31.8474,
+          -97.3893
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_9e155cfc5fbf",
+        "company": "Unknown",
+        "location": "fort worth",
+        "current_coords": [
+          32.6455471,
+          -97.2612931
+        ],
+        "confidence": "area",
+        "site_hint": "Stephenson Road"
+      },
+      {
+        "project_id": "proj_ad88ebe8b5a3",
+        "company": "Aligned",
+        "location": "th",
+        "current_coords": [
+          33.009455,
+          -96.6934979
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_fa68aa51bb62",
+        "company": "Amazon",
+        "location": null,
+        "current_coords": [
+          32.7767,
+          -96.797
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_e68dbff6172e",
+        "company": "Amazon",
+        "location": "Indiana",
+        "current_coords": [
+          32.7336305,
+          -96.6062006
+        ],
+        "confidence": "county",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_fb96122ba2af",
+        "company": "Blueprint Projects",
+        "location": null,
+        "current_coords": [
+          30.5792,
+          -97.4021
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_77c9164f874d",
+        "company": "Blueprint Projects",
+        "location": "or",
+        "current_coords": [
+          30.5794,
+          -97.3231
+        ],
+        "confidence": "address",
+        "site_hint": "northeast of"
+      },
+      {
+        "project_id": "proj_4573106dc8ed",
+        "company": "CyrusOne",
+        "location": "Texas Calpine",
+        "current_coords": [
+          32.7767,
+          -96.797
+        ],
+        "confidence": "city",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_ee843a3e2057",
+        "company": "CyrusOne",
+        "location": "co",
+        "current_coords": [
+          31.873611,
+          -97.369167
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_e2ff91c2d763",
+        "company": "DataBank",
+        "location": "ak",
+        "current_coords": [
+          32.5182,
+          -96.8047
+        ],
+        "confidence": "city",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_7e00b40d4d6f",
+        "company": "Digital Realty",
+        "location": "Historic uptown",
+        "current_coords": [
+          32.8007124,
+          -96.7998571
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_2a92377d84ee",
+        "company": "Digital Realty",
+        "location": "Texas",
+        "current_coords": [
+          32.9481789,
+          -96.7297206
+        ],
+        "confidence": "county",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_d15569314ca7",
+        "company": "Energy Capital Partners",
+        "location": "ECP and KKR to develop new",
+        "current_coords": [
+          32.7476883,
+          -96.8263919
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_5dddcc6b9fb5",
+        "company": "Google",
+        "location": null,
+        "current_coords": [
+          32.5394,
+          -96.9506
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_4d94eab6404e",
+        "company": "Google",
+        "location": null,
+        "current_coords": [
+          32.8387811,
+          -96.5744486
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_c12cc89dd0c4",
+        "company": "Google",
+        "location": null,
+        "current_coords": [
+          30.2247882,
+          -97.7889051
+        ],
+        "confidence": "area",
+        "site_hint": "southeast side"
+      },
+      {
+        "project_id": "proj_bb58dfa6c724",
+        "company": "Google",
+        "location": "Billion in",
+        "current_coords": [
+          35.11,
+          -101.3648
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_4a9eda5ada97",
+        "company": "Google",
+        "location": "Midlothian, TX",
+        "current_coords": [
+          32.4824,
+          -96.9944
+        ],
+        "confidence": "city",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_25080f22b275",
+        "company": "Google",
+        "location": "billion in",
+        "current_coords": [
+          26.2240329,
+          -98.1726283
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_a60eedde0cfd",
+        "company": "KDC",
+        "location": "or",
+        "current_coords": [
+          30.6375,
+          -97.3472
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_2d5e0ba10dda",
+        "company": "Meta",
+        "location": null,
+        "current_coords": [
+          29.8833,
+          -97.9414
+        ],
+        "confidence": "city",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_7011c0c201a8",
+        "company": "Meta",
+        "location": null,
+        "current_coords": [
+          30.5795,
+          -97.4028
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_312a4fd03673",
+        "company": "Meta",
+        "location": null,
+        "current_coords": [
+          32.7664561,
+          -96.7616754
+        ],
+        "confidence": "neighborhood",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_543fe0cf4720",
+        "company": "Meta",
+        "location": null,
+        "current_coords": [
+          30.524,
+          -97.6205
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_2527bab15f1b",
+        "company": "Meta",
+        "location": null,
+        "current_coords": [
+          31.7619,
+          -106.485
+        ],
+        "confidence": "city",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_04bdd81a9a38",
+        "company": "Meta",
+        "location": "Texas",
+        "current_coords": [
+          29.7707598,
+          -95.5912444
+        ],
+        "confidence": "county",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_ef3887d44813",
+        "company": "Meta",
+        "location": "el paso",
+        "current_coords": [
+          31.8258,
+          -106.4158
+        ],
+        "confidence": "address",
+        "site_hint": "Northeast El"
+      },
+      {
+        "project_id": "proj_827e0c61afb2",
+        "company": "Meta",
+        "location": "el paso",
+        "current_coords": [
+          31.935,
+          -106.407
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_85be426a38ee",
+        "company": "Microsoft",
+        "location": null,
+        "current_coords": [
+          29.4167,
+          -98.5
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_605ca726a09f",
+        "company": "Microsoft",
+        "location": "Nscale Plans to Build Massive",
+        "current_coords": [
+          30.6108618,
+          -96.3520606
+        ],
+        "confidence": "county",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_e1428908844d",
+        "company": "Microsoft",
+        "location": "Texas",
+        "current_coords": [
+          32.9108,
+          -96.9681
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_3f81efc4358b",
+        "company": "Oracle",
+        "location": "Texas",
+        "current_coords": [
+          30.321975,
+          -97.765669
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_90c9dce9c5d2",
+        "company": "QTS",
+        "location": "Texas",
+        "current_coords": [
+          31.9513,
+          -106.6056
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_a467f803a9db",
+        "company": "QTS",
+        "location": "as",
+        "current_coords": [
+          32.7475,
+          -96.6922
+        ],
+        "confidence": "address",
+        "site_hint": "Mason Road"
+      },
+      {
+        "project_id": "proj_8e6b7059f6cb",
+        "company": "Rowan Digital Infrastructure",
+        "location": null,
+        "current_coords": [
+          29.4826914,
+          -98.402968
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_23b485f49c47",
+        "company": "STACK",
+        "location": null,
+        "current_coords": [
+          33.0565,
+          -96.8291
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_e47967d3405c",
+        "company": "Sabey Data Centers",
+        "location": "Key Technology Hub Sabey",
+        "current_coords": [
+          30.5125,
+          -97.6667
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_91c899c1c07c",
+        "company": "Sabey Data Centers",
+        "location": "Texas",
+        "current_coords": [
+          30.5125,
+          -97.6667
+        ],
+        "confidence": "address",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_2d69fa43c96d",
+        "company": "Skybox Datacenters",
+        "location": null,
+        "current_coords": [
+          30.4768037,
+          -97.6738169
+        ],
+        "confidence": "area",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_51b583afc528",
+        "company": "TRG Datacenters",
+        "location": "Texas",
+        "current_coords": [
+          30.070979,
+          -95.401342
+        ],
+        "confidence": "county",
+        "site_hint": null
+      },
+      {
+        "project_id": "proj_4867abff1592",
+        "company": "Vantage",
+        "location": "Texas",
+        "current_coords": [
+          32.5701,
+          -99.5606
+        ],
+        "confidence": "address",
+        "site_hint": null
+      }
+    ]
+  }
+}

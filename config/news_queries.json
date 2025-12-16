@@ -1,0 +1,368 @@
+{
+  "core_queries": [
+    {
+      "query": "\"data center\" Texas ERCOT",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "\"hyperscale\" Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "\"AI data center\" Texas substation power megawatts",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "\"data center campus\" Texas permit zoning abatement",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "500 MW data center Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "1 GW data center Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "hyperscale campus Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "megawatt data center Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "gigawatt campus Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center breaking ground Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center groundbreaking Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center construction start Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center ground breaking Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "ERCOT interconnection data center",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center power purchase agreement Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center PPA Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center interconnection queue Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center substation Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center transmission line Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center power infrastructure Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "$1 billion data center Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center tax incentive Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center economic development Texas",
+      "region": "Texas",
+      "enabled": true
+    },
+    {
+      "query": "data center investment Texas",
+      "region": "Texas",
+      "enabled": true
+    }
+  ],
+  "company_queries": [
+    {
+      "company": "Amazon",
+      "query": "Amazon \"data center\" Texas",
+      "enabled": true
+    },
+    {
+      "company": "Google",
+      "query": "Google \"data center\" Texas",
+      "enabled": true
+    },
+    {
+      "company": "Microsoft",
+      "query": "Microsoft \"data center\" Texas",
+      "enabled": true
+    },
+    {
+      "company": "Meta",
+      "query": "Meta \"data center\" Texas",
+      "enabled": true
+    },
+    {
+      "company": "Equinix",
+      "query": "Equinix data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "Equinix",
+      "query": "Equinix IBX Texas",
+      "enabled": true
+    },
+    {
+      "company": "Equinix",
+      "query": "Equinix colocation Texas",
+      "enabled": true
+    },
+    {
+      "company": "Equinix",
+      "query": "Equinix Dallas",
+      "enabled": true
+    },
+    {
+      "company": "Equinix",
+      "query": "Equinix Austin",
+      "enabled": true
+    },
+    {
+      "company": "Equinix",
+      "query": "Equinix Houston",
+      "enabled": true
+    },
+    {
+      "company": "Vantage",
+      "query": "Vantage Data Centers Texas",
+      "enabled": true
+    },
+    {
+      "company": "Vantage",
+      "query": "Vantage AI campus Texas",
+      "enabled": true
+    },
+    {
+      "company": "Vantage",
+      "query": "Vantage Frontier Texas",
+      "enabled": true
+    },
+    {
+      "company": "Vantage",
+      "query": "Vantage Shackelford County",
+      "enabled": true
+    },
+    {
+      "company": "STACK",
+      "query": "STACK Infrastructure Texas",
+      "enabled": true
+    },
+    {
+      "company": "STACK",
+      "query": "STACK data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "STACK",
+      "query": "STACK hyperscale Texas",
+      "enabled": true
+    },
+    {
+      "company": "Switch",
+      "query": "Switch data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "CoreWeave",
+      "query": "CoreWeave data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "CoreWeave",
+      "query": "CoreWeave AI Texas",
+      "enabled": true
+    },
+    {
+      "company": "CoreWeave",
+      "query": "CoreWeave GPU cluster Texas",
+      "enabled": true
+    },
+    {
+      "company": "CyrusOne",
+      "query": "CyrusOne data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "Digital Realty",
+      "query": "Digital Realty data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "QTS",
+      "query": "QTS data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "Aligned",
+      "query": "Aligned data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "TierPoint",
+      "query": "TierPoint data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "Flexential",
+      "query": "Flexential data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "DataBank",
+      "query": "DataBank data center Texas",
+      "enabled": true
+    },
+    {
+      "company": "Cologix",
+      "query": "Cologix data center Texas",
+      "enabled": true
+    }
+  ],
+  "geographic_queries": [
+    {
+      "region": "Dallas Metro",
+      "query": "data center Dallas",
+      "enabled": true
+    },
+    {
+      "region": "Dallas Metro",
+      "query": "data center Fort Worth",
+      "enabled": true
+    },
+    {
+      "region": "Dallas Metro",
+      "query": "data center Plano",
+      "enabled": true
+    },
+    {
+      "region": "Dallas Metro",
+      "query": "data center Frisco",
+      "enabled": true
+    },
+    {
+      "region": "Dallas Metro",
+      "query": "data center Richardson",
+      "enabled": true
+    },
+    {
+      "region": "Dallas Metro",
+      "query": "hyperscale Dallas",
+      "enabled": true
+    },
+    {
+      "region": "Dallas Metro",
+      "query": "data center Collin County",
+      "enabled": true
+    },
+    {
+      "region": "Austin Metro",
+      "query": "data center Austin",
+      "enabled": true
+    },
+    {
+      "region": "Austin Metro",
+      "query": "data center Round Rock",
+      "enabled": true
+    },
+    {
+      "region": "Austin Metro",
+      "query": "data center Cedar Park",
+      "enabled": true
+    },
+    {
+      "region": "Austin Metro",
+      "query": "data center Williamson County",
+      "enabled": true
+    },
+    {
+      "region": "Austin Metro",
+      "query": "hyperscale Austin",
+      "enabled": true
+    },
+    {
+      "region": "San Antonio Metro",
+      "query": "data center San Antonio",
+      "enabled": true
+    },
+    {
+      "region": "San Antonio Metro",
+      "query": "data center Bexar County",
+      "enabled": true
+    },
+    {
+      "region": "Houston Metro",
+      "query": "data center Houston",
+      "enabled": true
+    },
+    {
+      "region": "Houston Metro",
+      "query": "data center Sugar Land",
+      "enabled": true
+    },
+    {
+      "region": "Houston Metro",
+      "query": "data center Harris County",
+      "enabled": true
+    }
+  ],
+  "negative_filters": [
+    "-jobs",
+    "-hiring",
+    "-colocation pricing",
+    "-bitcoin",
+    "-crypto mining"
+  ],
+  "update_frequency_hours": 24,
+  "max_results_per_query": 50
+}
+

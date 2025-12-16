@@ -1,0 +1,767 @@
+{
+  "marker": {
+    "key": "cimarron_link_panhandle",
+    "name": "Cimarron Link Transmission Corridor (Texas Panhandle Edge)",
+    "center": {
+      "lat": 36.5,
+      "lng": -102.0
+    },
+    "radius_m": 8046
+  },
+  "summary": {
+    "generated_at": "2025-11-07T21:18:50.478879+00:00",
+    "feature_count": 23,
+    "categories": {
+      "pipeline": 23
+    },
+    "query_radius_m": 8046,
+    "bounding_box": {
+      "min_lon": -102.07227811713977,
+      "min_lat": 36.4272118690067,
+      "max_lon": -101.92772188286023,
+      "max_lat": 36.5727881309933
+    },
+    "raw_element_count": 23
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.1209374,
+            36.4878267
+          ],
+          [
+            -102.0934153,
+            36.4877642
+          ],
+          [
+            -102.0629454,
+            36.4878505
+          ],
+          [
+            -102.0317889,
+            36.4879367
+          ],
+          [
+            -101.9934655,
+            36.4879022
+          ],
+          [
+            -101.9737727,
+            36.4877901
+          ],
+          [
+            -101.9737405,
+            36.4879065
+          ],
+          [
+            -101.9551528,
+            36.4879798
+          ],
+          [
+            -101.9551849,
+            36.473375
+          ],
+          [
+            -101.9193078,
+            36.473375
+          ],
+          [
+            -101.9009185,
+            36.4738409
+          ],
+          [
+            -101.883452,
+            36.4737719
+          ],
+          [
+            -101.8634963,
+            36.4735993
+          ],
+          [
+            -101.8344265,
+            36.4735821
+          ],
+          [
+            -101.8334448,
+            36.4726848
+          ],
+          [
+            -101.8322647,
+            36.4733491
+          ],
+          [
+            -101.8047023,
+            36.4732628
+          ],
+          [
+            -101.8046701,
+            36.489623
+          ],
+          [
+            -101.7990808,
+            36.4928777
+          ],
+          [
+            -101.7966047,
+            36.4943195
+          ],
+          [
+            -101.795049,
+            36.494423
+          ],
+          [
+            -101.7931366,
+            36.4954063
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "way",
+        "osm_id": 1304359048,
+        "name": "Judd Lateral",
+        "category": "pipeline",
+        "subcategory": "substance:gas",
+        "pipeline_type": "",
+        "substance": "gas",
+        "man_made": "pipeline",
+        "location": "underground",
+        "usage": "transmission",
+        "diameter": "",
+        "pressure": "",
+        "operator": "Western Gas Interstate",
+        "length": "",
+        "tags": {
+          "layer": "-1",
+          "location": "underground",
+          "man_made": "pipeline",
+          "name": "Judd Lateral",
+          "operator": "Western Gas Interstate",
+          "substance": "gas",
+          "usage": "transmission"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1209374,
+          36.4878267
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 3416653864,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0934153,
+          36.4877642
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330669,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0629454,
+          36.4878505
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330670,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0317889,
+          36.4879367
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079324820,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9934655,
+          36.4879022
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079324819,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9551849,
+          36.473375
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330684,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9737727,
+          36.4877901
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330671,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9737405,
+          36.4879065
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330672,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9551528,
+          36.4879798
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330685,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9193078,
+          36.473375
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330683,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9009185,
+          36.4738409
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330675,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.883452,
+          36.4737719
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330674,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8634963,
+          36.4735993
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330673,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8322647,
+          36.4733491
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330676,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8334448,
+          36.4726848
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330677,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8344265,
+          36.4735821
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330678,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8047023,
+          36.4732628
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330682,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8046701,
+          36.489623
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330681,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7990808,
+          36.4928777
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079324816,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7966047,
+          36.4943195
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330679,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.795049,
+          36.494423
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330680,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7931366,
+          36.4954063
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_panhandle",
+        "osm_type": "node",
+        "osm_id": 12079330686,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    }
+  ]
+}

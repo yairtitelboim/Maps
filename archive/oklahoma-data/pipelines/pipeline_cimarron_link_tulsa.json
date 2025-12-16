@@ -1,0 +1,5815 @@
+{
+  "marker": {
+    "key": "cimarron_link_tulsa",
+    "name": "Cimarron Link Transmission Corridor (Tulsa Terminus)",
+    "center": {
+      "lat": 36.15,
+      "lng": -95.99
+    },
+    "radius_m": 8046
+  },
+  "summary": {
+    "generated_at": "2025-11-07T21:18:46.457317+00:00",
+    "feature_count": 180,
+    "categories": {
+      "pipeline": 180
+    },
+    "query_radius_m": 8046,
+    "bounding_box": {
+      "min_lon": -96.06227811713977,
+      "min_lat": 36.077211869006696,
+      "max_lon": -95.91772188286022,
+      "max_lat": 36.2227881309933
+    },
+    "raw_element_count": 180
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.978325,
+          36.2113536
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3219722898,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "substance:oil",
+        "pipeline_type": "",
+        "substance": "oil",
+        "man_made": "petroleum_well",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {
+          "man_made": "petroleum_well",
+          "substance": "oil"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.000025,
+            36.1448059
+          ],
+          [
+            -95.9997394,
+            36.1456724
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 98681094,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.9897804,
+            36.144217
+          ],
+          [
+            -95.9897802,
+            36.143665
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 349594587,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline",
+          "note": "There is no footway on this bridge, it is purely a utility structure for a pipeline."
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.9862411,
+            36.1435193
+          ],
+          [
+            -95.9862426,
+            36.1430538
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 349603903,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "access": "no",
+          "bridge": "yes",
+          "layer": "1",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.9808701,
+            36.1569854
+          ],
+          [
+            -95.9799783,
+            36.1569821
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 349650163,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "overhead",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "location": "overhead",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.9579833,
+            36.1608516
+          ],
+          [
+            -95.9579833,
+            36.1604571
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 368508846,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "overground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "location": "overground",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.9405513,
+            36.1592117
+          ],
+          [
+            -95.9405453,
+            36.1598406
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 368508848,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "overground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "location": "overground",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.0213112,
+            36.1043067
+          ],
+          [
+            -96.0208905,
+            36.1042046
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 368508849,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "overground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "location": "overground",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.9668791,
+            36.1595611
+          ],
+          [
+            -95.9668743,
+            36.1589525
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 368508850,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "overground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "bridge": "yes",
+          "location": "overground",
+          "man_made": "pipeline"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.9933472,
+              36.0934862
+            ],
+            [
+              -95.992564,
+              36.0934071
+            ],
+            [
+              -95.9915139,
+              36.0934082
+            ],
+            [
+              -95.9914563,
+              36.09382
+            ],
+            [
+              -95.991412,
+              36.0943835
+            ],
+            [
+              -95.9914066,
+              36.0958421
+            ],
+            [
+              -95.9913718,
+              36.0961802
+            ],
+            [
+              -95.9911465,
+              36.0986401
+            ],
+            [
+              -95.9930509,
+              36.0986683
+            ],
+            [
+              -95.9928631,
+              36.0958659
+            ],
+            [
+              -95.9928658,
+              36.0951204
+            ],
+            [
+              -95.993134,
+              36.0949795
+            ],
+            [
+              -95.9931018,
+              36.0944333
+            ],
+            [
+              -95.9933378,
+              36.0942599
+            ],
+            [
+              -95.9933445,
+              36.0936605
+            ],
+            [
+              -95.9933472,
+              36.0934862
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 493731042,
+        "name": "Cherry Creek Lift Station",
+        "category": "pipeline",
+        "subcategory": "man_made:water_works",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "water_works",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "City of Tulsa",
+        "length": "",
+        "tags": {
+          "addr:city": "Tulsa",
+          "addr:country": "US",
+          "addr:housenumber": "4899",
+          "addr:postcode": "74107",
+          "addr:state": "OK",
+          "addr:street": "South Elwood Avenue",
+          "man_made": "water_works",
+          "name": "Cherry Creek Lift Station",
+          "operator": "City of Tulsa",
+          "phone": "+1-918-591-4453"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.0310462,
+              36.1102687
+            ],
+            [
+              -96.0310515,
+              36.1103151
+            ],
+            [
+              -96.0310464,
+              36.1103615
+            ],
+            [
+              -96.0310311,
+              36.1104064
+            ],
+            [
+              -96.031006,
+              36.1104483
+            ],
+            [
+              -96.030972,
+              36.1104859
+            ],
+            [
+              -96.0309302,
+              36.1105179
+            ],
+            [
+              -96.0308819,
+              36.1105434
+            ],
+            [
+              -96.0308288,
+              36.1105614
+            ],
+            [
+              -96.0307726,
+              36.1105715
+            ],
+            [
+              -96.030715,
+              36.1105732
+            ],
+            [
+              -96.030656,
+              36.1105661
+            ],
+            [
+              -96.0305997,
+              36.1105504
+            ],
+            [
+              -96.030548,
+              36.1105264
+            ],
+            [
+              -96.0305027,
+              36.1104951
+            ],
+            [
+              -96.0304654,
+              36.1104575
+            ],
+            [
+              -96.0304374,
+              36.110415
+            ],
+            [
+              -96.0304196,
+              36.1103692
+            ],
+            [
+              -96.0304127,
+              36.1103215
+            ],
+            [
+              -96.0304169,
+              36.1102735
+            ],
+            [
+              -96.030432,
+              36.1102271
+            ],
+            [
+              -96.0304575,
+              36.1101837
+            ],
+            [
+              -96.0304925,
+              36.1101449
+            ],
+            [
+              -96.0305358,
+              36.1101119
+            ],
+            [
+              -96.0305859,
+              36.1100861
+            ],
+            [
+              -96.030641,
+              36.1100682
+            ],
+            [
+              -96.0306994,
+              36.1100588
+            ],
+            [
+              -96.0307588,
+              36.1100584
+            ],
+            [
+              -96.0308173,
+              36.1100668
+            ],
+            [
+              -96.0308729,
+              36.1100839
+            ],
+            [
+              -96.0309236,
+              36.110109
+            ],
+            [
+              -96.0309677,
+              36.1101412
+            ],
+            [
+              -96.0310036,
+              36.1101795
+            ],
+            [
+              -96.03103,
+              36.1102225
+            ],
+            [
+              -96.0310462,
+              36.1102687
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 715910809,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "substance:water",
+        "pipeline_type": "",
+        "substance": "water",
+        "man_made": "storage_tank",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "man_made": "storage_tank",
+          "substance": "water"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.2177122,
+            36.3150314
+          ],
+          [
+            -96.2109886,
+            36.3083744
+          ],
+          [
+            -96.207255,
+            36.3045702
+          ],
+          [
+            -96.2026845,
+            36.3001778
+          ],
+          [
+            -96.1949614,
+            36.2924809
+          ],
+          [
+            -96.1915265,
+            36.2890575
+          ],
+          [
+            -96.1872779,
+            36.2859787
+          ],
+          [
+            -96.1767851,
+            36.2788696
+          ],
+          [
+            -96.1657773,
+            36.2713273
+          ],
+          [
+            -96.1588679,
+            36.2666216
+          ],
+          [
+            -96.1518513,
+            36.2616215
+          ],
+          [
+            -96.1495982,
+            36.2601855
+          ],
+          [
+            -96.1448132,
+            36.2575036
+          ],
+          [
+            -96.1419164,
+            36.2556176
+          ],
+          [
+            -96.1369811,
+            36.250686
+          ],
+          [
+            -96.1361657,
+            36.2499938
+          ],
+          [
+            -96.1299001,
+            36.2443178
+          ],
+          [
+            -96.1252867,
+            36.2413065
+          ],
+          [
+            -96.1180984,
+            36.2365644
+          ],
+          [
+            -96.1147939,
+            36.2340375
+          ],
+          [
+            -96.1046015,
+            36.2253658
+          ],
+          [
+            -96.1037432,
+            36.2246214
+          ],
+          [
+            -96.0946237,
+            36.221696
+          ],
+          [
+            -96.0930787,
+            36.2207958
+          ],
+          [
+            -96.0882937,
+            36.2162949
+          ],
+          [
+            -96.0855256,
+            36.2136461
+          ],
+          [
+            -96.0851608,
+            36.213421
+          ],
+          [
+            -96.0792171,
+            36.2115859
+          ],
+          [
+            -96.0767494,
+            36.2106337
+          ],
+          [
+            -96.0740887,
+            36.2094564
+          ],
+          [
+            -96.0686813,
+            36.2063053
+          ],
+          [
+            -96.0629092,
+            36.2030328
+          ],
+          [
+            -96.057974,
+            36.1992581
+          ],
+          [
+            -96.0532533,
+            36.1954832
+          ],
+          [
+            -96.0500775,
+            36.1908769
+          ],
+          [
+            -96.0485326,
+            36.1884524
+          ],
+          [
+            -96.0435329,
+            36.1809533
+          ],
+          [
+            -96.0384943,
+            36.1736526
+          ],
+          [
+            -96.0329758,
+            36.1657625
+          ],
+          [
+            -96.0297357,
+            36.1610678
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 915635075,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "underground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "layer": "-1",
+          "location": "underground",
+          "man_made": "pipeline",
+          "source": "USGS topographic maps"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.0445844,
+            36.2001412
+          ],
+          [
+            -96.0417949,
+            36.191864
+          ],
+          [
+            -96.0393916,
+            36.1847982
+          ],
+          [
+            -96.0373317,
+            36.1789096
+          ],
+          [
+            -96.0375033,
+            36.175151
+          ],
+          [
+            -96.0384943,
+            36.1736526
+          ],
+          [
+            -96.0403787,
+            36.1708033
+          ],
+          [
+            -96.0394131,
+            36.1612583
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 915635077,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "underground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "layer": "-1",
+          "location": "underground",
+          "man_made": "pipeline",
+          "source": "USGS topographic maps"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.2281971,
+            36.1159244
+          ],
+          [
+            -96.2254726,
+            36.1166189
+          ],
+          [
+            -96.2140142,
+            36.1202763
+          ],
+          [
+            -96.2027489,
+            36.1239161
+          ],
+          [
+            -96.1873852,
+            36.1289423
+          ],
+          [
+            -96.1730515,
+            36.1338122
+          ],
+          [
+            -96.1639105,
+            36.1336736
+          ],
+          [
+            -96.1588036,
+            36.1321832
+          ],
+          [
+            -96.156057,
+            36.1327898
+          ],
+          [
+            -96.143633,
+            36.1389938
+          ],
+          [
+            -96.1371099,
+            36.1424768
+          ],
+          [
+            -96.1333118,
+            36.1453359
+          ],
+          [
+            -96.1289345,
+            36.1488533
+          ],
+          [
+            -96.1233509,
+            36.1526718
+          ],
+          [
+            -96.1226259,
+            36.1531676
+          ],
+          [
+            -96.1197291,
+            36.155264
+          ],
+          [
+            -96.1152445,
+            36.1583652
+          ],
+          [
+            -96.1118327,
+            36.1624537
+          ],
+          [
+            -96.1061679,
+            36.1655199
+          ],
+          [
+            -96.104859,
+            36.1665593
+          ],
+          [
+            -96.1026274,
+            36.1694002
+          ],
+          [
+            -96.1016618,
+            36.1702837
+          ],
+          [
+            -96.1004387,
+            36.1726914
+          ],
+          [
+            -96.0998379,
+            36.1733323
+          ],
+          [
+            -96.0987435,
+            36.1741464
+          ],
+          [
+            -96.0979281,
+            36.1744755
+          ],
+          [
+            -96.0961472,
+            36.1748739
+          ],
+          [
+            -96.096021,
+            36.1748981
+          ],
+          [
+            -96.0887443,
+            36.1762942
+          ],
+          [
+            -96.0874353,
+            36.1764847
+          ],
+          [
+            -96.0811053,
+            36.176935
+          ],
+          [
+            -96.079732,
+            36.1772815
+          ],
+          [
+            -96.0718356,
+            36.1807455
+          ],
+          [
+            -96.0649906,
+            36.1818366
+          ],
+          [
+            -96.0560428,
+            36.1847116
+          ],
+          [
+            -96.0485326,
+            36.1884524
+          ],
+          [
+            -96.0417949,
+            36.191864
+          ],
+          [
+            -96.0362803,
+            36.194652
+          ],
+          [
+            -96.0327612,
+            36.1964183
+          ],
+          [
+            -96.0199939,
+            36.2029809
+          ],
+          [
+            -96.0153161,
+            36.2053184
+          ],
+          [
+            -96.0109602,
+            36.2075692
+          ],
+          [
+            -96.0022484,
+            36.2137846
+          ],
+          [
+            -96.0002099,
+            36.2152215
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 915635079,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "man_made:pipeline",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "pipeline",
+        "location": "underground",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "layer": "-1",
+          "location": "underground",
+          "man_made": "pipeline",
+          "source": "USGS topographic maps"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.9963398,
+              36.0933097
+            ],
+            [
+              -95.9961131,
+              36.0918337
+            ],
+            [
+              -95.9963357,
+              36.0918272
+            ],
+            [
+              -95.9967448,
+              36.0923593
+            ],
+            [
+              -95.997127,
+              36.0930724
+            ],
+            [
+              -95.9967582,
+              36.093274
+            ],
+            [
+              -95.9963398,
+              36.0933097
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 1408451419,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:substation",
+        "pipeline_type": "substation",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "landuse": "industrial",
+          "pipeline": "substation"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.048189,
+              36.1120404
+            ],
+            [
+              -96.0474262,
+              36.1120371
+            ],
+            [
+              -96.047423,
+              36.1125291
+            ],
+            [
+              -96.0481883,
+              36.1121397
+            ],
+            [
+              -96.048189,
+              36.1120404
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "way",
+        "osm_id": 1423099088,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:substation",
+        "pipeline_type": "substation",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "length": "",
+        "tags": {
+          "pipeline": "substation"
+        },
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2281971,
+          36.1159244
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242805,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2254726,
+          36.1166189
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242804,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2140142,
+          36.1202763
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242803,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2027489,
+          36.1239161
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242802,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1873852,
+          36.1289423
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242801,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1730515,
+          36.1338122
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242800,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.156057,
+          36.1327898
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242797,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1588036,
+          36.1321832
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242798,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1639105,
+          36.1336736
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242799,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.143633,
+          36.1389938
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242796,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1371099,
+          36.1424768
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242795,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1333118,
+          36.1453359
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242794,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1289345,
+          36.1488533
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242791,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1233509,
+          36.1526718
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242793,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1226259,
+          36.1531676
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242790,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1152445,
+          36.1583652
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242788,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1197291,
+          36.155264
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242789,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1118327,
+          36.1624537
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242787,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1061679,
+          36.1655199
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242786,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1026274,
+          36.1694002
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242784,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.104859,
+          36.1665593
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242785,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1016618,
+          36.1702837
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242783,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0961472,
+          36.1748739
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242778,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0979281,
+          36.1744755
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242779,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0987435,
+          36.1741464
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242780,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0998379,
+          36.1733323
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242781,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1004387,
+          36.1726914
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242782,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.096021,
+          36.1748981
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242820,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0874353,
+          36.1764847
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242776,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0887443,
+          36.1762942
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242777,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.079732,
+          36.1772815
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242774,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0811053,
+          36.176935
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242775,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0718356,
+          36.1807455
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242773,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0649906,
+          36.1818366
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242772,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0560428,
+          36.1847116
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242754,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0500775,
+          36.1908769
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242751,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1588679,
+          36.2666216
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242726,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1949614,
+          36.2924809
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242708,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1915265,
+          36.2890575
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242707,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1872779,
+          36.2859787
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242723,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1767851,
+          36.2788696
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242724,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1657773,
+          36.2713273
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242725,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1299001,
+          36.2443178
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242733,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1037432,
+          36.2246214
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242738,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1046015,
+          36.2253658
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242737,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1180984,
+          36.2365644
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242735,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1252867,
+          36.2413065
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242734,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1147939,
+          36.2340375
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242736,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0792171,
+          36.2115859
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242744,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0767494,
+          36.2106337
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242745,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0882937,
+          36.2162949
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242741,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0855256,
+          36.2136461
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242742,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0851608,
+          36.213421
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242743,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0629092,
+          36.2030328
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242748,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0532533,
+          36.1954832
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242750,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.057974,
+          36.1992581
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242749,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0740887,
+          36.2094564
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242746,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0686813,
+          36.2063053
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242747,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0946237,
+          36.221696
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242739,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0930787,
+          36.2207958
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242740,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1448132,
+          36.2575036
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242729,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1419164,
+          36.2556176
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242730,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1369811,
+          36.250686
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242731,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1361657,
+          36.2499938
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242732,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1518513,
+          36.2616215
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242727,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1495982,
+          36.2601855
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242728,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2109886,
+          36.3083744
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242693,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.207255,
+          36.3045702
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242705,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2177122,
+          36.3150314
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242692,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2026845,
+          36.3001778
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242706,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.048189,
+          36.1120404
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 13078616730,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0474262,
+          36.1120371
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 13078616731,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.047423,
+          36.1125291
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 13078616732,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0481883,
+          36.1121397
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 13078616733,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0310515,
+          36.1103151
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789604,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0310464,
+          36.1103615
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789605,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0310311,
+          36.1104064
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789606,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.031006,
+          36.1104483
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789607,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.030972,
+          36.1104859
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789608,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0309302,
+          36.1105179
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789609,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0308819,
+          36.1105434
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789610,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0308288,
+          36.1105614
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789611,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0307726,
+          36.1105715
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789612,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.030656,
+          36.1105661
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789613,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0305997,
+          36.1105504
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789614,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.030548,
+          36.1105264
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789615,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0305027,
+          36.1104951
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789616,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0304654,
+          36.1104575
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789617,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0304196,
+          36.1103692
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789618,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0304127,
+          36.1103215
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789619,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0304169,
+          36.1102735
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789620,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.030432,
+          36.1102271
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789621,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0304575,
+          36.1101837
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789622,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0304925,
+          36.1101449
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789623,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0305358,
+          36.1101119
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789624,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0305859,
+          36.1100861
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789625,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.030641,
+          36.1100682
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789626,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0306994,
+          36.1100588
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789627,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0307588,
+          36.1100584
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789628,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0308173,
+          36.1100668
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789629,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0308729,
+          36.1100839
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789630,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0309236,
+          36.110109
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789631,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0309677,
+          36.1101412
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789632,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0310036,
+          36.1101795
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789633,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.03103,
+          36.1102225
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789634,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0304374,
+          36.110415
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789635,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.030715,
+          36.1105732
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789636,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0310462,
+          36.1102687
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 6727789637,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0208905,
+          36.1042046
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3723668628,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0213112,
+          36.1043067
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3723668629,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9914563,
+          36.09382
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098761,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9915139,
+          36.0934082
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098762,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.992564,
+          36.0934071
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098763,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9933472,
+          36.0934862
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098764,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9933445,
+          36.0936605
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098765,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9967582,
+          36.093274
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 12943795160,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.997127,
+          36.0930724
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 12943795161,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9967448,
+          36.0923593
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 12943795162,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9963357,
+          36.0918272
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 12943795163,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9961131,
+          36.0918337
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 12943795164,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9963398,
+          36.0933097
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 12943795165,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9933378,
+          36.0942599
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098751,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9931018,
+          36.0944333
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098752,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.993134,
+          36.0949795
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098753,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9928658,
+          36.0951204
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098754,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9928631,
+          36.0958659
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098755,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9930509,
+          36.0986683
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098756,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9911465,
+          36.0986401
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098757,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9913718,
+          36.0961802
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098758,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9914066,
+          36.0958421
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098759,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.991412,
+          36.0943835
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 4856098760,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0394131,
+          36.1612583
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242771,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0329758,
+          36.1657625
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242769,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0297357,
+          36.1610678
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242770,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9997394,
+          36.1456724
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 1141684833,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.000025,
+          36.1448059
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 1141685024,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0403787,
+          36.1708033
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242767,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0373317,
+          36.1789096
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242765,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0375033,
+          36.175151
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242766,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0384943,
+          36.1736526
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242768,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0435329,
+          36.1809533
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242753,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0393916,
+          36.1847982
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242758,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0485326,
+          36.1884524
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242752,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0417949,
+          36.191864
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242755,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9897802,
+          36.143665
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3554467648,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9897804,
+          36.144217
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3554467663,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9862411,
+          36.1435193
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3554578904,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9862426,
+          36.1430538
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3554578928,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9808701,
+          36.1569854
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3555001740,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9799783,
+          36.1569821
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3555001792,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9668743,
+          36.1589525
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3723647646,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9668791,
+          36.1595611
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3723646537,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9579833,
+          36.1608516
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3723647341,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9579833,
+          36.1604571
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3723647651,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9405513,
+          36.1592117
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3723646646,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9405453,
+          36.1598406
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 3723646539,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0445844,
+          36.2001412
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242757,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0362803,
+          36.194652
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242756,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0327612,
+          36.1964183
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242759,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0199939,
+          36.2029809
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242760,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0153161,
+          36.2053184
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242761,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0109602,
+          36.2075692
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242762,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0022484,
+          36.2137846
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242763,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0002099,
+          36.2152215
+        ]
+      },
+      "properties": {
+        "marker_key": "cimarron_link_tulsa",
+        "osm_type": "node",
+        "osm_id": 8505242764,
+        "name": "Unnamed Pipeline",
+        "category": "pipeline",
+        "subcategory": "pipeline:unknown",
+        "pipeline_type": "",
+        "substance": "",
+        "man_made": "",
+        "location": "",
+        "usage": "",
+        "diameter": "",
+        "pressure": "",
+        "operator": "",
+        "tags": {},
+        "source": "openstreetmap"
+      }
+    }
+  ]
+}

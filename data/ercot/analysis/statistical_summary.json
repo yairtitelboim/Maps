@@ -1,0 +1,9 @@
+{
+  "total_counties": 100,
+  "counties_with_dc": 5,
+  "counties_without_dc": 95,
+  "total_capacity": 47359.26,
+  "capacity_with_dc": 3608.2799999999997,
+  "capacity_without_dc": 43750.98,
+  "pct_capacity_with_dc": 7.618953505607983
+}

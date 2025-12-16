@@ -1,0 +1,24 @@
+{
+  "download_date": "2025-11-07T12:49:18.053312",
+  "total_pdfs": 1,
+  "successful_downloads": 1,
+  "failed_downloads": 0,
+  "pdfs": [
+    {
+      "document_id": "grda_test_GRDA_2016_CAFR_FINAL_Posted-to-EMMA-and-Website-2017-06-30-1",
+      "url": "file://data/grda/pdfs/permits/GRDA_2016_CAFR_FINAL_Posted-to-EMMA-and-Website-2017-06-30-1.pdf",
+      "vertical": "power_assets",
+      "filename": "GRDA_2016_CAFR_FINAL_Posted-to-EMMA-and-Website-2017-06-30-1.pdf",
+      "filepath": "data/grda/pdfs/permits/GRDA_2016_CAFR_FINAL_Posted-to-EMMA-and-Website-2017-06-30-1.pdf",
+      "sha256": "de9153dc7b668a37620bbd6910cc58ee4d6c9b9c88cd7666fd21118afacf8b69",
+      "discovered_on": "2025-11-07T12:49:18.053326",
+      "downloaded_on": "2025-11-07T12:49:18.053327",
+      "filesize_bytes": 13789942,
+      "http_status": 200,
+      "status": "success",
+      "link_text": "GRDA 2016 CAFR FINAL Posted to EMMA and Website 2017 06 30 1",
+      "size": 13789942,
+      "download_date": "2025-11-07T12:49:18.053329"
+    }
+  ]
+}

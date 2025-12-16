@@ -1,0 +1,224 @@
+{
+  "top_dc_counties": [
+    {
+      "county": "Dallas",
+      "dc_count": 13,
+      "total_capacity_gw": 0.2471,
+      "gas_pct": 0.0,
+      "solar_pct": 0.0,
+      "baseload_pct": 0.0,
+      "has_gas": false
+    },
+    {
+      "county": "Bosque",
+      "dc_count": 5,
+      "total_capacity_gw": 0.7344299999999999,
+      "gas_pct": 0.0,
+      "solar_pct": 91.62207426167231,
+      "baseload_pct": 0.0,
+      "has_gas": false
+    },
+    {
+      "county": "Ellis",
+      "dc_count": 4,
+      "total_capacity_gw": 0.81979,
+      "gas_pct": 0.0,
+      "solar_pct": 48.48802742165677,
+      "baseload_pct": 0.0,
+      "has_gas": false
+    },
+    {
+      "county": "Bexar",
+      "dc_count": 3,
+      "total_capacity_gw": 1.99704,
+      "gas_pct": 0.0,
+      "solar_pct": 7.627288386812483,
+      "baseload_pct": 0.0,
+      "has_gas": false
+    },
+    {
+      "county": "Harris",
+      "dc_count": 3,
+      "total_capacity_gw": 3.36129,
+      "gas_pct": 54.964909305653485,
+      "solar_pct": 3.2957584736812353,
+      "baseload_pct": 54.964909305653485,
+      "has_gas": true
+    },
+    {
+      "county": "Tarrant",
+      "dc_count": 3,
+      "total_capacity_gw": 0.356,
+      "gas_pct": 0.0,
+      "solar_pct": 0.0,
+      "baseload_pct": 0.0,
+      "has_gas": false
+    },
+    {
+      "county": "Collin",
+      "dc_count": 3,
+      "total_capacity_gw": 0.8455,
+      "gas_pct": 0.0,
+      "solar_pct": 0.0,
+      "baseload_pct": 0.0,
+      "has_gas": false
+    },
+    {
+      "county": "Travis",
+      "dc_count": 3,
+      "total_capacity_gw": 0.30089,
+      "gas_pct": 0.0,
+      "solar_pct": 0.0,
+      "baseload_pct": 0.0,
+      "has_gas": false
+    },
+    {
+      "county": "McLennan",
+      "dc_count": 2,
+      "total_capacity_gw": 1.61646,
+      "gas_pct": 0.0,
+      "solar_pct": 62.17351496479962,
+      "baseload_pct": 0.0,
+      "has_gas": false
+    },
+    {
+      "county": "Bastrop",
+      "dc_count": 2,
+      "total_capacity_gw": 0.61038,
+      "gas_pct": 3.440479701169763,
+      "solar_pct": 66.14567974048954,
+      "baseload_pct": 3.440479701169763,
+      "has_gas": true
+    }
+  ],
+  "top_energy_counties": [
+    {
+      "county": "Brazoria",
+      "total_capacity_gw": 9.53644,
+      "gas_pct": 4.813116844440903,
+      "solar_pct": 37.649479260604586,
+      "dc_count": 0,
+      "has_dcs": false
+    },
+    {
+      "county": "Wharton",
+      "total_capacity_gw": 4.64626,
+      "gas_pct": 2.0252848527632974,
+      "solar_pct": 62.723997365623106,
+      "dc_count": 0,
+      "has_dcs": false
+    },
+    {
+      "county": "Lamar",
+      "total_capacity_gw": 3.66034,
+      "gas_pct": 0.0,
+      "solar_pct": 74.57941065584072,
+      "dc_count": 0,
+      "has_dcs": false
+    },
+    {
+      "county": "Harris",
+      "total_capacity_gw": 3.36129,
+      "gas_pct": 54.964909305653485,
+      "solar_pct": 3.2957584736812353,
+      "dc_count": 3,
+      "has_dcs": true
+    },
+    {
+      "county": "Hill",
+      "total_capacity_gw": 3.23191,
+      "gas_pct": 0.0,
+      "solar_pct": 66.4180005012516,
+      "dc_count": 2,
+      "has_dcs": true
+    },
+    {
+      "county": "Navarro",
+      "total_capacity_gw": 3.11665,
+      "gas_pct": 0.0,
+      "solar_pct": 63.52622206535864,
+      "dc_count": 0,
+      "has_dcs": false
+    },
+    {
+      "county": "Haskell",
+      "total_capacity_gw": 2.9993000000000003,
+      "gas_pct": 0.0,
+      "solar_pct": 56.02607275030841,
+      "dc_count": 0,
+      "has_dcs": false
+    },
+    {
+      "county": "Fort Bend",
+      "total_capacity_gw": 2.89903,
+      "gas_pct": 14.073672918182979,
+      "solar_pct": 30.63369471857828,
+      "dc_count": 0,
+      "has_dcs": false
+    },
+    {
+      "county": "Borden",
+      "total_capacity_gw": 2.8574,
+      "gas_pct": 0.0,
+      "solar_pct": 63.06992370686638,
+      "dc_count": 0,
+      "has_dcs": false
+    },
+    {
+      "county": "Deaf Smith",
+      "total_capacity_gw": 2.6681,
+      "gas_pct": 0.0,
+      "solar_pct": 76.70252239421312,
+      "dc_count": 0,
+      "has_dcs": false
+    }
+  ],
+  "correlation_by_gas_range": {
+    "0% (No Gas)": {
+      "counties": 139,
+      "avg_dc_count": 0.3237410071942446,
+      "counties_with_dcs": 15,
+      "pct_with_dcs": 10.79136690647482
+    },
+    "1-25% Gas": {
+      "counties": 9,
+      "avg_dc_count": 0.2222222222222222,
+      "counties_with_dcs": 1,
+      "pct_with_dcs": 11.11111111111111
+    },
+    "26-50% Gas": {
+      "counties": 1,
+      "avg_dc_count": 0,
+      "counties_with_dcs": 0,
+      "pct_with_dcs": 0.0
+    },
+    "51-75% Gas": {
+      "counties": 3,
+      "avg_dc_count": 1.3333333333333333,
+      "counties_with_dcs": 2,
+      "pct_with_dcs": 66.66666666666666
+    },
+    "76-100% Gas": {
+      "counties": 3,
+      "avg_dc_count": 0,
+      "counties_with_dcs": 0,
+      "pct_with_dcs": 0.0
+    }
+  },
+  "hypothesis_b_test": {
+    "counties_with_gas": {
+      "total": 16,
+      "with_dcs": 3,
+      "pct_with_dcs": 18.75,
+      "avg_dc_count": 0.375
+    },
+    "counties_without_gas": {
+      "total": 139,
+      "with_dcs": 15,
+      "pct_with_dcs": 10.79136690647482,
+      "avg_dc_count": 0.3237410071942446
+    },
+    "conclusion": "SUPPORTED",
+    "ratio": 1.7375
+  }
+}

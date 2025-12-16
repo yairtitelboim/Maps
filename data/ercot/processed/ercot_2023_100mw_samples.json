@@ -1,0 +1,47 @@
+[
+  {
+    "q_id": "25INR0513",
+    "q_status": "active",
+    "q_year": 2023.0,
+    "capacity_mw": 200.9,
+    "county": "Leon",
+    "state": "TX",
+    "county_state": "Leon, TX",
+    "fips_code": "48289",
+    "poi_name": "Tap 345kV 46020 Limestone 967 Gibbons Creek Circuit 50",
+    "generation_type": "Battery",
+    "utility": "nan",
+    "developer": "BT Kahla Storage, LLC",
+    "project_name": "Kahla Storage"
+  },
+  {
+    "q_id": "24INR0541",
+    "q_status": "active",
+    "q_year": 2023.0,
+    "capacity_mw": 101.2,
+    "county": "Kinney",
+    "state": "TX",
+    "county_state": "Kinney, TX",
+    "fips_code": "48271",
+    "poi_name": "Tap 138kV 8252 Brackett4A - 78255  L_PINTCR8_1Y",
+    "generation_type": "Battery",
+    "utility": "nan",
+    "developer": "Kinney County Energy,  LLC",
+    "project_name": "Kinney County Energy"
+  },
+  {
+    "q_id": "24INR0484",
+    "q_status": "active",
+    "q_year": 2023.0,
+    "capacity_mw": 100.8,
+    "county": "Franklin",
+    "state": "TX",
+    "county_state": "Franklin, TX",
+    "fips_code": "48159",
+    "poi_name": "1794 Monticello Tap 138 kV",
+    "generation_type": "Solar",
+    "utility": "nan",
+    "developer": "Lupinus Solar 2, LLC",
+    "project_name": "Lupinus Solar 3"
+  }
+]

@@ -1,0 +1,5492 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4018157,
+          29.7201306
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001509",
+        "project_name": "Rice Duncan 2032 LiKamWa Lab",
+        "facility_name": "Duncan Hall",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 200000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6100 Main St",
+        "geocoded_method": "google",
+        "formatted_address": "Hamman Hall, 6100 Main St, Houston, TX 77005, USA",
+        "scraped_at": "2025-09-23T10:19:12.900861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36320459999999,
+          29.76048179999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001507",
+        "project_name": "Bungalow",
+        "facility_name": "909 TEXAS AVE",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 650000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "909 Texas Ave.#F",
+        "geocoded_method": "google",
+        "formatted_address": "909 Texas Ave Suite F, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:19:13.417921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5678811,
+          29.8478206
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001505",
+        "project_name": "FSG",
+        "facility_name": "Facility Solutions Group Inc",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1675000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5611 Baird Court",
+        "geocoded_method": "google",
+        "formatted_address": "5611 Baird Ct, Houston, TX 77041, USA",
+        "scraped_at": "2025-09-23T10:19:13.941080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4546874,
+          29.7573196
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001494",
+        "project_name": "Dean & Draper",
+        "facility_name": "1177 West Loop South",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 2255965,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1177 West Loop South Suite 850 & 1000",
+        "geocoded_method": "google",
+        "formatted_address": "1177 W Loop S suite 850, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:19:14.353527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4568343,
+          29.7857083
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001486",
+        "project_name": "Post Oak Rd Sidewalk Improvements",
+        "facility_name": "Post Oak Rd",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 510000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "Post Oak Rd",
+        "geocoded_method": "google",
+        "formatted_address": "Post Oak Rd, Houston, TX, USA",
+        "scraped_at": "2025-09-23T10:19:14.788716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2375862,
+          29.6307531
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001436",
+        "project_name": "Walmart Supercenter #3425_Almeda",
+        "facility_name": "Walmart Supercenter #3425",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1902674,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9598 Rowlett Road",
+        "geocoded_method": "google",
+        "formatted_address": "9598 Rowlett Rd, Houston, TX 77075, USA",
+        "scraped_at": "2025-09-23T10:19:15.163429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.41915569999999,
+          29.7408281
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001399",
+        "project_name": "Retail Interior Finish",
+        "facility_name": "Arrive River Oaks",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2800 Kirby Drive,  Suite A210-B",
+        "geocoded_method": "google",
+        "formatted_address": "2800 Kirby Dr a210 b, Houston, TX 77098, USA",
+        "scraped_at": "2025-09-23T10:19:15.723793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3908131,
+          29.74650859999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001398",
+        "project_name": "1000 Missouri Retail Space",
+        "facility_name": "1000 Missouri Retail Space",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 475000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1000 Missouri St",
+        "geocoded_method": "google",
+        "formatted_address": "1000 Missouri St, Houston, TX 77006, USA",
+        "scraped_at": "2025-09-23T10:19:16.120623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4464959,
+          29.73195
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001394",
+        "project_name": "KHANGO GYM",
+        "facility_name": "KHANGO GYM",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 450000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "4235 Richmond Ave",
+        "geocoded_method": "google",
+        "formatted_address": "4235 Richmond Ave., Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:19:16.535488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.31221090000001,
+          29.8119001
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001384",
+        "project_name": "Scan Sys/CT/Axial/Full-Body",
+        "facility_name": "Lyndon B. Johnson Hospital",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 549479,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5656 Kelley St.",
+        "geocoded_method": "google",
+        "formatted_address": "5656 Kelley St, Houston, TX 77026, USA",
+        "scraped_at": "2025-09-23T10:19:17.026724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4018157,
+          29.7201306
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001378",
+        "project_name": "Rice BH 350 - Garg Lab",
+        "facility_name": "Brockman Hall for Physics",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6100 Main Street",
+        "geocoded_method": "google",
+        "formatted_address": "Hamman Hall, 6100 Main St, Houston, TX 77005, USA",
+        "scraped_at": "2025-09-23T10:19:17.399825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3963924,
+          29.71346
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001352",
+        "project_name": "Memorial Hermann TMC Retail Pharmacy",
+        "facility_name": "Memorial Hermann Texas Medical Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1138646,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6411 Fannin St.",
+        "geocoded_method": "google",
+        "formatted_address": "6411 Fannin St, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:19:17.817950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44208379999999,
+          29.7389602
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001296",
+        "project_name": "LEVEL 1 AMENITY + CORRIDOR",
+        "facility_name": "2900 WESLAYAN",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 120000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2900 WESLAYAN ST., LEVEL 1",
+        "geocoded_method": "google",
+        "formatted_address": "Parking lot, 2900 Weslayan St level 1, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:19:18.217610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4421775,
+          29.7389862
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001295",
+        "project_name": "ROCKY LAI",
+        "facility_name": "2900 WESLAYAN",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 183000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2900 WESLAYAN ST., STE 555",
+        "geocoded_method": "google",
+        "formatted_address": "2900 Weslayan St Suite 555, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:19:18.613574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44222049999999,
+          29.73886749999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001294",
+        "project_name": "RIVER OAKS PHYSICAL THERAPY",
+        "facility_name": "2900 WESLAYAN",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 160000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2900 WESLAYAN ST., STE 150",
+        "geocoded_method": "google",
+        "formatted_address": "2900 Weslayan St #150, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:19:19.113525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19200819999999,
+          30.0794622
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001283",
+        "project_name": "Representative Materials Company Outrigger Industrial TI",
+        "facility_name": "Building 1",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 607707,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1005 West Lake Houston Parkway",
+        "geocoded_method": "google",
+        "formatted_address": "1005 W Lake Houston Pkwy, Kingwood, TX 77345, USA",
+        "scraped_at": "2025-09-23T10:19:19.844102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4132412,
+          29.7336882
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001272",
+        "project_name": "2103 Houston, TX - Greenbriar",
+        "facility_name": "FedEx Office",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 372484,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3636 Greenbriar Dr, Suite B101",
+        "geocoded_method": "google",
+        "formatted_address": "3636 Greenbriar Dr Suite B-101, Houston, TX 77098, USA",
+        "scraped_at": "2025-09-23T10:19:20.275271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.339548,
+          29.9875518
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001268",
+        "project_name": "IAH Terminal C - Vulcan Deployment",
+        "facility_name": "IAH Terminal C Lobby",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1850000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3500 N. Terminal Rd.",
+        "geocoded_method": "google",
+        "formatted_address": "3500 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:20.811282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3455245,
+          29.9863764
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001252",
+        "project_name": "H-Town Burger Bar-Space 1",
+        "facility_name": "George Bush Intercontinental Airport",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 2500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3100 N Terminal Rd New Terminal B N",
+        "geocoded_method": "google",
+        "formatted_address": "3100 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:21.395829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3455245,
+          29.9863764
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001251",
+        "project_name": "Back of House- Dishwash and Storage- Space 4",
+        "facility_name": "George Bush Intercontinental Airport",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 1000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3100 N Terminal Rd New Terminal B North",
+        "geocoded_method": "google",
+        "formatted_address": "3100 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:21.985036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3455245,
+          29.9863764
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001250",
+        "project_name": "CIBO Express Gourmet Market- Space 3",
+        "facility_name": "George Bush Intercontinental Airport",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3100 N Terminal Rd Terminal B N",
+        "geocoded_method": "google",
+        "formatted_address": "3100 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:22.609026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3455245,
+          29.9863764
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001248",
+        "project_name": "CIBO Express Gourmet Market- Space 9",
+        "facility_name": "George Bush Intercontinental Airport",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3100 N Terminal Rd New Terminal B N",
+        "geocoded_method": "google",
+        "formatted_address": "3100 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:23.053529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3455245,
+          29.9863764
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001244",
+        "project_name": "West Pier Food Hall- Space 5",
+        "facility_name": "George Bush Intercontinental Airport",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 1570000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3100 N Terminal Rd",
+        "geocoded_method": "google",
+        "formatted_address": "3100 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:23.450329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3455245,
+          29.9863764
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001242",
+        "project_name": "CIBO Express Gourmet Market & Starbucks- Retail 7&8",
+        "facility_name": "George Bush Intercontinental Airport",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 5500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3100 N Terminal Rd Terminal B, Space 7&8",
+        "geocoded_method": "google",
+        "formatted_address": "3100 N Terminal Rd space 7, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:23.921657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3455245,
+          29.9863764
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001238",
+        "project_name": "Pizaro's Pizza- Space 2",
+        "facility_name": "George Bush Intercontinental Aiport",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 1500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3100 N Terminal Rd",
+        "geocoded_method": "google",
+        "formatted_address": "3100 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:24.419889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3783944,
+          29.7485541
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001233",
+        "project_name": "Wingbay - Bagby",
+        "facility_name": "Wingbay",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2505 Bagby St",
+        "geocoded_method": "google",
+        "formatted_address": "2505 Bagby St, Houston, TX 77006, USA",
+        "scraped_at": "2025-09-23T10:19:24.784909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5320162,
+          29.8409515
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001216",
+        "project_name": "Penthouse Addition",
+        "facility_name": "Starpak",
+        "work_type": "Additions to Existing Building",
+        "status": "Project Registered",
+        "cost": 250000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9690 W. Wingfoot",
+        "geocoded_method": "google",
+        "formatted_address": "9690 W Wingfoot Rd, Houston, TX 77041, USA",
+        "scraped_at": "2025-09-23T10:19:25.169958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3836309,
+          29.7328002
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001153",
+        "project_name": "25054575 Hookahs and Ash",
+        "facility_name": "Hookahs and Ash",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 50000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "4517 Main St.",
+        "geocoded_method": "google",
+        "formatted_address": "4517 Main St, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:19:25.706681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3963874,
+          29.7495588
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001137",
+        "project_name": "2100 Waugh Plaza",
+        "facility_name": "2100 Waugh Plaza",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 400000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2100 Waugh Dr",
+        "geocoded_method": "google",
+        "formatted_address": "2100 Waugh Dr, Houston, TX 77006, USA",
+        "scraped_at": "2025-09-23T10:19:26.253532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4053311,
+          29.8040168
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001072",
+        "project_name": "LabCorp-Heights 105",
+        "facility_name": "HeightsMED",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 225000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "427 W 20th, Ste 105",
+        "geocoded_method": "google",
+        "formatted_address": "427 W 20th St #105, Houston, TX 77008, USA",
+        "scraped_at": "2025-09-23T10:19:26.805098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4629964,
+          29.7394353
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001055",
+        "project_name": "Amouage Retail Renovation",
+        "facility_name": "Houston Galleria",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 550000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5015 Westheimer Rd #3475",
+        "geocoded_method": "google",
+        "formatted_address": "5015 Westheimer Rd #3475, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:19:27.210822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5107634,
+          29.8068978
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001028",
+        "project_name": "Arbor School Renovation",
+        "facility_name": "Arbor School",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1919 Knoll St",
+        "geocoded_method": "google",
+        "formatted_address": "1919 Knoll St, Houston, TX 77080, USA",
+        "scraped_at": "2025-09-23T10:19:27.663495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.62072239999999,
+          29.7790385
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000951",
+        "project_name": "The Forge",
+        "facility_name": "15123 Memorial Dr",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 360000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "15123 Memorial Dr.",
+        "geocoded_method": "google",
+        "formatted_address": "15123 Memorial Dr, Houston, TX 77079, USA",
+        "scraped_at": "2025-09-23T10:19:28.124890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.47948099999999,
+          29.9594616
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000940",
+        "project_name": "La Belle Vie Nail Spa",
+        "facility_name": "Retail Center Shell",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 400000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "12180 B Antoine Dr suite B3",
+        "geocoded_method": "google",
+        "formatted_address": "12180 Antoine Dr b3, Houston, TX 77066, USA",
+        "scraped_at": "2025-09-23T10:19:28.520727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.32055679999999,
+          29.9230504
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000937",
+        "project_name": "Precision Drilling",
+        "facility_name": "Precision Drilling Storage Warehouse",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 160000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "14041 Vickery Drive",
+        "geocoded_method": "google",
+        "formatted_address": "14041 Vickery Dr, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:28.951144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4171507,
+          29.716867
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000934",
+        "project_name": "The Gypsy Poet Studio",
+        "facility_name": "2512 Times Blvd",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 350000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2512 Times Blvd",
+        "geocoded_method": "google",
+        "formatted_address": "2512 Times Blvd, Houston, TX 77005, USA",
+        "scraped_at": "2025-09-23T10:19:29.547329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3456303,
+          29.7559906
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000930",
+        "project_name": "Bonita Grand Holdings Exhibit Museum",
+        "facility_name": "NA",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 450000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2501 Commerce St.",
+        "geocoded_method": "google",
+        "formatted_address": "2501 Commerce St, Houston, TX 77003, USA",
+        "scraped_at": "2025-09-23T10:19:30.089539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.53040779999999,
+          29.7828673
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000913",
+        "project_name": "Tauber Oil",
+        "facility_name": "Village Towers",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 545000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9655 Katy Fwy",
+        "geocoded_method": "google",
+        "formatted_address": "9655 Katy Fwy, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:19:30.605362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4598614,
+          29.753864
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000895",
+        "project_name": "Exterior Door, Stair and Ramp",
+        "facility_name": "FOUR OAKS PLACE",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 104666,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1300 POST OAK BLVD.",
+        "geocoded_method": "google",
+        "formatted_address": "1300 Post Oak Blvd, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:19:31.141279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4628316,
+          29.7350756
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000894",
+        "project_name": "PAN CAPITAL EXPANSION",
+        "facility_name": "3040 POB",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3040 POST OAK BLVD STE 1060",
+        "geocoded_method": "google",
+        "formatted_address": "3040 Post Oak Blvd #1060, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:19:31.595114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3964093,
+          29.768636
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000827",
+        "project_name": "Borusan Pipe",
+        "facility_name": "Buffalo Heights",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 2071475,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3663 Washington Ave. Ste. 500",
+        "geocoded_method": "google",
+        "formatted_address": "3663 Washington Ave #500, Houston, TX 77007, USA",
+        "scraped_at": "2025-09-23T10:19:32.105894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1960076,
+          29.8035229
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000824",
+        "project_name": "Annex 26",
+        "facility_name": "Jim Fonteno Courthouse Annex 26",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1800000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "14350 Wallisville Rd.",
+        "geocoded_method": "google",
+        "formatted_address": "14350 Wallisville Rd, Houston, TX 77049, USA",
+        "scraped_at": "2025-09-23T10:19:32.553713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.21406929999999,
+          29.850102
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000806",
+        "project_name": "HIKE AND BIKE TRAIL - CE KING FROM TIDWELL RD TO GARRETT RD",
+        "facility_name": "BIKE TRAIL & SIDEWALKS",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 4500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "8700 CE KING PARKWAY HARRIS",
+        "geocoded_method": "google",
+        "formatted_address": "8700 C E King Pkwy, Houston, TX 77044, USA",
+        "scraped_at": "2025-09-23T10:19:33.130408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4164551,
+          29.8178664
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000798",
+        "project_name": "Behavioral Innovations- Houston Heights",
+        "facility_name": "900 W. 34th St.",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "900 W. 34th St. Suite 500",
+        "geocoded_method": "google",
+        "formatted_address": "900 W 34th St #500, Houston, TX 77018, USA",
+        "scraped_at": "2025-09-23T10:19:33.614831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3986501,
+          29.7089893
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000796",
+        "project_name": "U000193 - BSRB Mass Spec Room",
+        "facility_name": "Mitchell Research Building",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 350000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6767 Bertner Ave",
+        "geocoded_method": "google",
+        "formatted_address": "6767 Bertner Ave, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:19:34.023481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.39964330000001,
+          29.6943242
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000795",
+        "project_name": "U000162 - 2SCR HBM Xufeng Chen",
+        "facility_name": "South Campus Research Building",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 250000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7455 Fannin St",
+        "geocoded_method": "google",
+        "formatted_address": "7455 Fannin St, Houston, TX 77054, USA",
+        "scraped_at": "2025-09-23T10:19:34.524761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4296984,
+          30.0417022
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000740",
+        "project_name": "BURLINGTON - GREENS LANDING",
+        "facility_name": "BURLINGTON COAT FACTORY",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 2500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10311 North Freeway",
+        "geocoded_method": "google",
+        "formatted_address": "North Fwy, Texas, USA",
+        "scraped_at": "2025-09-23T10:19:34.905700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2833012,
+          29.7807694
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000735",
+        "project_name": "Depco Paint Booth",
+        "facility_name": "Depco Power Systems",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "8123 Hillsboro St.",
+        "geocoded_method": "google",
+        "formatted_address": "8123 Hillsboro St, Houston, TX 77029, USA",
+        "scraped_at": "2025-09-23T10:19:35.291039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.29716260000001,
+          29.6995196
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000675",
+        "project_name": "Wendy's Restaurant",
+        "facility_name": "Wendy's",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 300000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2928 Woodridge Dr",
+        "geocoded_method": "google",
+        "formatted_address": "2928 Woodridge Dr, Houston, TX 77087, USA",
+        "scraped_at": "2025-09-23T10:19:35.686221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4189869,
+          29.8033913
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000669",
+        "project_name": "1120 Restaurant",
+        "facility_name": "1120 Restaurant",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 2500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1120 W 20th Street",
+        "geocoded_method": "google",
+        "formatted_address": "1120 W 20th St, Houston, TX 77008, USA",
+        "scraped_at": "2025-09-23T10:19:36.209736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8081894,
+          29.9411589
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000664",
+        "project_name": "Manhattan Life",
+        "facility_name": "Manhattan Life",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1453071,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5443 Katy Hockley Cutoff Road",
+        "geocoded_method": "google",
+        "formatted_address": "Katy Hockley Cutoff Rd, Houston, TX, USA",
+        "scraped_at": "2025-09-23T10:19:36.744676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5506958,
+          29.7278123
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000648",
+        "project_name": "SLB 10001 Richmond Lv 4 Breakroom",
+        "facility_name": "Schlumberger Campus",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 95000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10001 Richmond Ave., Houston, TX 77042",
+        "geocoded_method": "google",
+        "formatted_address": "10001 Richmond Ave., Houston, TX 77042, USA",
+        "scraped_at": "2025-09-23T10:19:37.220007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.35433139999999,
+          29.9692426
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000636",
+        "project_name": "Project Mallard",
+        "facility_name": "Anadarko Airplane Hangar",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 2748015,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "17320 Chanute Road",
+        "geocoded_method": "google",
+        "formatted_address": "17320 Chanute Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:37.604608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5687384,
+          29.7947064
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000625",
+        "project_name": "Powder Keg",
+        "facility_name": "Powder Keg",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1800000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1300 Brittmoore Rd",
+        "geocoded_method": "google",
+        "formatted_address": "1300 Brittmoore Rd, Houston, TX 77043, USA",
+        "scraped_at": "2025-09-23T10:19:38.055418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.48204109999999,
+          29.7490677
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000598",
+        "project_name": "Spec Suite 2450 and Building Corridor",
+        "facility_name": "San Felipe Plaza",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5847 San Felipe Street Suite 2450 and Building Corridor",
+        "geocoded_method": "google",
+        "formatted_address": "5847 San Felipe St #2450, Houston, TX 77057, USA",
+        "scraped_at": "2025-09-23T10:19:38.520588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5035934,
+          29.9311398
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000581",
+        "project_name": "HCFCD MTSC- Distribution Center",
+        "facility_name": "MTSC- Distribution Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 3000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10700 Vine Crest Drive",
+        "geocoded_method": "google",
+        "formatted_address": "10700 Vine Crest Dr, Houston, TX 77086, USA",
+        "scraped_at": "2025-09-23T10:19:39.033812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4214063,
+          29.70388059999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000578",
+        "project_name": "HCA Gramercy ASC Renovation",
+        "facility_name": "Gramercy Medical Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 3900000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2727 Gramercy St.",
+        "geocoded_method": "google",
+        "formatted_address": "2727 Gramercy St, Houston, TX 77025, USA",
+        "scraped_at": "2025-09-23T10:19:39.505316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.39604109999999,
+          29.7875455
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000544",
+        "project_name": "City Church Houston - Coffee shop",
+        "facility_name": "Building 2",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "201 E 9th St",
+        "geocoded_method": "google",
+        "formatted_address": "201 E 9th St, Houston, TX 77008, USA",
+        "scraped_at": "2025-09-23T10:19:39.950180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3450608,
+          29.7591673
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000506",
+        "project_name": "Our Lady of Guadalupe Restroom Renovation",
+        "facility_name": "Our Lady of Guadalupe",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 550000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2405 Navigation Blvd",
+        "geocoded_method": "google",
+        "formatted_address": "2405 Navigation Blvd, Houston, TX 77003, USA",
+        "scraped_at": "2025-09-23T10:19:40.302742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4058313,
+          29.7581354
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000494",
+        "project_name": "Barbara Autry Park",
+        "facility_name": "Hanover Autry Park",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3737 Cogdell St Building E, Suite 100",
+        "geocoded_method": "google",
+        "formatted_address": "3737 Cogdell St building e suite 100, Houston, TX 77019, USA",
+        "scraped_at": "2025-09-23T10:19:40.694969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36639799999999,
+          29.7607188
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000493",
+        "project_name": "O'Melveny Myers",
+        "facility_name": "TC Energy Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 12000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "700 Louisiana St. Ste 2700",
+        "geocoded_method": "google",
+        "formatted_address": "700 Louisiana St suite 2700, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:19:41.099313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2244243,
+          29.8031597
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000489",
+        "project_name": "ST. JUDE CANDLE CO",
+        "facility_name": "WALLISVILLE DISTRIBUTION CENTER",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 2374402,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "12045 WALLISVILLE RD SUITE 100",
+        "geocoded_method": "google",
+        "formatted_address": "12045 Wallisville Rd #100, Houston, TX 77013, USA",
+        "scraped_at": "2025-09-23T10:19:41.667445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.43841119999999,
+          29.7282446
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000471",
+        "project_name": "Uberrito",
+        "facility_name": "Greenway Plaza",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3879 Southwest Fwy",
+        "geocoded_method": "google",
+        "formatted_address": "3879 Southwest Fwy, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:19:42.229645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4623821,
+          29.7419413
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000469",
+        "project_name": "The Centre at Post Oak",
+        "facility_name": "The Centre at Post Oak",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 3000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5000 Westheimer Rd Houston TX 77056",
+        "geocoded_method": "google",
+        "formatted_address": "5000 Westheimer Rd, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:19:42.693194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3988328,
+          29.7010118
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000460",
+        "project_name": "Administrative Restack- Phase 5A- Phase 1 Package",
+        "facility_name": "MD Anderson Cancer Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 126000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7007 Bertner Ave.",
+        "geocoded_method": "google",
+        "formatted_address": "MD Anderson Mid-Campus Building 1, 7007 Bertner Ave, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:19:43.161523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5505718,
+          29.7141042
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000434",
+        "project_name": "Premier Wireless",
+        "facility_name": "5959 Corporate Dr.",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 290844,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5959 Corporate Dr., Suite 1225",
+        "geocoded_method": "google",
+        "formatted_address": "5959 Corporate Dr #1225, Houston, TX 77036, USA",
+        "scraped_at": "2025-09-23T10:19:43.581814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.37279269999999,
+          29.7491871
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000432",
+        "project_name": "Project Nine",
+        "facility_name": "Innerbelt Northwest Building 04",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 150000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2100 Travis Street Suite 501 8118 Houston Ave",
+        "geocoded_method": "google",
+        "formatted_address": "2100 Travis St 501 8118, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:19:44.197433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4408176,
+          29.73021899999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000415",
+        "project_name": "Engelhart",
+        "facility_name": "Weslayan Tower",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1400000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "24 Greenway Plaza Suite 1000",
+        "geocoded_method": "google",
+        "formatted_address": "24 Greenway Plz #1000, Houston, TX 77046, USA",
+        "scraped_at": "2025-09-23T10:19:44.865230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.60210459999999,
+          29.9199865
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000411",
+        "project_name": "Walmart Supercenter #3297_WNW",
+        "facility_name": "Walmart Supercenter #4019",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1775142,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "12353 FM 1960 Road W",
+        "geocoded_method": "google",
+        "formatted_address": "12353 Farm to Market 1960 Rd W, Houston, TX 77065, USA",
+        "scraped_at": "2025-09-23T10:19:45.360338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.55358509999999,
+          29.9330491
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000396",
+        "project_name": "Sunny Sky Suite 300",
+        "facility_name": "Northwest Crossroads Building 2",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 4000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "11747 Windfern Rd,Suite 300",
+        "geocoded_method": "google",
+        "formatted_address": "11747 Windfern Rd #300, Houston, TX 77064, USA",
+        "scraped_at": "2025-09-23T10:19:46.196155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4275856,
+          29.73786729999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000387",
+        "project_name": "Ready Suite 1175",
+        "facility_name": "3355 West Alabama",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 191750,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3355 West Alabama, Suite 1175",
+        "geocoded_method": "google",
+        "formatted_address": "3355 W Alabama St #1175, Houston, TX 77098, USA",
+        "scraped_at": "2025-09-23T10:19:46.601970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.41029739999999,
+          29.7337697
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000331",
+        "project_name": "Car Wash and Cafe",
+        "facility_name": "Pineapple Autospa & Fein Coffee",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3603 S Shepherd Drive",
+        "geocoded_method": "google",
+        "formatted_address": "3603 S Shepherd Dr, Houston, TX 77098, USA",
+        "scraped_at": "2025-09-23T10:19:47.145221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4018157,
+          29.7201306
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000322",
+        "project_name": "Rice GRB E225E Zofchak lab",
+        "facility_name": "Rice George R Brown Hall",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 350000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6100 Main",
+        "geocoded_method": "google",
+        "formatted_address": "Hamman Hall, 6100 Main St, Houston, TX 77005, USA",
+        "scraped_at": "2025-09-23T10:19:47.833621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.408631,
+          29.7505851
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000315",
+        "project_name": "1701 Brun",
+        "facility_name": "1701 Brun",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1701 Brun Avenue",
+        "geocoded_method": "google",
+        "formatted_address": "1701 Brun St, Houston, TX 77019, USA",
+        "scraped_at": "2025-09-23T10:19:48.305380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.376439,
+          29.8956313
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000308",
+        "project_name": "Common bond",
+        "facility_name": "William P. Hobby International airport (HOU)",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 2000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7800 Airport Rd, Central Concourse Space HOUF-4",
+        "geocoded_method": "google",
+        "formatted_address": "Hill Rd, Houston, TX, USA",
+        "scraped_at": "2025-09-23T10:19:49.045029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3403178,
+          29.9859543
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000243",
+        "project_name": "IAH Frontier Ticket Counters and Kiosks Renovation",
+        "facility_name": "George Bush Intercontinental Airport",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 300000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2800 N Terminal Rd",
+        "geocoded_method": "google",
+        "formatted_address": "2800 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:49.567981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3962456,
+          29.7006197
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000242",
+        "project_name": "BCM Dynamic One - Fume Hood / Anaerobotic Alts Level 2",
+        "facility_name": "Baylor College of Medicine",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 486199,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1840 Dynamic Way",
+        "geocoded_method": "google",
+        "formatted_address": "Parking lot, 1840 Dynamic Wy, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:19:50.089591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3403178,
+          29.9859543
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000241",
+        "project_name": "IAH Frontier Airlines Ramp Renovation",
+        "facility_name": "George Bush Intercontinental Airport",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 163000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2800 N Terminal Rd",
+        "geocoded_method": "google",
+        "formatted_address": "2800 N Terminal Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:19:50.550024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36477339999999,
+          29.7628677
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000230",
+        "project_name": "PICKLE MANIA",
+        "facility_name": "LYRIC MARKET",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 605235,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "440 LOUISIANA ST STE G2",
+        "geocoded_method": "google",
+        "formatted_address": "440 Louisiana St g2, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:19:51.283618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2491692,
+          29.6521518
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000228",
+        "project_name": "Easthaven Blvd Warehouse Development",
+        "facility_name": "Warehouse Bldg-01",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 90000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "8103 Easthaven Blvd",
+        "geocoded_method": "google",
+        "formatted_address": "8103 Easthaven Blvd, Houston, TX 77034, USA",
+        "scraped_at": "2025-09-23T10:19:51.734251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.55948409999999,
+          29.7817237
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000205",
+        "project_name": "WorldWide Tech",
+        "facility_name": "CityCentre Five",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 800000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "CityCentre Five, 825 Town & Country ln, suite 1150",
+        "geocoded_method": "google",
+        "formatted_address": "825 Town & Country Ln #1150, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:19:52.184114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.50268059999999,
+          29.6004573
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000203",
+        "project_name": "The Storage Center Fuqua",
+        "facility_name": "Storage Center Fuqua HoustonTX",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 6835200,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "NW corner Fuqua at Hillcroft Ave",
+        "geocoded_method": "google",
+        "formatted_address": "Hillcroft Ave & W Fuqua St, Houston, TX 77489, USA",
+        "scraped_at": "2025-09-23T10:19:52.666209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.46402010000001,
+          29.785526
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000198",
+        "project_name": "Tacos Frontera",
+        "facility_name": "Tacos Frontera",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 200000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7620 KATY FWY.,  SUITE 430,  HOUSTON, TX 77024",
+        "geocoded_method": "google",
+        "formatted_address": "7620 Katy Fwy #430, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:19:53.123688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3988328,
+          29.7010118
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000176",
+        "project_name": "MDA 1MC SIMULATION CENTER ROOM RENOVATION",
+        "facility_name": "MD Anderson Cancer Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1175000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7007 BERTNER AVE., HOUSTON, TX 77030",
+        "geocoded_method": "google",
+        "formatted_address": "MD Anderson Mid-Campus Building 1, 7007 Bertner Ave, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:19:53.524989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.52158569999999,
+          29.7381142
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000155",
+        "project_name": "Piney Point White Box Build-out",
+        "facility_name": "Piney Point White Box Build-out",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2600 Fondren Road",
+        "geocoded_method": "google",
+        "formatted_address": "2600 Fondren Rd, Houston, TX 77063, USA",
+        "scraped_at": "2025-09-23T10:19:53.996628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4629644,
+          29.7384325
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000134",
+        "project_name": "Space B3511 Re-Demise LLW",
+        "facility_name": "The Galleria",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 171870,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5085 Westheimer Rd",
+        "geocoded_method": "google",
+        "formatted_address": "5085 Westheimer Rd, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:19:54.445686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.53265189999999,
+          29.7179496
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000123",
+        "project_name": "Harwin Gate",
+        "facility_name": "Building 1 & 2",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 145000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9814-9880 Harwin Dr.,",
+        "geocoded_method": "google",
+        "formatted_address": "9814 Harwin Dr., Houston, TX 77036, USA",
+        "scraped_at": "2025-09-23T10:19:54.867622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.363778,
+          29.7588659
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000106",
+        "project_name": "Redbridge Expansion",
+        "facility_name": "Jones on Main",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 211000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "712 Main Street Suite 1820",
+        "geocoded_method": "google",
+        "formatted_address": "712 Main St Suite 1820, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:19:55.342642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.53728559999999,
+          29.7830253
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000105",
+        "project_name": "9821 KATY FREEWAY LOBBY REPOSITION",
+        "facility_name": "MEMORIAL CITY PLACE",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 6500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9821 Katy Freeway",
+        "geocoded_method": "google",
+        "formatted_address": "9821 Katy Fwy, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:19:55.785336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3656113,
+          29.7549006
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000093",
+        "project_name": "Saint Kyume Salon",
+        "facility_name": "GreenStreet",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1070 Dallas Street",
+        "geocoded_method": "google",
+        "formatted_address": "1070 Dallas St, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:19:56.230202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4574618,
+          29.7214761
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000068",
+        "project_name": "HCCS A&P Labs Renovation - West Loop",
+        "facility_name": "HCCS West Loop Campus",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 574000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5601 West Loop South",
+        "geocoded_method": "google",
+        "formatted_address": "5601 W Loop S, Houston, TX 77081, USA",
+        "scraped_at": "2025-09-23T10:19:56.740654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34821910000001,
+          29.7575481
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000064",
+        "project_name": "Moran Shipping",
+        "facility_name": "2301 Commerce",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 205000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2301 Commerce Suite 120",
+        "geocoded_method": "google",
+        "formatted_address": "2301 Commerce St #120, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:19:57.160386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.410916,
+          29.8717356
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000061",
+        "project_name": "HCCS A&P Labs Renovation - Acres Homes",
+        "facility_name": "HCCS Northeast College - Acres Homes",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1126320,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "630 W Little York Rd",
+        "geocoded_method": "google",
+        "formatted_address": "630 W Little York Rd, Houston, TX 77091, USA",
+        "scraped_at": "2025-09-23T10:19:57.590069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4629644,
+          29.7384325
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000053",
+        "project_name": "Uniqlo Space B9025 Re-Demise LLW",
+        "facility_name": "The Galleria",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 539940,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5085 Westheimer Rd",
+        "geocoded_method": "google",
+        "formatted_address": "5085 Westheimer Rd, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:19:57.990044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5450845,
+          29.7811634
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000047",
+        "project_name": "MH MCT Suite 1300 Expansion",
+        "facility_name": "Memorial Hermann Tower",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 650000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "929 Gessner Rd. Suite 1300",
+        "geocoded_method": "google",
+        "formatted_address": "Garage Four, 929 Gessner Rd Ste 1300, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:19:58.418982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4052449,
+          29.7827063
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000026",
+        "project_name": "Strong Pilates",
+        "facility_name": "The Swift",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "621 Waverly Street Suite 120",
+        "geocoded_method": "google",
+        "formatted_address": "621 Waverly St #120, Houston, TX 77007, USA",
+        "scraped_at": "2025-09-23T10:19:58.843563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.46402010000001,
+          29.785526
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000006",
+        "project_name": "Cold Stone Marq*E",
+        "facility_name": "Marq*E Entertainment Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 200000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7620 KATY FREEWAY",
+        "geocoded_method": "google",
+        "formatted_address": "7620 Katy Fwy, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:19:59.339690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5209486,
+          29.70715289999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026000004",
+        "project_name": "Suds Deluxe Car Wash",
+        "facility_name": "Suds Deluxe Car Wash",
+        "work_type": "New Construction",
+        "status": "Review Complete",
+        "cost": 1200000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6705 Fondren Road",
+        "geocoded_method": "google",
+        "formatted_address": "6705 Fondren Rd, Houston, TX 77036, USA",
+        "scraped_at": "2025-09-23T10:19:59.759193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3410255,
+          29.756793
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025027101",
+        "project_name": "Dr Ramirez",
+        "facility_name": "Navigation Retail",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2929 Navigation Ste 120",
+        "geocoded_method": "google",
+        "formatted_address": "2929 Navigation Blvd #120, Houston, TX 77003, USA",
+        "scraped_at": "2025-09-23T10:20:00.189740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.399987,
+          29.7114482
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025027090",
+        "project_name": "Smith 5 Employee Health SM599B Renovation",
+        "facility_name": "Houston Methodist Hospital - Smith Tower",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 165000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6550 Fannin Street",
+        "geocoded_method": "google",
+        "formatted_address": "6550 Fannin St, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:20:00.685147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3971227,
+          29.707053
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025026591",
+        "project_name": "MDA Main Reshuffle - Package C",
+        "facility_name": "MD Anderson Cancer Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 2000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1515 Holcombe Blvd",
+        "geocoded_method": "google",
+        "formatted_address": "1515 Holcombe Blvd, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:20:01.165447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4842532,
+          29.7490665
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025025716",
+        "project_name": "Belgravia Nail Spa",
+        "facility_name": "Tanglewood Court",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Closed",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5885 San Felipe Street",
+        "geocoded_method": "google",
+        "formatted_address": "5885 San Felipe St, Houston, TX 77057, USA",
+        "scraped_at": "2025-09-23T10:20:01.725540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4070887,
+          29.7836624
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025025501",
+        "project_name": "Lawrence Park Pavilion Renovation",
+        "facility_name": "Lawrence Park",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 322508,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "725 Lawrence Street",
+        "geocoded_method": "google",
+        "formatted_address": "725 Lawrence St, Houston, TX 77007, USA",
+        "scraped_at": "2025-09-23T10:20:02.127443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2345496,
+          29.62693399999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025025164",
+        "project_name": "KVA Group Constructure",
+        "facility_name": "KVA Legacy Group LLC",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 50000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10150 Almeda Genoa Ste Y",
+        "geocoded_method": "google",
+        "formatted_address": "10150 Almeda Genoa Rd y, Houston, TX 77075, USA",
+        "scraped_at": "2025-09-23T10:20:02.540108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.454684,
+          29.757311
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025025054",
+        "project_name": "Cornerstone Capital",
+        "facility_name": "1177 West Loop",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 101711,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1177 West Loop South, Suite 500",
+        "geocoded_method": "google",
+        "formatted_address": "1177 W Loop S #500, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:20:02.927620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.49722369999999,
+          29.8633105
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025024682",
+        "project_name": "Bimbo Bakeries USA rack",
+        "facility_name": "Bimbo Bakery",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 173077,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7330 Langfield Road",
+        "geocoded_method": "google",
+        "formatted_address": "7330 Langfield Rd, Houston, TX 77092, USA",
+        "scraped_at": "2025-09-23T10:20:03.355796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.504317,
+          29.5959975
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025024568",
+        "project_name": "LC Logistics",
+        "facility_name": "Fort Bend SW Logistics Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 373762,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "16148 Fondren Rd. suite 100",
+        "geocoded_method": "google",
+        "formatted_address": "16148 Fondren Rd #100, Missouri City, TX 77489, USA",
+        "scraped_at": "2025-09-23T10:20:03.764740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5527864,
+          29.9228793
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025024482",
+        "project_name": "Kabafusion",
+        "facility_name": "Legacy Business Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 350000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10920 W. Sam Houston Pkwy N. Ste 800",
+        "geocoded_method": "google",
+        "formatted_address": "10920 W Sam Houston Pkwy N #800, Houston, TX 77064, USA",
+        "scraped_at": "2025-09-23T10:20:04.166352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4077882,
+          29.6864167
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025024433",
+        "project_name": "NRG Stadium 800 Level Suite Renovation",
+        "facility_name": "NRG Stadium",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 740000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "NRG Parkway",
+        "geocoded_method": "google",
+        "formatted_address": "NRG Pkwy, Houston, TX 77054, USA",
+        "scraped_at": "2025-09-23T10:20:04.584983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4077882,
+          29.6864167
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025024412",
+        "project_name": "Houston Texans Event Office Expansion",
+        "facility_name": "NRG Stadium",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 400000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "NRG Parkway",
+        "geocoded_method": "google",
+        "formatted_address": "NRG Pkwy, Houston, TX 77054, USA",
+        "scraped_at": "2025-09-23T10:20:04.999678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.52401909999999,
+          29.7816337
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025024236",
+        "project_name": "LILY LANE AESTHETICS",
+        "facility_name": "9406 GAYLORD",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Closed",
+        "cost": 305389,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9406 GAYLORD DR STE 200",
+        "geocoded_method": "google",
+        "formatted_address": "9406 Gaylord Dr #200, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:20:05.454942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4872248,
+          29.8173484
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025024226",
+        "project_name": "Simon Printing Company",
+        "facility_name": "Simon Printing Company",
+        "work_type": "Additions to Existing Building",
+        "status": "Project Registered",
+        "cost": 166170,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7812 Kempwood Dr",
+        "geocoded_method": "google",
+        "formatted_address": "7812 Kempwood Dr, Houston, TX 77055, USA",
+        "scraped_at": "2025-09-23T10:20:05.885876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.449812,
+          29.742684
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025024029",
+        "project_name": "Buckeye Partners - Level 10 Breakroom",
+        "facility_name": "200 Park Place",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "4200 Westheimer Road",
+        "geocoded_method": "google",
+        "formatted_address": "4200 Westheimer Rd, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:20:06.307662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.63107099999999,
+          29.7818046
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025023781",
+        "project_name": "eastex",
+        "facility_name": "eastex commercial",
+        "work_type": "Additions to Existing Building",
+        "status": "Project Registered",
+        "cost": 4000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "580 Westlake Park Blvd, Suite 1125",
+        "geocoded_method": "google",
+        "formatted_address": "580 Westlake Park Blvd #1125, Houston, TX 77079, USA",
+        "scraped_at": "2025-09-23T10:20:06.747536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.14043989999999,
+          29.624364
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025023643",
+        "project_name": "INSPIRA COFFEE",
+        "facility_name": "CLEAR LAKE COMMONS",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 65000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "11510 Space Center Blvd., Ste. A-1",
+        "geocoded_method": "google",
+        "formatted_address": "11510 Space Center Blvd A1, Houston, TX 77059, USA",
+        "scraped_at": "2025-09-23T10:20:07.110043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4469771,
+          29.6275169
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025023347",
+        "project_name": "TIRZ 9 - Sidewalk, Curbs, Curb Ramps and Restriping Project Along West Orem Dr. (Hiram Clarke to Bu",
+        "facility_name": "TIRZ 9 - Sidewalk, Curbs, Curb Ramps and Restriping Project Along West Orem Dr. (Hiram Clarke to Bu",
+        "work_type": "Renovation/Alteration",
+        "status": "Inspection Completed",
+        "cost": 932823,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "W Orem Dr Between Hiram Clarke & Buffalo Speedway",
+        "geocoded_method": "google",
+        "formatted_address": "W Orem Dr, Houston, TX, USA",
+        "scraped_at": "2025-09-23T10:20:07.569490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2397314,
+          29.8132636
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025023141",
+        "project_name": "Trailer Leasing Oates",
+        "facility_name": "Premier Trailers",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 305075,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5308 Oates Road",
+        "geocoded_method": "google",
+        "formatted_address": "5308 Oates Rd, Houston, TX 77013, USA",
+        "scraped_at": "2025-09-23T10:20:08.055043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4598614,
+          29.753864
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025023138",
+        "project_name": "Stifel Office Renovation",
+        "facility_name": "Four Oaks Place",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 178795,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1300 Post Oak Blvd.",
+        "geocoded_method": "google",
+        "formatted_address": "1300 Post Oak Blvd, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:20:08.457020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.70536969999999,
+          29.7908223
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022761",
+        "project_name": "Trafee Coffee Tea Smoothies",
+        "facility_name": "N/A",
+        "work_type": "New Construction",
+        "status": "Review Complete",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1922 Greenhouse Rd, ste 250",
+        "geocoded_method": "google",
+        "formatted_address": "1922 Greenhouse Rd Ste 250, Houston, TX 77084, USA",
+        "scraped_at": "2025-09-23T10:20:08.880045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2833012,
+          29.7807694
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022743",
+        "project_name": "Depco - Sand/Oil Separator",
+        "facility_name": "Depco Power Systems",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 50000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "8123 Hillsboro St",
+        "geocoded_method": "google",
+        "formatted_address": "8123 Hillsboro St, Houston, TX 77029, USA",
+        "scraped_at": "2025-09-23T10:20:09.285933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36449429999999,
+          29.9336017
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022702",
+        "project_name": "De Santiago School Renovation",
+        "facility_name": "de Santiago EC/PK/K School",
+        "work_type": "Renovation/Alteration",
+        "status": "Inspection Completed",
+        "cost": 430000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1420 Aldine Meadows Road",
+        "geocoded_method": "google",
+        "formatted_address": "1420 Aldine Meadows Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:20:10.230298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.500457,
+          29.7536942
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022637",
+        "project_name": "Pause Studio - Woodway Collection Shopping Center Houston",
+        "facility_name": "Woodway Collection Shopping Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 672000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1395 South Voss Road Space 18",
+        "geocoded_method": "google",
+        "formatted_address": "1395 S Voss Rd Space 18, Houston, TX 77057, USA",
+        "scraped_at": "2025-09-23T10:20:10.613496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.64233899999999,
+          29.7684611
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022457",
+        "project_name": "Tenant Lounge",
+        "facility_name": "1011 Highway 6",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 56000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1011 Highway 6 Suite 318",
+        "geocoded_method": "google",
+        "formatted_address": "1011 S Texas 6 #318, Houston, TX 77077, USA",
+        "scraped_at": "2025-09-23T10:20:10.995554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3553488,
+          29.93354459999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022450",
+        "project_name": "ALDINE MIDDLE SCHOOL T-BUILDINGS relocation",
+        "facility_name": "ALDINE MIDDLE SCHOOL",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 250000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "14908 ALDINE WESTFIELD RD.",
+        "geocoded_method": "google",
+        "formatted_address": "14908 Aldine Westfield Rd, Houston, TX 77032, USA",
+        "scraped_at": "2025-09-23T10:20:11.427138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2212845,
+          29.6229364
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022209",
+        "project_name": "AutoNation Ford Gulf Freeway - EV Chargers",
+        "facility_name": "AutoNation Ford Gulf Freeway",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 143000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "12227 Gulf Freeway",
+        "geocoded_method": "google",
+        "formatted_address": "12227 Gulf Fwy, Houston, TX 77034, USA",
+        "scraped_at": "2025-09-23T10:20:11.791793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3700738,
+          29.6800219
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022189",
+        "project_name": "Mobile Office",
+        "facility_name": "Piping Technology & Products Inc.",
+        "work_type": "New Construction",
+        "status": "Review Complete",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3701 Holmes Road",
+        "geocoded_method": "google",
+        "formatted_address": "3701 Holmes Rd, Houston, TX 77051, USA",
+        "scraped_at": "2025-09-23T10:20:12.166035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4133475,
+          29.6659405
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022062",
+        "project_name": "Lonza Houston PL1 GMP Autoclave",
+        "facility_name": "Lonza Houston",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 2843000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "14905 Kirby Drive",
+        "geocoded_method": "google",
+        "formatted_address": "14905 Kirby Dr, Houston, TX 77054, USA",
+        "scraped_at": "2025-09-23T10:20:12.544849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4327014,
+          29.7378833
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025022031",
+        "project_name": "Mood Fabrics",
+        "facility_name": "3461 West Alabama",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 70000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3461 West Alabama Street",
+        "geocoded_method": "google",
+        "formatted_address": "3461 W Alabama St, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:20:12.929827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.62378149999999,
+          29.7698243
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025021750",
+        "project_name": "Gulf Interstate Engineering",
+        "facility_name": "Eldrige Oaks",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 1318000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1080 Eldridge Parkway, Suite 750",
+        "geocoded_method": "google",
+        "formatted_address": "1080 Eldridge Pkwy #750, Houston, TX 77077, USA",
+        "scraped_at": "2025-09-23T10:20:13.540708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3875427,
+          29.72272
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025021488",
+        "project_name": "USP 800 Pharmacy Renovation",
+        "facility_name": "HCA Houston Healthcare Medical Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 500000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1313 Hermann Dr.",
+        "geocoded_method": "google",
+        "formatted_address": "1313 Hermann Dr, Houston, TX 77004, USA",
+        "scraped_at": "2025-09-23T10:20:13.997615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.49908429999999,
+          29.8572772
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025021375",
+        "project_name": "Holbrook ES Classroom Wall Extensions",
+        "facility_name": "Holbrook Elementary School",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 99900,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6402 Langfield Rd.",
+        "geocoded_method": "google",
+        "formatted_address": "6402 Langfield Rd, Houston, TX 77092, USA",
+        "scraped_at": "2025-09-23T10:20:14.427775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.462505,
+          29.7520839
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025021285",
+        "project_name": "Southwest Energy",
+        "facility_name": "Four Oaks Place",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 391000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1400 Post Oak Blvd. Suite 1050",
+        "geocoded_method": "google",
+        "formatted_address": "1400 Post Oak Blvd #1050, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:20:14.824892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2626152,
+          29.8246604
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025021101",
+        "project_name": "Mesa Industrial Properties, LLC",
+        "facility_name": "Mesa Logistics Center Bldg. 2",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 67000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6955 Mesa Dr",
+        "geocoded_method": "google",
+        "formatted_address": "6955 Mesa Dr, Houston, TX 77028, USA",
+        "scraped_at": "2025-09-23T10:20:15.191997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.62633140000001,
+          29.7818176
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020936",
+        "project_name": "LEVEL 3 RESTROOM REMODEL",
+        "facility_name": "REPUBLIC SQUARE",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 326929,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "13501 KATY FREEWAY LEVEL 3",
+        "geocoded_method": "google",
+        "formatted_address": "Service Road, 13501 Katy Fwy level 3, Houston, TX 77079, USA",
+        "scraped_at": "2025-09-23T10:20:15.750858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.62633140000001,
+          29.7818176
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020934",
+        "project_name": "LEVEL 1 BLUE PURPLE GREEN RESTROOMS",
+        "facility_name": "REPUBLIC SQUARE",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 448190,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "13501 KATY FREEWAY LEVEL 1",
+        "geocoded_method": "google",
+        "formatted_address": "Service Road, 13501 Katy Fwy level 1, Houston, TX 77079, USA",
+        "scraped_at": "2025-09-23T10:20:16.323582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.532409,
+          29.7858299
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020786",
+        "project_name": "Bunker Hill Road & IH-10 Frontage Road U-Turn Safety Improvements",
+        "facility_name": "TxDOT U-Turn",
+        "work_type": "New Construction",
+        "status": "Project Closed",
+        "cost": 270000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9710 Katy Fwy",
+        "geocoded_method": "google",
+        "formatted_address": "9710 Katy Fwy, Houston, TX 77055, USA",
+        "scraped_at": "2025-09-23T10:20:16.905284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.28705699999999,
+          29.6104041
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020705",
+        "project_name": "STEEL SUPPLY",
+        "facility_name": "STEEL SUPPLY",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 2000000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10600 TELEPHONE ROAD",
+        "geocoded_method": "google",
+        "formatted_address": "10600 Telephone Rd, Houston, TX 77075, USA",
+        "scraped_at": "2025-09-23T10:20:17.516679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.38848159999999,
+          29.753131
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020624",
+        "project_name": "FS8",
+        "facility_name": "FS8",
+        "work_type": "New Construction",
+        "status": "Review Complete",
+        "cost": 250000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "609 W Gray St. Suite: A Houston, TX 77019",
+        "geocoded_method": "google",
+        "formatted_address": "609 W Gray St a, Houston, TX 77019, USA",
+        "scraped_at": "2025-09-23T10:20:18.263636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3997225,
+          29.7099079
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020444",
+        "project_name": "Dunn D457 Discharge Command Center Additional Office",
+        "facility_name": "Houston Methodist Dunn Building",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 90000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6565 Fannin Street",
+        "geocoded_method": "google",
+        "formatted_address": "6565 Fannin St, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:20:18.859605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5472324,
+          29.8310696
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020425",
+        "project_name": "Ldogos Dental PLLC / Dr. Maged Shokralla DDS",
+        "facility_name": "Shops at Pinecrest",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 280000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "4145 Gessner Rd",
+        "geocoded_method": "google",
+        "formatted_address": "4145 Gessner Rd, Houston, TX 77043, USA",
+        "scraped_at": "2025-09-23T10:20:19.505031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.23343349999999,
+          29.6722771
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020335",
+        "project_name": "ALL-STAR TIRE",
+        "facility_name": "ALL-STAR TIRE",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 185000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2622 Martinville Drive",
+        "geocoded_method": "google",
+        "formatted_address": "2622 Martinville Dr, Houston, TX 77017, USA",
+        "scraped_at": "2025-09-23T10:20:20.120206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.57358289999999,
+          29.98752469999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020293",
+        "project_name": "Gary Greene",
+        "facility_name": "Four Chasewood",
+        "work_type": "Renovation/Alteration",
+        "status": "Inspection Completed",
+        "cost": 205065,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "20329 SH-249 #200",
+        "geocoded_method": "google",
+        "formatted_address": "20329 TX-249 Suite 200, Houston, TX 77070, USA",
+        "scraped_at": "2025-09-23T10:20:20.525182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.48969369999999,
+          29.70019809999999
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020180",
+        "project_name": "NEW WAREHOUSE AND GARAGE",
+        "facility_name": "INVESTMENT ELD LLC",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 122500,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6113 ALETHA LN",
+        "geocoded_method": "google",
+        "formatted_address": "6113 Aletha Ln, Houston, TX 77081, USA",
+        "scraped_at": "2025-09-23T10:20:20.924672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4254069,
+          29.6814469
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020150",
+        "project_name": "Raising Cane's (C0266)",
+        "facility_name": "Raising Cane's",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 700000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9530 Main Street",
+        "geocoded_method": "google",
+        "formatted_address": "9530 S Main St, Houston, TX 77025, USA",
+        "scraped_at": "2025-09-23T10:20:21.353594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4438632,
+          29.725034
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020148",
+        "project_name": "Ronald McDonald House Charities Greater Houston Amschwand House - T.A.S. Renovations",
+        "facility_name": "Amschwand House",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 270000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "4115 Drake St. Apt 01, 08",
+        "geocoded_method": "google",
+        "formatted_address": "4115 Drake St 01 08, Houston, TX 77005, USA",
+        "scraped_at": "2025-09-23T10:20:21.783516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.391437,
+          29.6282553
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025020034",
+        "project_name": "WINGSTOP",
+        "facility_name": "WINGSTOP",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 250000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1416 W OREM DRIVE",
+        "geocoded_method": "google",
+        "formatted_address": "1416 W Orem Dr, Houston, TX 77047, USA",
+        "scraped_at": "2025-09-23T10:20:22.264729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5906848,
+          29.7864085
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019955",
+        "project_name": "Infinity Hydrocarbons Expansion",
+        "facility_name": "Atlas Energy Tower, LLC",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 180000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "11700 Katy Freeway #1000",
+        "geocoded_method": "google",
+        "formatted_address": "11700 Katy Fwy #1000, Houston, TX 77079, USA",
+        "scraped_at": "2025-09-23T10:20:22.715530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.54043899999999,
+          29.7799135
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019900",
+        "project_name": "CHUBBIES STORE AT MEMORIAL CITY MALL",
+        "facility_name": "MEMORIAL CITY MALL",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 125000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "303 Memorial City Way, Space No. 253",
+        "geocoded_method": "google",
+        "formatted_address": "303 Memorial City Way, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:20:23.103488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.398187,
+          29.7140908
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019854",
+        "project_name": "Fannin Street Cafe",
+        "facility_name": "University of Texas Health Services",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 180000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6410 Fannin Street",
+        "geocoded_method": "google",
+        "formatted_address": "6410 Fannin St, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:20:23.500091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36398750000001,
+          29.7603811
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019846",
+        "project_name": "SCF Partners",
+        "facility_name": "JP Morgan Chase Tower",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 830000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "600 Travis St. #6600",
+        "geocoded_method": "google",
+        "formatted_address": "600 Travis St # 6600, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:20:23.924320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4623821,
+          29.7419413
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019710",
+        "project_name": "Marmi",
+        "facility_name": "The Centre at Post Oak",
+        "work_type": "New Construction",
+        "status": "Inspection Completed",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5000 Westheimer Rd, Sp # 590",
+        "geocoded_method": "google",
+        "formatted_address": "5000 Westheimer Rd, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:20:24.344697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.38847469999999,
+          29.7230421
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019706",
+        "project_name": "Prospect Suite 740",
+        "facility_name": "Museum Medical Tower",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 255000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1213 Hermann Drive , Suite 740",
+        "geocoded_method": "google",
+        "formatted_address": "1213 Hermann Dr # 740, Houston, TX 77004, USA",
+        "scraped_at": "2025-09-23T10:20:24.725480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.586078,
+          29.6874321
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019697",
+        "project_name": "Walmart Neighborhood Market 3509 CapX",
+        "facility_name": "Walmart Neighborhood Market 3509",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Closed",
+        "cost": 99520,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "11755 Beechnut St",
+        "geocoded_method": "google",
+        "formatted_address": "11755 Beechnut St, Houston, TX 77072, USA",
+        "scraped_at": "2025-09-23T10:20:25.166408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1770494,
+          29.7680338
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019694",
+        "project_name": "Walmart 1137 CapX",
+        "facility_name": "Walmart 1137",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 266500,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "13750 East Fwy",
+        "geocoded_method": "google",
+        "formatted_address": "13750 East Fwy, Houston, TX 77015, USA",
+        "scraped_at": "2025-09-23T10:20:25.693573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5809793,
+          29.8898797
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019670",
+        "project_name": "Kid to Kid Jersey Village",
+        "facility_name": "Northwest Village Shopping Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "17378 NW Freeway",
+        "geocoded_method": "google",
+        "formatted_address": "17378 Northwest Fwy, Jersey Village, TX 77040, USA",
+        "scraped_at": "2025-09-23T10:20:26.084120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34780649999999,
+          29.7437658
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019608",
+        "project_name": "Proposed Food Processing / Warehouse",
+        "facility_name": "3115 Polk Street",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 65000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3115 Polk Street",
+        "geocoded_method": "google",
+        "formatted_address": "3115 Polk St, Houston, TX 77003, USA",
+        "scraped_at": "2025-09-23T10:20:26.493733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66465079999999,
+          29.7894872
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019579",
+        "project_name": "American Gilsonite",
+        "facility_name": "Park Ten",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 249931,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "16200 Park Row Drive Suite 250",
+        "geocoded_method": "google",
+        "formatted_address": "16200 Park Row Blvd #250, Houston, TX 77084, USA",
+        "scraped_at": "2025-09-23T10:20:26.873719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5137632,
+          30.0033626
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019502",
+        "project_name": "Champion Forest Baptist Church",
+        "facility_name": "Champion Forest Baptist Church",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 300000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "15555 Stuebner Airline Rd.",
+        "geocoded_method": "google",
+        "formatted_address": "15555 Stuebner Airline Rd, Houston, TX 77069, USA",
+        "scraped_at": "2025-09-23T10:20:27.253793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4077882,
+          29.6864167
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019493",
+        "project_name": "Houston Texans 2025 Football Ops Renovation",
+        "facility_name": "NRG Stadium",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 1850000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "NRG Parkway",
+        "geocoded_method": "google",
+        "formatted_address": "NRG Pkwy, Houston, TX 77054, USA",
+        "scraped_at": "2025-09-23T10:20:27.593876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.48056450000001,
+          29.757829
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019479",
+        "project_name": "WESSELS FINANCIAL SERVICES",
+        "facility_name": "Two Bering Park",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 92937,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "800 Bering Dr. #200",
+        "geocoded_method": "google",
+        "formatted_address": "800 Bering Dr # 200, Houston, TX 77057, USA",
+        "scraped_at": "2025-09-23T10:20:28.115232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3986501,
+          29.7089893
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019454",
+        "project_name": "MDA BSRB Elevator Machine Room HVAC Replacement",
+        "facility_name": "MD Anderson Cancer Center - BSRB",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 650560,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6767 Bertner Ave",
+        "geocoded_method": "google",
+        "formatted_address": "6767 Bertner Ave, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:20:28.527507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4353623,
+          29.7343193
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019417",
+        "project_name": "TEXAS JUVENILE JUSTICE DEPARTMENT",
+        "facility_name": "3555 tIMMONS",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 140000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3555 Timmons Lane Lv.08 STE #840",
+        "geocoded_method": "google",
+        "formatted_address": "3555 Timmons Ln #840, Houston, TX 77027, USA",
+        "scraped_at": "2025-09-23T10:20:29.010614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.48204109999999,
+          29.7490677
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019414",
+        "project_name": "STRAKE FOUNDATION",
+        "facility_name": "SAN FELIPE PLAZA",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "5847 SAN FELIPE ST. LEVEL 41 SUITE 4160",
+        "geocoded_method": "google",
+        "formatted_address": "5847 San Felipe St level 41 suite 4160, Houston, TX 77057, USA",
+        "scraped_at": "2025-09-23T10:20:29.463675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.46519459999999,
+          29.7479985
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019394",
+        "project_name": "St. Michael Catholic School Library Study Room Enclosure",
+        "facility_name": "Library Study Room",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 95000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1833 Sage Road",
+        "geocoded_method": "google",
+        "formatted_address": "1833 Sage Rd, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:20:29.835036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4687333,
+          29.7911962
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019393",
+        "project_name": "CTK Office Renovation",
+        "facility_name": "Christ the King Presbyterian Church",
+        "work_type": "Renovation/Alteration",
+        "status": "Inspection Completed",
+        "cost": 120000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1201 Silber Road, Houston, TX 77055",
+        "geocoded_method": "google",
+        "formatted_address": "1201 Silber Rd, Houston, TX 77055, USA",
+        "scraped_at": "2025-09-23T10:20:30.287882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4806223,
+          29.7850635
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019196",
+        "project_name": "Crown Castle-Houston Dock Controller",
+        "facility_name": "Crown Castle",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "8020 Katy Freeway",
+        "geocoded_method": "google",
+        "formatted_address": "8020 Katy Fwy, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:20:30.675187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.49998579999999,
+          29.7523834
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019147",
+        "project_name": "Bluemercury - Woodway Collection",
+        "facility_name": "Woodway Collection",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1407 South Voss Road, Suite 2B",
+        "geocoded_method": "google",
+        "formatted_address": "1407 S Voss Rd #2b, Houston, TX 77057, USA",
+        "scraped_at": "2025-09-23T10:20:31.111730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.46415499999999,
+          29.8143977
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025019137",
+        "project_name": "TABC STATE LEASE #C2500050 - OFFICE RENOV",
+        "facility_name": "MANHATTAN LIFE BUILDING",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 595000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10777 Northwest Freeway, Suite 700",
+        "geocoded_method": "google",
+        "formatted_address": "10777 Northwest Fwy #700, Houston, TX 77092, USA",
+        "scraped_at": "2025-09-23T10:20:31.594625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0928771,
+          29.548773
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018953",
+        "project_name": "Foremark",
+        "facility_name": "Saturn One",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 200000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "18050 Saturn Lane #150",
+        "geocoded_method": "google",
+        "formatted_address": "18050 Saturn Ln #150, Houston, TX 77058, USA",
+        "scraped_at": "2025-09-23T10:20:32.038166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.57248399999999,
+          29.7379802
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018892",
+        "project_name": "International Workplace Group, PLC",
+        "facility_name": "2500 Wilcrest",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 350000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2500 Wilcrest Drive #500",
+        "geocoded_method": "google",
+        "formatted_address": "2500 Wilcrest Dr #500, Houston, TX 77042, USA",
+        "scraped_at": "2025-09-23T10:20:32.455343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4772562,
+          29.6053204
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018833",
+        "project_name": "P29N Scott Street Connector and Signalized Crossings",
+        "facility_name": "P29N Scott Street Connector and Signalized Crossings",
+        "work_type": "New Construction",
+        "status": "Review Complete",
+        "cost": 912000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "Scott Street Beltway 8 and Fuqua Street",
+        "geocoded_method": "google",
+        "formatted_address": "TX-8 Beltway & W Fuqua St, Houston, TX 77085, USA",
+        "scraped_at": "2025-09-23T10:20:32.872815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4598614,
+          29.753864
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018765",
+        "project_name": "Restroom Renovation - Level 7",
+        "facility_name": "Four Oaks Place",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 217676,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1300 Post Oak Blvd. Floor 7",
+        "geocoded_method": "google",
+        "formatted_address": "1300 Post Oak Blvd floor 7, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:20:33.250326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3640089,
+          29.7604054
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018750",
+        "project_name": "Gunvor Level 65 Expansion Updates",
+        "facility_name": "JPMorgan Chase Tower",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 823062,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "600 Travis Street Suite 6500",
+        "geocoded_method": "google",
+        "formatted_address": "600 Travis St # 6500, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:20:33.664083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.62463319999999,
+          29.7500585
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018715",
+        "project_name": "FIRST SERVICE CREDIT UNION: Eldridge Branch",
+        "facility_name": "FIRST SERVICE CREDIT UNION: Eldridge Branch",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 250000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1805 Eldridge Parkway S",
+        "geocoded_method": "google",
+        "formatted_address": "1805 Eldridge Pkwy S, Houston, TX 77077, USA",
+        "scraped_at": "2025-09-23T10:20:34.234857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4671505,
+          29.7325618
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018714",
+        "project_name": "FIRST SERVICE CREDIT UNION: Galleria Branch",
+        "facility_name": "FIRST SERVICE CREDIT UNION: Galleria Branch",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 250000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3390 Sage Road",
+        "geocoded_method": "google",
+        "formatted_address": "3390 Sage Rd, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:20:34.757915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4089669,
+          29.8062059
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018672",
+        "project_name": "US Ocean Expansion",
+        "facility_name": "Heights Clock Tower",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 72000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "611 West 22nd St. Suite 102",
+        "geocoded_method": "google",
+        "formatted_address": "611 W 22nd St STE 102, Houston, TX 77008, USA",
+        "scraped_at": "2025-09-23T10:20:35.213680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4610975,
+          29.7611475
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018619",
+        "project_name": "LEVEL 10 COMMON AREA",
+        "facility_name": "3 RIVERWAY",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 225000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "3 RIVERWAY FLOOR 10",
+        "geocoded_method": "google",
+        "formatted_address": "3 Riverway floor 10, Houston, TX 77056, USA",
+        "scraped_at": "2025-09-23T10:20:35.635034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.64208130000002,
+          29.8801616
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018589",
+        "project_name": "Funbox Houston",
+        "facility_name": "Copperfield Crossing",
+        "work_type": "Renovation/Alteration",
+        "status": "Inspection Completed",
+        "cost": 325000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "15540 FM 529",
+        "geocoded_method": "google",
+        "formatted_address": "15540 FM 529, Houston, TX 77095, USA",
+        "scraped_at": "2025-09-23T10:20:36.074179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1897571,
+          29.5865772
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018493",
+        "project_name": "LSA Bridge Addition",
+        "facility_name": "LSA High School",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 183000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "12555 Ryewater Dr.",
+        "geocoded_method": "google",
+        "formatted_address": "12555 Ryewater Dr, Houston, TX 77089, USA",
+        "scraped_at": "2025-09-23T10:20:36.503732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.524458,
+          29.908203
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018483",
+        "project_name": "Project Eagle",
+        "facility_name": "Fairbanks Logistics Park",
+        "work_type": "New Construction",
+        "status": "Inspection Completed",
+        "cost": 20655431,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "8702 Fairbanks North",
+        "geocoded_method": "google",
+        "formatted_address": "8702 Fairbanks North Houston Rd, Houston, TX 77064, USA",
+        "scraped_at": "2025-09-23T10:20:36.890394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.61887279999999,
+          29.7775608
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018464",
+        "project_name": "SM ENERGY",
+        "facility_name": "ONE ELDRIDGE PLACE",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 645000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "777 N. ELDRIDGE PARKWAY, LEVEL 11 & 12",
+        "geocoded_method": "google",
+        "formatted_address": "777 N Eldridge Pkwy level 11, Houston, TX 77079, USA",
+        "scraped_at": "2025-09-23T10:20:37.251356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.37740509999999,
+          29.9121526
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018459",
+        "project_name": "Modular Office - East Aldine Camp",
+        "facility_name": "East Aldine Camp",
+        "work_type": "New Construction",
+        "status": "Review Complete",
+        "cost": 605695,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "815 Pear Street",
+        "geocoded_method": "google",
+        "formatted_address": "815 Pear St, Houston, TX 77060, USA",
+        "scraped_at": "2025-09-23T10:20:37.654776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5047391,
+          29.8459561
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018445",
+        "project_name": "Songwriters Texas LLC - Big Easy Saloon #9",
+        "facility_name": "Hollister Pointe - Houston",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 85000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "13159 Northwest Freeway",
+        "geocoded_method": "google",
+        "formatted_address": "13159 Northwest Fwy, Houston, TX 77040, USA",
+        "scraped_at": "2025-09-23T10:20:38.055002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4018157,
+          29.7201306
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018272",
+        "project_name": "Rice Ghonasgi Lab Renovation s MEB",
+        "facility_name": "Mechanical Engineering Building",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 170000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6100 Main Street",
+        "geocoded_method": "google",
+        "formatted_address": "Hamman Hall, 6100 Main St, Houston, TX 77005, USA",
+        "scraped_at": "2025-09-23T10:20:38.495120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3983159,
+          29.6989834
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018256",
+        "project_name": "Medical Informatics",
+        "facility_name": "TMC3",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 350000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "7522 Helix Park Ave, Suite 1B",
+        "geocoded_method": "google",
+        "formatted_address": "7522 Helix Park Ave #1b, Houston, TX 77030, USA",
+        "scraped_at": "2025-09-23T10:20:38.924989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44449279999999,
+          29.7801306
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018242",
+        "project_name": "Balden Contract Group",
+        "facility_name": "Westport Business Center",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 70000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6633 Portwest Drive, Suite 100",
+        "geocoded_method": "google",
+        "formatted_address": "6633 Portwest Dr #100, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:20:39.346314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.58544169999999,
+          29.950684
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018130",
+        "project_name": "Domino's #8101",
+        "facility_name": "Domino's",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 200000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "12155 Jones Road, Ste. 500",
+        "geocoded_method": "google",
+        "formatted_address": "12155 Jones Rd #500, Houston, TX 77070, USA",
+        "scraped_at": "2025-09-23T10:20:39.747544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.51212439999999,
+          29.7978354
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018125",
+        "project_name": "Storage Depot",
+        "facility_name": "Storage Depot",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 300000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "9021 Ruland Rd",
+        "geocoded_method": "google",
+        "formatted_address": "9021 Ruland Rd, Houston, TX 77055, USA",
+        "scraped_at": "2025-09-23T10:20:40.226163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56139979999999,
+          29.7385473
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018092",
+        "project_name": "New York Life",
+        "facility_name": "2500 CITY WEST",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 132840,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2500 CITY WEST BLVD, LEVEL 7, SUITE 750",
+        "geocoded_method": "google",
+        "formatted_address": "2500 CityWest Blvd level 7 suite 750, Houston, TX 77042, USA",
+        "scraped_at": "2025-09-23T10:20:40.683688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2065496,
+          29.5832953
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018078",
+        "project_name": "SOUTHEAST DERMATOLOGY",
+        "facility_name": "MHHS SE1 POB",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 173352,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "11914 ASTORIA BLVD STE 570",
+        "geocoded_method": "google",
+        "formatted_address": "11914 Astoria Blvd #570, Houston, TX 77089, USA",
+        "scraped_at": "2025-09-23T10:20:41.107628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.55640679999999,
+          29.7281835
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018077",
+        "project_name": "AGCM",
+        "facility_name": "TOWERS AT WESTCHASE",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 115900,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10370 Richmond Ave Ste 810",
+        "geocoded_method": "google",
+        "formatted_address": "10370 Richmond Ave. #810, Houston, TX 77042, USA",
+        "scraped_at": "2025-09-23T10:20:41.502541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5500958,
+          29.6665879
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018024",
+        "project_name": "Crash Champions",
+        "facility_name": "Crash Champions",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 100000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "10475 Southwest Fwy",
+        "geocoded_method": "google",
+        "formatted_address": "10475 Southwest Fwy, Houston, TX 77074, USA",
+        "scraped_at": "2025-09-23T10:20:41.891092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5666575,
+          29.8143537
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018018",
+        "project_name": "The Westview School 1818/1830 Canopies",
+        "facility_name": "The Westview School",
+        "work_type": "New Construction",
+        "status": "Review Complete",
+        "cost": 534000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "1818 Kersten Dr",
+        "geocoded_method": "google",
+        "formatted_address": "1818 Kersten Dr, Houston, TX 77043, USA",
+        "scraped_at": "2025-09-23T10:20:42.279444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36378460000002,
+          29.7604464
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025018001",
+        "project_name": "8-2058_KKR - Houston",
+        "facility_name": "JPMorgan Chase Tower",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 650000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "600 Travis Street , 72nd Floor",
+        "geocoded_method": "google",
+        "formatted_address": "JPMorgan Chase Tower, 600 Travis St 72nd floor, Houston, TX 77002, USA",
+        "scraped_at": "2025-09-23T10:20:42.667628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4817953,
+          29.7394264
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025017984",
+        "project_name": "Landpark Advisors",
+        "facility_name": "2603 Augusta",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "2603 Augusta, Suite 1050",
+        "geocoded_method": "google",
+        "formatted_address": "2603 Augusta Dr #1050, Houston, TX 77057, USA",
+        "scraped_at": "2025-09-23T10:20:43.092721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44068299999999,
+          29.7302941
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025017983",
+        "project_name": "DIR",
+        "facility_name": "WESLAYAN TOWER",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 275000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "24 GREENWAY SUITE 1050",
+        "geocoded_method": "google",
+        "formatted_address": "24 Greenway Plz Suite 1050, Houston, TX 77046, USA",
+        "scraped_at": "2025-09-23T10:20:43.549808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.594224,
+          29.9167174
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025017970",
+        "project_name": "Emmott Elementary School Renovations",
+        "facility_name": "Emmott Elementary School",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 80000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "11750 Steeple Way Blvd",
+        "geocoded_method": "google",
+        "formatted_address": "11750 Steeple Way Blvd, Houston, TX 77065, USA",
+        "scraped_at": "2025-09-23T10:20:43.978411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5724714,
+          29.8795259
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025017956",
+        "project_name": "IQ Viet My",
+        "facility_name": "Retail Center Shell Building #2",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 90000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "14810 FM 529 Road Suite 500",
+        "geocoded_method": "google",
+        "formatted_address": "14810 FM 529 #500, Houston, TX 77041, USA",
+        "scraped_at": "2025-09-23T10:20:44.463597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4977985,
+          29.7161585
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025017950",
+        "project_name": "Milagros De Mexico",
+        "facility_name": "Plaza At Hillcroft",
+        "work_type": "Renovation/Alteration",
+        "status": "Review Complete",
+        "cost": 105000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "6015 Hillcroft St #1200",
+        "geocoded_method": "google",
+        "formatted_address": "6015 Hillcroft St #1200, Houston, TX 77081, USA",
+        "scraped_at": "2025-09-23T10:20:45.029980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.50318709999999,
+          29.8982233
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2025017910",
+        "project_name": "MCAT Tanyard Rd Lease Space",
+        "facility_name": "Pinnacle Logistics Park - Building 1",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 109000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "11525 Tanyard Creek Dr",
+        "geocoded_method": "google",
+        "formatted_address": "11525 Tanyard Crk Dr, Houston, TX 77040, USA",
+        "scraped_at": "2025-09-23T10:20:45.430079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.393239,
+          29.7970526
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001513",
+        "project_name": "Rice Duncan 2032 LiKamWa Lab",
+        "facility_name": "Duncan Hall",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 200000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "13467 Columbia Shuttle",
+        "geocoded_method": "google",
+        "formatted_address": "Columbia St, Houston, TX, USA",
+        "scraped_at": "2025-09-23T10:20:45.879744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59959549999999,
+          29.8934088
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001493",
+        "project_name": "Northside Electric Motors",
+        "facility_name": "Northside Electric Motors",
+        "work_type": "New Construction",
+        "status": "Project Registered",
+        "cost": 3150000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "12550 Taylor Rd.",
+        "geocoded_method": "google",
+        "formatted_address": "12550 Taylor Rd, Houston, TX 77041, USA",
+        "scraped_at": "2025-09-23T10:20:46.331783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5380223,
+          29.7806343
+        ]
+      },
+      "properties": {
+        "project_id": "TABS2026001538",
+        "project_name": "Sun and Ski Interior Alteration 826",
+        "facility_name": "Memorial City Mall Suite 826",
+        "work_type": "Renovation/Alteration",
+        "status": "Project Registered",
+        "cost": 750000,
+        "city": "Houston",
+        "county": "Harris",
+        "estimated_completion": null,
+        "contractor": null,
+        "owner": null,
+        "address": "303 memorial City Way, Suite 826 Houston TX 77024",
+        "geocoded_method": "google",
+        "formatted_address": "303 Memorial City Way Suite 826, Houston, TX 77024, USA",
+        "scraped_at": "2025-09-23T10:20:46.844944"
+      }
+    }
+  ],
+  "metadata": {
+    "total_features": 203,
+    "created_at": "2025-09-23T10:22:42.649763",
+    "source": "TDLR Houston Projects",
+    "description": "All unique Houston TDLR projects with addresses and geocoding"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "marker": {
+    "key": "pensacola_dam",
+    "name": "Pensacola Dam",
+    "center": {
+      "lat": 36.4675,
+      "lng": -95.04139
+    },
+    "radius_m": 8046
+  },
+  "summary": {
+    "generated_at": "2025-11-07T21:19:23.556294+00:00",
+    "feature_count": 0,
+    "categories": {},
+    "query_radius_m": 8046,
+    "bounding_box": {
+      "min_lon": -95.11366811713978,
+      "min_lat": 36.3947118690067,
+      "max_lon": -94.96911188286023,
+      "max_lat": 36.540288130993304
+    },
+    "raw_element_count": 0
+  },
+  "features": []
+}

@@ -1,0 +1,9 @@
+{
+  "geocoding_date": "2025-12-12T12:46:33.368351",
+  "total_records": 89694,
+  "geocoded_records": 76001,
+  "failed_records": 13693,
+  "success_rate_pct": 84.73364996543805,
+  "counties_geocoded": 201,
+  "counties_failed": 0
+}

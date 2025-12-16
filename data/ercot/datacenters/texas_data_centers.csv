@@ -1,0 +1,16 @@
+dc_id,name,city,county,lat,lon,company,source_url,notes
+DC001,Microsoft Taylor Data Center,Taylor,Williamson,30.5708,-97.4095,Microsoft,https://www.microsoft.com/en-us/investor/earnings-fy-2024-q1.aspx,Major Microsoft data center campus
+DC002,Samsung Taylor Semiconductor,Taylor,Williamson,30.5708,-97.4095,Samsung,https://news.samsung.com/us/samsung-electronics-announces-new-semiconductor-manufacturing-facility-taylor-texas/,Semiconductor facility with data center infrastructure
+DC003,Google Austin Data Center,Austin,Travis,30.2672,-97.7431,Google,https://www.google.com/about/datacenters/locations/,Google data center facility
+DC004,Amazon AWS US-East (Texas),Dallas,Dallas,32.7767,-96.797,Amazon,https://aws.amazon.com/about-aws/global-infrastructure/,AWS data center region
+DC005,Google Haskell County Data Center,Haskell,Haskell,33.1576,-99.7337,Google,https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/,"Announced 2025, part of $40B investment"
+DC006,Google Armstrong County Data Center,Claude,Armstrong,35.1092,-101.3636,Google,https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/,"Announced 2025, part of $40B investment"
+DC007,OpenAI Stargate Abilene,Abilene,Taylor,32.4487,-99.7331,OpenAI/Oracle/SoftBank,https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/,"Stargate project, 900 MW, world's largest AI supercluster"
+DC008,OpenAI Stargate Shackelford County,Albany,Shackelford,32.7237,-99.2973,OpenAI/Oracle/SoftBank,https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/,Stargate project location
+DC009,OpenAI Stargate Milam County,Cameron,Milam,30.8533,-96.9769,OpenAI/Oracle/SoftBank,https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/,Stargate project location
+DC010,Facebook/Meta Data Center,Fort Worth,Tarrant,32.7555,-97.3308,Meta,https://about.meta.com/metaverse/data-centers/,Meta data center facility
+DC011,Apple Data Center,Austin,Travis,30.2672,-97.7431,Apple,https://www.apple.com/environment/,Apple data center facility
+DC012,Microsoft San Antonio Data Center,San Antonio,Bexar,29.4241,-98.4936,Microsoft,https://azure.microsoft.com/en-us/explore/global-infrastructure/,Microsoft Azure data center
+DC013,Amazon AWS US-West (Texas),Houston,Harris,29.7604,-95.3698,Amazon,https://aws.amazon.com/about-aws/global-infrastructure/,AWS data center region
+DC014,Oracle Cloud Data Center,Austin,Travis,30.2672,-97.7431,Oracle,https://www.oracle.com/cloud/data-centers/,Oracle cloud data center
+DC015,IBM Cloud Data Center,Dallas,Dallas,32.7767,-96.797,IBM,https://www.ibm.com/cloud/data-centers,IBM cloud data center

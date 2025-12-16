@@ -1,0 +1,278 @@
+{
+  "generatedAt": "2025-10-09T00:00:00Z",
+  "sites": [
+    {
+      "id": "cyrusone-dfw7-campus",
+      "name": "CyrusOne DFW7 Data Center Campus",
+      "center": {
+        "lat": 31.9315,
+        "lng": -97.347
+      },
+      "radiusMeters": 1800,
+      "baseRadiusMeters": 1400,
+      "radiusScaleApplied": 1.2857,
+      "renderDimensions": {
+        "sentinel": 1024,
+        "naip": 1024
+      },
+      "imageCoordinates": [
+        [
+          -97.367,
+          31.9475
+        ],
+        [
+          -97.327,
+          31.9475
+        ],
+        [
+          -97.327,
+          31.9155
+        ],
+        [
+          -97.367,
+          31.9155
+        ]
+      ],
+      "images": {
+        "sentinel": "/geoai-sites/cyrusone-dfw7-campus-sentinel.png",
+        "naip": "/geoai-sites/cyrusone-dfw7-campus-naip.png"
+      },
+      "updatedAt": "2025-10-09T05:00:00Z",
+      "hasImagery": true
+    },
+    {
+      "id": "oncor-whitney-substation",
+      "name": "Oncor Whitney Substation & Transmission Hub",
+      "center": {
+        "lat": 31.9247,
+        "lng": -97.3349
+      },
+      "radiusMeters": 1400,
+      "baseRadiusMeters": 1100,
+      "radiusScaleApplied": 1.2727,
+      "renderDimensions": {
+        "sentinel": 1024,
+        "naip": 1024
+      },
+      "imageCoordinates": [
+        [
+          -97.352,
+          31.936
+        ],
+        [
+          -97.317,
+          31.936
+        ],
+        [
+          -97.317,
+          31.9135
+        ],
+        [
+          -97.352,
+          31.9135
+        ]
+      ],
+      "images": {
+        "sentinel": "/geoai-sites/oncor-whitney-substation-sentinel.png",
+        "naip": "/geoai-sites/oncor-whitney-substation-naip.png"
+      },
+      "updatedAt": "2025-10-09T05:00:00Z",
+      "hasImagery": true
+    },
+    {
+      "id": "bosque-county-power-station",
+      "name": "Bosque County Power Station",
+      "center": {
+        "lat": 31.842,
+        "lng": -97.382
+      },
+      "radiusMeters": 2200,
+      "baseRadiusMeters": 1700,
+      "radiusScaleApplied": 1.2941,
+      "renderDimensions": {
+        "sentinel": 1024,
+        "naip": 1024
+      },
+      "imageCoordinates": [
+        [
+          -97.406,
+          31.862
+        ],
+        [
+          -97.358,
+          31.862
+        ],
+        [
+          -97.358,
+          31.822
+        ],
+        [
+          -97.406,
+          31.822
+        ]
+      ],
+      "images": {
+        "sentinel": "/geoai-sites/bosque-county-power-station-sentinel.png",
+        "naip": "/geoai-sites/bosque-county-power-station-naip.png"
+      },
+      "updatedAt": "2025-10-09T05:00:00Z",
+      "hasImagery": true
+    },
+    {
+      "id": "lake-whitney-dam-hydro",
+      "name": "Lake Whitney Dam & Hydropower Station",
+      "center": {
+        "lat": 31.858,
+        "lng": -97.375
+      },
+      "radiusMeters": 2000,
+      "baseRadiusMeters": 1550,
+      "radiusScaleApplied": 1.2903,
+      "renderDimensions": {
+        "sentinel": 1024,
+        "naip": 1024
+      },
+      "imageCoordinates": [
+        [
+          -97.397,
+          31.874
+        ],
+        [
+          -97.353,
+          31.874
+        ],
+        [
+          -97.353,
+          31.842
+        ],
+        [
+          -97.397,
+          31.842
+        ]
+      ],
+      "images": {
+        "sentinel": "/geoai-sites/lake-whitney-dam-hydro-sentinel.png",
+        "naip": "/geoai-sites/lake-whitney-dam-hydro-naip.png"
+      },
+      "updatedAt": "2025-10-09T05:00:00Z",
+      "hasImagery": true
+    },
+    {
+      "id": "aquilla-water-treatment-plant",
+      "name": "Aquilla Regional Water Treatment Plant",
+      "center": {
+        "lat": 31.878,
+        "lng": -97.111
+      },
+      "radiusMeters": 1800,
+      "baseRadiusMeters": 1400,
+      "radiusScaleApplied": 1.2857,
+      "renderDimensions": {
+        "sentinel": 1024,
+        "naip": 1024
+      },
+      "imageCoordinates": [
+        [
+          -97.131,
+          31.894
+        ],
+        [
+          -97.091,
+          31.894
+        ],
+        [
+          -97.091,
+          31.862
+        ],
+        [
+          -97.131,
+          31.862
+        ]
+      ],
+      "images": {
+        "sentinel": "/geoai-sites/aquilla-water-treatment-plant-sentinel.png",
+        "naip": "/geoai-sites/aquilla-water-treatment-plant-naip.png"
+      },
+      "updatedAt": "2025-10-09T05:00:00Z",
+      "hasImagery": true
+    },
+    {
+      "id": "bosque-river-solar-project",
+      "name": "Bosque River Solar Project",
+      "center": {
+        "lat": 31.957,
+        "lng": -97.44
+      },
+      "radiusMeters": 2600,
+      "baseRadiusMeters": 2000,
+      "radiusScaleApplied": 1.3,
+      "renderDimensions": {
+        "sentinel": 1024,
+        "naip": 1024
+      },
+      "imageCoordinates": [
+        [
+          -97.472,
+          31.981
+        ],
+        [
+          -97.408,
+          31.981
+        ],
+        [
+          -97.408,
+          31.933
+        ],
+        [
+          -97.472,
+          31.933
+        ]
+      ],
+      "images": {
+        "sentinel": "/geoai-sites/bosque-river-solar-project-sentinel.png",
+        "naip": "/geoai-sites/bosque-river-solar-project-naip.png"
+      },
+      "updatedAt": "2025-10-09T05:00:00Z",
+      "hasImagery": true
+    },
+    {
+      "id": "hilco-electric-operations-center",
+      "name": "HILCO Electric Cooperative Operations Center",
+      "center": {
+        "lat": 31.9535,
+        "lng": -97.3208
+      },
+      "radiusMeters": 1600,
+      "baseRadiusMeters": 1250,
+      "radiusScaleApplied": 1.28,
+      "renderDimensions": {
+        "sentinel": 1024,
+        "naip": 1024
+      },
+      "imageCoordinates": [
+        [
+          -97.34,
+          31.9665
+        ],
+        [
+          -97.3016,
+          31.9665
+        ],
+        [
+          -97.3016,
+          31.9405
+        ],
+        [
+          -97.34,
+          31.9405
+        ]
+      ],
+      "images": {
+        "sentinel": "/geoai-sites/hilco-electric-operations-center-sentinel.png",
+        "naip": "/geoai-sites/hilco-electric-operations-center-naip.png"
+      },
+      "updatedAt": "2025-10-09T05:00:00Z",
+      "hasImagery": true
+    }
+  ]
+}

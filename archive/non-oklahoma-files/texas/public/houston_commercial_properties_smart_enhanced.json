@@ -1,0 +1,1053 @@
+{
+  "summary": {
+    "total_properties": 65,
+    "scraped_at": "2025-09-19T20:20:50.555915",
+    "location": "Houston, TX - Downtown Commercial",
+    "data_source": "Redfin",
+    "enhanced_at": "2025-09-19T20:44:47.536551",
+    "enhancement_method": "Smart estimation based on market data",
+    "enhancement_notes": "Used intelligent estimation algorithms to fill missing data"
+  },
+  "properties": [
+    {
+      "address": "2016 Main St",
+      "price": "$1,550,00077006",
+      "price_value": 155000077006,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$3100001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$947,00077584",
+      "price_value": 94700077584,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$1894001.55",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$812,45077004",
+      "price_value": 81245077004,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$1624901.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$797,50077025",
+      "price_value": 79750077025,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$1595001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$680,00077007",
+      "price_value": 68000077007,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$1360001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "1211 Caroline St",
+      "price": "$219,5003",
+      "price_value": 2195003,
+      "square_footage": "2,337 sq ft",
+      "price_per_sqft": 939.24,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$214,9002",
+      "price_value": 2149002,
+      "square_footage": "1,363 sq ft",
+      "price_per_sqft": 1576.67,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$199,9992",
+      "price_value": 1999992,
+      "square_footage": "1,132 sq ft",
+      "price_per_sqft": 1766.78,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "705 Main St",
+      "price": "$199,9502",
+      "price_value": 1999502,
+      "square_footage": "487 sq ft",
+      "price_per_sqft": 4105.75,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$199,0001",
+      "price_value": 1990001,
+      "square_footage": "1,491 sq ft",
+      "price_per_sqft": 1334.68,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "124 Oak Place Dr",
+      "price": "$1,869,500",
+      "price_value": 1869500,
+      "square_footage": "36400 sq ft",
+      "price_per_sqft": "$51.36",
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "705 Main St",
+      "price": "$185,0001",
+      "price_value": 1850001,
+      "square_footage": "1,228 sq ft",
+      "price_per_sqft": 1506.52,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$179,9501",
+      "price_value": 1799501,
+      "square_footage": "1,884 sq ft",
+      "price_per_sqft": 955.15,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "1211 Caroline Street",
+      "price": "$179,9001",
+      "price_value": 1799001,
+      "square_footage": "1,884 sq ft",
+      "price_per_sqft": 954.88,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "915 Franklin St",
+      "price": "$169,9501",
+      "price_value": 1699501,
+      "square_footage": "1,329 sq ft",
+      "price_per_sqft": 1278.78,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "705 Main St",
+      "price": "$149,5000",
+      "price_value": 1495000,
+      "square_footage": "762 sq ft",
+      "price_per_sqft": 1961.94,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "124 Oak Place Dr",
+      "price": "$1,040,000",
+      "price_value": 1040000,
+      "square_footage": "1,999 sq ft",
+      "price_per_sqft": 520.26,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$931,973",
+      "price_value": 931973,
+      "square_footage": "26000 sq ft",
+      "price_per_sqft": "$35.85",
+      "days_on_market": 63,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2010,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "705 Main St",
+      "price": "$748,000",
+      "price_value": 748000,
+      "square_footage": "16000 sq ft",
+      "price_per_sqft": "$46.75",
+      "days_on_market": 63,
+      "property_type": "commercial",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2010,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "1211 Caroline St",
+      "price": "$699,000",
+      "price_value": 699000,
+      "square_footage": "16000 sq ft",
+      "price_per_sqft": "$43.69",
+      "days_on_market": 63,
+      "property_type": "commercial",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2010,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St St",
+      "price": "$565,000",
+      "price_value": 565000,
+      "square_footage": "2,206 sq ft",
+      "price_per_sqft": 256.12,
+      "days_on_market": 63,
+      "property_type": "commercial",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2010,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "705 Main St",
+      "price": "$549,945",
+      "price_value": 549945,
+      "square_footage": "16000 sq ft",
+      "price_per_sqft": "$34.37",
+      "days_on_market": 63,
+      "property_type": "commercial",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2010,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$549,000",
+      "price_value": 549000,
+      "square_footage": "16000 sq ft",
+      "price_per_sqft": "$34.31",
+      "days_on_market": 63,
+      "property_type": "commercial",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2010,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "1211 Caroline St",
+      "price": "$528,000",
+      "price_value": 528000,
+      "square_footage": "16000 sq ft",
+      "price_per_sqft": "$33.0",
+      "days_on_market": 63,
+      "property_type": "commercial",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2010,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$525,000",
+      "price_value": 525000,
+      "square_footage": "16000 sq ft",
+      "price_per_sqft": "$32.81",
+      "days_on_market": 63,
+      "property_type": "commercial",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2010,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$614,90077042",
+      "price_value": 61490077042,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$1229801.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$550,00077019",
+      "price_value": 55000077019,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$1100001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$529,85077008",
+      "price_value": 52985077008,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$1059701.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$474,00077044",
+      "price_value": 47400077044,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$948001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$426,00077005",
+      "price_value": 42600077005,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$852001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$425,00077018",
+      "price_value": 42500077018,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$850001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$415,00077024",
+      "price_value": 41500077024,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$830001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$336,00077080",
+      "price_value": 33600077080,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$672001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$144,95077043",
+      "price_value": 14495077043,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$289901.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$899,0003",
+      "price_value": 8990003,
+      "square_footage": "1,132 sq ft",
+      "price_per_sqft": 7941.7,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "1211 Caroline St",
+      "price": "$799,0002",
+      "price_value": 7990002,
+      "square_footage": "817 sq ft",
+      "price_per_sqft": 9779.68,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "915 Franklin St",
+      "price": "$659,0003",
+      "price_value": 6590003,
+      "square_footage": "1,100 sq ft",
+      "price_per_sqft": 5990.91,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$625,0002",
+      "price_value": 6250002,
+      "square_footage": "3,406 sq ft",
+      "price_per_sqft": 1835.0,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "77002 SearchesApartments for rentHouses for rentCondos for rentTownhomes for rentRental ResourcesRenter dashboardRental market trackerHow much rent can I afford",
+      "price": "$615,0003",
+      "price_value": 6150003,
+      "square_footage": "2,369 sq ft",
+      "price_per_sqft": 2596.03,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "1211 Caroline St",
+      "price": "$499,0003",
+      "price_value": 4990003,
+      "square_footage": "2,573 sq ft",
+      "price_per_sqft": 1939.37,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "1211 Caroline St",
+      "price": "$469,9002",
+      "price_value": 4699002,
+      "square_footage": "1,531 sq ft",
+      "price_per_sqft": 3069.24,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "705 Main St",
+      "price": "$439,9002",
+      "price_value": 4399002,
+      "square_footage": "1,169 sq ft",
+      "price_per_sqft": 3763.05,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$413,5002",
+      "price_value": 4135002,
+      "square_footage": "1,305 sq ft",
+      "price_per_sqft": 3168.58,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2008 Helena St",
+      "price": "$399,9001",
+      "price_value": 3999001,
+      "square_footage": "1,207 sq ft",
+      "price_per_sqft": 3313.17,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$399,8002",
+      "price_value": 3998002,
+      "square_footage": "1,329 sq ft",
+      "price_per_sqft": 3008.28,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$399,0002",
+      "price_value": 3990002,
+      "square_footage": "928 sq ft",
+      "price_per_sqft": 4299.57,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$393,0002",
+      "price_value": 3930002,
+      "square_footage": "2,382 sq ft",
+      "price_per_sqft": 1649.87,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2008 Helena St",
+      "price": "$390,0002",
+      "price_value": 3900002,
+      "square_footage": "993 sq ft",
+      "price_per_sqft": 3927.49,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "915 Franklin St",
+      "price": "$375,0003",
+      "price_value": 3750003,
+      "square_footage": "2,655 sq ft",
+      "price_per_sqft": 1412.43,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$375,0002",
+      "price_value": 3750002,
+      "square_footage": "1,272 sq ft",
+      "price_per_sqft": 2948.11,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$365,0002",
+      "price_value": 3650002,
+      "square_footage": "1,001 sq ft",
+      "price_per_sqft": 3646.36,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2008 Helena St",
+      "price": "$330,0002",
+      "price_value": 3300002,
+      "square_footage": "727 sq ft",
+      "price_per_sqft": 4539.2,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2008 Helena St",
+      "price": "$320,0001",
+      "price_value": 3200001,
+      "square_footage": "1,226 sq ft",
+      "price_per_sqft": 2610.12,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$320,0001",
+      "price_value": 3200001,
+      "square_footage": "790 sq ft",
+      "price_per_sqft": 4050.63,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$314,9003",
+      "price_value": 3149003,
+      "square_footage": "989 sq ft",
+      "price_per_sqft": 3184.03,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2016 Main St",
+      "price": "$300,0001",
+      "price_value": 3000001,
+      "square_footage": "1,884 sq ft",
+      "price_per_sqft": 1592.36,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2008 Helena St",
+      "price": "$299,9951",
+      "price_value": 2999951,
+      "square_footage": "917 sq ft",
+      "price_per_sqft": 3271.48,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2008 Helena St",
+      "price": "$279,0002",
+      "price_value": 2790002,
+      "square_footage": "1,582 sq ft",
+      "price_per_sqft": 1763.59,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "915 Franklin St",
+      "price": "$275,0001",
+      "price_value": 2750001,
+      "square_footage": "2,541 sq ft",
+      "price_per_sqft": 1082.25,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$269,0002",
+      "price_value": 2690002,
+      "square_footage": "1,599 sq ft",
+      "price_per_sqft": 1682.3,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "915 Franklin St",
+      "price": "$254,9901",
+      "price_value": 2549901,
+      "square_footage": "714 sq ft",
+      "price_per_sqft": 3571.29,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$250,0001",
+      "price_value": 2500001,
+      "square_footage": "1,145 sq ft",
+      "price_per_sqft": 2183.41,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2008 Helena St",
+      "price": "$230,0002",
+      "price_value": 2300002,
+      "square_footage": "2,369 sq ft",
+      "price_per_sqft": 970.87,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$225,0001",
+      "price_value": 2250001,
+      "square_footage": "1,496 sq ft",
+      "price_per_sqft": 1504.01,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    {
+      "address": "2000 Bagby St",
+      "price": "$220,0002",
+      "price_value": 2200002,
+      "square_footage": "1,072 sq ft",
+      "price_per_sqft": 2052.24,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    }
+  ]
+}

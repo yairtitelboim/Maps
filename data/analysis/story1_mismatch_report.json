@@ -1,0 +1,164 @@
+{
+  "analysis_date": "2025-12-14T20:50:25.780541",
+  "top10_dc_counties": [
+    {
+      "county": "Dallas",
+      "dc_count": 13,
+      "ercot_capacity_mw": 247.1,
+      "ercot_project_count": 1
+    },
+    {
+      "county": "Williamson",
+      "dc_count": 8,
+      "ercot_capacity_mw": 0,
+      "ercot_project_count": 0
+    },
+    {
+      "county": "Bosque",
+      "dc_count": 5,
+      "ercot_capacity_mw": 734.43,
+      "ercot_project_count": 4
+    },
+    {
+      "county": "Ellis",
+      "dc_count": 4,
+      "ercot_capacity_mw": 819.79,
+      "ercot_project_count": 5
+    },
+    {
+      "county": "El Paso",
+      "dc_count": 4,
+      "ercot_capacity_mw": 0,
+      "ercot_project_count": 0
+    },
+    {
+      "county": "Tarrant",
+      "dc_count": 3,
+      "ercot_capacity_mw": 356.0,
+      "ercot_project_count": 2
+    },
+    {
+      "county": "Harris",
+      "dc_count": 3,
+      "ercot_capacity_mw": 3361.29,
+      "ercot_project_count": 19
+    },
+    {
+      "county": "Collin",
+      "dc_count": 3,
+      "ercot_capacity_mw": 845.5,
+      "ercot_project_count": 5
+    },
+    {
+      "county": "Bexar",
+      "dc_count": 3,
+      "ercot_capacity_mw": 1997.04,
+      "ercot_project_count": 19
+    },
+    {
+      "county": "Travis",
+      "dc_count": 3,
+      "ercot_capacity_mw": 300.89,
+      "ercot_project_count": 3
+    }
+  ],
+  "top10_ercot_counties": [
+    {
+      "county": "Brazoria",
+      "total_capacity_mw": 9536.44,
+      "project_count": 45,
+      "dc_count": 0
+    },
+    {
+      "county": "Wharton",
+      "total_capacity_mw": 4646.26,
+      "project_count": 22,
+      "dc_count": 0
+    },
+    {
+      "county": "Lamar",
+      "total_capacity_mw": 3660.34,
+      "project_count": 16,
+      "dc_count": 0
+    },
+    {
+      "county": "Harris",
+      "total_capacity_mw": 3361.29,
+      "project_count": 19,
+      "dc_count": 3
+    },
+    {
+      "county": "Hill",
+      "total_capacity_mw": 3231.91,
+      "project_count": 17,
+      "dc_count": 2
+    },
+    {
+      "county": "Navarro",
+      "total_capacity_mw": 3116.65,
+      "project_count": 15,
+      "dc_count": 0
+    },
+    {
+      "county": "Haskell",
+      "total_capacity_mw": 2999.3,
+      "project_count": 13,
+      "dc_count": 0
+    },
+    {
+      "county": "Fort Bend",
+      "total_capacity_mw": 2899.03,
+      "project_count": 14,
+      "dc_count": 0
+    },
+    {
+      "county": "Borden",
+      "total_capacity_mw": 2857.4,
+      "project_count": 7,
+      "dc_count": 0
+    },
+    {
+      "county": "Deaf Smith",
+      "total_capacity_mw": 2668.1,
+      "project_count": 4,
+      "dc_count": 0
+    }
+  ],
+  "overlap_analysis": {
+    "overlap_count": 1,
+    "overlap_percentage": 10.0,
+    "overlapping_counties": [
+      "Harris"
+    ],
+    "dc_only_counties": [
+      "Travis",
+      "Bexar",
+      "Collin",
+      "Dallas",
+      "El Paso",
+      "Bosque",
+      "Williamson",
+      "Ellis",
+      "Tarrant"
+    ],
+    "ercot_only_counties": [
+      "Fort Bend",
+      "Haskell",
+      "Borden",
+      "Hill",
+      "Navarro",
+      "Wharton",
+      "Lamar",
+      "Brazoria",
+      "Deaf Smith"
+    ],
+    "ercot_top10_with_dcs_but_not_dc_top10": [
+      "Hill"
+    ]
+  },
+  "mismatch_interpretation": {
+    "overlap_level": "low",
+    "has_mismatch": true,
+    "mismatch_severity": "severe"
+  }
+}

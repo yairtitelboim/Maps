@@ -1,0 +1,159 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.347,
+          31.9315
+        ]
+      },
+      "properties": {
+        "osm_id": 1000001,
+        "osm_type": "node",
+        "name": "CyrusOne DFW7 Data Center Campus",
+        "category": "industrial",
+        "priority": 3,
+        "zone": "casa_grande",
+        "zone_name": "CyrusOne DFW7 Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3349,
+          31.9247
+        ]
+      },
+      "properties": {
+        "osm_id": 1000002,
+        "osm_type": "node",
+        "name": "Oncor Whitney Substation",
+        "category": "service_amenity",
+        "priority": 3,
+        "zone": "casa_grande",
+        "zone_name": "CyrusOne DFW7 Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.382,
+          31.842
+        ]
+      },
+      "properties": {
+        "osm_id": 1000003,
+        "osm_type": "node",
+        "name": "Bosque County Power Station",
+        "category": "industrial",
+        "priority": 3,
+        "zone": "apache_junction",
+        "zone_name": "Lake Whitney Gateway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.375,
+          31.858
+        ]
+      },
+      "properties": {
+        "osm_id": 1000004,
+        "osm_type": "node",
+        "name": "Lake Whitney Dam & Hydro Station",
+        "category": "recreation_area",
+        "priority": 2,
+        "zone": "apache_junction",
+        "zone_name": "Lake Whitney Gateway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.111,
+          31.878
+        ]
+      },
+      "properties": {
+        "osm_id": 1000005,
+        "osm_type": "node",
+        "name": "Aquilla Regional Water Treatment Plant",
+        "category": "service_amenity",
+        "priority": 2,
+        "zone": "florence",
+        "zone_name": "Whitney Downtown Core"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44,
+          31.957
+        ]
+      },
+      "properties": {
+        "osm_id": 1000006,
+        "osm_type": "node",
+        "name": "Bosque River Solar Project",
+        "category": "industrial",
+        "priority": 2,
+        "zone": "apache_junction",
+        "zone_name": "Lake Whitney Gateway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3208,
+          31.9535
+        ]
+      },
+      "properties": {
+        "osm_id": 1000007,
+        "osm_type": "node",
+        "name": "HILCO Electric Cooperative Operations Center",
+        "category": "service_amenity",
+        "priority": 2,
+        "zone": "florence",
+        "zone_name": "Whitney Downtown Core"
+      }
+    }
+  ],
+  "summary": {
+    "office_building": 0,
+    "commercial_building": 0,
+    "retail_building": 0,
+    "government_facility": 0,
+    "education": 0,
+    "healthcare": 0,
+    "service_amenity": 4,
+    "emergency_services": 0,
+    "transit_hub": 0,
+    "highway_access": 0,
+    "recreation_area": 1,
+    "industrial": 3,
+    "high_development_potential": 3
+  },
+  "pinal_insights": {
+    "casa_grande_proximity": 3,
+    "florence_proximity": 2,
+    "high_development_potential": 3,
+    "total_commercial_development": 0,
+    "high_priority_features": 3
+  }
+}

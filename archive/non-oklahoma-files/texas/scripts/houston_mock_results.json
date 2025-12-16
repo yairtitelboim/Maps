@@ -1,0 +1,377 @@
+[
+  {
+    "property": {
+      "address": "2016 Main St",
+      "price": "$1,550,00077006",
+      "price_value": 155000077006,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$3100001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    "enhancement": {
+      "property_address": "2016 Main St",
+      "market_intelligence": {
+        "seller_context": {
+          "likely_seller_type": "Portfolio owner divesting non-core assets",
+          "motivation_for_sale": "Market timing and portfolio optimization in response to remote work trends",
+          "ownership_history": "Property held for 8+ years, likely purchased pre-pandemic",
+          "market_position": "Mid-tier office owner looking to reduce exposure to traditional office space"
+        },
+        "market_impact": {
+          "surrounding_property_impact": "Sale could signal market shift in downtown core, potentially affecting nearby property values",
+          "supply_demand_impact": "Adds to growing inventory of available office space in Houston's downtown submarket",
+          "neighborhood_trends": "Area experiencing mixed-use development with office-to-residential conversions",
+          "competitive_positioning": "Competitive pricing relative to similar properties in the area"
+        },
+        "conversion_analysis": {
+          "residential_conversion_feasibility": "Medium - Good floor plates but may require significant structural modifications",
+          "zoning_requirements": "Requires rezoning from office to mixed-use or residential, subject to city approval",
+          "parking_implications": "Existing parking may be insufficient for residential use, requiring additional spaces or valet solutions",
+          "structural_considerations": "Building structure suitable for conversion but may need updates to meet residential codes"
+        },
+        "economic_context": {
+          "submarket_performance": "Houston downtown office market showing signs of stress with rising vacancy rates",
+          "price_analysis": "Price per sqft of $$3100001.54 vs. market average of $25-35/sqft",
+          "absorption_vacancy": "Negative absorption in downtown submarket, vacancy rates above 20%",
+          "future_pipeline_impact": "Several new mixed-use developments planned nearby could impact property values"
+        },
+        "strategic_opportunities": {
+          "potential_buyers": "Developers interested in conversion, value-add investors, or users seeking downtown presence",
+          "investment_strategies": "Office-to-residential conversion, hold for market recovery, or redevelopment",
+          "timing_considerations": "Current market timing favors buyers, but conversion projects require long-term commitment",
+          "risk_factors": "Market uncertainty, conversion costs, zoning approval risks, and potential for further market decline"
+        }
+      },
+      "market_insights": {
+        "key_opportunities": [
+          "Prime downtown location with conversion potential",
+          "Competitive pricing in current market conditions",
+          "Proximity to transit and amenities"
+        ],
+        "major_risks": [
+          "High vacancy rates in downtown office market",
+          "Uncertainty around return-to-office trends",
+          "Conversion costs and regulatory hurdles"
+        ],
+        "market_timing": "Buyer's market with opportunities for long-term investors",
+        "strategic_recommendations": "Consider conversion to mixed-use or residential, or hold for market recovery with value-add improvements"
+      },
+      "data_sources": [
+        "Houston Association of Realtors market reports",
+        "CoStar market analysis",
+        "City of Houston zoning maps",
+        "Local development pipeline data"
+      ]
+    },
+    "timestamp": "2025-09-19T21:05:41.004192",
+    "note": "This is mock data showing expected structure"
+  },
+  {
+    "property": {
+      "address": "2000 Bagby St",
+      "price": "$680,00077007",
+      "price_value": 68000077007,
+      "square_footage": "50000 sq ft",
+      "price_per_sqft": "$1360001.54",
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    "enhancement": {
+      "property_address": "2000 Bagby St",
+      "market_intelligence": {
+        "seller_context": {
+          "likely_seller_type": "Portfolio owner divesting non-core assets",
+          "motivation_for_sale": "Market timing and portfolio optimization in response to remote work trends",
+          "ownership_history": "Property held for 8+ years, likely purchased pre-pandemic",
+          "market_position": "Mid-tier office owner looking to reduce exposure to traditional office space"
+        },
+        "market_impact": {
+          "surrounding_property_impact": "Sale could signal market shift in downtown core, potentially affecting nearby property values",
+          "supply_demand_impact": "Adds to growing inventory of available office space in Houston's downtown submarket",
+          "neighborhood_trends": "Area experiencing mixed-use development with office-to-residential conversions",
+          "competitive_positioning": "Competitive pricing relative to similar properties in the area"
+        },
+        "conversion_analysis": {
+          "residential_conversion_feasibility": "Medium - Good floor plates but may require significant structural modifications",
+          "zoning_requirements": "Requires rezoning from office to mixed-use or residential, subject to city approval",
+          "parking_implications": "Existing parking may be insufficient for residential use, requiring additional spaces or valet solutions",
+          "structural_considerations": "Building structure suitable for conversion but may need updates to meet residential codes"
+        },
+        "economic_context": {
+          "submarket_performance": "Houston downtown office market showing signs of stress with rising vacancy rates",
+          "price_analysis": "Price per sqft of $$1360001.54 vs. market average of $25-35/sqft",
+          "absorption_vacancy": "Negative absorption in downtown submarket, vacancy rates above 20%",
+          "future_pipeline_impact": "Several new mixed-use developments planned nearby could impact property values"
+        },
+        "strategic_opportunities": {
+          "potential_buyers": "Developers interested in conversion, value-add investors, or users seeking downtown presence",
+          "investment_strategies": "Office-to-residential conversion, hold for market recovery, or redevelopment",
+          "timing_considerations": "Current market timing favors buyers, but conversion projects require long-term commitment",
+          "risk_factors": "Market uncertainty, conversion costs, zoning approval risks, and potential for further market decline"
+        }
+      },
+      "market_insights": {
+        "key_opportunities": [
+          "Prime downtown location with conversion potential",
+          "Competitive pricing in current market conditions",
+          "Proximity to transit and amenities"
+        ],
+        "major_risks": [
+          "High vacancy rates in downtown office market",
+          "Uncertainty around return-to-office trends",
+          "Conversion costs and regulatory hurdles"
+        ],
+        "market_timing": "Buyer's market with opportunities for long-term investors",
+        "strategic_recommendations": "Consider conversion to mixed-use or residential, or hold for market recovery with value-add improvements"
+      },
+      "data_sources": [
+        "Houston Association of Realtors market reports",
+        "CoStar market analysis",
+        "City of Houston zoning maps",
+        "Local development pipeline data"
+      ]
+    },
+    "timestamp": "2025-09-19T21:05:41.004201",
+    "note": "This is mock data showing expected structure"
+  },
+  {
+    "property": {
+      "address": "1211 Caroline St",
+      "price": "$219,5003",
+      "price_value": 2195003,
+      "square_footage": "2,337 sq ft",
+      "price_per_sqft": 939.24,
+      "days_on_market": 180,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    "enhancement": {
+      "property_address": "1211 Caroline St",
+      "market_intelligence": {
+        "seller_context": {
+          "likely_seller_type": "Portfolio owner divesting non-core assets",
+          "motivation_for_sale": "Market timing and portfolio optimization in response to remote work trends",
+          "ownership_history": "Property held for 8+ years, likely purchased pre-pandemic",
+          "market_position": "Mid-tier office owner looking to reduce exposure to traditional office space"
+        },
+        "market_impact": {
+          "surrounding_property_impact": "Sale could signal market shift in downtown core, potentially affecting nearby property values",
+          "supply_demand_impact": "Adds to growing inventory of available office space in Houston's downtown submarket",
+          "neighborhood_trends": "Area experiencing mixed-use development with office-to-residential conversions",
+          "competitive_positioning": "Competitive pricing relative to similar properties in the area"
+        },
+        "conversion_analysis": {
+          "residential_conversion_feasibility": "Medium - Good floor plates but may require significant structural modifications",
+          "zoning_requirements": "Requires rezoning from office to mixed-use or residential, subject to city approval",
+          "parking_implications": "Existing parking may be insufficient for residential use, requiring additional spaces or valet solutions",
+          "structural_considerations": "Building structure suitable for conversion but may need updates to meet residential codes"
+        },
+        "economic_context": {
+          "submarket_performance": "Houston downtown office market showing signs of stress with rising vacancy rates",
+          "price_analysis": "Price per sqft of $939.24 vs. market average of $25-35/sqft",
+          "absorption_vacancy": "Negative absorption in downtown submarket, vacancy rates above 20%",
+          "future_pipeline_impact": "Several new mixed-use developments planned nearby could impact property values"
+        },
+        "strategic_opportunities": {
+          "potential_buyers": "Developers interested in conversion, value-add investors, or users seeking downtown presence",
+          "investment_strategies": "Office-to-residential conversion, hold for market recovery, or redevelopment",
+          "timing_considerations": "Current market timing favors buyers, but conversion projects require long-term commitment",
+          "risk_factors": "Market uncertainty, conversion costs, zoning approval risks, and potential for further market decline"
+        }
+      },
+      "market_insights": {
+        "key_opportunities": [
+          "Prime downtown location with conversion potential",
+          "Competitive pricing in current market conditions",
+          "Proximity to transit and amenities"
+        ],
+        "major_risks": [
+          "High vacancy rates in downtown office market",
+          "Uncertainty around return-to-office trends",
+          "Conversion costs and regulatory hurdles"
+        ],
+        "market_timing": "Buyer's market with opportunities for long-term investors",
+        "strategic_recommendations": "Consider conversion to mixed-use or residential, or hold for market recovery with value-add improvements"
+      },
+      "data_sources": [
+        "Houston Association of Realtors market reports",
+        "CoStar market analysis",
+        "City of Houston zoning maps",
+        "Local development pipeline data"
+      ]
+    },
+    "timestamp": "2025-09-19T21:05:41.004207",
+    "note": "This is mock data showing expected structure"
+  },
+  {
+    "property": {
+      "address": "705 Main St",
+      "price": "$199,9502",
+      "price_value": 1999502,
+      "square_footage": "487 sq ft",
+      "price_per_sqft": 4105.75,
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    "enhancement": {
+      "property_address": "705 Main St",
+      "market_intelligence": {
+        "seller_context": {
+          "likely_seller_type": "Portfolio owner divesting non-core assets",
+          "motivation_for_sale": "Market timing and portfolio optimization in response to remote work trends",
+          "ownership_history": "Property held for 8+ years, likely purchased pre-pandemic",
+          "market_position": "Mid-tier office owner looking to reduce exposure to traditional office space"
+        },
+        "market_impact": {
+          "surrounding_property_impact": "Sale could signal market shift in downtown core, potentially affecting nearby property values",
+          "supply_demand_impact": "Adds to growing inventory of available office space in Houston's downtown submarket",
+          "neighborhood_trends": "Area experiencing mixed-use development with office-to-residential conversions",
+          "competitive_positioning": "Competitive pricing relative to similar properties in the area"
+        },
+        "conversion_analysis": {
+          "residential_conversion_feasibility": "Medium - Good floor plates but may require significant structural modifications",
+          "zoning_requirements": "Requires rezoning from office to mixed-use or residential, subject to city approval",
+          "parking_implications": "Existing parking may be insufficient for residential use, requiring additional spaces or valet solutions",
+          "structural_considerations": "Building structure suitable for conversion but may need updates to meet residential codes"
+        },
+        "economic_context": {
+          "submarket_performance": "Houston downtown office market showing signs of stress with rising vacancy rates",
+          "price_analysis": "Price per sqft of $4105.75 vs. market average of $25-35/sqft",
+          "absorption_vacancy": "Negative absorption in downtown submarket, vacancy rates above 20%",
+          "future_pipeline_impact": "Several new mixed-use developments planned nearby could impact property values"
+        },
+        "strategic_opportunities": {
+          "potential_buyers": "Developers interested in conversion, value-add investors, or users seeking downtown presence",
+          "investment_strategies": "Office-to-residential conversion, hold for market recovery, or redevelopment",
+          "timing_considerations": "Current market timing favors buyers, but conversion projects require long-term commitment",
+          "risk_factors": "Market uncertainty, conversion costs, zoning approval risks, and potential for further market decline"
+        }
+      },
+      "market_insights": {
+        "key_opportunities": [
+          "Prime downtown location with conversion potential",
+          "Competitive pricing in current market conditions",
+          "Proximity to transit and amenities"
+        ],
+        "major_risks": [
+          "High vacancy rates in downtown office market",
+          "Uncertainty around return-to-office trends",
+          "Conversion costs and regulatory hurdles"
+        ],
+        "market_timing": "Buyer's market with opportunities for long-term investors",
+        "strategic_recommendations": "Consider conversion to mixed-use or residential, or hold for market recovery with value-add improvements"
+      },
+      "data_sources": [
+        "Houston Association of Realtors market reports",
+        "CoStar market analysis",
+        "City of Houston zoning maps",
+        "Local development pipeline data"
+      ]
+    },
+    "timestamp": "2025-09-19T21:05:41.004211",
+    "note": "This is mock data showing expected structure"
+  },
+  {
+    "property": {
+      "address": "124 Oak Place Dr",
+      "price": "$1,869,500",
+      "price_value": 1869500,
+      "square_footage": "36400 sq ft",
+      "price_per_sqft": "$51.36",
+      "days_on_market": 168,
+      "property_type": "office",
+      "zip_code": "77002",
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ],
+      "year_built": 2015,
+      "lot_size": "0.25 acres"
+    },
+    "enhancement": {
+      "property_address": "124 Oak Place Dr",
+      "market_intelligence": {
+        "seller_context": {
+          "likely_seller_type": "Portfolio owner divesting non-core assets",
+          "motivation_for_sale": "Market timing and portfolio optimization in response to remote work trends",
+          "ownership_history": "Property held for 8+ years, likely purchased pre-pandemic",
+          "market_position": "Mid-tier office owner looking to reduce exposure to traditional office space"
+        },
+        "market_impact": {
+          "surrounding_property_impact": "Sale could signal market shift in downtown core, potentially affecting nearby property values",
+          "supply_demand_impact": "Adds to growing inventory of available office space in Houston's downtown submarket",
+          "neighborhood_trends": "Area experiencing mixed-use development with office-to-residential conversions",
+          "competitive_positioning": "Competitive pricing relative to similar properties in the area"
+        },
+        "conversion_analysis": {
+          "residential_conversion_feasibility": "Medium - Good floor plates but may require significant structural modifications",
+          "zoning_requirements": "Requires rezoning from office to mixed-use or residential, subject to city approval",
+          "parking_implications": "Existing parking may be insufficient for residential use, requiring additional spaces or valet solutions",
+          "structural_considerations": "Building structure suitable for conversion but may need updates to meet residential codes"
+        },
+        "economic_context": {
+          "submarket_performance": "Houston downtown office market showing signs of stress with rising vacancy rates",
+          "price_analysis": "Price per sqft of $$51.36 vs. market average of $25-35/sqft",
+          "absorption_vacancy": "Negative absorption in downtown submarket, vacancy rates above 20%",
+          "future_pipeline_impact": "Several new mixed-use developments planned nearby could impact property values"
+        },
+        "strategic_opportunities": {
+          "potential_buyers": "Developers interested in conversion, value-add investors, or users seeking downtown presence",
+          "investment_strategies": "Office-to-residential conversion, hold for market recovery, or redevelopment",
+          "timing_considerations": "Current market timing favors buyers, but conversion projects require long-term commitment",
+          "risk_factors": "Market uncertainty, conversion costs, zoning approval risks, and potential for further market decline"
+        }
+      },
+      "market_insights": {
+        "key_opportunities": [
+          "Prime downtown location with conversion potential",
+          "Competitive pricing in current market conditions",
+          "Proximity to transit and amenities"
+        ],
+        "major_risks": [
+          "High vacancy rates in downtown office market",
+          "Uncertainty around return-to-office trends",
+          "Conversion costs and regulatory hurdles"
+        ],
+        "market_timing": "Buyer's market with opportunities for long-term investors",
+        "strategic_recommendations": "Consider conversion to mixed-use or residential, or hold for market recovery with value-add improvements"
+      },
+      "data_sources": [
+        "Houston Association of Realtors market reports",
+        "CoStar market analysis",
+        "City of Houston zoning maps",
+        "Local development pipeline data"
+      ]
+    },
+    "timestamp": "2025-09-19T21:05:41.004216",
+    "note": "This is mock data showing expected structure"
+  }
+]

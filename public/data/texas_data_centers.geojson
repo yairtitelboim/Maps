@@ -1,0 +1,3856 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0393127,
+          30.0447901
+        ]
+      },
+      "properties": {
+        "project_id": "proj_3a2e798d3666",
+        "project_name": "Unknown Project",
+        "company": "Unknown",
+        "location": "hays county",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-11-06 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.kxan.com/news/local/its-devastating-familys-fight-against-a-controversial-ai-data-center-ends/",
+        "source_urls": [
+          "https://www.kxan.com/news/local/its-devastating-familys-fight-against-a-controversial-ai-data-center-ends/"
+        ],
+        "source_count": 1,
+        "article_title": "\u2018It\u2019s devastating\u2019: Family\u2019s fight against a controversial AI data center ends"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.604454,
+          30.8249094
+        ]
+      },
+      "properties": {
+        "project_id": "proj_2939ca7d3063",
+        "project_name": "Unknown Project",
+        "company": "Unknown",
+        "location": "Jarrell, TX",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 151.0,
+        "announced_date": "2025-08-27 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "city",
+        "source_url": "https://www.bizjournals.com/austin/news/2025/08/27/data-center-jarrell-austin-development-power-water.html",
+        "source_urls": [
+          "https://www.bizjournals.com/austin/news/2025/08/27/data-center-jarrell-austin-development-power-water.html"
+        ],
+        "source_count": 1,
+        "article_title": "$850M data center planned on 151 acres far north of Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7561083,
+          32.5920798
+        ]
+      },
+      "properties": {
+        "project_id": "proj_a1344fc84322",
+        "project_name": "Unknown Project",
+        "company": "Unknown",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": 550.0,
+        "size_sqft": null,
+        "size_acres": 163.0,
+        "announced_date": "2025-08-20 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://datacentremagazine.com/news/why-yondr-group-is-building-550-mw-dallas-data-centre-campus",
+        "source_urls": [
+          "https://datacentremagazine.com/news/why-yondr-group-is-building-550-mw-dallas-data-centre-campus"
+        ],
+        "source_count": 1,
+        "article_title": "Why Yondr Group is Building 550MW Dallas Data Centre Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6934979,
+          33.009455
+        ]
+      },
+      "properties": {
+        "project_id": "proj_ad88ebe8b5a3",
+        "project_name": "Aligned Dallas Fort Worth",
+        "company": "Aligned",
+        "location": "th",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-02-20 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://www.datacenterdynamics.com/en/news/aligned-plans-second-data-center-campus-in-dallas-fort-worth-texas/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/aligned-plans-second-data-center-campus-in-dallas-fort-worth-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "Aligned plans second data center campus in Dallas Fort Worth, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "project_id": "98ef968d5a2e",
+        "project_name": "DFW-03 Mansfield Campus",
+        "company": "Aligned Data Centers",
+        "location": "Mansfield, Tarrant",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://aligneddc.com/blog/aligned-data-centers-expands-dfw-footprint-with-new-data-center-in-mansfield-tx/",
+        "source_urls": [
+          "https://aligneddc.com/blog/aligned-data-centers-expands-dfw-footprint-with-new-data-center-in-mansfield-tx/"
+        ],
+        "source_count": 1,
+        "article_title": "Aligned Data Centers Expands DFW Footprint with New Data Center in Mansfield, TX - Aligned Data Centers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6925096,
+          33.0136764
+        ]
+      },
+      "properties": {
+        "project_id": "716b92b75ae5",
+        "project_name": "East Plano 425,000 SF Data Center",
+        "company": "Aligned Data Centers",
+        "location": "Plano, Collin",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": 425000,
+        "size_acres": null,
+        "announced_date": "2024-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.planotexas.org/259/Current-News?contentId=fc42f8d3-9dab-4c31-897f-d15a890cb904",
+        "source_urls": [
+          "https://www.planotexas.org/259/Current-News?contentId=fc42f8d3-9dab-4c31-897f-d15a890cb904"
+        ],
+        "source_count": 1,
+        "article_title": "Current News | Plano Economic Development, TX - Official Website"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6925096,
+          33.0136764
+        ]
+      },
+      "properties": {
+        "project_id": "dfd57fd83f3c",
+        "project_name": "Plano Inaugural Data Center (DFW-01)",
+        "company": "Aligned Data Centers",
+        "location": "Plano, Collin",
+        "site_hint": null,
+        "size_mw": 30.0,
+        "size_sqft": 300000,
+        "size_acres": null,
+        "announced_date": "2016-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://aligneddc.com/blog/aligned-data-centers-opens-ultra-efficient-data-center-in-plano/",
+        "source_urls": [
+          "https://aligneddc.com/blog/aligned-data-centers-opens-ultra-efficient-data-center-in-plano/"
+        ],
+        "source_count": 1,
+        "article_title": "Aligned | Aligned Data Centers Opens Ultra-Efficient Data Center in Plano|Aligned | Aligned Data Centers Opens Ultra-Efficient Data Center in Plano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8083,
+          29.2521
+        ]
+      },
+      "properties": {
+        "project_id": "proj_be014b70966b",
+        "project_name": "Amazon work medina",
+        "company": "Amazon",
+        "location": "work medina",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-15 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.workerscompensation.com/daily-headlines/data-center-shut-down-after-worker-killed/",
+        "source_urls": [
+          "https://www.workerscompensation.com/daily-headlines/data-center-shut-down-after-worker-killed/"
+        ],
+        "source_count": 1,
+        "article_title": "Data Center Shut Down after Worker Killed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.797,
+          32.7767
+        ]
+      },
+      "properties": {
+        "project_id": "proj_fa68aa51bb62",
+        "project_name": "Amazon Data Center",
+        "company": "Amazon",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": 475.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-21 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://fox4kc.com/business/press-releases/ein-presswire/830149479/475-mw-behind%E2%80%91the%E2%80%91meter-power-site-in-dfw-seeks-offtaker-amid-soaring-data-center-energy-needs",
+        "source_urls": [
+          "https://fox4kc.com/business/press-releases/ein-presswire/830149479/475-mw-behind%E2%80%91the%E2%80%91meter-power-site-in-dfw-seeks-offtaker-amid-soaring-data-center-energy-needs"
+        ],
+        "source_count": 1,
+        "article_title": "475 MW Behind\u2011the\u2011Meter Power Site in DFW Seeks Offtaker Amid Soaring Data Center Energy Needs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6062006,
+          32.7336305
+        ]
+      },
+      "properties": {
+        "project_id": "proj_e68dbff6172e",
+        "project_name": "Amazon Indiana",
+        "company": "Amazon",
+        "location": "Indiana",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 1200.0,
+        "announced_date": "2025-06-24 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "county",
+        "source_url": "https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html",
+        "source_urls": [
+          "https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html"
+        ],
+        "source_count": 1,
+        "article_title": "At Amazon\u2019s Biggest Data Center, Everything Is Supersized for A.I."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "project_id": "proj_429ae2a961cd",
+        "project_name": "Amazon Data Center",
+        "company": "Amazon",
+        "location": "Unknown Location",
+        "site_hint": "School road",
+        "size_mw": 240.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": null,
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://baxtel.com/data-center/prime-dallas-dfw04-01",
+        "source_urls": [
+          "https://baxtel.com/data-center/prime-dallas-dfw04-01"
+        ],
+        "source_count": 1,
+        "article_title": "Prime: Dallas DFW04-01 Data Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4542,
+          32.6505
+        ]
+      },
+      "properties": {
+        "project_id": "proj_02da704f6343",
+        "project_name": "Black Mountain Energy Data Center",
+        "company": "Black Mountain Energy",
+        "location": "Fort Worth",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-09-30 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.nbcdfw.com/news/local/massive-data-center-complex-moves-forward-south-fort-worth/3926048/",
+        "source_urls": [
+          "https://www.nbcdfw.com/news/local/massive-data-center-complex-moves-forward-south-fort-worth/3926048/"
+        ],
+        "source_count": 1,
+        "article_title": "Massive data center complex moves forward in South Fort Worth, despite opposition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2612931,
+          32.6455471
+        ]
+      },
+      "properties": {
+        "project_id": "proj_9e155cfc5fbf",
+        "project_name": "Black Mountain Power LLC Data Center",
+        "company": "Black Mountain Power LLC",
+        "location": "fort worth",
+        "site_hint": "Stephenson Road",
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-09-30 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://www.wfaa.com/article/news/local/tarrant-county/fort-worth-city-council-approves-zoning-data-center/287-7070885f-60c8-4c73-bf1a-85ee3f025de2",
+        "source_urls": [
+          "https://www.wfaa.com/article/news/local/tarrant-county/fort-worth-city-council-approves-zoning-data-center/287-7070885f-60c8-4c73-bf1a-85ee3f025de2"
+        ],
+        "source_count": 1,
+        "article_title": "Fort Worth City Council approves zoning for data center despite opposition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3231,
+          30.5794
+        ]
+      },
+      "properties": {
+        "project_id": "proj_77c9164f874d",
+        "project_name": "Blueprint Projects or",
+        "company": "Blueprint Projects",
+        "location": "or",
+        "site_hint": "northeast of",
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-28 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.datacenterdynamics.com/en/news/blueprint-projects-gets-greenlight-for-data-center-in-taylor-texas/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/blueprint-projects-gets-greenlight-for-data-center-in-taylor-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "Blueprint Projects gets greenlight for data center in Taylor, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4021,
+          30.5792
+        ]
+      },
+      "properties": {
+        "project_id": "proj_fb96122ba2af",
+        "project_name": "Blueprint Projects Data Center",
+        "company": "Blueprint Projects",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-06-25 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.taylorpress.net/article/10228,data-center-gets-zoning-ok-for-s1billion-project",
+        "source_urls": [
+          "https://www.taylorpress.net/article/10228,data-center-gets-zoning-ok-for-s1billion-project"
+        ],
+        "source_count": 1,
+        "article_title": "Data center gets zoning OK for S1billion project"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3586,
+          31.8594
+        ]
+      },
+      "properties": {
+        "project_id": "proj_96ac0eafe063",
+        "project_name": "Calpine Texas",
+        "company": "Calpine",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-31 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.power-eng.com/gas/calpine-lands-190-mw-agreement-for-new-hyperscale-data-center-in-texas/",
+        "source_urls": [
+          "https://www.power-eng.com/gas/calpine-lands-190-mw-agreement-for-new-hyperscale-data-center-in-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "Calpine lands 190-MW agreement for new hyperscale data center in Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "project_id": "proj_253048193a43",
+        "project_name": "Cielo Digital Infrastructure Cherokee County",
+        "company": "Cielo Digital Infrastructure",
+        "location": "Cherokee County",
+        "site_hint": null,
+        "size_mw": 315.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-06-25 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://scdailygazette.com/briefs/cherokee-county-inks-2-1b-deal-with-data-center-developer/",
+        "source_urls": [
+          "https://scdailygazette.com/briefs/cherokee-county-inks-2-1b-deal-with-data-center-developer/"
+        ],
+        "source_count": 1,
+        "article_title": "Cherokee County inks $2.1B deal with data center developer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6911124,
+          30.0568828
+        ]
+      },
+      "properties": {
+        "project_id": "fba9e312cb44",
+        "project_name": "Mustang Ridge Data Center Campus",
+        "company": "Cielo Digital Infrastructure",
+        "location": "Mustang Ridge",
+        "site_hint": null,
+        "size_mw": 500.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2023-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.datacenterdynamics.com/en/news/cielo-digital-infrastructure-plans-300mw-data-center-campus-in-south-carolina/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/cielo-digital-infrastructure-plans-300mw-data-center-campus-in-south-carolina/"
+        ],
+        "source_count": 1,
+        "article_title": "Cielo Digital Infrastructure plans 300MW data center campus in South Carolina - DCD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.143,
+          29.826
+        ]
+      },
+      "properties": {
+        "project_id": "proj_2d0725b8705d",
+        "project_name": "CleanSpark, Inc. Data Center",
+        "company": "CleanSpark, Inc.",
+        "location": "austin county",
+        "site_hint": null,
+        "size_mw": 285.0,
+        "size_sqft": null,
+        "size_acres": 271.0,
+        "announced_date": "2025-10-29 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.stocktitan.net/news/CLSK/clean-spark-enters-texas-market-with-land-and-large-scale-power-aam3boabkgcs.html",
+        "source_urls": [
+          "https://www.stocktitan.net/news/CLSK/clean-spark-enters-texas-market-with-land-and-large-scale-power-aam3boabkgcs.html"
+        ],
+        "source_count": 1,
+        "article_title": "CleanSpark (NASDAQ: CLSK) plans Texas AI campus with 285 MW via 271-acre land deal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8065415,
+          30.7857437
+        ]
+      },
+      "properties": {
+        "project_id": "proj_5e57056a6981",
+        "project_name": "CoreWeave GW AI campus in Pecos County",
+        "company": "CoreWeave",
+        "location": "GW AI campus in Pecos County",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-25 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "county",
+        "source_url": "https://www.mrt.com/business/article/poolside-coreweave-ai-campus-21118731.php",
+        "source_urls": [
+          "https://www.mrt.com/business/article/poolside-coreweave-ai-campus-21118731.php"
+        ],
+        "source_count": 1,
+        "article_title": "Poolside and CoreWeave plan 2GW AI campus in Pecos County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7561083,
+          32.5920798
+        ]
+      },
+      "properties": {
+        "project_id": "proj_798a7c5b8c89",
+        "project_name": "CoreWeave Lancaster",
+        "company": "CoreWeave",
+        "location": "Lancaster",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-09-03 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.nucamp.co/blog/this-months-latest-tech-news-in-lancaster-ca--sunday-august-31st-2025-edition",
+        "source_urls": [
+          "https://www.nucamp.co/blog/this-months-latest-tech-news-in-lancaster-ca--sunday-august-31st-2025-edition"
+        ],
+        "source_count": 1,
+        "article_title": "This Month's Latest Tech News in Lancaster, CA - Sunday August 31st 2025 Edition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3893,
+          31.8474
+        ]
+      },
+      "properties": {
+        "project_id": "proj_e4d7694f1871",
+        "project_name": "CyrusOne ey",
+        "company": "CyrusOne",
+        "location": "ey",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-09 21:59:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2025/12/09/430-million-data-center-project-filed-for-whitney--texas",
+        "source_urls": [
+          "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2025/12/09/430-million-data-center-project-filed-for-whitney--texas"
+        ],
+        "source_count": 1,
+        "article_title": "$430 million data center project filed for Whitney, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.369167,
+          31.873611
+        ]
+      },
+      "properties": {
+        "project_id": "proj_ee843a3e2057",
+        "project_name": "CyrusOne co",
+        "company": "CyrusOne",
+        "location": "co",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-08 11:36:23 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.datacenterdynamics.com/en/news/cyrusone-files-to-expand-data-center-campus-outside-waco-texas/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/cyrusone-files-to-expand-data-center-campus-outside-waco-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "CyrusOne files to expand data center campus outside Waco, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.797,
+          32.7767
+        ]
+      },
+      "properties": {
+        "project_id": "proj_4573106dc8ed",
+        "project_name": "CyrusOne DFW10",
+        "company": "CyrusOne",
+        "location": "Texas Calpine",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-31 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "city",
+        "source_url": "https://www.power-technology.com/news/calpine-agreement-power-cyrusone-texas/",
+        "source_urls": [
+          "https://www.power-technology.com/news/calpine-agreement-power-cyrusone-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "Calpine agrees to power CyrusOne data centre in Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6561014,
+          31.8778358
+        ]
+      },
+      "properties": {
+        "project_id": "proj_974e38b25f62",
+        "project_name": "CyrusOne bosque county",
+        "company": "CyrusOne",
+        "location": "bosque county",
+        "site_hint": null,
+        "size_mw": 600.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-31 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.commercialsearch.com/news/kkr-jv-cyrusone-to-build-4b-data-center-campus/",
+        "source_urls": [
+          "https://www.commercialsearch.com/news/kkr-jv-cyrusone-to-build-4b-data-center-campus/"
+        ],
+        "source_count": 1,
+        "article_title": "KKR JV, CyrusOne to Build $4B Data Center Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3927,
+          31.9433
+        ]
+      },
+      "properties": {
+        "project_id": "proj_6c5910e85a48",
+        "project_name": "CyrusOne bosque county",
+        "company": "CyrusOne",
+        "location": "bosque county",
+        "site_hint": null,
+        "size_mw": 180.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-30 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.dallasnews.com/business/energy/2025/07/30/cyrusone-calpine-to-develop-a-12b-hyperscale-data-center-campus-in-central-texas/",
+        "source_urls": [
+          "https://www.dallasnews.com/business/energy/2025/07/30/cyrusone-calpine-to-develop-a-12b-hyperscale-data-center-campus-in-central-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "CyrusOne, Calpine to develop a $1.2B hyperscale data center campus in Central Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5104781,
+          29.4263987
+        ]
+      },
+      "properties": {
+        "project_id": "proj_51b06f4013fa",
+        "project_name": "CyrusOne bexar county",
+        "company": "CyrusOne",
+        "location": "bexar county",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": 276000,
+        "size_acres": null,
+        "announced_date": "2025-03-25 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "address",
+        "source_url": "https://www.expressnews.com/business/real-estate/article/san-antonio-austin-data-center-development-20234133.php",
+        "source_urls": [
+          "https://www.expressnews.com/business/real-estate/article/san-antonio-austin-data-center-development-20234133.php"
+        ],
+        "source_count": 1,
+        "article_title": "San Antonio, Austin leading U.S. in growth of colocation data centers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "project_id": "ed5305087512",
+        "project_name": "Data Foundry Facilities",
+        "company": "Data Foundry",
+        "location": "Austin, Travis",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "1999-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.datafoundry.com/data-center-providers/",
+        "source_urls": [
+          "https://www.datafoundry.com/data-center-providers/"
+        ],
+        "source_count": 1,
+        "article_title": "Data Center Providers | Data Foundry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8047,
+          32.5182
+        ]
+      },
+      "properties": {
+        "project_id": "proj_e2ff91c2d763",
+        "project_name": "DataBank ak",
+        "company": "DataBank",
+        "location": "ak",
+        "site_hint": null,
+        "size_mw": 480.0,
+        "size_sqft": null,
+        "size_acres": 292.0,
+        "announced_date": "2025-06-20 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "city",
+        "source_url": "https://www.datacenterdynamics.com/en/news/databank-files-to-develop-two-more-data-centers-at-upcoming-red-oak-texas-campus/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/databank-files-to-develop-two-more-data-centers-at-upcoming-red-oak-texas-campus/"
+        ],
+        "source_count": 1,
+        "article_title": "DataBank files to develop two more data centers at upcoming Red Oak, Texas, campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6925096,
+          33.0136764
+        ]
+      },
+      "properties": {
+        "project_id": "2329b0a77e34",
+        "project_name": "Legacy Business Park Campus Expansion",
+        "company": "DataBank",
+        "location": "Plano, Collin County",
+        "site_hint": null,
+        "size_mw": 30.0,
+        "size_sqft": 267000,
+        "size_acres": null,
+        "announced_date": "2024-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.planotexas.org/259/Current-News?contentId=c028583b-993f-460e-a73b-0541d2f7e882&viewAll=d8aaca3d-9581-450a-b6f3-ff90e027e76e",
+        "source_urls": [
+          "https://www.planotexas.org/259/Current-News?contentId=c028583b-993f-460e-a73b-0541d2f7e882&viewAll=d8aaca3d-9581-450a-b6f3-ff90e027e76e"
+        ],
+        "source_count": 1,
+        "article_title": "Current News | Plano Economic Development, TX - Official Website"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7297206,
+          32.9481789
+        ]
+      },
+      "properties": {
+        "project_id": "proj_2a92377d84ee",
+        "project_name": "Digital Realty Texas",
+        "company": "Digital Realty",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-03 17:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.reit.com/news/blog/nareit-developments/reits-community-digital-realty-texas",
+        "source_urls": [
+          "https://www.reit.com/news/blog/nareit-developments/reits-community-digital-realty-texas"
+        ],
+        "source_count": 1,
+        "article_title": "REITs in the Community: Digital Realty in Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7998571,
+          32.8007124
+        ]
+      },
+      "properties": {
+        "project_id": "proj_7e00b40d4d6f",
+        "project_name": "Digital Realty Historic uptown",
+        "company": "Digital Realty",
+        "location": "Historic uptown",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-08 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://www.bizjournals.com/charlotte/news/2025/10/08/digital-realty-data-center-uptown-building-demo.html",
+        "source_urls": [
+          "https://www.bizjournals.com/charlotte/news/2025/10/08/digital-realty-data-center-uptown-building-demo.html"
+        ],
+        "source_count": 1,
+        "article_title": "Historic uptown building faces demolition to make way for new data center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1474628,
+          31.5491899
+        ]
+      },
+      "properties": {
+        "project_id": "3527735a053e",
+        "project_name": "Edge Data Center at ESC Region 12",
+        "company": "Duos Edge AI",
+        "location": "Waco",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://duosedge.ai/duos-edge-ai-deploys-another-edge-data-center-in-waco-texas/",
+        "source_urls": [
+          "https://duosedge.ai/duos-edge-ai-deploys-another-edge-data-center-in-waco-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "https://duosedge.ai/duos-edge-ai-deploys-another-edge-data-center-in-waco-texas/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9663192,
+          35.8630199
+        ]
+      },
+      "properties": {
+        "project_id": "4d7146eeaf25",
+        "project_name": "Edge Data Center at Dumas ISD",
+        "company": "Duos Edge AI",
+        "location": "Dumas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.globenewswire.com/news-release/2025/09/16/3150757/12618/en/Duos-Deploys-5th-Edge-Data-Center.html",
+        "source_urls": [
+          "https://www.globenewswire.com/news-release/2025/09/16/3150757/12618/en/Duos-Deploys-5th-Edge-Data-Center.html"
+        ],
+        "source_count": 1,
+        "article_title": "Duos Deploys 5th Edge Data Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "project_id": "ecc6d5824cab",
+        "project_name": "Houston Data Center",
+        "company": "EdgeConneX",
+        "location": "Houston",
+        "site_hint": null,
+        "size_mw": 7.55,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-15",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.datacenterdynamics.com/en/news/gridmatic-inks-10mw-ppa-in-texas-edgeconnex-to-receive-portion-under-247-matching-deal/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/gridmatic-inks-10mw-ppa-in-texas-edgeconnex-to-receive-portion-under-247-matching-deal/"
+        ],
+        "source_count": 1,
+        "article_title": "Gridmatic inks 10MW PPA in Texas, EdgeConneX to receive portion under 24/7 matching deal - DCD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.495,
+          30.0872
+        ]
+      },
+      "properties": {
+        "project_id": "proj_4f121e9109b0",
+        "project_name": "EdgeConneX cedar creek",
+        "company": "EdgeConneX",
+        "location": "cedar creek",
+        "site_hint": null,
+        "size_mw": 210.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-08-01 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "city",
+        "source_url": "https://communityimpact.com/austin/bastrop-cedar-creek/development/2025/08/01/data-center-slated-for-construction-in-cedar-creek/",
+        "source_urls": [
+          "https://communityimpact.com/austin/bastrop-cedar-creek/development/2025/08/01/data-center-slated-for-construction-in-cedar-creek/"
+        ],
+        "source_count": 1,
+        "article_title": "Data center slated for construction in Cedar Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3887764,
+          30.0541116
+        ]
+      },
+      "properties": {
+        "project_id": "proj_a0cdf943c854",
+        "project_name": "EdgeConneX Bastrop County",
+        "company": "EdgeConneX",
+        "location": "Bastrop County",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-23 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "high",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.bizjournals.com/austin/news/2025/07/23/edgeconnex-bastrop-county-data-center-incentives.html",
+        "source_urls": [
+          "https://www.bizjournals.com/austin/news/2025/07/23/edgeconnex-bastrop-county-data-center-incentives.html"
+        ],
+        "source_count": 1,
+        "article_title": "Bastrop County data center project appears to be near groundbreaking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "project_id": "2d362742a17b",
+        "project_name": "Lancaster Data Center Complex",
+        "company": "EdgeConneX",
+        "location": "Lancaster",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": 2000000,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.bizjournals.com/dallas/news/2025/07/07/lancaster-edgeconnex-data-center-hits-snag.html",
+        "source_urls": [
+          "https://www.bizjournals.com/dallas/news/2025/07/07/lancaster-edgeconnex-data-center-hits-snag.html"
+        ],
+        "source_count": 1,
+        "article_title": "https://www.bizjournals.com/dallas/news/2025/07/07/lancaster-edgeconnex-data-center-hits-snag.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3586,
+          31.8594
+        ]
+      },
+      "properties": {
+        "project_id": "proj_fd4946958da6",
+        "project_name": "Energy Capital Partners bosque county",
+        "company": "Energy Capital Partners",
+        "location": "bosque county",
+        "site_hint": null,
+        "size_mw": 600.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-08-07 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://news.constructconnect.com/kkr-dta-center-investment-texas",
+        "source_urls": [
+          "https://news.constructconnect.com/kkr-dta-center-investment-texas"
+        ],
+        "source_count": 1,
+        "article_title": "Investment Firms ECP and KKR Partner to Launch $4 Billion Data Center Campus in Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8263919,
+          32.7476883
+        ]
+      },
+      "properties": {
+        "project_id": "proj_d15569314ca7",
+        "project_name": "Energy Capital Partners ECP and KKR to develop new",
+        "company": "Energy Capital Partners",
+        "location": "ECP and KKR to develop new",
+        "site_hint": null,
+        "size_mw": 190.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-31 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.pehub.com/ecp-and-kkr-to-develop-new-texas-data-center-campus/",
+        "source_urls": [
+          "https://www.pehub.com/ecp-and-kkr-to-develop-new-texas-data-center-campus/"
+        ],
+        "source_count": 1,
+        "article_title": "ECP and KKR to develop new Texas data center campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "project_id": "507702a77b8b",
+        "project_name": "Energy Transfer CloudBurst Data Center Partnership",
+        "company": "Energy Transfer",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.dmagazine.com/publications/d-ceo/2025/november/the-new-texas-energy-barons/",
+        "source_urls": [
+          "https://www.dmagazine.com/publications/d-ceo/2025/november/the-new-texas-energy-barons/"
+        ],
+        "source_count": 1,
+        "article_title": "The New Texas Energy Barons - D Magazine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9944,
+          32.4824
+        ]
+      },
+      "properties": {
+        "project_id": "proj_4a9eda5ada97",
+        "project_name": "Google Texas",
+        "company": "Google",
+        "location": "Midlothian, TX",
+        "site_hint": null,
+        "size_mw": 150.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-11 23:07:31 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "city",
+        "source_url": "https://www.costar.com/article/1372158379/google-to-spend-nearly-1-billion-to-expand-dallas-area-data-center-campus",
+        "source_urls": [
+          "https://www.costar.com/article/1372158379/google-to-spend-nearly-1-billion-to-expand-dallas-area-data-center-campus"
+        ],
+        "source_count": 1,
+        "article_title": "News | Google to spend nearly $1 billion to expand Dallas-area data center campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7889051,
+          30.2247882
+        ]
+      },
+      "properties": {
+        "project_id": "proj_c12cc89dd0c4",
+        "project_name": "Google Data Center",
+        "company": "Google",
+        "location": "Unknown Location",
+        "site_hint": "southeast side",
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-11 15:51:59 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://hoodline.com/2025/12/mega-data-center-gobbles-up-more-fort-worth-land/",
+        "source_urls": [
+          "https://hoodline.com/2025/12/mega-data-center-gobbles-up-more-fort-worth-land/"
+        ],
+        "source_count": 1,
+        "article_title": "Mega Data Center Gobbles Up More Fort Worth Land"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5744486,
+          32.8387811
+        ]
+      },
+      "properties": {
+        "project_id": "proj_4d94eab6404e",
+        "project_name": "Google Data Center",
+        "company": "Google",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-10 22:05:46 UTC",
+        "expected_completion_date": "2027",
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://www.fox4news.com/news/google-new-ai-data-centers-texas",
+        "source_urls": [
+          "https://www.fox4news.com/news/google-new-ai-data-centers-texas",
+          "https://www.bisnow.com/dallas-ft-worth/news/data-center/google-to-expand-data-center-campus-south-of-dallas-132282",
+          "https://www.bizjournals.com/dallas/news/2025/12/10/google-expansion-40-billion-midlothian-investment.html"
+        ],
+        "source_count": 3,
+        "article_title": "Filing reveals initial piece of Google's $40 billion investment in Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1203,
+          31.6175
+        ]
+      },
+      "properties": {
+        "project_id": "proj_119e848d8619",
+        "project_name": "Google ew",
+        "company": "Google",
+        "location": "ew",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-10 14:33:58 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.datacenterdynamics.com/en/news/10bn-data-center-project-recieves-approval-in-lacy-lakeview-texas/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/10bn-data-center-project-recieves-approval-in-lacy-lakeview-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "$10bn data center project recieves approval in Lacy Lakeview, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9944489,
+          32.482361
+        ]
+      },
+      "properties": {
+        "project_id": "proj_698cb4518fc4",
+        "project_name": "Google Texas",
+        "company": "Google",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": 6000.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-10 12:55:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "county",
+        "source_url": "https://www.bizjournals.com/dallas/news/2025/12/10/google-expansion-40-billion-midlothian-investment.html",
+        "source_urls": [
+          "https://www.bizjournals.com/dallas/news/2025/12/10/google-expansion-40-billion-midlothian-investment.html"
+        ],
+        "source_count": 1,
+        "article_title": "Filing reveals initial piece of Google's $40 billion investment in Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9506,
+          32.5394
+        ]
+      },
+      "properties": {
+        "project_id": "proj_5dddcc6b9fb5",
+        "project_name": "Google Data Center",
+        "company": "Google",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": 150.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-09 20:08:27 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.dallasnews.com/business/real-estate/2025/12/09/google-spending-nearly-1b-on-growing-data-center-campus-in-southern-d-fw/",
+        "source_urls": [
+          "https://www.dallasnews.com/business/real-estate/2025/12/09/google-spending-nearly-1b-on-growing-data-center-campus-in-southern-d-fw/"
+        ],
+        "source_count": 1,
+        "article_title": "Google spending nearly $1B on growing data center campus in southern D-FW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1726283,
+          26.2240329
+        ]
+      },
+      "properties": {
+        "project_id": "proj_25080f22b275",
+        "project_name": "Google billion in",
+        "company": "Google",
+        "location": "billion in",
+        "site_hint": null,
+        "size_mw": 6000.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-11-17 08:00:00 UTC",
+        "expected_completion_date": "2027",
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://www.amarillo.com/story/news/2025/11/14/googles-40-billion-investment-in-texas-includes-ai-data-center-in-texas-panhandle-armstrong-county/87278649007/",
+        "source_urls": [
+          "https://www.amarillo.com/story/news/2025/11/14/googles-40-billion-investment-in-texas-includes-ai-data-center-in-texas-panhandle-armstrong-county/87278649007/",
+          "https://www.digitimes.com/news/a20251117VL202/google-texas-data-center-2027-cloud-ai.html"
+        ],
+        "source_count": 2,
+        "article_title": "Google announces $40B plans for Texas AI data centers, including Armstrong County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3648,
+          35.11
+        ]
+      },
+      "properties": {
+        "project_id": "proj_bb58dfa6c724",
+        "project_name": "Google Billion in",
+        "company": "Google",
+        "location": "Billion in",
+        "site_hint": null,
+        "size_mw": 6000.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-11-14 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://thetexan.news/state/texas-state-news/google-announces-40-billion-in-texas-ai-data-centers/article_6144bcb4-6b25-42ae-b7ff-2406efe87605.html",
+        "source_urls": [
+          "https://thetexan.news/state/texas-state-news/google-announces-40-billion-in-texas-ai-data-centers/article_6144bcb4-6b25-42ae-b7ff-2406efe87605.html"
+        ],
+        "source_count": 1,
+        "article_title": "Google Announces $40 Billion in Texas AI Data Centers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2005314,
+          32.3954199
+        ]
+      },
+      "properties": {
+        "project_id": "proj_d73770e67ce4",
+        "project_name": "Google big cedar",
+        "company": "Google",
+        "location": "big cedar",
+        "site_hint": "Cedar Industrial Park",
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 400.0,
+        "announced_date": "2025-06-02 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.businessrecord.com/google-announces-initiative-to-increase-electrical-workers-in-iowa/",
+        "source_urls": [
+          "https://www.businessrecord.com/google-announces-initiative-to-increase-electrical-workers-in-iowa/"
+        ],
+        "source_count": 1,
+        "article_title": "Google announces initiative to increase electrical workers in Iowa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1672858,
+          31.5221877
+        ]
+      },
+      "properties": {
+        "project_id": "proj_8704a7fa7baf",
+        "project_name": "Google new South",
+        "company": "Google",
+        "location": "new South",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": null,
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.route-fifty.com/artificial-intelligence/2025/10/new-south-texas-data-center-will-rely-untapped-renewable-energy/408936/",
+        "source_urls": [
+          "https://www.route-fifty.com/artificial-intelligence/2025/10/new-south-texas-data-center-will-rely-untapped-renewable-energy/408936/"
+        ],
+        "source_count": 1,
+        "article_title": "A new South Texas data center will rely on untapped renewable energy - Route Fifty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1474628,
+          31.5491899
+        ]
+      },
+      "properties": {
+        "project_id": "39ef43945e83",
+        "project_name": "Lacy Lakeview Data District",
+        "company": "Infrakey",
+        "location": "Lacy Lakeview (near Waco), McLennan",
+        "site_hint": null,
+        "size_mw": 1200.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.texastribune.org/2025/11/24/texas-waco-data-center-project/",
+        "source_urls": [
+          "https://www.texastribune.org/2025/11/24/texas-waco-data-center-project/"
+        ],
+        "source_count": 1,
+        "article_title": "Proposed data center project for Waco area would be \u201cparadigm-changer\u201d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1474628,
+          31.5491899
+        ]
+      },
+      "properties": {
+        "project_id": "4cf8d181822d",
+        "project_name": "Infrakey Lacy Lakeview Data Center and Power Plant",
+        "company": "Infrakey",
+        "location": "Lacy Lakeview (north of Waco), McLennan County",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/",
+        "source_urls": [
+          "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+        ],
+        "source_count": 1,
+        "article_title": "Talks underway for $10 billion data center and power plant north of Waco - The Waco Bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3472,
+          30.6375
+        ]
+      },
+      "properties": {
+        "project_id": "proj_a60eedde0cfd",
+        "project_name": "KDC or",
+        "company": "KDC",
+        "location": "or",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 150.0,
+        "announced_date": "2025-11-12 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.bisnow.com/austin-san-antonio/news/data-center-development/kdc-proposes-a-150-acre-data-center-in-taylor-texas-131853",
+        "source_urls": [
+          "https://www.bisnow.com/austin-san-antonio/news/data-center-development/kdc-proposes-a-150-acre-data-center-in-taylor-texas-131853"
+        ],
+        "source_count": 1,
+        "article_title": "KDC Proposes 150-Acre Data Center In Taylor, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.407,
+          31.935
+        ]
+      },
+      "properties": {
+        "project_id": "proj_827e0c61afb2",
+        "project_name": "Meta Texas",
+        "company": "Meta",
+        "location": "el paso",
+        "site_hint": null,
+        "size_mw": 225.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-12 10:14:25 UTC",
+        "expected_completion_date": "2028",
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.msn.com/en-in/money/topstories/meta-commits-1-5-billion-for-ai-data-center-in-texas/ar-AA1OxePz",
+        "source_urls": [
+          "https://www.msn.com/en-in/money/topstories/meta-commits-1-5-billion-for-ai-data-center-in-texas/ar-AA1OxePz",
+          "https://www.datacenterdynamics.com/en/news/meta-breaks-ground-on-1gw-data-center-campus-in-el-paso-texas/"
+        ],
+        "source_count": 2,
+        "article_title": "Meta breaks ground on 1GW data center campus in El Paso, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6205,
+          30.524
+        ]
+      },
+      "properties": {
+        "project_id": "proj_543fe0cf4720",
+        "project_name": "Meta Data Center",
+        "company": "Meta",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-05 04:10:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.fox7austin.com/video/1751719",
+        "source_urls": [
+          "https://www.fox7austin.com/video/1751719"
+        ],
+        "source_count": 1,
+        "article_title": "Round Rock considers proposal for new data center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7616754,
+          32.7664561
+        ]
+      },
+      "properties": {
+        "project_id": "proj_312a4fd03673",
+        "project_name": "Meta Data Center",
+        "company": "Meta",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": 315.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-01 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "neighborhood",
+        "source_url": "https://www.star-telegram.com/news/local/fort-worth/article313165874.html",
+        "source_urls": [
+          "https://www.star-telegram.com/news/local/fort-worth/article313165874.html"
+        ],
+        "source_count": 1,
+        "article_title": "$2.1 billion data center near Bonds Ranch corridor could break ground soon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4028,
+          30.5795
+        ]
+      },
+      "properties": {
+        "project_id": "proj_7011c0c201a8",
+        "project_name": "Meta Data Center",
+        "company": "Meta",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-11-15 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.taylorpress.net/article/10891,data-center-project-in-city-council-s-hands",
+        "source_urls": [
+          "https://www.taylorpress.net/article/10891,data-center-project-in-city-council-s-hands"
+        ],
+        "source_count": 1,
+        "article_title": "Data center project in City Council\u2019s hands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0131,
+          35.1025
+        ]
+      },
+      "properties": {
+        "project_id": "proj_8856cfc1ea89",
+        "project_name": "Meta Armstrong County",
+        "company": "Meta",
+        "location": "Armstrong County",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-17 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.newschannel10.com/2025/10/18/armstrong-county-ai-data-center-project-scaled-back-original-plan/",
+        "source_urls": [
+          "https://www.newschannel10.com/2025/10/18/armstrong-county-ai-data-center-project-scaled-back-original-plan/"
+        ],
+        "source_count": 1,
+        "article_title": "Armstrong County AI data center project scaled back from original plan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870404,
+          31.7601164
+        ]
+      },
+      "properties": {
+        "project_id": "proj_f2bc85e3e987",
+        "project_name": "Meta so",
+        "company": "Meta",
+        "location": "so",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-16 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.datacenterdynamics.com/en/news/meta-breaks-ground-on-1gw-data-center-campus-in-el-paso-texas/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/meta-breaks-ground-on-1gw-data-center-campus-in-el-paso-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "Meta breaks ground on 1GW data center campus in El Paso, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4158,
+          31.8258
+        ]
+      },
+      "properties": {
+        "project_id": "proj_ef3887d44813",
+        "project_name": "Meta El Paso",
+        "company": "Meta",
+        "location": "el paso",
+        "site_hint": "Northeast El",
+        "size_mw": 225.0,
+        "size_sqft": null,
+        "size_acres": 1000.0,
+        "announced_date": "2025-10-15 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://elpasomatters.org/2025/10/15/meta-el-paso-texas-data-center-water-electricity-borderplex-alliance/",
+        "source_urls": [
+          "https://elpasomatters.org/2025/10/15/meta-el-paso-texas-data-center-water-electricity-borderplex-alliance/"
+        ],
+        "source_count": 1,
+        "article_title": "Meta to build $1.5 billion data center in Northeast El Paso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5912444,
+          29.7707598
+        ]
+      },
+      "properties": {
+        "project_id": "proj_04bdd81a9a38",
+        "project_name": "Meta Texas",
+        "company": "Meta",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": 225.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-15 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "high",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "county",
+        "source_url": "https://www.fox4news.com/news/meta-ai-data-center-texas-el-paso",
+        "source_urls": [
+          "https://www.fox4news.com/news/meta-ai-data-center-texas-el-paso",
+          "https://www.reuters.com/business/meta-commits-15-billion-ai-data-center-texas-2025-10-15/"
+        ],
+        "source_count": 2,
+        "article_title": "Meta commits $1.5 billion for AI data center in Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.485,
+          31.7619
+        ]
+      },
+      "properties": {
+        "project_id": "proj_2527bab15f1b",
+        "project_name": "Meta Data Center",
+        "company": "Meta",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-15 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "high",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "city",
+        "source_url": "https://www.socialmediatoday.com/news/meta-launches-ai-data-center-project-el-paso-texas/802901/",
+        "source_urls": [
+          "https://www.socialmediatoday.com/news/meta-launches-ai-data-center-project-el-paso-texas/802901/"
+        ],
+        "source_count": 1,
+        "article_title": "Meta Breaks Ground on New AI Data Center Project"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.264,
+          32.62
+        ]
+      },
+      "properties": {
+        "project_id": "proj_1751f6add42a",
+        "project_name": "Meta Fort Worth moving forward",
+        "company": "Meta",
+        "location": "Fort Worth moving forward",
+        "site_hint": "southeast Fort",
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 431.0,
+        "announced_date": "2025-09-30 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://fortworthreport.org/2025/09/30/data-center-on-431-acres-in-southeast-fort-worth-moving-forward-amid-environmental-concerns/",
+        "source_urls": [
+          "https://fortworthreport.org/2025/09/30/data-center-on-431-acres-in-southeast-fort-worth-moving-forward-amid-environmental-concerns/"
+        ],
+        "source_count": 1,
+        "article_title": "Data center on 431 acres in southeast Fort Worth moving forward amid environmental concerns"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9414,
+          29.8833
+        ]
+      },
+      "properties": {
+        "project_id": "proj_2d5e0ba10dda",
+        "project_name": "Meta Data Center",
+        "company": "Meta",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 64.0,
+        "announced_date": "2025-08-24 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "city",
+        "source_url": "https://universitystar.com/32459/news/city-council-denies-zoning-change-for-a-data-center-passes-land-annexation/",
+        "source_urls": [
+          "https://universitystar.com/32459/news/city-council-denies-zoning-change-for-a-data-center-passes-land-annexation/"
+        ],
+        "source_count": 1,
+        "article_title": "City Council denies preferred scenario change for a data center, passes land annexation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3931,
+          31.8522
+        ]
+      },
+      "properties": {
+        "project_id": "proj_33946bd1face",
+        "project_name": "Meta bosque county",
+        "company": "Meta",
+        "location": "bosque county",
+        "site_hint": null,
+        "size_mw": 180.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-31 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.govtech.com/products/texas-companies-to-partner-on-proposed-1-2b-data-center",
+        "source_urls": [
+          "https://www.govtech.com/products/texas-companies-to-partner-on-proposed-1-2b-data-center"
+        ],
+        "source_count": 1,
+        "article_title": "Texas Companies to Partner on Proposed $1.2B Data Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "project_id": "7781aeda81cd",
+        "project_name": "Fort Worth Data Center Campus",
+        "company": "Meta",
+        "location": "Fort Worth",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": 2500000,
+        "size_acres": null,
+        "announced_date": "2015-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.dpr.com/projects/facebook-fort-worth-data-center",
+        "source_urls": [
+          "https://www.dpr.com/projects/facebook-fort-worth-data-center"
+        ],
+        "source_count": 1,
+        "article_title": "Meta Fort Worth Data Center | DPR Construction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3429563,
+          31.0983747
+        ]
+      },
+      "properties": {
+        "project_id": "proj_22ab98b849b8",
+        "project_name": "Meta le",
+        "company": "Meta",
+        "location": "le",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": null,
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.govtech.com/products/new-data-center-coming-to-temple-texas-near-meta-campus",
+        "source_urls": [
+          "https://www.govtech.com/products/new-data-center-coming-to-temple-texas-near-meta-campus"
+        ],
+        "source_count": 1,
+        "article_title": "New Data Center Coming to Temple, Texas, Near Meta Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6672955,
+          29.8844489
+        ]
+      },
+      "properties": {
+        "project_id": "proj_410a3a961deb",
+        "project_name": "Meta Data center campus to be constructed in Caldwell County",
+        "company": "Meta",
+        "location": "Data center campus to be constructed in Caldwell County",
+        "site_hint": "southeast corner",
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": null,
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://hayscaldwelledp.com/about/news-and-publications/data-center-campus-to-be-constructed-in-caldwell-county",
+        "source_urls": [
+          "https://hayscaldwelledp.com/about/news-and-publications/data-center-campus-to-be-constructed-in-caldwell-county"
+        ],
+        "source_count": 1,
+        "article_title": "Data center campus to be constructed in Caldwell County | Hays Caldwell Economic Development Partnership"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8470215,
+          33.5855677
+        ]
+      },
+      "properties": {
+        "project_id": "f0c61286125e",
+        "project_name": "Swenson Ranch Solar Project",
+        "company": "Meta (powered by ENGIE North America)",
+        "location": "Swenson, Stonewall County",
+        "site_hint": null,
+        "size_mw": 600.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.solarpowerworldonline.com/2025/10/new-600-mw-texas-solar-project-will-power-meta-data-centers/",
+        "source_urls": [
+          "https://www.solarpowerworldonline.com/2025/10/new-600-mw-texas-solar-project-will-power-meta-data-centers/"
+        ],
+        "source_count": 1,
+        "article_title": "New 600-MW Texas solar project will power Meta data centers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "project_id": "proj_605ca726a09f",
+        "project_name": "Microsoft Nscale Plans to Build Massive",
+        "company": "Microsoft",
+        "location": "Nscale Plans to Build Massive",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-15 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.bloomberg.com/news/articles/2025-10-15/nscale-plans-to-build-massive-texas-ai-data-center-for-microsoft",
+        "source_urls": [
+          "https://www.bloomberg.com/news/articles/2025-10-15/nscale-plans-to-build-massive-texas-ai-data-center-for-microsoft"
+        ],
+        "source_count": 1,
+        "article_title": "Nscale Plans to Build Massive Texas AI Data Center for Microsoft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          29.4167
+        ]
+      },
+      "properties": {
+        "project_id": "proj_85be426a38ee",
+        "project_name": "Microsoft Data Center",
+        "company": "Microsoft",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 90.0,
+        "announced_date": "2025-09-22 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.statesman.com/business/article/san-antonio-microsoft-west-side-data-centers-21061920.php",
+        "source_urls": [
+          "https://www.statesman.com/business/article/san-antonio-microsoft-west-side-data-centers-21061920.php",
+          "https://sanantonioreport.org/microsoft-doubles-down-on-data-centers-texas-business/",
+          "https://www.expressnews.com/business/article/san-antonio-microsoft-west-side-data-centers-21061920.php"
+        ],
+        "source_count": 3,
+        "article_title": "Microsoft acquires 90 acres to expand its data center hub in San Antonio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "project_id": "proj_f28058aec54d",
+        "project_name": "Microsoft Data Center",
+        "company": "Microsoft",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-09-22 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.expressnews.com/business/article/san-antonio-microsoft-west-side-data-centers-21061920.php",
+        "source_urls": [
+          "https://www.expressnews.com/business/article/san-antonio-microsoft-west-side-data-centers-21061920.php"
+        ],
+        "source_count": 1,
+        "article_title": "Microsoft acquires 90 acres to expand its data center hub in San Antonio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6925096,
+          33.0136764
+        ]
+      },
+      "properties": {
+        "project_id": "proj_21909c0fe290",
+        "project_name": "Microsoft Plano",
+        "company": "Microsoft",
+        "location": "Plano",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-06-11 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.wspynews.com/news/local/microsoft-pauses-plano-data-center-project/article_306dd3eb-cb99-4e7c-aed2-166da73d815f.html",
+        "source_urls": [
+          "https://www.wspynews.com/news/local/microsoft-pauses-plano-data-center-project/article_306dd3eb-cb99-4e7c-aed2-166da73d815f.html"
+        ],
+        "source_count": 1,
+        "article_title": "Microsoft pauses Plano data center project"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "project_id": "proj_6754e1a930ff",
+        "project_name": "Microsoft medina county",
+        "company": "Microsoft",
+        "location": "medina county",
+        "site_hint": null,
+        "size_mw": 210.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-03-01 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://sanantonioreport.org/microsoft-doubles-down-on-data-centers-texas-business/",
+        "source_urls": [
+          "https://sanantonioreport.org/microsoft-doubles-down-on-data-centers-texas-business/"
+        ],
+        "source_count": 1,
+        "article_title": "As Microsoft doubles down on data centers, Texas officials debate the industry\u2019s future"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9681,
+          32.9108
+        ]
+      },
+      "properties": {
+        "project_id": "proj_e1428908844d",
+        "project_name": "Microsoft Texas",
+        "company": "Microsoft",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2024-12-18 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "address",
+        "source_url": "https://dallasexpress.com/realestate/microsoft-and-qts-building-over-1m-sq-ft-of-data-center-space/",
+        "source_urls": [
+          "https://dallasexpress.com/realestate/microsoft-and-qts-building-over-1m-sq-ft-of-data-center-space/"
+        ],
+        "source_count": 1,
+        "article_title": "Microsoft is expected to construct four of the seven data centers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7331,
+          32.4833
+        ]
+      },
+      "properties": {
+        "project_id": "proj_9d17ebbc517e",
+        "project_name": "Oracle new stargate site in shackelford",
+        "company": "Oracle",
+        "location": "new stargate site in shackelford",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-10-23 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.businessinsider.com/openai-building-natural-gas-microgrid-at-new-texas-data-center-2025-10",
+        "source_urls": [
+          "https://www.businessinsider.com/openai-building-natural-gas-microgrid-at-new-texas-data-center-2025-10"
+        ],
+        "source_count": 1,
+        "article_title": "Oracle and OpenAI's second Stargate data center in Texas will be powered off the grid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4248406,
+          29.8688353
+        ]
+      },
+      "properties": {
+        "project_id": "proj_a3fea98293a9",
+        "project_name": "Oracle and Beyond",
+        "company": "Oracle",
+        "location": "and Beyond",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-09-29 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://news.constructconnect.com/data-centers-could-be-a-bright-star-in-texas-construction-for-2026-and-beyond",
+        "source_urls": [
+          "https://news.constructconnect.com/data-centers-could-be-a-bright-star-in-texas-construction-for-2026-and-beyond"
+        ],
+        "source_count": 1,
+        "article_title": "Data Centers Could be a Bright Star in Texas Construction for 2026 and Beyond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.635,
+          31.864
+        ]
+      },
+      "properties": {
+        "project_id": "proj_a19b7d001ee2",
+        "project_name": "Oracle santa teresa",
+        "company": "Oracle",
+        "location": "santa teresa",
+        "site_hint": null,
+        "size_mw": 24750.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-09-25 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://elpasomatters.org/2025/09/25/stargate-open-ai-oracle-project-jupiter-data-center-dona-ana-new-mexico-el-paso-texas/",
+        "source_urls": [
+          "https://elpasomatters.org/2025/09/25/stargate-open-ai-oracle-project-jupiter-data-center-dona-ana-new-mexico-el-paso-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "Tech giants Open AI, Oracle behind $165 billion data center campus near El Paso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.765669,
+          30.321975
+        ]
+      },
+      "properties": {
+        "project_id": "proj_3f81efc4358b",
+        "project_name": "Oracle Texas",
+        "company": "Oracle",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": 75000.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-09-23 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
+        "source_urls": [
+          "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
+          "https://www.businessinsider.com/oracle-seeks-bigger-tax-break-texas-property-value-protest-2025-7"
+        ],
+        "source_count": 2,
+        "article_title": "Oracle got big tax breaks in Texas for Stargate. Now it's going back for more."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7475905,
+          32.44645
+        ]
+      },
+      "properties": {
+        "project_id": "proj_fbc9f8889cb0",
+        "project_name": "Oracle Texas",
+        "company": "Oracle",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-17 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.businessinsider.com/oracle-seeks-bigger-tax-break-texas-property-value-protest-2025-7",
+        "source_urls": [
+          "https://www.businessinsider.com/oracle-seeks-bigger-tax-break-texas-property-value-protest-2025-7"
+        ],
+        "source_count": 1,
+        "article_title": "Oracle got big tax breaks in Texas for Stargate. Now it's going back for more."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1803576,
+          31.7952814
+        ]
+      },
+      "properties": {
+        "project_id": "proj_9751b5340d31",
+        "project_name": "Oracle crews in",
+        "company": "Oracle",
+        "location": "crews in",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 875.0,
+        "announced_date": "2025-05-29 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://www.rdworldonline.com/stargates-500b-bet-could-force-data-center-and-1-2-gw-grid-rethink/",
+        "source_urls": [
+          "https://www.rdworldonline.com/stargates-500b-bet-could-force-data-center-and-1-2-gw-grid-rethink/"
+        ],
+        "source_count": 1,
+        "article_title": "Stargate\u2019s $500B bet could force data-center and 1.2 GW grid rethink"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "project_id": "proj_14d55b09a2ea",
+        "project_name": "Oracle Texas",
+        "company": "Oracle",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": 75000.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-05-27 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://fox59.com/business/press-releases/ein-presswire/815981553/texas-hyperscale-data-center-site-opens-1000-mw-power-1-gw-tesla-megapack-ground-lease",
+        "source_urls": [
+          "https://fox59.com/business/press-releases/ein-presswire/815981553/texas-hyperscale-data-center-site-opens-1000-mw-power-1-gw-tesla-megapack-ground-lease"
+        ],
+        "source_count": 1,
+        "article_title": "Texas Hyperscale Data Center Site Opens 1,000 MW Power, 1 GW Tesla Megapack Ground Lease"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7475905,
+          32.44645
+        ]
+      },
+      "properties": {
+        "project_id": "93a5037066b1",
+        "project_name": "Stargate Project",
+        "company": "Oracle (focused on healthcare AI)",
+        "location": "Abilene, Taylor County",
+        "site_hint": null,
+        "size_mw": 4500.0,
+        "size_sqft": 5000000,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.racksolutions.com/news/blog/stargate-project-data-center/",
+        "source_urls": [
+          "https://www.racksolutions.com/news/blog/stargate-project-data-center/"
+        ],
+        "source_count": 1,
+        "article_title": "https://www.racksolutions.com/news/blog/stargate-project-data-center/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.60601368086346,
+          32.39560756301054
+        ]
+      },
+      "properties": {
+        "project_id": "proj_a2cfea4a82ed",
+        "project_name": "Grand Prairie Campus",
+        "company": "PowerHouse Data Centers and Provident Data Centers",
+        "location": "of grand prairie in northern ellis",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 768.0,
+        "announced_date": "2025-02-25 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.prnewswire.com/news-releases/powerhouse-and-provident-rewrite-the-data-center-playbook-with-new-texas-hyperscale-campus-302384924.html",
+        "source_urls": [
+          "https://www.prnewswire.com/news-releases/powerhouse-and-provident-rewrite-the-data-center-playbook-with-new-texas-hyperscale-campus-302384924.html"
+        ],
+        "source_count": 1,
+        "article_title": "PowerHouse and Provident Rewrite the Data Center Playbook with New Texas Hyperscale Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9442177,
+          32.8295183
+        ]
+      },
+      "properties": {
+        "project_id": "73d1d93284ba",
+        "project_name": "QTS Irving DC3 Data Center",
+        "company": "QTS",
+        "location": "Irving, Dallas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-15",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://blog.rebootmonkey.com/texas-colocation-providers/",
+        "source_urls": [
+          "https://blog.rebootmonkey.com/texas-colocation-providers/"
+        ],
+        "source_count": 1,
+        "article_title": "https://blog.rebootmonkey.com/texas-colocation-providers/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6922,
+          32.7475
+        ]
+      },
+      "properties": {
+        "project_id": "proj_a467f803a9db",
+        "project_name": "QTS as",
+        "company": "QTS",
+        "location": "as",
+        "site_hint": "Mason Road",
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-04-24 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "address",
+        "source_url": "https://www.datacenterdynamics.com/en/news/qts-files-to-expand-upcoming-data-center-campus-in-dallas-texas/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/qts-files-to-expand-upcoming-data-center-campus-in-dallas-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "QTS files to expand upcoming data center campus in Dallas, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6056,
+          31.9513
+        ]
+      },
+      "properties": {
+        "project_id": "proj_90c9dce9c5d2",
+        "project_name": "QTS Texas",
+        "company": "QTS",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-02-24 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://siteselection.com/project-bulletin-feb-24-2025-cedar-rapids-iowa-vinton-texas-endicott-new-york/",
+        "source_urls": [
+          "https://siteselection.com/project-bulletin-feb-24-2025-cedar-rapids-iowa-vinton-texas-endicott-new-york/"
+        ],
+        "source_count": 1,
+        "article_title": "Project Bulletin, Feb. 24, 2025: Cedar Rapids, Iowa; Vinton, Texas; Endicott, New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.402968,
+          29.4826914
+        ]
+      },
+      "properties": {
+        "project_id": "proj_8e6b7059f6cb",
+        "project_name": "Rowan Digital Infrastructure Data Center",
+        "company": "Rowan Digital Infrastructure",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 440.0,
+        "announced_date": "2025-08-15 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "area",
+        "source_url": "https://www.expressnews.com/business/article/rowan-digital-medina-county-lytle-data-center-20815729.php",
+        "source_urls": [
+          "https://www.expressnews.com/business/article/rowan-digital-medina-county-lytle-data-center-20815729.php"
+        ],
+        "source_count": 1,
+        "article_title": "Denver company building $900M hyperscale data center west of San Antonio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0933,
+          31.8035
+        ]
+      },
+      "properties": {
+        "project_id": "proj_cf274828cf57",
+        "project_name": "Roxanne Marquis West",
+        "company": "Roxanne Marquis",
+        "location": "West",
+        "site_hint": null,
+        "size_mw": 500.0,
+        "size_sqft": null,
+        "size_acres": 5000.0,
+        "announced_date": "2025-06-18 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "city",
+        "source_url": "https://www.prnewswire.com/news-releases/west-texas-5-000-acre-ai-data-center-site-fast-tracks-500-mw-behind-meter-power-302485357.html",
+        "source_urls": [
+          "https://www.prnewswire.com/news-releases/west-texas-5-000-acre-ai-data-center-site-fast-tracks-500-mw-behind-meter-power-302485357.html"
+        ],
+        "source_count": 1,
+        "article_title": "West Texas 5,000 Acre AI Data Center Site Fast-Tracks 500 MW Behind-Meter Power"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "project_id": "proj_7ac3069f6d8e",
+        "project_name": "Roxanne Marquis Texas",
+        "company": "Roxanne Marquis",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": 500.0,
+        "size_sqft": null,
+        "size_acres": 5000.0,
+        "announced_date": "2025-06-16 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://fox40.com/business/press-releases/ein-presswire/819207832/texas-5000-acre-ai-data-center-site-fast-tracks-500-mw-behind-meter-power",
+        "source_urls": [
+          "https://fox40.com/business/press-releases/ein-presswire/819207832/texas-5000-acre-ai-data-center-site-fast-tracks-500-mw-behind-meter-power"
+        ],
+        "source_count": 1,
+        "article_title": "Texas 5,000 Acre AI Data Center Site Fast Tracks 500 MW Behind-Meter Power"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "project_id": "proj_557567dbbc16",
+        "project_name": "Roxanne Marquis Texas",
+        "company": "Roxanne Marquis",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": 500.0,
+        "size_sqft": null,
+        "size_acres": 5000.0,
+        "announced_date": "2025-06-16 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.wdhn.com/business/press-releases/ein-presswire/819207832/texas-5000-acre-ai-data-center-site-fast-tracks-500-mw-behind-meter-power",
+        "source_urls": [
+          "https://www.wdhn.com/business/press-releases/ein-presswire/819207832/texas-5000-acre-ai-data-center-site-fast-tracks-500-mw-behind-meter-power"
+        ],
+        "source_count": 1,
+        "article_title": "Texas 5,000 Acre AI Data Center Site Fast Tracks 500 MW Behind-Meter Power"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8291,
+          33.0565
+        ]
+      },
+      "properties": {
+        "project_id": "proj_23b485f49c47",
+        "project_name": "STACK Data Center",
+        "company": "STACK",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-24 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://communityimpact.com/dallas-fort-worth/plano-south/government/2025/07/24/planning-and-zoning-commission-approves-new-data-center-in-west-plano/",
+        "source_urls": [
+          "https://communityimpact.com/dallas-fort-worth/plano-south/government/2025/07/24/planning-and-zoning-commission-approves-new-data-center-in-west-plano/"
+        ],
+        "source_count": 1,
+        "article_title": "Planning and zoning commission approves new data center in west Plano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "project_id": "99936914df6f",
+        "project_name": "AllianceTexas Hyperscale Data Center Campus",
+        "company": "STACK Infrastructure",
+        "location": "Fort Worth, Tarrant",
+        "site_hint": null,
+        "size_mw": 400.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2021-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-data-centers-receive-management-and-operations-stamp-of-approval-from-uptime-institute/",
+        "source_urls": [
+          "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-data-centers-receive-management-and-operations-stamp-of-approval-from-uptime-institute/"
+        ],
+        "source_count": 1,
+        "article_title": "STACK Earns Uptime Institute M&O Approval | STACK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.830273,
+          32.7695069
+        ]
+      },
+      "properties": {
+        "project_id": "7de93dae0c60",
+        "project_name": "Dallas/Fort Worth Data Centers",
+        "company": "STACK Infrastructure",
+        "location": "Dallas/Fort Worth, Dallas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2019-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-announces-combination-of-data-center-assets-to-create-scaled-national-platform-and-brand-launch/",
+        "source_urls": [
+          "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-announces-combination-of-data-center-assets-to-create-scaled-national-platform-and-brand-launch/"
+        ],
+        "source_count": 1,
+        "article_title": "STACK INFRASTRUCTURE Announces Combination of Data Center Assets to Create Scaled National Platform and Brand Launch - STACK Infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6667,
+          30.5125
+        ]
+      },
+      "properties": {
+        "project_id": "proj_91c899c1c07c",
+        "project_name": "Sabey Data Centers Texas",
+        "company": "Sabey Data Centers",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-30 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.datacenterdynamics.com/en/news/sabey-starts-work-on-second-data-center-at-texas-campus-in-austin/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/sabey-starts-work-on-second-data-center-at-texas-campus-in-austin/"
+        ],
+        "source_count": 1,
+        "article_title": "Sabey starts work on second data center at Texas campus in Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6667,
+          30.5125
+        ]
+      },
+      "properties": {
+        "project_id": "proj_e47967d3405c",
+        "project_name": "Sabey Data Centers Key Technology Hub Sabey",
+        "company": "Sabey Data Centers",
+        "location": "Key Technology Hub Sabey",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-29 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "active",
+        "status_confidence": "medium",
+        "geocode_confidence": "address",
+        "source_url": "https://www.businesswire.com/news/home/20250729106762/en/Sabey-Data-Centers-Announces-Launch-of-Austin-Building-B-Expanding-Presence-in-Key-Technology-Hub",
+        "source_urls": [
+          "https://www.businesswire.com/news/home/20250729106762/en/Sabey-Data-Centers-Announces-Launch-of-Austin-Building-B-Expanding-Presence-in-Key-Technology-Hub"
+        ],
+        "source_count": 1,
+        "article_title": "Sabey Data Centers Announces Launch of Austin Building B, Expanding Presence in Key Technology Hub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "project_id": "3b57557599cd",
+        "project_name": "Austin Building B (SDC Austin Building B, Round Rock Campus)",
+        "company": "Sabey Data Centers",
+        "location": "Round Rock, Williamson County",
+        "site_hint": null,
+        "size_mw": 54.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://sabeydatacenters.com/news/sdc-announces-launch-of-austin-building-b-expanding-presence-in-key-technology-hub",
+        "source_urls": [
+          "https://sabeydatacenters.com/news/sdc-announces-launch-of-austin-building-b-expanding-presence-in-key-technology-hub"
+        ],
+        "source_count": 1,
+        "article_title": "SDC Announces Launch of Austin Building B,\u2026 | Sabey Data Centers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "project_id": "042af0c19d67",
+        "project_name": "Austin Data Center Campus (Round Rock, TX)",
+        "company": "Sabey Data Centers",
+        "location": "Round Rock, Williamson County",
+        "site_hint": null,
+        "size_mw": 72.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2022-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.fintechfutures.com/press-releases/sabey-data-centers-announces-central-u-s-market-expansion-with-72mw-data-center-campus-in-the-growing-austin-tech-hub",
+        "source_urls": [
+          "https://www.fintechfutures.com/press-releases/sabey-data-centers-announces-central-u-s-market-expansion-with-72mw-data-center-campus-in-the-growing-austin-tech-hub"
+        ],
+        "source_count": 1,
+        "article_title": "https://www.fintechfutures.com/press-releases/sabey-data-centers-announces-central-u-s-market-expansion-with-72mw-data-center-campus-in-the-growing-austin-tech-hub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3207252,
+          31.869991
+        ]
+      },
+      "properties": {
+        "project_id": "ed7c432d3cf6",
+        "project_name": "Sangha Renewables 19.9\u201320 MW Bitcoin Mining Facility (Ector County Solar Farm)",
+        "company": "Sangha Renewables",
+        "location": "Near Odessa, Ector County",
+        "site_hint": null,
+        "size_mw": 20.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://bitcoinmagazine.com/news/sangha-energizes-20-bitcoin-mining",
+        "source_urls": [
+          "https://bitcoinmagazine.com/news/sangha-energizes-20-bitcoin-mining"
+        ],
+        "source_count": 1,
+        "article_title": "Sangha Opens 20MW Bitcoin Mining Facility In Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4787356,
+          32.250398
+        ]
+      },
+      "properties": {
+        "project_id": "dad9427f220d",
+        "project_name": "Elbow Creek Data Center",
+        "company": "Satoshi Energy (with Clearway Energy Group)",
+        "location": "Big Spring, Howard County",
+        "site_hint": null,
+        "size_mw": 122.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.clearwayenergygroup.com/press-releases/clearway-announces-new-high-performance-computing-data-center-colocated-with-texas-wind-farm/",
+        "source_urls": [
+          "https://www.clearwayenergygroup.com/press-releases/clearway-announces-new-high-performance-computing-data-center-colocated-with-texas-wind-farm/"
+        ],
+        "source_count": 1,
+        "article_title": "Clearway Announces New High-Performance Computing Data Center Colocated with Texas Wind Farm - Clearway Energy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6738169,
+          30.4768037
+        ]
+      },
+      "properties": {
+        "project_id": "proj_2d69fa43c96d",
+        "project_name": "Skybox Datacenters Data Center",
+        "company": "Skybox Datacenters",
+        "location": "Unknown Location",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 30.0,
+        "announced_date": "2025-12-05 20:45:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "medium",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "area",
+        "source_url": "https://www.bizjournals.com/austin/news/2025/12/05/skybox-round-rock-data-center-water-power.html",
+        "source_urls": [
+          "https://www.bizjournals.com/austin/news/2025/12/05/skybox-round-rock-data-center-water-power.html"
+        ],
+        "source_count": 1,
+        "article_title": "Skybox data center proposal inches forward in Round Rock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6788056,
+          30.5085915
+        ]
+      },
+      "properties": {
+        "project_id": "80a45c642be8",
+        "project_name": "Round Rock Data Center (Proposed Skybox Facility)",
+        "company": "Skybox Datacenters",
+        "location": "Round Rock, Williamson County",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://communityimpact.com/austin/round-rock/development/2025/11/06/proposed-skybox-data-center-moves-forward-in-round-rock",
+        "source_urls": [
+          "https://communityimpact.com/austin/round-rock/development/2025/11/06/proposed-skybox-data-center-moves-forward-in-round-rock"
+        ],
+        "source_count": 1,
+        "article_title": "Proposed Skybox data center moves forward in Round Rock | Community Impact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4405094,
+          31.4649685
+        ]
+      },
+      "properties": {
+        "project_id": "6b941514edba",
+        "project_name": "Skybox San Angelo Data Center Campus (Proposed)",
+        "company": "Skybox Datacenters",
+        "location": "San Angelo, Tom Green County",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://conchoobserver.com/2025/12/15/skybox-data-centers-project-may-be-san-angelos-future",
+        "source_urls": [
+          "https://conchoobserver.com/2025/12/15/skybox-data-centers-project-may-be-san-angelos-future"
+        ],
+        "source_count": 1,
+        "article_title": "https://conchoobserver.com/2025/12/15/skybox-data-centers-project-may-be-san-angelos-future"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "project_id": "ec3f97d321d9",
+        "project_name": "PowerCampus Dallas (Lancaster 300MW Campus)",
+        "company": "Skybox Datacenters with Bandera Ventures and Principal Asset Management",
+        "location": "Lancaster, Dallas County",
+        "site_hint": null,
+        "size_mw": 300.0,
+        "size_sqft": 1000000,
+        "size_acres": null,
+        "announced_date": "2024-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://datacenterfrontier.com/special-report/skybox-plans-300-megawatt-campus-south-of-dallas",
+        "source_urls": [
+          "https://datacenterfrontier.com/special-report/skybox-plans-300-megawatt-campus-south-of-dallas"
+        ],
+        "source_count": 1,
+        "article_title": "https://datacenterfrontier.com/special-report/skybox-plans-300-megawatt-campus-south-of-dallas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "project_id": "8d8a96dbbca1",
+        "project_name": "Skybox PowerCampus Austin (Hutto 600MW Campus)",
+        "company": "Skybox Datacenters with Prologis",
+        "location": "Hutto, Williamson County",
+        "site_hint": null,
+        "size_mw": 600.0,
+        "size_sqft": 4000000,
+        "size_acres": null,
+        "announced_date": "2023-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://datacenterfrontier.com/special-report/skybox-prologis-plan-massive-600-megawatt-data-center-campus-in-austin",
+        "source_urls": [
+          "https://datacenterfrontier.com/special-report/skybox-prologis-plan-massive-600-megawatt-data-center-campus-in-austin"
+        ],
+        "source_count": 1,
+        "article_title": "https://datacenterfrontier.com/special-report/skybox-prologis-plan-massive-600-megawatt-data-center-campus-in-austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "project_id": "1cc9fd48c010",
+        "project_name": "Skybox Austin I (Pflugerville 30MW Facility)",
+        "company": "Skybox Datacenters with Prologis",
+        "location": "Pflugerville, Travis County",
+        "site_hint": null,
+        "size_mw": 30.0,
+        "size_sqft": 141240,
+        "size_acres": null,
+        "announced_date": "2022-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.datacenterdynamics.com/en/news/skybox-prologis-announce-plans-for-new-30mw-data-center-in-austin-texas",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/skybox-prologis-announce-plans-for-new-30mw-data-center-in-austin-texas",
+          "https://www.datacenterdynamics.com/en/news/skybox-breaks-ground-on-austin-data-center"
+        ],
+        "source_count": 2,
+        "article_title": "Skybox & Prologis announce plans for new 30MW data center in Austin, Texas - DCD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "project_id": "383f3f182aec",
+        "project_name": "Skybox Austin I Groundbreaking (Pflugerville Campus Build-out)",
+        "company": "Skybox Datacenters with Prologis",
+        "location": "Pflugerville, Travis County",
+        "site_hint": null,
+        "size_mw": 30.0,
+        "size_sqft": 141000,
+        "size_acres": null,
+        "announced_date": "2022-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.datacenterdynamics.com/en/news/skybox-breaks-ground-on-austin-data-center",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/skybox-breaks-ground-on-austin-data-center"
+        ],
+        "source_count": 1,
+        "article_title": "Skybox breaks ground on Austin data center - DCD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8652681,
+          32.8064955
+        ]
+      },
+      "properties": {
+        "project_id": "proj_cc1cec9ebbfb",
+        "project_name": "Switch reading street in dallas",
+        "company": "Switch",
+        "location": "reading street in dallas",
+        "site_hint": "Reading Street",
+        "size_mw": null,
+        "size_sqft": 20000,
+        "size_acres": null,
+        "announced_date": "2025-07-28 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.datacenterdynamics.com/en/news/former-t-mobile-switch-site-in-texas-to-be-renovated/",
+        "source_urls": [
+          "https://www.datacenterdynamics.com/en/news/former-t-mobile-switch-site-in-texas-to-be-renovated/"
+        ],
+        "source_count": 1,
+        "article_title": "Former T-Mobile switch site in Texas to be renovated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3560868,
+          32.9912964
+        ]
+      },
+      "properties": {
+        "project_id": "6be69ac97105",
+        "project_name": "T5@Alliance",
+        "company": "T5 Data Centers",
+        "location": "Haslet, Denton County",
+        "site_hint": null,
+        "size_mw": 400.0,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-15",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://trerc.tamu.edu/news-talk/new-data-center-hyperscaling-to-new-heights/",
+        "source_urls": [
+          "https://trerc.tamu.edu/news-talk/new-data-center-hyperscaling-to-new-heights/"
+        ],
+        "source_count": 1,
+        "article_title": "New data center 'hyperscaling' to new heights | Texas Real Estate Research Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "project_id": "5e2c5e999ac8",
+        "project_name": "T5@Alliance",
+        "company": "T5 Data Centers",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-12-15",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.datacenterknowledge.com/data-center-construction/t5-and-iconiq-s-ipi-plan-campus-around-facebook-data-center-in-texas",
+        "source_urls": [
+          "https://www.datacenterknowledge.com/data-center-construction/t5-and-iconiq-s-ipi-plan-campus-around-facebook-data-center-in-texas"
+        ],
+        "source_count": 1,
+        "article_title": "T5 and Iconiq\u2019s IPI Plan Campus around Facebook Data Center in Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.401342,
+          30.070979
+        ]
+      },
+      "properties": {
+        "project_id": "proj_51b583afc528",
+        "project_name": "TRG Datacenters Texas",
+        "company": "TRG Datacenters",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-11-20 08:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.commercialsearch.com/news/trg-expands-houston-data-center-campus/",
+        "source_urls": [
+          "https://www.commercialsearch.com/news/trg-expands-houston-data-center-campus/"
+        ],
+        "source_count": 1,
+        "article_title": "TRG Expands Houston Data Center Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "project_id": "dbe87c5f9ff0",
+        "project_name": "HOU2 24 MW Houston Data Center Expansion",
+        "company": "TRG Datacenters",
+        "location": "Spring (Houston market), Harris County",
+        "site_hint": null,
+        "size_mw": 24.0,
+        "size_sqft": 110000,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.businesswire.com/news/home/20251118885583/en/TRG-Datacenters-Breaks-Ground-on-24-MW-Houston-Data-Center",
+        "source_urls": [
+          "https://www.businesswire.com/news/home/20251118885583/en/TRG-Datacenters-Breaks-Ground-on-24-MW-Houston-Data-Center"
+        ],
+        "source_count": 1,
+        "article_title": "TRG Datacenters Breaks Ground on 24 MW Houston Data Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5794339,
+          31.8941755
+        ]
+      },
+      "properties": {
+        "project_id": "proj_1339fec1148c",
+        "project_name": "Texas Critical Data Center Ector County",
+        "company": "Texas Critical Data Center",
+        "location": "Ector County",
+        "site_hint": null,
+        "size_mw": 250.0,
+        "size_sqft": null,
+        "size_acres": 438.0,
+        "announced_date": "2025-10-08 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://www.mrt.com/business/article/ector-county-ai-data-center-21091297.php",
+        "source_urls": [
+          "https://www.mrt.com/business/article/ector-county-ai-data-center-21091297.php"
+        ],
+        "source_count": 1,
+        "article_title": "Ector County AI data center enters Phase Two, eyes 1-gigawatt scale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8313,
+          35.1983
+        ]
+      },
+      "properties": {
+        "project_id": "1c237bc35eb3",
+        "project_name": "Advanced Energy and Intelligence Campus",
+        "company": "Texas University System & Fermi America",
+        "location": "Near Amarillo, Potter County",
+        "site_hint": null,
+        "size_mw": 11000.0,
+        "size_sqft": 18000000,
+        "size_acres": null,
+        "announced_date": "2025-01-01",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "unknown",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.blackridgeresearch.com/blog/largest-biggest-upcoming-new-data-centers-in-texas-united-states",
+        "source_urls": [
+          "https://www.blackridgeresearch.com/blog/largest-biggest-upcoming-new-data-centers-in-texas-united-states"
+        ],
+        "source_count": 1,
+        "article_title": "Texas Data Centers 2025: Top Upcoming Hyperscale Projects"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7333,
+          32.4875
+        ]
+      },
+      "properties": {
+        "project_id": "proj_5d353b34c2ec",
+        "project_name": "Vantage Texas",
+        "company": "Vantage",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": 1200.0,
+        "announced_date": "2025-08-29 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://rebusinessonline.com/vantage-data-centers-to-invest-25b-for-mega-campus-in-shackleford-county-texas/",
+        "source_urls": [
+          "https://rebusinessonline.com/vantage-data-centers-to-invest-25b-for-mega-campus-in-shackleford-county-texas/",
+          "https://www.bigcountryhomepage.com/news/1200-acre-data-center-in-shackelford-county-could-boost-local-economy/",
+          "https://www.intelligentcio.com/north-america/2025/08/29/vantage-data-centers-unveils-plans-for-frontier-a-us25b-mega-campus-in-texas/"
+        ],
+        "source_count": 3,
+        "article_title": "1,200-acre data center in Shackelford County could boost local economy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5606,
+          32.5701
+        ]
+      },
+      "properties": {
+        "project_id": "proj_4867abff1592",
+        "project_name": "Vantage Texas",
+        "company": "Vantage",
+        "location": "Texas",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-08-22 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://aimagazine.com/news/inside-vantages-us-25bn-ai-data-centre-mega-campus-in-texas",
+        "source_urls": [
+          "https://aimagazine.com/news/inside-vantages-us-25bn-ai-data-centre-mega-campus-in-texas"
+        ],
+        "source_count": 1,
+        "article_title": "How a US$25bn Texas Data Centre Will Power AI With 1.4GW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5556,
+          32.608
+        ]
+      },
+      "properties": {
+        "project_id": "proj_4149422794b2",
+        "project_name": "Vantage shackelford county",
+        "company": "Vantage",
+        "location": "shackelford county",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-08-21 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "address",
+        "source_url": "https://constructiondigital.com/news/inside-vantages-us-25bn-ai-data-centre-mega-campus-in-texas",
+        "source_urls": [
+          "https://constructiondigital.com/news/inside-vantages-us-25bn-ai-data-centre-mega-campus-in-texas"
+        ],
+        "source_count": 1,
+        "article_title": "Vantage Invests US$25bn in Mega-Campus for AI Data Centres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3307616,
+          32.7088752
+        ]
+      },
+      "properties": {
+        "project_id": "proj_4d3a379508ab",
+        "project_name": "Vantage Campus in Shackelford County",
+        "company": "Vantage",
+        "location": "Campus in Shackelford County",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-08-19 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://rebusinessonline.com/vantage-data-centers-to-invest-25b-for-mega-campus-in-shackleford-county-texas/",
+        "source_urls": [
+          "https://rebusinessonline.com/vantage-data-centers-to-invest-25b-for-mega-campus-in-shackleford-county-texas/"
+        ],
+        "source_count": 1,
+        "article_title": "Vantage Data Centers to Invest $25B for Mega-Campus in Shackelford County, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3307616,
+          32.7088752
+        ]
+      },
+      "properties": {
+        "project_id": "proj_9e1a870df853",
+        "project_name": "Vantage acre data center in Shackelford County",
+        "company": "Vantage",
+        "location": "acre data center in Shackelford County",
+        "site_hint": null,
+        "size_mw": null,
+        "size_sqft": null,
+        "size_acres": null,
+        "announced_date": "2025-07-30 07:00:00 UTC",
+        "expected_completion_date": null,
+        "probability_score": "unknown",
+        "status": "uncertain",
+        "status_confidence": "low",
+        "geocode_confidence": "county",
+        "source_url": "https://www.bigcountryhomepage.com/news/1200-acre-data-center-in-shackelford-county-could-boost-local-economy/",
+        "source_urls": [
+          "https://www.bigcountryhomepage.com/news/1200-acre-data-center-in-shackelford-county-could-boost-local-economy/"
+        ],
+        "source_count": 1,
+        "article_title": "1,200-acre data center in Shackelford County could boost local economy"
+      }
+    }
+  ]
+}

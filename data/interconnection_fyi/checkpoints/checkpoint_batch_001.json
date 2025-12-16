@@ -1,0 +1,24 @@
+{
+  "batch_number": 1,
+  "timestamp": "2025-12-10T19:59:32.779428",
+  "processed_urls": [
+    "https://www.interconnection.fyi/project/pjm-ai2-355",
+    "https://www.interconnection.fyi/project/pjm-ai2-360",
+    "https://www.interconnection.fyi/project/pjm-ai2-365",
+    "https://www.interconnection.fyi/project/pjm-ai2-366",
+    "https://www.interconnection.fyi/project/pjm-ai2-370",
+    "https://www.interconnection.fyi/project/pjm-ai2-375",
+    "https://www.interconnection.fyi/project/pjm-ai2-380",
+    "https://www.interconnection.fyi/project/pjm-ai2-385",
+    "https://www.interconnection.fyi/project/pjm-ai2-390",
+    "https://www.interconnection.fyi/project/pjm-ai2-395"
+  ],
+  "failed_urls": [],
+  "remaining_urls": [
+    "https://www.interconnection.fyi/project/pjm-ai2-400",
+    "https://www.interconnection.fyi/project/pjm-ai2-405"
+  ],
+  "total_processed": 10,
+  "total_failed": 0,
+  "total_remaining": 2
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style="">
+
+
+
+<body class="toolbar-closed">	
+
+<!-- Google Tag Manager (noscript) -->
+
+<!-- End Google Tag Manager (noscript) -->
+
+    <div class="loading-modal"><div class="spinner" role="progressbar" style="position: absolute; width: 0px; z-index: 2000000000; left: 50%; top: 50%;"><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-0-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(0deg) translate(40px, 0px); border-radius: 9px;"></div></div><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-1-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(40deg) translate(40px, 0px); border-radius: 9px;"></div></div><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-2-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(80deg) translate(40px, 0px); border-radius: 9px;"></div></div><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-3-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(120deg) translate(40px, 0px); border-radius: 9px;"></div></div><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-4-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(160deg) translate(40px, 0px); border-radius: 9px;"></div></div><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-5-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(200deg) translate(40px, 0px); border-radius: 9px;"></div></div><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-6-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(240deg) translate(40px, 0px); border-radius: 9px;"></div></div><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-7-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(280deg) translate(40px, 0px); border-radius: 9px;"></div></div><div style="position: absolute; top: -9px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-100-25-8-9;"><div style="position: absolute; width: 18px; height: 18px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(320deg) translate(40px, 0px); border-radius: 9px;"></div></div></div></div>
+    
+    <div id="skiptocontent">
+        <a class="webaim" href="https://www.oge.com/wps/portal/ord/who-we-are/what-we-do/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijTxczDy83A38LcIcXQwCjc3M_D0tA4zc3c30w1EV-Ic5ugIVmFiYB_iEGBhYmOtHkaTfPdDbFKjAwNUxzMTE2MDAmDj9BjiAowGJ9mMqiMJvfLh-FKoVWEIAVQEWLxKypCA3NDQ0wiDT01FREQBgTFXv/dz/d5/L2dBISEvZ0FBIS9nQSEh/#toolbar">skip to main content</a>
+    </div>
+    <div class="off-canvas-wrap">
+        <div class="inner-wrap">
+            <!-- global alerts -->
+            <div id="globalAlertContainer"></div>
+            <!-- header -->
+            
+            <!-- main content feature-->
+            <section role="main">
+                <div id="bodycontent">
+                    <!-- heading -->
+                    <!-- <div id="titleRow" class="row"> -->
+                    
+                    <!-- <

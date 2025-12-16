@@ -1,0 +1,61 @@
+{
+  "generating_units": [
+    {
+      "name": "Pensacola Dam",
+      "type": "Hydro",
+      "net_MW": 126,
+      "commissioned": null,
+      "fuel": "Hydro",
+      "latitude": 36.4675,
+      "longitude": -95.04139
+    },
+    {
+      "name": "Robert S. Kerr Dam",
+      "type": "Hydro",
+      "net_MW": 128,
+      "commissioned": null,
+      "fuel": "Hydro",
+      "latitude": 36.0831,
+      "longitude": -95.1167
+    },
+    {
+      "name": "Salina Pumped Storage Project",
+      "type": "Hydro",
+      "net_MW": 260,
+      "commissioned": null,
+      "fuel": "Hydro",
+      "latitude": 36.292,
+      "longitude": -95.152
+    },
+    {
+      "name": "Wind Generation",
+      "type": "Wind",
+      "net_MW": 385,
+      "commissioned": null,
+      "fuel": "Wind",
+      "latitude": 35.4676,
+      "longitude": -97.5164
+    },
+    {
+      "name": "Redbud Power Plant",
+      "type": "Gas",
+      "net_MW": 457,
+      "commissioned": null,
+      "fuel": "Gas",
+      "latitude": 36.2831,
+      "longitude": -95.1167
+    }
+  ],
+  "capacity_mix": {
+    "Hydro_MW": 514,
+    "Gas_MW": 457,
+    "Wind_MW": 385
+  },
+  "owned_vs_purchased": {},
+  "planned_additions": [],
+  "planned_retirements": [],
+  "sources": [
+    "https://grda.com/electricity/",
+    "https://grda.com/about/"
+  ]
+}

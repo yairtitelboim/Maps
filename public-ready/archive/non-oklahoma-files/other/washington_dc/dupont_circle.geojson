@@ -1,0 +1,7192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$45,000",
+        "address": "1260 21st St NW #6, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": null,
+        "propertyType": "Condo for sale",
+        "squareFootage": null,
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$450,000",
+        "address": "1621 T St NW #T, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "734",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$230,000",
+        "address": "1725 17th St NW APT 503, Washington, DC 20009",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "440",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$247,500",
+        "address": "1711 Massachusetts Ave NW #432, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "473",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$410,000",
+        "address": "1918 18th St NW APT 42, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "525",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$649,000",
+        "address": "1709 21st St NW APT 42, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "New construction",
+        "squareFootage": "689",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$248,750",
+        "address": "1727 Massachusetts Ave NW #704, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "333",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$349,000",
+        "address": "1718 P St NW APT L18, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "437",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$475,000",
+        "address": "1514 21st St NW APT 1, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "534",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,999,999",
+        "address": "1860 19th St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "4",
+        "propertyType": "House",
+        "squareFootage": "8,198",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,150,000",
+        "address": "2107 O St NW UNITS 1 & 2, Washington, DC 20037",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,888,888",
+        "address": "1755 18th St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "6",
+        "propertyType": "House",
+        "squareFootage": "6,088",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,999,000",
+        "address": "1735 Fraser Ct NW, Washington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "4",
+        "propertyType": "House",
+        "squareFootage": "5,887",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,395,000",
+        "address": "1745 N St NW UNIT 113, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,495",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$500,000",
+        "address": "1615 Q St NW APT 808, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "735",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$700,000",
+        "address": "1837 19th St NW #3, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "New construction",
+        "squareFootage": "1,200",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$560,000",
+        "address": "1526 17th St NW APT 417, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "865",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$469,900",
+        "address": "1612 Q St NW #4, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "600",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$599,000",
+        "address": "1823 Riggs Pl NW APT 9, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "915",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$599,000",
+        "address": "1777 T St NW #4, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "600",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$549,000",
+        "address": "1514 21st St NW APT 2, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "693",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$500,000",
+        "address": "1830 17th St NW APT 505, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Coming soon",
+        "squareFootage": "616",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$309,000",
+        "address": "1718 P St NW APT 411, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "453",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,285,000",
+        "address": "1325 21st St NW #301, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Coming soon",
+        "squareFootage": "1,223",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,715,000",
+        "address": "2122 N St NW APT 2, Washington, DC 20037",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "propertyType": "Condo",
+        "squareFootage": "2,191",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,900",
+        "address": "1926 New Hampshire Ave NW #25, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "610",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$450,000",
+        "address": "1621 T St NW #T, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "734",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1732 S St NW, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "4",
+        "propertyType": "Townhouse",
+        "squareFootage": "3,104",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$249,900",
+        "address": "1705 P St NW APT 1, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "447",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$247,500",
+        "address": "1711 Massachusetts Ave NW #432, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "473",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$450,000",
+        "address": "1621 T St NW APT T3, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "734",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$369,000",
+        "address": "1325 18th St NW #RP-103, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "655",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,024,000",
+        "address": "1514 21st St NW, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": null,
+        "propertyType": "Multi-family home for sale",
+        "squareFootage": "1,227",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$415,000",
+        "address": "1718 U St NW APT B, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "880",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,395,000",
+        "address": "1745 N St NW UNIT 113, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo for sale",
+        "squareFootage": "1,495",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$500,000",
+        "address": "1615 Q St NW APT 808, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo for sale",
+        "squareFootage": "735",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$560,000",
+        "address": "1526 17th St NW APT 417, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo for sale",
+        "squareFootage": "865",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,900",
+        "address": "1634 S St NW APT 3, Washington, DC 20009",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "New construction",
+        "squareFootage": "--",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2.70M",
+        "address": "2023 O St NW, Washington, DC 20036",
+        "bedrooms": "6",
+        "bathrooms": "5",
+        "propertyType": "Auction",
+        "squareFootage": "3,347",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$14,500,000",
+        "address": "2040 S St NW, Washington, DC 20009",
+        "bedrooms": "12",
+        "bathrooms": "8",
+        "propertyType": "Townhouse for sale",
+        "squareFootage": "17,010",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1732 S St NW, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "4",
+        "propertyType": "Townhouse for sale",
+        "squareFootage": "3,104",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2.50M",
+        "address": "1230 17th St NW, Washington, DC 20036",
+        "bedrooms": "5",
+        "bathrooms": "4",
+        "propertyType": "Auction",
+        "squareFootage": "5,220",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,495,000",
+        "address": "1725 19th St NW, Washington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "6",
+        "propertyType": "Townhouse for sale",
+        "squareFootage": "4,500",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,499,000",
+        "address": "1712 19th St NW, Washington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "6",
+        "propertyType": "Townhouse for sale",
+        "squareFootage": "5,145",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$474,900",
+        "address": "1634 S St NW APT 6, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "New construction",
+        "squareFootage": "469",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,235,000",
+        "address": "1760 T St NW, Washington, DC 20009",
+        "bedrooms": "5",
+        "bathrooms": "4",
+        "propertyType": "Townhouse for sale",
+        "squareFootage": "3,116",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$654,900",
+        "address": "88 Morgan St APT 1001, Jersey City, NJ 07302",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "843",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$785,000",
+        "address": "77 Hudson St APT 3902, Jersey City, NJ 07302",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condominium",
+        "squareFootage": "716 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,935,000",
+        "address": "77 Hudson St APT 2806, Jersey City, NJ 07302",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condominium",
+        "squareFootage": "1,558",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,124,300",
+        "address": "88 Morgan St APT 1005, Jersey City, NJ 07302",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condominium",
+        "squareFootage": "1,147",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$725,000",
+        "address": "88 Morgan St APT 1802, Jersey City, NJ 07302",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condominium",
+        "squareFootage": "837",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$930,000",
+        "address": "77 Hudson St APT 1808, Jersey City, NJ 07302",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condominium",
+        "squareFootage": "872",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,375,000",
+        "address": "88 Morgan St APT 4905, Jersey City, NJ 07302",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condominium",
+        "squareFootage": "1,486",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$585,000",
+        "address": "77 Hudson St APT 2713, Jersey City, NJ 07302",
+        "bedrooms": "0",
+        "bathrooms": "1",
+        "propertyType": "Condominium",
+        "squareFootage": "561 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$923,100",
+        "address": "77 Hudson St APT 1608, Jersey City, NJ 07302",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condominium",
+        "squareFootage": "872",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$390,000",
+        "address": "282 Magnolia Ave APT 2, Jersey City, NJ 07306",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condominium",
+        "squareFootage": "805",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$300,000",
+        "address": "329 Palisade Ave APT 6, Jersey City, NJ 07307",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condominium",
+        "squareFootage": "422 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$899/mo",
+        "address": "9200 North Plz APT 2518, Austin, TX 78753",
+        "bedrooms": "1beds",
+        "bathrooms": "1baths",
+        "propertyType": "Apartment",
+        "squareFootage": "705sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "Unknown",
+        "address": "9200 North Plz APT 1713, Austin, TX 78753",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apartment",
+        "squareFootage": "574",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "Unknown",
+        "address": "9200 North Plz APT 1402, Austin, TX 78753",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Apartment",
+        "squareFootage": "921",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": null,
+        "address": "9200 North Plz APT 3016, Austin, TX 78753",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apartment",
+        "squareFootage": "574",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,156/mo",
+        "address": "9200 North Plz APT 3311,Austin, TX 78753",
+        "bedrooms": "1beds",
+        "bathrooms": "1baths",
+        "propertyType": "Apartment",
+        "squareFootage": "705sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": null,
+        "address": "9200 North Plz APT 1808, Austin, TX 78753",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apartment",
+        "squareFootage": "705",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "Unknown",
+        "address": "9200 North Plz APT 2801, Austin, TX 78753",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apartment",
+        "squareFootage": "574",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": null,
+        "address": "9200 North Plz APT 3107, Austin, TX 78753",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apartment",
+        "squareFootage": "705",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,606/mo",
+        "address": "9200 North Plz APT 2103,Austin, TX 78753",
+        "bedrooms": "2beds",
+        "bathrooms": "2baths",
+        "propertyType": "Apartment",
+        "squareFootage": "1,041sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": null,
+        "address": "9200 North Plz APT 2104, Austin, TX 78753",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Apartment",
+        "squareFootage": "1,041 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,131/mo",
+        "address": "9200 North Plz APT 3115, Austin, TX 78753",
+        "bedrooms": "1beds",
+        "bathrooms": "1baths",
+        "propertyType": "Apartment",
+        "squareFootage": "705sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,822/mo",
+        "address": "9200 North Plz APT 0203, Austin, TX 78753",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "Apartment",
+        "squareFootage": "1,156 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "Unknown",
+        "address": "9200 North Plz APT 3102, Austin, TX 78753",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apartment",
+        "squareFootage": "705",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$981/mo",
+        "address": "9200 North Plz APT 1101, Austin, TX 78753",
+        "bedrooms": "1beds",
+        "bathrooms": "1baths",
+        "propertyType": "Apartment",
+        "squareFootage": "705sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,086/mo",
+        "address": "9200 North Plz APT 2910, Austin, TX 78753",
+        "bedrooms": "1beds",
+        "bathrooms": "1baths",
+        "propertyType": "Apartment",
+        "squareFootage": "705sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$377,600",
+        "address": "4013 Menchaca Rd APT 13, Austin, TX 78704",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Townhouse",
+        "squareFootage": "950 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "Unknown",
+        "address": "9200 North Plz APT 1002, Austin, TX 78753",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apartment",
+        "squareFootage": "574",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,623,200",
+        "address": "3601 Princeton Ave, Highland Park, TX 75205",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "propertyType": "SingleFamily",
+        "squareFootage": "4,408 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$19,262,900",
+        "address": "4319 Belclaire Ave, Highland Park, TX 75205",
+        "bedrooms": "6",
+        "bathrooms": "8.5",
+        "propertyType": "SingleFamily",
+        "squareFootage": "14,321 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$8,174,400",
+        "address": "3800 Maplewood Ave, Highland Park, TX 75205",
+        "bedrooms": "4",
+        "bathrooms": "4.5",
+        "propertyType": "SingleFamily",
+        "squareFootage": "8,007 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$5,079,900",
+        "address": "3616 Maplewood Ave, Highland Park, TX 75205",
+        "bedrooms": "5",
+        "bathrooms": "7",
+        "propertyType": "SingleFamily",
+        "squareFootage": "7,124 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$5,999,900",
+        "address": "4344 Edmondson Ave, Highland Park, TX 75205",
+        "bedrooms": "5",
+        "bathrooms": "7",
+        "propertyType": "Single Family Residence",
+        "squareFootage": "5,416 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,495,000",
+        "address": "4665 Belclaire Ave, Highland Park, TX 75209",
+        "bedrooms": "4",
+        "bathrooms": "6",
+        "propertyType": "Single Family Residence",
+        "squareFootage": "3,294 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$5,614,700",
+        "address": "3500 Lexington Ave, Highland Park, TX 75205",
+        "bedrooms": "5",
+        "bathrooms": "6.5",
+        "propertyType": "SingleFamily",
+        "squareFootage": "7,292 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$--",
+        "address": "3509 Princeton Ave, Highland Park, TX 75205",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "propertyType": "Single Family Residence",
+        "squareFootage": "5,585 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "Unknown",
+        "address": "3500 Dartmouth Ave, Highland Park, TX 75205",
+        "bedrooms": "7",
+        "bathrooms": "9",
+        "propertyType": "Single Family Residence",
+        "squareFootage": "8935",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,120,800",
+        "address": "3401 Dartmouth Ave, Highland Park, TX 75205",
+        "bedrooms": "5",
+        "bathrooms": "5",
+        "propertyType": "SingleFamily",
+        "squareFootage": "5,311 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$14,979,600",
+        "address": "3908 Lexington Ave, Highland Park, TX 75205",
+        "bedrooms": "5",
+        "bathrooms": "6.5",
+        "propertyType": "SingleFamily",
+        "squareFootage": "10,146 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$13,730,300",
+        "address": "4000 Lexington Ave, Highland Park, TX 75254",
+        "bedrooms": "5",
+        "bathrooms": "4.5",
+        "propertyType": "SingleFamily",
+        "squareFootage": "5,042 sqft",
+        "source": "Zillow"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$5,798,708",
+        "address": "617 Manhattan Ave, Manhattan Beach, CA 90266",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "Single-family",
+        "squareFootage": "1,968",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,302,128",
+        "address": "1904 Magnolia Ave, Manhattan Beach, CA 90266",
+        "bedrooms": "4",
+        "bathrooms": "1",
+        "propertyType": "Single-family",
+        "squareFootage": "1,141",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,285,000",
+        "address": "1325 21st St NW #301, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,223 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$309,000",
+        "address": "1718 P St NW #411, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "453 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$247,500",
+        "address": "1711 Massachusetts Ave NW #432, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "473 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$369,000",
+        "address": "1701 16th St NW #330, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "518 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$249,900",
+        "address": "1705 P St NW #1, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "447 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1732 S St NW, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "propertyType": "Single Family Home",
+        "squareFootage": "3,104 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,699,000",
+        "address": "2023 O St NW, Washington, DC 20036",
+        "bedrooms": "6",
+        "bathrooms": "4.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "3,347 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$469,900",
+        "address": "1612 Q St NW #4, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "600 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,000,000",
+        "address": "1821 T St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": null,
+        "propertyType": "Multi Family",
+        "squareFootage": "3,850 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,500,000",
+        "address": "1501 Church St NW, Washington, DC 20005",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "Townhouse",
+        "squareFootage": "1,710 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$419,900",
+        "address": "1718 Corcoran St NW #32, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "477 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$560,000",
+        "address": "1526 17th St NW #417, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "865 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,495,000",
+        "address": "1725 19th St NW, Washington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "5.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "4,500 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$549,900",
+        "address": "1827 S St NW #1, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "620 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,100,000",
+        "address": "1628 15th St NW, Washington, DC 20009",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "propertyType": "Townhouse",
+        "squareFootage": "2,700 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,895,000",
+        "address": "1611 Riggs Pl NW, Washington, DC 20009",
+        "bedrooms": "5",
+        "bathrooms": "4.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "3,685 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$390,000",
+        "address": "1739 Q St NW #1, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "492 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$294,000",
+        "address": "1 Scott Cir NW #811, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "506 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$349,000",
+        "address": "1718 P St NW Unit L18, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "437 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$229,000",
+        "address": "1514 17th St NW #100, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": null,
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$369,000",
+        "address": "1701 16th St NW #730, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": null,
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$480,000",
+        "address": "1325 18th St NW #706, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "863 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,000,000",
+        "address": "1821 T St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": null,
+        "propertyType": "Multi Family Home",
+        "squareFootage": "3,850 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$400,000",
+        "address": "1411 21st St NW, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "645 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$895,000",
+        "address": "1099 22nd St NW #606, Washington, DC 20037",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,372 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$265,000",
+        "address": "1514 17th St NW Unit B2, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "544 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$319,000",
+        "address": "1325 18th St NW #307, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "721 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$325,000",
+        "address": "1330 New Hampshire Ave NW #907, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "557 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,049,000",
+        "address": "1820 19th St NW #3, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,210 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,149,000",
+        "address": "1321 21st St NW #5, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,120 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,150,000",
+        "address": "1610 Q St NW, Washington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "4.5",
+        "propertyType": "Multi Family Home",
+        "squareFootage": "3,692 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$299,900",
+        "address": "1718 P St NW #509, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "456 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,235,000",
+        "address": "1760 T St NW, Washington, DC 20009",
+        "bedrooms": "5",
+        "bathrooms": "3.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "3,116 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,072,000",
+        "address": "1415 21st St NW Unit 2A, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,392 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$975,000",
+        "address": "1709 21st St NW #23, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "970 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$599,000",
+        "address": "1823 Riggs Pl NW #9, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "915 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$474,900",
+        "address": "1634 S St NW #6, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "469 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$600,000",
+        "address": "1108 16th St NW #504, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "650",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$500,000",
+        "address": "1830 17th St NW #505, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "616",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$550,000",
+        "address": "1731 S St NW #11, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "799",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$330,000",
+        "address": "1711 Massachusetts Ave NW #834, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "680",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$410,000",
+        "address": "1918 18th St NW #42, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "525",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,900",
+        "address": "1634 S St NW #3, Washington, DC 20009",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": null,
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$265,000",
+        "address": "1615 Q St NW #306, Washington, DC 20009",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "368",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,399,900",
+        "address": "1721 P St NW Unit D, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,225",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$215,000",
+        "address": "1615 Q St NW #509, Washington, DC 20009",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "373",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$424,900",
+        "address": "2012 O St NW #22, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "501",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$999,500",
+        "address": "1026 16th St NW #202, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,700",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$248,750",
+        "address": "1727 Massachusetts Ave NW #704, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "333",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$329,999",
+        "address": "1816 New Hampshire Ave NW #210, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "528",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$300,000",
+        "address": "1330 New Hampshire Ave NW #316, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "504",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$230,000",
+        "address": "1725 17th St NW #503, Washington, DC 20009",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "440",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$549,000",
+        "address": "1514 21st St NW #2, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "693",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$475,000",
+        "address": "1514 21st St NW #1, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "534",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$699,831",
+        "address": "1526 17th NW #301, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,255",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,024,000",
+        "address": "1514 21st St NW, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": null,
+        "propertyType": "Condo",
+        "squareFootage": "1,227",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,499,000",
+        "address": "1712 19th St NW, Washington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "5.5",
+        "propertyType": "Single Family",
+        "squareFootage": "5,145",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,300,000",
+        "address": "2149 N St NW, Washington, DC 20037",
+        "bedrooms": "8",
+        "bathrooms": null,
+        "propertyType": "Multi Family",
+        "squareFootage": "3,024",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,850,000",
+        "address": "1741 S St NW, Washington, DC 20009",
+        "bedrooms": "4",
+        "bathrooms": null,
+        "propertyType": "Multi Family",
+        "squareFootage": "4,500",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$689,000",
+        "address": "1750 S St NW #1, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "880",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$275,000",
+        "address": "1601 18th St NW #718, Washington, DC 20009",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "410",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$272,500",
+        "address": "1601 18th St NW #214, Washington, DC 20009",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "421",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1732 S St NW, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "propertyType": "Single Family Residence",
+        "squareFootage": "3,104 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$999,000",
+        "address": "1829 16th St NW #4, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,457 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$819,000",
+        "address": "1508 R St NW #2, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "802 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,399,900",
+        "address": "1721 P St NW Unit D, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,225 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$999,500",
+        "address": "1026 16th St NW #202, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,700 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,425,000",
+        "address": "1026 16th St NW #401, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,650 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$699,831",
+        "address": "1526 17th NW #301, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,255 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,024,000",
+        "address": "1514 21st St NW, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": null,
+        "propertyType": "Single Family Residence",
+        "squareFootage": "1,227 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$700,000",
+        "address": "1837 19th St NW #3, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,200 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,799,000",
+        "address": "1518 T St NW, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Single Family Residence",
+        "squareFootage": "2,839 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$500,000",
+        "address": "1615 Q St NW Unit 808, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "735 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,499,900",
+        "address": "1414 22nd St NW #56, Washington, DC 20037",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,619 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$369,000",
+        "address": "1325 18th St NW Unit RP-103, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "655 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,699,999",
+        "address": "1108 16th St NW #601, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,673 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$945,000",
+        "address": "1612 16th St NW #1, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,309 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$388,000",
+        "address": "1801 16th St NW #305, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,158 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,395,000",
+        "address": "1745 N St NW #113, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,495 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$495,000",
+        "address": "1615 Q St NW #1008, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "735 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$379,000",
+        "address": "1701 16th St NW #821, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "667 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,900",
+        "address": "1601 18th St NW #805, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "677 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$289,900",
+        "address": "1711 Massachusetts Ave NW #817, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "486 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,199,000",
+        "address": "1710 P St NW, Washington, DC 20036",
+        "bedrooms": "5",
+        "bathrooms": "4.5",
+        "propertyType": "Single Family",
+        "squareFootage": "3,660 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$429,900",
+        "address": "1816 T St NW, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "574 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$269,000",
+        "address": "1725 17th St NW #300, Washington, DC 20009",
+        "bedrooms": "",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "475 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,099,900",
+        "address": "1827 S St NW #3, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,026 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$259,900",
+        "address": "1727 Massachusetts Ave NW #811, Washington, DC 20036",
+        "bedrooms": "",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "453 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,199,900",
+        "address": "1827 S St NW #4, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,155 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,925,500",
+        "address": "1437 Rhode Island Ave NW Unit 801-802, Washington, DC 20005",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "Condo",
+        "squareFootage": "2,000 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,259,000",
+        "address": "2425 L St NW #706, Washington, DC 20037",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,270 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,625,000",
+        "address": "1447 Corcoran St NW, Washington, DC 20009",
+        "bedrooms": "3",
+        "bathrooms": "3.5",
+        "propertyType": "Single Family",
+        "squareFootage": "2,616 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$644,900",
+        "address": "2116 Kalorama Rd NW #205, Washington, DC 20008",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "777 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$500,000",
+        "address": "1511 Caroline St NW, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1.5",
+        "propertyType": "Single Family",
+        "squareFootage": "1,315 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,124,900",
+        "address": "2230 California St NW Unit 6AE, Washington, DC 20008",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "Condo",
+        "squareFootage": "2,425 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,000,000",
+        "address": "1821 T St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "\u2014",
+        "propertyType": "Home with View",
+        "squareFootage": "3,850 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$560,000",
+        "address": "1526 17th St NW #417, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Home with View",
+        "squareFootage": "865 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$975,000",
+        "address": "1709 21st St NW #23, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Home with View",
+        "squareFootage": "970 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$999,000",
+        "address": "1829 16th St NW #4, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Home with View",
+        "squareFootage": "1,457 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$294,000",
+        "address": "1 Scott Cir NW #811, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "506 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$480,000",
+        "address": "1325 18th St NW #706, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "863 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,235,000",
+        "address": "1760 T St NW, Washington, DC 20009",
+        "bedrooms": "5",
+        "bathrooms": "3.5",
+        "propertyType": "Home with View",
+        "squareFootage": "3,116 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$600,000",
+        "address": "1108 16th St NW #504, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "650 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$410,000",
+        "address": "1918 18th St NW #42, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "525 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$265,000",
+        "address": "1615 Q St NW #306, Washington, DC 20009",
+        "bedrooms": "",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "368 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,399,900",
+        "address": "1721 P St NW Unit D, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Home with View",
+        "squareFootage": "1,225 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$215,000",
+        "address": "1615 Q St NW #509, Washington, DC 20009",
+        "bedrooms": "",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "373 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$424,900",
+        "address": "2012 O St NW #22, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "501 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$699,831",
+        "address": "1526 17th NW #301, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Home with View",
+        "squareFootage": "1,255 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,799,000",
+        "address": "1518 T St NW, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Home with View",
+        "squareFootage": "2,839 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$324,900",
+        "address": "1701 16th St NW #125, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "550 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,699,999",
+        "address": "1108 16th St NW #601, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Home with View",
+        "squareFootage": "1,673 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,500,000",
+        "address": "1230 17th St NW, Washington, DC 20036",
+        "bedrooms": "5",
+        "bathrooms": "2",
+        "propertyType": "Home with View",
+        "squareFootage": "5,220 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,300,000",
+        "address": "2149 N St NW, Washington, DC 20037",
+        "bedrooms": "8",
+        "bathrooms": "\u2014",
+        "propertyType": "Home with View",
+        "squareFootage": "3,024 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$649,000",
+        "address": "1709 21st NW #42, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Home with View",
+        "squareFootage": "689 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,500,000",
+        "address": "1501 Church St NW, Washington, DC 20005",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "Garage \u2022 Walker's paradise",
+        "squareFootage": "1,710 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$419,900",
+        "address": "1718 Corcoran St NW #32, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "$838 HOA \u2022 Walker's paradise",
+        "squareFootage": "477 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,200,000",
+        "address": "1530 15th St NW, Washington, DC 20005",
+        "bedrooms": "4",
+        "bathrooms": "3.5",
+        "propertyType": "2,375 sq ft lot \u2022 Walker's paradise",
+        "squareFootage": "3,265 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$390,000",
+        "address": "1739 Q St NW #1, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "$231 HOA \u2022 Walker's paradise",
+        "squareFootage": "492 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$299,900",
+        "address": "1718 P St NW #509, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "$592 HOA \u2022 Community pool \u2022 Walker's paradise",
+        "squareFootage": "456 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,235,000",
+        "address": "1760 T St NW, Washington, DC 20009",
+        "bedrooms": "5",
+        "bathrooms": "3.5",
+        "propertyType": "1,627 sq ft lot \u2022 2 garage spots \u2022 Walker's paradise",
+        "squareFootage": "3,116 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$600,000",
+        "address": "1108 16th St NW #504, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "$704 HOA \u2022 Walker's paradise",
+        "squareFootage": "650 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,399,900",
+        "address": "1721 P St NW Unit D, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "$399 HOA \u2022 Walker's paradise",
+        "squareFootage": "1,225 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$230,000",
+        "address": "1725 17th St NW #503, Washington, DC 20009",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "$745 HOA \u2022 Walker's paradise",
+        "squareFootage": "440 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,799,000",
+        "address": "1518 T St NW, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "1,779 sq ft lot \u2022 Garage \u2022 Walker's paradise",
+        "squareFootage": "2,839 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$230,000",
+        "address": "1822 15th St NW Unit B1, Washington, DC 20009",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "$283 HOA \u2022 Walker's paradise",
+        "squareFootage": "327 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$270,000",
+        "address": "1514 17th St NW #404, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": "$656 HOA \u2022 Walker's paradise",
+        "squareFootage": "550 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$689,000",
+        "address": "1750 S St NW #1, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "$323 HOA \u2022 Walker's paradise",
+        "squareFootage": "880 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$255,000",
+        "address": "950 25th St NW Unit 906-N, Washington, DC 20037",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "$1,257 HOA \u2022 Garage \u2022 Community pool",
+        "squareFootage": "",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,900",
+        "address": "1133 14th St NW #210, Washington, DC 20005",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "$705 HOA \u2022 Garage \u2022 Walker's paradise",
+        "squareFootage": "793 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,625,000",
+        "address": "1733 17th St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "3",
+        "propertyType": null,
+        "squareFootage": "3,776 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,425,000",
+        "address": "1807 T St NW, Washington, DC 20009",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": null,
+        "squareFootage": "2,268 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,000",
+        "address": "1330 New Hampshire Ave NW #201, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": null,
+        "squareFootage": "770 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$310,000",
+        "address": "1330 New Hampshire Ave NW #606, Washington, DC 20036",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "propertyType": null,
+        "squareFootage": "498 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$295,000",
+        "address": "1330 New Hampshire Ave NW #620, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": null,
+        "squareFootage": "504 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,942,500",
+        "address": "2139 N St NW #4, Washington, DC 20037",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": null,
+        "squareFootage": "1,850 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$446,000",
+        "address": "1615 New Hampshire Ave NW #52, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": null,
+        "squareFootage": "574 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,462,500",
+        "address": "1837 19th St NW, Washington, DC 20009",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": null,
+        "squareFootage": "2,000 sq ft",
+        "source": "Redfin"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$45,000",
+        "address": "1260 21st St NW #6, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": null,
+        "propertyType": "Condo",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$450,000",
+        "address": "1621 T St NW #T, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "734",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$230,000",
+        "address": "1725 17th St NW APT 503, Washington, DC 20009",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "440",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$247,500",
+        "address": "1711 Massachusetts Ave NW #432, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "473",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$410,000",
+        "address": "1918 18th St NW APT 42, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "525",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$649,000",
+        "address": "1709 21st St NW APT 42, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "New construction",
+        "squareFootage": "689",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$248,750",
+        "address": "1727 Massachusetts Ave NW #704, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "333",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$349,000",
+        "address": "1718 P St NW APT L18, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "437",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$475,000",
+        "address": "1514 21st St NW APT 1, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "534",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$29,950,000",
+        "address": "2000 Massachusetts Ave NW\n\nWashington, DC 20036",
+        "bedrooms": "4",
+        "bathrooms": "5F21/2",
+        "propertyType": null,
+        "squareFootage": "23,600",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$14,500,000",
+        "address": "2040 S St NW\n\nWashington, DC 20009",
+        "bedrooms": "12",
+        "bathrooms": "6F21/2",
+        "propertyType": null,
+        "squareFootage": "17,010",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,499,000",
+        "address": "1712 19th St NW\n\nWashington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "5F11/2",
+        "propertyType": null,
+        "squareFootage": "5,145",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,000,000",
+        "address": "1420 17th St NW\n\nWashington, DC 20036",
+        "bedrooms": "6",
+        "bathrooms": "4F11/2",
+        "propertyType": null,
+        "squareFootage": "5,258",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,999,999",
+        "address": "1860 19th St NW\n\nWashington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "1F31/2",
+        "propertyType": null,
+        "squareFootage": "8,198",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,895,000",
+        "address": "1611 Riggs Place NW\n\nWashington, DC 20009",
+        "bedrooms": "5",
+        "bathrooms": "4F11/2",
+        "propertyType": null,
+        "squareFootage": "3,685",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,495,000",
+        "address": "1725 19th St NW\n\nWashington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "5F11/2",
+        "propertyType": null,
+        "squareFootage": "4,500",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,150,000",
+        "address": "1610 Q St NW\n\nWashington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "4F11/2",
+        "propertyType": null,
+        "squareFootage": "3,692",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1769 T St NW\n\nWashington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "6F11/2",
+        "propertyType": null,
+        "squareFootage": "3,758",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1732 S St NW\n\nWashington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2F21/2",
+        "propertyType": null,
+        "squareFootage": "3,104",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,888,888",
+        "address": "1755 18th St NW\n\nWashington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "6",
+        "propertyType": null,
+        "squareFootage": "6,088",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,699,000",
+        "address": "2023 O St NW\n\nWashington, DC 20036",
+        "bedrooms": "6",
+        "bathrooms": "4F11/2",
+        "propertyType": null,
+        "squareFootage": "3,347",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$150,000",
+        "address": "1113 Washington Ave Unit 606, Saint Louis, MO 63101",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condos",
+        "squareFootage": "1,166 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$159,000",
+        "address": "1601 Washington Ave Unit 203, Saint Louis, MO 63103",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "1,318 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$299,900",
+        "address": "1619 Washington Ave Unit 902, Saint Louis, MO 63103",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$325,000",
+        "address": "1019 Forder Square Dr, Saint Louis, MO 63129",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "Condo",
+        "squareFootage": "1,968",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": null,
+        "address": "17307 Radcliffe Place Dr, Wildwood, MO 63025",
+        "bedrooms": "5",
+        "bathrooms": "3.5",
+        "propertyType": "Single Family",
+        "squareFootage": "3,104 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$645,000",
+        "address": "4561 Washington Blvd, Saint Louis, MO 63108",
+        "bedrooms": "5",
+        "bathrooms": "3.5",
+        "propertyType": "Single family",
+        "squareFootage": "8,211 sqft lot",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$385K",
+        "address": "316 E Washington St, Charles Town, WV 25414",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "Single Family",
+        "squareFootage": "2,129 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$339,500",
+        "address": "7054 Circleview Dr, Saint Louis, MO 63123",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "propertyType": "Single family",
+        "squareFootage": "1,837 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$162,900",
+        "address": "4000 Washington St, Florissant, MO 63033",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "Single family",
+        "squareFootage": "1,125 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,995,000",
+        "address": "9 Washington Ter, Saint Louis, MO 63112",
+        "bedrooms": "6",
+        "bathrooms": "4.5",
+        "propertyType": "Single family",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": null,
+        "address": "980 Washington St, Florissant, MO 63031",
+        "bedrooms": "3",
+        "bathrooms": "1.5",
+        "propertyType": "Single Family",
+        "squareFootage": "1,379 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$155,000",
+        "address": "295 Washington St, Florissant, MO 63031",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Single family",
+        "squareFootage": "7,841 sqft lot",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,695,000",
+        "address": "26 Woodcrest Dr, Ladue, MO 63124",
+        "bedrooms": "5",
+        "bathrooms": "4.5",
+        "propertyType": "Single family",
+        "squareFootage": "5,950 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$225,000",
+        "address": "75 E Washington St, Sullivan, MO 63080",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "Single family",
+        "squareFootage": "1,166 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": null,
+        "address": "112 Circle Dr, Saint Peters, MO 63376",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo Townhome Rowhome Coop",
+        "squareFootage": "735 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$274,900",
+        "address": "1591 N St Francois Rd, Bonne Terre, MO 63628",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "2,366",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$139,000",
+        "address": "603 Joan Ct, Bonne Terre, MO 63628",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "2,071",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$259,900",
+        "address": "423 Rice Rd, Bonne Terre, MO 63628",
+        "bedrooms": "3",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "1,720",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$22,500",
+        "address": "9321 Panoramic Dr Lots 26,27,28, Bonne Terre, MO 63628",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$60,000",
+        "address": "null, Bonne Terre, MO 63628",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Farm",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$89,900",
+        "address": "2129 Red Bud Dr, Bonne Terre, MO 63628",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "propertyType": "Foreclosure",
+        "squareFootage": "1,664",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$349,900",
+        "address": "207 Normandie Dr, Bonne Terre, MO 63628",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,617",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$265,000",
+        "address": "104 Ash St, Bonne Terre, MO 63628",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "2,000",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$100,000",
+        "address": "1282 S Canton Ave, Springfield, MO 65802",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "Foreclosure",
+        "squareFootage": "1,568",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$149,900",
+        "address": "1415 W Talmage St, Springfield, MO 65803",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "House for sale",
+        "squareFootage": "1,256",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$99,950",
+        "address": "1667 E Commercial St, Springfield, MO 65803",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "House for sale",
+        "squareFootage": "512",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$110,000",
+        "address": "861 S Pin Oak Dr, Springfield, MO 65809",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "Pending",
+        "squareFootage": "1,575",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$185,070",
+        "address": "4003 W Maple St, Springfield, MO 65802",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House for sale",
+        "squareFootage": "1,468",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$145,000",
+        "address": "2809 N Campbell Ave, Springfield, MO 65803",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "House for sale",
+        "squareFootage": "1,112",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$149,900",
+        "address": "805 S Barnes Ave, Springfield, MO 65802",
+        "bedrooms": "3",
+        "bathrooms": "1.5",
+        "propertyType": "Pending",
+        "squareFootage": "1,152",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$114,900",
+        "address": "1036 W Stanford St, Springfield, MO 65807",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House for sale",
+        "squareFootage": "1,042",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$194,900",
+        "address": "7613 E Gregory Blvd, Kansas City, MO 64133",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "Foreclosure",
+        "squareFootage": "2,484",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$284,990",
+        "address": "2208 E 43rd St, Kansas City, MO 64130",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House for sale",
+        "squareFootage": "1,209",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$150,000",
+        "address": "2414 Spruce Ave, Kansas City, MO 64127",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "House for sale",
+        "squareFootage": "1,686",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$133,500",
+        "address": "7611 E 112th St, Kansas City, MO 64134",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House for sale",
+        "squareFootage": "1,112",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$257,500",
+        "address": "6835 NE 116th Ter, Kansas City, MO 64156",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Townhouse for sale",
+        "squareFootage": "1,732",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$100,000",
+        "address": "3301 E 52nd St, Kansas City, MO 64130",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House for sale",
+        "squareFootage": "675",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$321,000",
+        "address": "11435 N Virginia Ave, Kansas City, MO 64155",
+        "bedrooms": "4",
+        "bathrooms": "2.5",
+        "propertyType": "House for sale",
+        "squareFootage": "2,003",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$39,750",
+        "address": "5624 E 55th St, Kansas City, MO 64130",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$340,000",
+        "address": "1005 Walnut Ln, Warrensburg, MO 64093",
+        "bedrooms": "3",
+        "bathrooms": "3.5",
+        "propertyType": "House",
+        "squareFootage": "3,056",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$118,500",
+        "address": "3 SW 575th Rd, Warrensburg, MO 64093",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$99,900",
+        "address": "403 E Market St, Warrensburg, MO 64093",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "2,284",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$120,000",
+        "address": "SE Dd Hwy, Warrensburg, MO 64093",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$260,000",
+        "address": "414 SW County Road BB Hwy, Warrensburg, MO 64093",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "1,430",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$378,900",
+        "address": "112 Post Oak Ct, Warrensburg, MO 64093",
+        "bedrooms": "5",
+        "bathrooms": "3.5",
+        "propertyType": "House",
+        "squareFootage": "2,600",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$219,500",
+        "address": "103 NW 800th Rd, Warrensburg, MO 64093",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,456",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$195,000",
+        "address": "95 NW 800th Rd, Warrensburg, MO 64093",
+        "bedrooms": "3",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "1,488",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$160,000",
+        "address": "705 Main St, Hughesville, MO 65334",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2,232",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$120,000",
+        "address": "Tbd 4 Acres Hwy, Hughesville, MO 65334",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "propertyType": "Farm",
+        "squareFootage": "2,214",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$120,000",
+        "address": "J Hwy, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$121,000",
+        "address": "Greenlawn Rd, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$189,000",
+        "address": "Bluebird Hollow Rd, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$120,000",
+        "address": "Tbd 7 71 Acres J Hwy, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$59,000",
+        "address": "Turkey Creek Rd Lot D, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$49,000",
+        "address": "Turkey Creek Rd Lot B, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$75,000",
+        "address": "Turkey Creek Rd Lot G, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$69,000",
+        "address": "Turkey Creek Rd Lot I, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$79,000",
+        "address": "Turkey Creek Rd Lot F, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$69,000",
+        "address": "Turkey Creek Rd Lot H, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$120,000",
+        "address": "14883 Highway J, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$59,000",
+        "address": "Turkey Creek Rd Lot C, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$99,000",
+        "address": "Turkey Creek Rd Lot E, Hughesville, MO 65334",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$195,000",
+        "address": "896 County Road 816, Gainesville, MO 65655",
+        "bedrooms": "6",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "3,800",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$59,000",
+        "address": "910 County Road 817, Gainesville, MO 65655",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "644",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$153,900",
+        "address": "541 County Road 806, Gainesville, MO 65655",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "968",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$145,000",
+        "address": "53 Della Rose Ln, Gainesville, MO 65655",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$189,000",
+        "address": "99 First St, Gainesville, MO 65655",
+        "bedrooms": "3",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "1,607",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$175,000",
+        "address": "193 Highway # 5-100, Gainesville, MO 65655",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,120",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$289,000",
+        "address": "730 County Road 815, Gainesville, MO 65655",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "2,700",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$385,000",
+        "address": "201 Barrett Hollow Ln, Gainesville, MO 65655",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "2,200",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$292,000",
+        "address": "15450 NW 124th Ter, Platte City, MO 64079",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1500 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$364,900",
+        "address": "15785 Meadow Ct, Platte City, MO 64079",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2772 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$380,000",
+        "address": "15795 Meadow Ct, Platte City, MO 64079",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1546 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$169,900",
+        "address": "517 1st St, Platte City, MO 64079",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "864 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$365,000",
+        "address": "2808 Maple Farm Rd, Platte City, MO 64079",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1780 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$350,000",
+        "address": "19620 Lane Tree Dr, Platte City, MO 64079",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1610 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$370,000",
+        "address": "1105 Baker Ridge Cir, Platte City, MO 64079",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2663 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$330,000",
+        "address": "15752 Meadow Ct, Platte City, MO 64079",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1480 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$239,999",
+        "address": "Wentzville, MO 63385",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1,184",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$386,047",
+        "address": "212 Westhaven Circle Dr, Wentzville, MO 63385",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1,728",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$307,952",
+        "address": "222 Aspen Daisy Ct, Wentzville, MO 63385",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,252",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$349,900",
+        "address": "1639 Polar Dr, Wentzville, MO 63385",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2,491",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$270,000",
+        "address": "667 Glenshee Dr, Wentzville, MO 63385",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,432",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "From$339,900",
+        "address": "Hickory Plan, Wildflower Estates Community, Wentzville, MO 63385",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,570",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "From$316,900",
+        "address": "Berwick Plan, Wildflower Manors Community, Wentzville, MO 63385",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1,728",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "From$312,900",
+        "address": "Aspen II Plan, Manors at Prairie Wind Community, Wentzville, MO 63385",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,539",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$359,900",
+        "address": "6615 Mulberry Acres Dr, Cedar Hill, MO 63016",
+        "bedrooms": "5",
+        "bathrooms": "4.5",
+        "propertyType": "House",
+        "squareFootage": "4,174",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$300,000",
+        "address": "7303 Sennawood Dr, Cedar Hill, MO 63016",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1,850",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$69,900",
+        "address": "7467 Woodland Dr, Cedar Hill, MO 63016",
+        "bedrooms": "1",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,039",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$75,000",
+        "address": "8398 Tomes Ln, Cedar Hill, MO 63016",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$284,900",
+        "address": "6631 Deerwood Dr, Cedar Hill, MO 63016",
+        "bedrooms": "3",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "1,482",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$38,000",
+        "address": "8438 High St, Cedar Hill, MO 63016",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$270,000",
+        "address": "8414 Golden Spring Ct, Cedar Hill, MO 63016",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1,448",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$245,000",
+        "address": "7322 Sennawood Dr, Cedar Hill, MO 63016",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "1,600",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$351,000",
+        "address": "501 Fletcher Ct, Smithville, MO 64089",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1917",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$349,900",
+        "address": "304 Woodhaven Dr, Smithville, MO 64089",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "3112",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$397,000",
+        "address": "827 County Road KK Hwy, Smithville, MO 64089",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "1814",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$375,000",
+        "address": "19111 NE Switchgrass Dr, Smithville, MO 64089",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2213",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$340,000",
+        "address": "14615 Green Castle St, Smithville, MO 64089",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1772",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$355,000",
+        "address": "512 S Commercial Ave, Smithville, MO 64089",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2554",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$325,000",
+        "address": "14820 Ashmont Ln, Smithville, MO 64089",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Townhouse",
+        "squareFootage": "1344",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$385,000",
+        "address": "101 Asher Bay St, Smithville, MO 64089",
+        "bedrooms": "4",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "2678",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$165,000",
+        "address": "306 N Olive St, Otterville, MO 65348",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,336 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$120,000",
+        "address": "Countryside Cir Lots 11 & 12, Otterville, MO 65348",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$163,000",
+        "address": "1210 Red Fox Rd, Otterville, MO 65348",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$43,000",
+        "address": "Countryside Cir Lot 15, Otterville, MO 65348",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$30,000",
+        "address": "Countryside Cir Lot 21, Otterville, MO 65348",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$53,000",
+        "address": "Countryside Cir Lot 3, Otterville, MO 65348",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$45,000",
+        "address": "Countryside Cir Lot 1, Otterville, MO 65348",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$36,000",
+        "address": "Countryside Cir Lot 13, Otterville, MO 65348",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,900",
+        "address": "201 State Road O, Fair Grove, MO 65648",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,796",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$215,000",
+        "address": "9326 E State Hwy E, Fair Grove, MO 65648",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,400",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$210,000",
+        "address": "4139 E Farm Road 34, Fair Grove, MO 65648",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,212",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$385,900",
+        "address": "2194 E Farm Road 56, Fair Grove, MO 65648",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2,688",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$379,900",
+        "address": "11727 N Farm Road 241, Fair Grove, MO 65648",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,491",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$339,000",
+        "address": "3253 E Farm Road 34, Fair Grove, MO 65648",
+        "bedrooms": "2",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "1,540",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$184,900",
+        "address": "10838 N Honeydew Ln, Fair Grove, MO 65648",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "936",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$395,000",
+        "address": "5604 Highway AB, Fair Grove, MO 65648",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$165,000",
+        "address": "2145 Cotton Rock Rd, Cedarcreek, MO 65627",
+        "bedrooms": "5",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,760",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$129,000",
+        "address": "144 and 162 Cotton Rock Rd, Cedarcreek, MO 65627",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "1,023",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$350,000",
+        "address": "452 Coon Hill Rd, Cedarcreek, MO 65627",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "3,040",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$159,900",
+        "address": "226 Sedgewick Rd, Cedarcreek, MO 65627",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,600",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$89,900",
+        "address": "687 Dallas Rd, Cedarcreek, MO 65627",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "800",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$45,000",
+        "address": "115 Powell Blvd, Cedarcreek, MO 65627",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "950",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$139,000",
+        "address": "160 Georgia Rd, Cedarcreek, MO 65627",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "930",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$149,900",
+        "address": "1118A B Fine Rd, Cedarcreek, MO 65627",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "780",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$325,000",
+        "address": "420 E 6th St, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2,486",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$174,000",
+        "address": "204 W Ford St, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$218,500",
+        "address": "518 S Sturgeon St, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "4,882",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$199,900",
+        "address": "410 N State St, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$165,000",
+        "address": "302 E Walsh St, Montgomery City, MO 63361",
+        "bedrooms": "4",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "2,025",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$157,900",
+        "address": "108 N Lyons Ave, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "936",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$208,000",
+        "address": "14 Dogwood Ct, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$109,900",
+        "address": "305 S Walker St, Montgomery City, MO 63361",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$379,900",
+        "address": "850 White Rd, Montgomery City, MO 63361",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "3,783",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$229,900",
+        "address": "637 S Wentz St, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,743",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$114,900",
+        "address": "231 S Sturgeon St, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$192,500",
+        "address": "304 E Spinsby St, Montgomery City, MO 63361",
+        "bedrooms": "2",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "2,489",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$189,900",
+        "address": "309 E Spinsby St, Montgomery City, MO 63361",
+        "bedrooms": "4",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "1,740",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$15,000",
+        "address": "N State St Lots 3 & 4, Montgomery City, MO 63361",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": "9,583",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$179,900",
+        "address": "125 S Wentz St Apt A, Montgomery City, MO 63361",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "5,227",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$450,000",
+        "address": "Peck/Wildcat Rd, Croswell, MI 48422",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land",
+        "squareFootage": "827640",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$599,000",
+        "address": "1525 Shenandoah St, Hollywood, FL 33020",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "1,404",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$489,900",
+        "address": "1817 Cleveland St, Hollywood, FL 33020",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "988",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$169,000",
+        "address": "Unit 306, Lauderhill, FL 33313",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,202",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$170,000",
+        "address": "2844 NW 55th Ave Apt 1A, Lauderhill, FL 33313",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,070",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$850,000",
+        "address": "505 N Ft Lauderdale Bch Blvd Unit 224, Fort Lauderdale, FL 33304",
+        "bedrooms": "3",
+        "bathrooms": "3.5",
+        "propertyType": "Condo",
+        "squareFootage": "2,757",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$115,000",
+        "address": "6301 N Falls Circle Dr Apt 309, Lauderhill, FL 33319",
+        "bedrooms": "1",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": "870",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$159,900",
+        "address": "214 Prescott K Unit 214, Deerfield Beach, FL 33442",
+        "bedrooms": "2",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": "820",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$165,889",
+        "address": "400 NE 12th Ave Apt 305, Hallandale Beach, FL 33009",
+        "bedrooms": "1",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": "920",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$830,000",
+        "address": "461 County Road 1812 Clifton, TX 76634",
+        "bedrooms": "4",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "2,966",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$499,500",
+        "address": "3322 Woodbine Blvd Tyler, TX 75701",
+        "bedrooms": "4",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "3,140",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$370,000",
+        "address": "1211 Lady Ln Duncanville, TX 75116",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2,856",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$449,000",
+        "address": "130 Hideaway Cir Trinidad, TX 75163",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "House",
+        "squareFootage": "1,284",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$549,950",
+        "address": "421 Bevo Trl Tool, TX 75143",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,314",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$125,000",
+        "address": "601 Avenue I SE Childress, TX 79201",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,910",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$439,000",
+        "address": "208 Coolidge St Mason, TX 76856",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "2,089",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$329,900",
+        "address": "650 Westwood Dr Abilene, TX 79603",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "2,703",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,000",
+        "address": "1400 Hubbell Pl Apt 1209, Seattle, WA 98101",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Apt",
+        "squareFootage": "724",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$329,950",
+        "address": "1400 Hubbell Pl Apt 1103, Seattle, WA 98101",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apt",
+        "squareFootage": "568",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$377,500",
+        "address": "1400 Hubbell Pl Apt 301, Seattle, WA 98101",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Apt",
+        "squareFootage": "817",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$370,000",
+        "address": "1400 Hubbell Pl Apt 711, Seattle, WA 98101",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apt",
+        "squareFootage": "660",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$398,000",
+        "address": "1400 Hubbell Pl Apt 813, Seattle, WA 98101",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apt",
+        "squareFootage": "602",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$295,000",
+        "address": "1000 Union St Apt 205, Seattle, WA 98101",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apt",
+        "squareFootage": "574",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$910,000",
+        "address": "1400 Hubbell Pl Apt 1510, Seattle, WA 98101",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Apt",
+        "squareFootage": "1,414",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$309,000",
+        "address": "1400 Hubbell Pl Apt 504, Seattle, WA 98101",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Apt",
+        "squareFootage": "491",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,321,000",
+        "address": "1213 McConnell Dr, Decatur, GA 30033",
+        "bedrooms": "Studio",
+        "bathrooms": null,
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$189,000",
+        "address": "2347 Newnan St, Atlanta, GA 30344",
+        "bedrooms": "20",
+        "bathrooms": "10",
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$570,000",
+        "address": "673 Windsor St SW, Atlanta, GA 30310",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Multi-family home",
+        "squareFootage": "4,487sqft lot",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$650,000",
+        "address": "1478 Beecher St SW, Atlanta, GA 30310",
+        "bedrooms": "9",
+        "bathrooms": "5",
+        "propertyType": "Multi-family home",
+        "squareFootage": "9,500sqft lot",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$675,000",
+        "address": "803 Lake Ave NE, Atlanta, GA 30307",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "Multi-family home",
+        "squareFootage": "4,948sqft lot",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$550,000",
+        "address": "5155 Wexford Ln, Norcross, GA 30071",
+        "bedrooms": "10",
+        "bathrooms": "4",
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$220,000",
+        "address": "403 Westchester Blvd NW, Atlanta, GA 30314",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Multi-family home",
+        "squareFootage": "7,013sqft lot",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$405,000",
+        "address": "2953 Collier Dr NW, Atlanta, GA 30318",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$875,600",
+        "address": "3585 Lee St, College Park, GA 30337",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Multi-family home",
+        "squareFootage": "0.31acre lot",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$559,990",
+        "address": "Dardenne Prairie, MO 63368",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "2,387",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$575,000",
+        "address": "7271 Ellington Ct, Dardenne Prairie, MO 63368",
+        "bedrooms": "4",
+        "bathrooms": "3.5",
+        "propertyType": "House",
+        "squareFootage": "3,752",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$468,900",
+        "address": "Dardenne Prairie, MO 63368",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,621",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$995,000",
+        "address": "1181 Saint Theresa Dr, Dardenne Prairie, MO 63368",
+        "bedrooms": "5",
+        "bathrooms": "5.5",
+        "propertyType": "House",
+        "squareFootage": "4,218",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$550,000",
+        "address": "7264 Westfield Ct, Dardenne Prairie, MO 63368",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "3,014",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$400,000",
+        "address": "282 Royallsprings Pkwy, O'Fallon, MO 63368",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "2,720",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$540,000",
+        "address": "938 Hampshire Heath Dr, O'Fallon, MO 63368",
+        "bedrooms": "4",
+        "bathrooms": "3.5",
+        "propertyType": "House",
+        "squareFootage": "4,067",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$669,900",
+        "address": "633 Cruden Bay Ct, O'Fallon, MO 63368",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "propertyType": "House",
+        "squareFootage": "3,204",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$165,000",
+        "address": "605 N Spanish St, Cape Girardeau, MO 63701",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$175,000",
+        "address": "520 S Sprigg St, Cape Girardeau, MO 63703",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$192,500",
+        "address": "324 326 S Louisiana St, Cape Girardeau, MO 63703",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "propertyType": "Multi-family home",
+        "squareFootage": "7,057 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$199,000",
+        "address": "1022 Village Ln, Cape Girardeau, MO 63701",
+        "bedrooms": "6",
+        "bathrooms": "2.5",
+        "propertyType": "Multi-family home",
+        "squareFootage": "8,015 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$184,000",
+        "address": "1442 Themis St, Cape Girardeau, MO 63701",
+        "bedrooms": "6",
+        "bathrooms": "3",
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$805,000",
+        "address": "12 and 16 Creekside Way, Cape Girardeau, MO 63701",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$660,000",
+        "address": "4 and 8 Creekside Way, Cape Girardeau, MO 63701",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$229,900",
+        "address": "3 5 N Henderson Ave, Cape Girardeau, MO 63701",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "propertyType": "Multi-family home",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,625,000",
+        "address": "1733 17th St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "3",
+        "propertyType": "Single Family Home",
+        "squareFootage": "3,776",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$310,000",
+        "address": "1330 New Hampshire Ave NW Apt 606, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "498",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$295,000",
+        "address": "1330 New Hampshire Ave NW Apt 620, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "504",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,942,500",
+        "address": "2139 N St NW Unit 4, Washington, DC 20037",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,850",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,007,000",
+        "address": "1705 Q St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "3.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "4,188",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,100,000",
+        "address": "2015 R St NW, Washington, DC 20009",
+        "bedrooms": "16",
+        "bathrooms": "7",
+        "propertyType": "Single Family Home",
+        "squareFootage": "6,256",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,750,000",
+        "address": "2034 O St NW, Washington, DC 20036",
+        "bedrooms": "5",
+        "bathrooms": "3.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "3,554",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$315,000",
+        "address": "1330 New Hampshire Ave NW Apt 502, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "503",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$305,000",
+        "address": "1 Scott Cir NW Unit 402, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "589",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$530,000",
+        "address": "1816 19th St NW Apt 4, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "586",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$485,000",
+        "address": "1615 Q St NW Apt 407, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "746",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$550,000",
+        "address": "1708 19th St NW Unit 1, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "813",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,425,000",
+        "address": "1503 Church St NW, Washington, DC 20005",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "1,724",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,216,000",
+        "address": "1500 17th St NW Unit 1, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,260",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$380,000",
+        "address": "1718 P St NW Apt 215, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "455",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$621,416",
+        "address": "1416 21st St NW Apt 101, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": "835",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$730,000",
+        "address": "1625 Q St NW Apt 103, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,185",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$340,000",
+        "address": "1704 19th St NW Apt 4, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "451",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$810,000",
+        "address": "1401 17th St NW Apt 312, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,012",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$569,000",
+        "address": "2012 O St NW Apt 24, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "716",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$499,000",
+        "address": "1740 New Hampshire Ave NW Apt D, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,190",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,500,000",
+        "address": "2023 Q St NW, Washington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "3.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "5,816",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$375,000",
+        "address": "1634 S St NW Unit 5, Washington, DC 20009",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$424,900",
+        "address": "1725 17th St NW Apt 506, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,600,000",
+        "address": "1108 16th St NW Unit 501, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,673",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$225,000",
+        "address": "1601 18th St NW Apt 318, Washington, DC 20009",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "410",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,590,000",
+        "address": "1820 19th St NW Unit 4, Washington, DC 20009",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "propertyType": "Condo",
+        "squareFootage": "1,665",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,145,000",
+        "address": "1703 Q St NW, Washington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "4",
+        "propertyType": "Single Family Home",
+        "squareFootage": "4,141",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1519 Swann St NW, Washington, DC 20009",
+        "bedrooms": "4",
+        "bathrooms": "4.5",
+        "propertyType": "Single Family Home",
+        "squareFootage": "3,213",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$590,000",
+        "address": "1634 S St NW Unit 1, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,850,000",
+        "address": "2106 O St NW, Washington, DC 20037",
+        "bedrooms": "4",
+        "bathrooms": null,
+        "propertyType": "Single Family Home",
+        "squareFootage": "2,900",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$275,000",
+        "address": "1601 18th St NW Apt 1014, Washington, DC 20009",
+        "bedrooms": "Studio",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "470",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$690,000",
+        "address": "1634 S St NW Unit 2, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": "901",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$335,000",
+        "address": "1833 S St NW Apt 43, Washington, DC 20009",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "528",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$580,000",
+        "address": "1502 Q St NW Apt 2, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "1.5",
+        "propertyType": "Condo",
+        "squareFootage": "982",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$745,000",
+        "address": "1721 20th St NW Apt T01, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "1,072",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$400,000",
+        "address": "1545 18th St NW Unit 218, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "750",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$397,500",
+        "address": "1545 18th St NW Unit 117, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "683",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$844,900",
+        "address": "1721 21st St NW Apt 304, Washington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "Condo",
+        "squareFootage": "922",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$895,000",
+        "address": "1745 N St NW Unit 111, Washington, DC 20036",
+        "bedrooms": "2",
+        "bathrooms": "2.5",
+        "propertyType": "Condo",
+        "squareFootage": "1,426",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$340,000",
+        "address": "1 Scott Cir NW Unit 721, Washington, DC 20036",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": "Condo",
+        "squareFootage": "677",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$295,000",
+        "address": "Old Highway 100, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$159,000",
+        "address": "976 Foggy Ct Lot 17, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$129,900",
+        "address": "English Crest 7 /-Acres Dr, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$45,900",
+        "address": "881 Cobblestone Dr Lot 16, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$57,900",
+        "address": "188 Wind Crest Ct Lot 188, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$62,450",
+        "address": "N 4 Mile Rd Lot 5, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$97,400",
+        "address": "Stoney Point Ct Lot 18R, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$65,000",
+        "address": "685 Greystone Dr Lot 28, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$65,000",
+        "address": "232 N Crest Dr Lot 232, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$49,900",
+        "address": "115 Carmel Ln Lot 5, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$64,000",
+        "address": "234 N Crest Dr Lot 234, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$67,000",
+        "address": "235 N Crest Dr Lot 235, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$49,900",
+        "address": "660 Greystonelot 33 Dr Lot 33, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$74,900",
+        "address": "2916 Shirley Close Rd, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$69,900",
+        "address": "509 Mill Creek Ln Lot 45, Washington, MO 63090",
+        "bedrooms": null,
+        "bathrooms": null,
+        "propertyType": "Land for sale",
+        "squareFootage": null,
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$300,000",
+        "address": "1254 Pin Oak Ln, Caseyville, IL 62232",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "3,526 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$210,000",
+        "address": "44 Potomac Dr, Fairview Heights, IL 62208",
+        "bedrooms": "4",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "2,079 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$442,500",
+        "address": "746 Uc Conner Cir, Fairview Heights, IL 62208",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "2,112 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$408,800",
+        "address": "744 Uc Conner Cir, Fairview Heights, IL 62208",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,942 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$385,000",
+        "address": "713 Conner Cir, Fairview Heights, IL 62208",
+        "bedrooms": "4",
+        "bathrooms": "2.5",
+        "propertyType": "House",
+        "squareFootage": "1,882 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$140,000",
+        "address": "204 Dogwood Ln, Fairview Heights, IL 62208",
+        "bedrooms": "3",
+        "bathrooms": "1.5",
+        "propertyType": "House",
+        "squareFootage": "1,026 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$170,000",
+        "address": "701 Tower Grove Dr Apt A, Fairview Heights, IL 62208",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,100 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$375,000",
+        "address": "703 Applewood Creek Dr, Fairview Heights, IL 62208",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,818 sqft",
+        "source": "Realtor"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$309,000",
+        "address": "1718 P St NW #411, \nWashington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1ba",
+        "propertyType": "Studio",
+        "squareFootage": "453 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,285,000",
+        "address": "1325 21st St NW #301, \nWashington, DC 20036",
+        "bedrooms": "2bd",
+        "bathrooms": "2ba",
+        "propertyType": "Condo",
+        "squareFootage": "1,223 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,715,000",
+        "address": "2122 N St NW #2, \nWashington, DC 20037",
+        "bedrooms": "3bd",
+        "bathrooms": "4ba",
+        "propertyType": "Condo",
+        "squareFootage": "2,191 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$399,900",
+        "address": "1926 New Hampshire Ave NW #25, \nWashington, DC 20009",
+        "bedrooms": "1bd",
+        "bathrooms": "1ba",
+        "propertyType": "Condo",
+        "squareFootage": "610 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$450,000",
+        "address": "1621 T St NW #T, \nWashington, DC 20009",
+        "bedrooms": "2bd",
+        "bathrooms": "1ba",
+        "propertyType": "Condo",
+        "squareFootage": "734 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1732 S St NW, \nWashington, DC 20009",
+        "bedrooms": "2bd",
+        "bathrooms": "4ba",
+        "propertyType": "Condo",
+        "squareFootage": "3,104 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$249,900",
+        "address": "1705 P St NW #1, \nWashington, DC 20036",
+        "bedrooms": "1bd",
+        "bathrooms": "1ba",
+        "propertyType": "Condo",
+        "squareFootage": "447 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,999,000",
+        "address": "1735 Fraser Ct NW, \nWashington, DC 20009",
+        "bedrooms": "6",
+        "bathrooms": "4",
+        "propertyType": "House",
+        "squareFootage": "5,887 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,888,888",
+        "address": "1755 18th St NW, \nWashington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "6",
+        "propertyType": "House",
+        "squareFootage": "6,088 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,999,999",
+        "address": "1860 19th St NW, \nWashington, DC 20009",
+        "bedrooms": "7",
+        "bathrooms": "4",
+        "propertyType": "House",
+        "squareFootage": "8,198 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,695,000",
+        "address": "2506 I St NW, \nWashington, DC 20037",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "propertyType": "House",
+        "squareFootage": "1,970 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$5,475,000",
+        "address": "2429 California St NW, \nWashington, DC 20008",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "propertyType": "House",
+        "squareFootage": "4,752 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,500,000",
+        "address": "2019 Connecticut Ave NW, \nWashington, DC 20008",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "propertyType": "House",
+        "squareFootage": "5,524 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,200,000",
+        "address": "1530 15th St NW, \nWashington, DC 20005",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "propertyType": "House",
+        "squareFootage": "3,265 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,295,000",
+        "address": "1413 Swann St NW #1415-1413R, \nWashington, DC 20009",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "propertyType": "House",
+        "squareFootage": "1,250 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$6,995,000",
+        "address": "1832 24th St NW, \nWashington, DC 20008",
+        "bedrooms": "4",
+        "bathrooms": "6",
+        "propertyType": "House",
+        "squareFootage": "5,164 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,495,000",
+        "address": "2411 Tracy Pl NW, \nWashington, DC 20008",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "propertyType": "House",
+        "squareFootage": "3,600 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$309,000",
+        "address": "1718 P St NW #411, \nWashington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1ba",
+        "propertyType": "Condo",
+        "squareFootage": "453 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$247,500",
+        "address": "1711 Massachusetts Ave NW #432, \nWashington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1ba",
+        "propertyType": "Condo",
+        "squareFootage": "473 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$450,000",
+        "address": "1621 T St NW #T3, \nWashington, DC 20009",
+        "bedrooms": "2bd",
+        "bathrooms": "1ba",
+        "propertyType": "Condo",
+        "squareFootage": "734 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,699,000",
+        "address": "2023 O St NW, \nWashington, DC 20036",
+        "bedrooms": "6bd",
+        "bathrooms": "5ba",
+        "propertyType": null,
+        "squareFootage": "3,347 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,495,000",
+        "address": "1725 19th St NW, \nWashington, DC 20009",
+        "bedrooms": "6bd",
+        "bathrooms": "6ba",
+        "propertyType": null,
+        "squareFootage": "4,500 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,750,000",
+        "address": "2509 P St NW, \nWashington, DC 20007",
+        "bedrooms": "4bd",
+        "bathrooms": "4ba",
+        "propertyType": null,
+        "squareFootage": "3,034 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$875,000",
+        "address": "2013 Columbia Rd NW #E, \nWashington, DC 20009",
+        "bedrooms": "2bd",
+        "bathrooms": "1ba",
+        "propertyType": null,
+        "squareFootage": "965 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,200,000",
+        "address": "2137 R St NW, \nWashington, DC 20008",
+        "bedrooms": "5bd",
+        "bathrooms": "6ba",
+        "propertyType": null,
+        "squareFootage": "5,743 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,695,000",
+        "address": "2506 I St NW, \nWashington, DC 20037",
+        "bedrooms": "3bd",
+        "bathrooms": "4ba",
+        "propertyType": null,
+        "squareFootage": "1,970 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,050,000",
+        "address": "818 New Hampshire Ave NW, \nWashington, DC 20037",
+        "bedrooms": "2bd",
+        "bathrooms": "2ba",
+        "propertyType": null,
+        "squareFootage": "1,110 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,100,000",
+        "address": "1426 Rhode Island Ave NW #B, \nWashington, DC 20005",
+        "bedrooms": "4bd",
+        "bathrooms": "4ba",
+        "propertyType": null,
+        "squareFootage": "1,599 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$5,475,000",
+        "address": "2429 California St NW, \nWashington, DC 20008",
+        "bedrooms": "4bd",
+        "bathrooms": "5ba",
+        "propertyType": null,
+        "squareFootage": "4,752 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,715,000",
+        "address": "2122 N St NW, Washington, DC 20037",
+        "bedrooms": "3bd",
+        "bathrooms": "4ba",
+        "propertyType": null,
+        "squareFootage": "2,191 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,699,000",
+        "address": "2023 O St NW, Washington, DC 20036",
+        "bedrooms": "6bd",
+        "bathrooms": "5ba",
+        "propertyType": null,
+        "squareFootage": "3,347 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,495,000",
+        "address": "1725 19th St NW, Washington, DC 20009",
+        "bedrooms": "6bd",
+        "bathrooms": "6ba",
+        "propertyType": null,
+        "squareFootage": "4,500 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,000,000",
+        "address": "1821 T St NW, Washington, DC 20009",
+        "bedrooms": "10bd",
+        "bathrooms": null,
+        "propertyType": null,
+        "squareFootage": "3,850 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,895,000",
+        "address": "1611 Riggs Pl NW, Washington, DC 20009",
+        "bedrooms": "5bd",
+        "bathrooms": "5ba",
+        "propertyType": null,
+        "squareFootage": "3,685 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$3,150,000",
+        "address": "1610 Q St NW, Washington, DC 20009",
+        "bedrooms": "6bd",
+        "bathrooms": "5ba",
+        "propertyType": null,
+        "squareFootage": "3,692 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,950,000",
+        "address": "1769 T St NW, Washington, DC 20009",
+        "bedrooms": "7bd",
+        "bathrooms": "7ba",
+        "propertyType": null,
+        "squareFootage": "3,758 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$2,750,000",
+        "address": "2509 P St NW, Washington, DC 20007",
+        "bedrooms": "4bd",
+        "bathrooms": "4ba",
+        "propertyType": null,
+        "squareFootage": "3,034 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$4,200,000",
+        "address": "2137 R St NW, Washington, DC 20008",
+        "bedrooms": "5bd",
+        "bathrooms": "6ba",
+        "propertyType": null,
+        "squareFootage": "5,743 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,695,000",
+        "address": "2506 I St NW, Washington, DC 20037",
+        "bedrooms": "3bd",
+        "bathrooms": "4ba",
+        "propertyType": null,
+        "squareFootage": "1,970 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,100,000",
+        "address": "1426 Rhode Island Ave NW #B, Washington, DC 20005",
+        "bedrooms": "4bd",
+        "bathrooms": "4ba",
+        "propertyType": null,
+        "squareFootage": "1,599 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$5,475,000",
+        "address": "2429 California St NW, Washington, DC 20008",
+        "bedrooms": "4bd",
+        "bathrooms": "5ba",
+        "propertyType": null,
+        "squareFootage": "4,752 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$949,000",
+        "address": "1840 Vernon St NW #303, Washington, DC 20009",
+        "bedrooms": "3bd",
+        "bathrooms": "2ba",
+        "propertyType": null,
+        "squareFootage": "1,295 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,500,000",
+        "address": "1501 Church St NW, Washington, DC 20005",
+        "bedrooms": "3bd",
+        "bathrooms": "3ba",
+        "propertyType": null,
+        "squareFootage": "1,710 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$239,995",
+        "address": "922 24th St NW #410, Washington, DC 20037",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "propertyType": null,
+        "squareFootage": "475 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$309,000",
+        "address": "1718 P St NW #411, Washington, DC 20036",
+        "bedrooms": "Studio",
+        "bathrooms": "1ba",
+        "propertyType": null,
+        "squareFootage": "453 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$315,000",
+        "address": "276 M St SW #276, Washington, DC 20024",
+        "bedrooms": "1bd",
+        "bathrooms": "1ba",
+        "propertyType": null,
+        "squareFootage": "580 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$799,000",
+        "address": "921 5th St SE, Washington, DC 20003",
+        "bedrooms": "2bd",
+        "bathrooms": "3ba",
+        "propertyType": null,
+        "squareFootage": "980 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,750,000",
+        "address": "744 7th St SE, Washington, DC 20003",
+        "bedrooms": "5bd",
+        "bathrooms": "5ba",
+        "propertyType": null,
+        "squareFootage": "2,740 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$930,000",
+        "address": "1077 30th St NW #705, Washington, DC 20007",
+        "bedrooms": "2bd",
+        "bathrooms": "2ba",
+        "propertyType": null,
+        "squareFootage": "1,119 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "$1,700,000",
+        "address": "4532 Macomb St NW, Washington, DC 20016",
+        "bedrooms": "4bd",
+        "bathrooms": "4ba",
+        "propertyType": null,
+        "squareFootage": "2,345 sqft",
+        "source": "Trulia"
+      },
+      "geometry": null
+    }
+  ],
+  "metadata": {
+    "neighborhood": "Dupont Circle",
+    "timestamp": "2025-03-17 22:03:26",
+    "total_properties": 552,
+    "sources": [
+      "Zillow",
+      "Redfin",
+      "Realtor",
+      "Trulia"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "documentType": "zoning_ordinance",
+  "documentTitle": "ZONING ORDINANCE EXCERPT",
+  "effectiveDate": "",
+  "jurisdiction": "CITY OF LOS ANGELES",
+  "summary": "",
+  "zoning": [
+    {
+      "zoneCode": "R1",
+      "zoneName": "Single Family Residential",
+      "allowedUses": [
+        "Single family homes",
+        "parks",
+        "playgrounds"
+      ],
+      "prohibitedUses": [
+        "Multi-family housing",
+        "commercial buildings"
+      ],
+      "developmentStandards": {
+        "heightLimit": "35 feet",
+        "farLimit": "0.45",
+        "setbacks": {
+          "front": "20 feet",
+          "side": "5 feet",
+          "rear": "15 feet"
+        }
+      }
+    },
+    {
+      "zoneCode": "C2",
+      "zoneName": "Commercial",
+      "allowedUses": [
+        "Retail",
+        "restaurants",
+        "offices",
+        "hotels"
+      ],
+      "prohibitedUses": [
+        "Heavy industrial",
+        "manufacturing"
+      ],
+      "developmentStandards": {
+        "heightLimit": "75 feet",
+        "farLimit": "1.5",
+        "setbacks": "None required except when adjacent to residential"
+      }
+    }
+  ],
+  "geographicReferences": [
+    {
+      "referenceType": "zone",
+      "name": "Downtown Commercial District",
+      "identifier": "C-2"
+    },
+    {
+      "referenceType": "neighborhood",
+      "name": "Harbor Hills",
+      "identifier": ""
+    }
+  ]
+}

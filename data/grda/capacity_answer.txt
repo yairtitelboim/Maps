@@ -1,0 +1,33 @@
+================================================================================
+GRDA GENERATING CAPACITY SUMMARY
+================================================================================
+
+CURRENT CAPACITY BY RESOURCE TYPE:
+--------------------------------------------------------------------------------
+  Hydro: 512 MW (27.9%)
+  Gas: 938 MW (51.1%)
+  Purchase_Contracts: 387 MW (21.1%)
+
+  TOTAL: 1,837 MW
+
+GENERATING UNITS:
+--------------------------------------------------------------------------------
+  • Run-of-River Hydro: 126 MW (Hydro) - Commissioned: None
+  • Salina Pumped Storage: 258 MW (Hydro) - Commissioned: None
+  • Thermal Generation: 1010 MW (Thermal) - Commissioned: None
+  • Wind Generation: 247 MW (Wind) - Commissioned: None
+  • Combined Cycle Gas: 443 MW (Gas) - Commissioned: None
+  • Grand River Energy Center: 495 MW (Gas) - Commissioned: None
+
+PLANNED ADDITIONS:
+--------------------------------------------------------------------------------
+  • GREC 3: 495 MW - In Service: 2017-12 (planned)
+
+PLANNED RETIREMENTS: None found in documents.
+
+SOURCES:
+--------------------------------------------------------------------------------
+  • GRDA_2016_CAFR_FINAL_Posted-to-EMMA-and-Website-2017-06-30-1
+    file://data/grda/pdfs/permits/GRDA_2016_CAFR_FINAL_Posted-to-EMMA-and-Website-2017-06-30-1.pdf
+
+================================================================================

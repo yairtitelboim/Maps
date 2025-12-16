@@ -1,0 +1,14 @@
+{
+  "processing_date": "2025-11-07T12:50:29.348211",
+  "stats": {
+    "total_pdfs": 1,
+    "processed": 1,
+    "failed": 0,
+    "total_pages": 82,
+    "total_characters": 285407,
+    "total_chunks": 317,
+    "total_tables": 0,
+    "total_figures": 104
+  },
+  "processed_documents": 1
+}

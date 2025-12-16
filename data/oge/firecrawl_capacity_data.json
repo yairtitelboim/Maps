@@ -1,0 +1,186 @@
+{
+  "generating_units": [
+    {
+      "name": "Mustang Power Plant",
+      "type": "Gas",
+      "net_MW": 1200,
+      "fuel": "Gas",
+      "latitude": 35.3928,
+      "longitude": -97.7247,
+      "location": "Mustang, OK",
+      "notes": "Combined cycle natural gas"
+    },
+    {
+      "name": "Seminole Power Plant",
+      "type": "Gas",
+      "net_MW": 1200,
+      "fuel": "Gas",
+      "latitude": 35.2244,
+      "longitude": -96.6703,
+      "location": "Seminole, OK",
+      "notes": "Combined cycle natural gas"
+    },
+    {
+      "name": "Sooner Power Plant",
+      "type": "Gas",
+      "net_MW": 1200,
+      "fuel": "Gas",
+      "latitude": 36.2831,
+      "longitude": -97.5164,
+      "location": "Red Rock, OK",
+      "notes": "Combined cycle natural gas"
+    },
+    {
+      "name": "Frontier Power Plant",
+      "type": "Gas",
+      "net_MW": 1200,
+      "fuel": "Gas",
+      "latitude": 36.1156,
+      "longitude": -97.0584,
+      "location": "Stillwater, OK area",
+      "notes": "Combined cycle natural gas - serves Stillwater"
+    },
+    {
+      "name": "Riverside Power Plant",
+      "type": "Gas",
+      "net_MW": 600,
+      "fuel": "Gas",
+      "latitude": 35.4676,
+      "longitude": -97.5164,
+      "location": "Oklahoma City, OK",
+      "notes": "Natural gas"
+    },
+    {
+      "name": "Horseshoe Lake Power Plant",
+      "type": "Gas",
+      "net_MW": 400,
+      "fuel": "Gas",
+      "latitude": 35.4676,
+      "longitude": -97.5164,
+      "location": "Oklahoma City, OK",
+      "notes": "Natural gas peaking"
+    },
+    {
+      "name": "Chouteau Power Plant",
+      "type": "Coal",
+      "net_MW": 520,
+      "fuel": "Coal",
+      "latitude": 36.1887,
+      "longitude": -95.289,
+      "location": "Chouteau, OK",
+      "notes": "Coal-fired"
+    },
+    {
+      "name": "Muskogee Power Plant",
+      "type": "Coal",
+      "net_MW": 1046,
+      "fuel": "Coal",
+      "latitude": 35.7479,
+      "longitude": -95.3697,
+      "location": "Muskogee, OK",
+      "notes": "Coal-fired"
+    },
+    {
+      "name": "OG&E Wind Farms",
+      "type": "Wind",
+      "net_MW": 498,
+      "fuel": "Wind",
+      "latitude": 35.4676,
+      "longitude": -97.5164,
+      "location": "Oklahoma (multiple locations)",
+      "notes": "Wind generation portfolio"
+    },
+    {
+      "name": "OG&E Solar Farms",
+      "type": "Solar",
+      "net_MW": 285,
+      "fuel": "Solar",
+      "latitude": 35.4676,
+      "longitude": -97.5164,
+      "location": "Oklahoma (multiple locations)",
+      "notes": "Solar generation portfolio"
+    }
+  ],
+  "capacity_mix": {
+    "Gas_MW": 4767,
+    "Coal_MW": 1566,
+    "Wind_MW": 498,
+    "Solar_MW": 285
+  },
+  "rates": {
+    "commercial_rate_per_kwh": 0.08,
+    "industrial_rate_per_kwh": 0.065,
+    "demand_charge_per_kw": null,
+    "time_of_use_available": true,
+    "rate_structure": [
+      "Commercial rates available",
+      "Industrial rates available",
+      "Time-of-use rates available",
+      "Large customer rates negotiable"
+    ],
+    "notes": "Rates are approximate and may vary. Actual rates depend on rate schedule and contract terms."
+  },
+  "service_territory": {
+    "cities_served": [
+      "stillwater",
+      "oklahoma city",
+      "okc",
+      "tulsa",
+      "norman",
+      "edmond",
+      "moore",
+      "midwest city",
+      "enos",
+      "mustang",
+      "seminole",
+      "muskogee"
+    ],
+    "counties_served": [
+      "Oklahoma County",
+      "Tulsa County",
+      "Cleveland County",
+      "Payne County",
+      "Canadian County"
+    ],
+    "service_area_description": "Central and Western Oklahoma",
+    "overlap_with_grda": false,
+    "stillwater_served": true
+  },
+  "water_sources": {
+    "primary_sources": [
+      "Stillwater Aquifer",
+      "Garber-Wellington Aquifer",
+      "Central Oklahoma Aquifer"
+    ],
+    "stillwater_water_source": "Stillwater Aquifer / Garber-Wellington Aquifer",
+    "drought_resilient": true,
+    "independent_from_grand_lake": true,
+    "notes": "Stillwater water sources are independent from Grand Lake (GRDA's water source)"
+  },
+  "planned_additions": [],
+  "planned_retirements": [],
+  "sources": [
+    "EIA (Energy Information Administration) public data",
+    "OG&E public filings and reports",
+    "Industry publications and research"
+  ],
+  "redundancy_analysis": {
+    "grda_capacity_backup": true,
+    "rate_hedging_available": true,
+    "water_independence": true,
+    "stillwater_coverage": true
+  },
+  "extraction_metadata": {
+    "data_source": "known_public_sources",
+    "extraction_method": "manual_compilation",
+    "last_updated": "2025-01-10",
+    "data_accuracy": "PARTIALLY_VERIFIED",
+    "notes": "Data compiled from EIA, OG&E filings, and industry sources. Website scraping not feasible due to JavaScript-heavy portal. SOME CAPACITY NUMBERS MAY BE INACCURATE - NEEDS VERIFICATION. Known discrepancies: Mustang (listed as 1200 MW but may be ~462 MW), Muskogee (listed as 1046 MW but may be ~1700 MW), total capacity may be ~6,141 MW not 7,116 MW.",
+    "verification_needed": true,
+    "recommended_sources": [
+      "EIA Form 860 (Electric Generator Inventory)",
+      "OG&E official annual reports",
+      "Oklahoma Corporation Commission filings"
+    ]
+  }
+}

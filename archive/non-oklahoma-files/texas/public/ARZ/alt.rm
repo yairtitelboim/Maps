@@ -1,0 +1,691 @@
+## Replicating the GEE Building-Change Workflow and Frontend Visualization in a New Location
+
+This guide walks through generating building-change GeoJSON layers with Google Earth Engine (GEE) and integrating them into a React/Mapbox frontend, replicating the Humble, TX workflow for any new study area.
+
+---
+
+### 1) Overview: What You Will Build
+
+- **Data**: Year-over-year building change layers as GeoJSON files (e.g., `full_circle_2018_2019.geojson`).
+- **Method**: Sentinel‑2 analysis in GEE to detect new built areas (year2 AND NOT year1), sampled spatially across the study area.
+- **Frontend**: A chunked, animated 3D extrusion map that progressively adds per-year layers with distance-based colors and heights.
+
+---
+
+### 2) Prerequisites
+
+- Python 3.9+ and Node.js 18+
+- Google Earth Engine account and a GCP Service Account with Earth Engine access
+- Mapbox token (for the frontend)
+- Basic understanding of satellite imagery analysis and GeoJSON format
+- Familiarity with React/JavaScript (for frontend customization)
+
+---
+
+### 3) Google Earth Engine Setup
+
+1. Create a Google Cloud service account with Earth Engine access and download a JSON key.
+2. Place the key on your machine and note its path, e.g.: `~/.config/gee/<your-key>.json`.
+3. Install the Earth Engine Python API:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install earthengine-api
+```
+
+4. Update `full_circle_detection.py` with:
+   - `service_account`: your service account email
+   - `creds_path`: absolute path to your key JSON
+
+```python
+# in full_circle_detection.py (initialize_gee)
+service_account = "<your-sa>@<your-project>.iam.gserviceaccount.com"
+creds_path = os.path.expanduser("~/.config/gee/<your-key>.json")
+```
+
+5. Verify authentication works by running a simple EE init (the script will initialize automatically when run).
+
+**Important**: For different geographic regions, you may need to adjust the detection parameters in the `get_composite()` function. The current thresholds are optimized for Texas/Humble area and may need tuning for:
+- Different climate zones (tropical, arid, temperate)
+- Different building materials and urban development patterns
+- Areas with different vegetation types
+
+---
+
+### 4) Choose Your Study Area and Time Windows
+
+- Set your study area center coordinate and radius.
+- In `full_circle_detection.py`, change:
+
+```python
+# Center coordinate and radius (kilometers)
+humble_center = [<lon>, <lat>]
+radius_km = <radius_km>
+```
+
+- Pick the year pairs you want to export (e.g., 2018→2019, 2019→2020, ...).
+
+**Important considerations for different locations:**
+- **Sentinel-2 availability**: Check that Sentinel-2 data is available for your time period and region
+- **Cloud cover**: Areas with high cloud cover may need longer time windows or different cloud filtering
+- **Development patterns**: Consider the typical development cycle in your region (faster/slower than Texas)
+- **Seasonal variations**: Some regions may have better imagery during specific seasons
+
+---
+
+### 5) Run the GEE Export Script to Generate GeoJSONs
+
+The script `full_circle_detection.py` computes Sentinel‑2 composites per year, detects new buildings, converts raster to polygons, and samples up to ~15k features for coverage. It writes `full_circle_<year1>_<year2>.geojson` to the working directory.
+
+Commands (run once per period):
+
+```bash
+source .venv/bin/activate
+python full_circle_detection.py 2018 2019
+python full_circle_detection.py 2019 2020
+python full_circle_detection.py 2020 2021
+python full_circle_detection.py 2021 2022
+python full_circle_detection.py 2022 2023
+python full_circle_detection.py 2023 2024
+python full_circle_detection.py 2024 2025
+```
+
+Notes:
+- If your area has fewer detected polygons, the script automatically falls back to smaller exports.
+- Each feature is enriched with: detection year, previous year, distance/bearing from center, compass direction, intensity.
+- **Processing time**: Each year pair may take 10-30 minutes depending on area size and complexity
+- **Memory considerations**: Large areas may hit GEE memory limits; consider reducing `maxPixels` or `radius_km`
+- **Quality control**: Check console output for warnings about low detection counts or processing errors
+
+---
+
+### 6) Place Data Files Where the Frontend Can Load Them
+
+Move or copy the generated GeoJSON files into the frontend’s public data directory so they’re served statically, e.g.:
+
+```
+public/data/
+  full_circle_2018_2019.geojson
+  full_circle_2019_2020.geojson
+  ...
+  full_circle_2024_2025.geojson
+```
+
+If you use a different directory, update the file paths where referenced in the components.
+
+---
+
+### 7) Frontend Integration (React + Mapbox)
+
+Key component: `src/components/Map/components/BuildingChangesAnimation.jsx`
+
+What to update for a new location:
+
+- Periods and file paths:
+
+```javascript
+// Building change periods with cumulative data
+const periods = [
+  { year: 2019, label: '2018 → 2019', file: '/data/full_circle_2018_2019.geojson', color: '#4a1d2b' },
+  // ... update/add your periods and colors
+];
+```
+
+- Optional: colors per period to match your visual language.
+- Optional: center-specific logic if you reference center in frontend calculations (most logic relies on precomputed properties from the GeoJSONs).
+
+**Critical frontend updates for new locations:**
+- Update distance calculations if your center coordinates change significantly
+- Adjust color ramps in `addGradualLayerChunk` if your study area has different distance ranges
+- Modify the `distance_from_humble_km` property references to match your new center location
+- Consider updating the header text "GEE Analysis" to reflect your study area
+
+How the animation works (summary):
+- Clicking “Play Animation” iterates through the `periods` array.
+- For each period, data is chunked and added to the map with `fill-extrusion` layers.
+- Heights and colors use precomputed properties (e.g., `distance_from_humble_km`, intensity) and distance-based ramps.
+- Previous layers dim/adjust as new layers are added.
+
+Where to adjust behavior:
+- Chunked loading and extrusion paint: `addGradualLayerChunk`
+- GSAP vs. standard loading: `addPeriodLayer`, `renderPeriodWithGSAP`, `renderPeriodInChunks`
+- Speed and animation controls: `AnimationControls` props
+
+Mapbox token:
+
+```bash
+export REACT_APP_MAPBOX_TOKEN=<your-token>
+```
+
+Start the dev server:
+
+```bash
+npm install
+npm start
+```
+
+---
+
+### 8) Adapting the Detection Script for Other Geometries
+
+The provided script uses a circular buffer around a center point. To use a custom polygon (e.g., a city boundary):
+
+```python
+# Replace geometry creation in full_circle_detection.py
+# Example: load a polygon from GeoJSON
+import json
+
+with open("study_area.geojson") as f:
+    gj = json.load(f)
+
+geometry = ee.Geometry(gj['features'][0]['geometry'])
+```
+
+Alternatively, build the geometry from coordinates or EE FeatureCollections. Ensure the geometry is in lon/lat (EPSG:4326) and reasonably sized for your scale/limit.
+
+---
+
+### 9) Validation & QA Suggestions
+
+- Spot-check several polygons on high-resolution imagery (e.g., Google, ESRI, Maxar where licensed) to validate that "new" areas correspond to development.
+- Compare counts per compass sector and distance bins to ensure coverage doesn't cluster unfairly.
+- For dense metros, reduce per-batch size or increase `maxPixels` cautiously.
+
+**Validation checklist for new locations:**
+- [ ] Verify detection accuracy by sampling 10-20 random polygons against recent satellite imagery
+- [ ] Check that false positives (non-building areas) are minimal
+- [ ] Ensure false negatives (missed buildings) are acceptable for your use case
+- [ ] Validate that the distance-based color ramps work well for your study area's size
+- [ ] Test animation performance with your data size (adjust chunk sizes if needed)
+- [ ] Verify that the temporal progression makes sense for your region's development patterns
+
+---
+
+### 10) Troubleshooting
+
+- EE authentication errors:
+  - Confirm service account email has EE access.
+  - Double-check `creds_path` and file permissions.
+
+- Script runs but returns 0 imagery:
+  - Expand the date range or decrease cloud filter threshold.
+  - Increase `.limit()` on the ImageCollection (tradeoff: performance/time).
+
+- Vertex/segment errors in frontend (Mapbox):
+  - The app already splits overly complex chunks; still, reduce per-chunk size or simplify geometry upstream.
+
+- Performance issues in frontend:
+  - Use "Pure Geometry" mode (flat 2D) for quick diagnostics.
+  - Increase `animationSpeed` (lower delay) and/or reduce chunk sizes produced upstream.
+
+- **Location-specific issues:**
+  - **Polar regions**: Sentinel-2 may have limited coverage; consider different satellite data
+  - **Tropical regions**: High cloud cover may require different filtering or longer time windows
+  - **Desert regions**: Different NDVI/NDBI thresholds may be needed
+  - **Urban vs. rural**: Adjust detection sensitivity based on development density
+
+---
+
+### 11) Production Tips
+
+- Version your exported GeoJSONs by date or source config (e.g., `full_circle_2018_2019.v2.geojson`).
+- Host data on a CDN or static hosting with gzip enabled.
+- Keep a small sample file for local testing to iterate quickly.
+
+---
+
+### 12) Files of Interest in This Repo
+
+- `full_circle_detection.py`: Earth Engine export script for year-over-year building changes.
+- `src/components/Map/components/BuildingChangesAnimation.jsx`: Animated frontend visualization and controls.
+- `public/data/`: Expected location for served GeoJSON files (create if missing).
+
+**Additional files you may need to modify:**
+- `src/components/Map/components/RealBuildingChangesLayer.jsx`: Alternative layer component (if used)
+- `src/utils/colorUtils.js`: Color calculation utilities for distance-based styling
+- `src/utils/spatialHeightAnalysis.js`: Height calculation logic for 3D extrusions
+- `src/utils/gsapAnimations.js`: Animation timing and effects
+
+---
+
+### 13) Minimal End-to-End Checklist (New Project)
+
+1. Set up GEE service account and key; update `full_circle_detection.py`.
+2. Set center/geometry and radius for new location.
+3. **Test with a single year pair first** to validate detection quality before processing all periods.
+4. Run `python full_circle_detection.py <year1> <year2>` for all desired periods.
+5. Move GeoJSON outputs into `public/data/`.
+6. Update `periods` in `BuildingChangesAnimation.jsx` with your file paths, years, labels, colors.
+7. **Update distance property references** from `distance_from_humble_km` to match your center.
+8. **Adjust color ramps** in `addGradualLayerChunk` if your study area has different distance ranges.
+9. Set `REACT_APP_MAPBOX_TOKEN`.
+10. `npm install && npm start` and test the animation.
+11. **Validate detection accuracy** by spot-checking polygons against satellite imagery.
+12. **Fine-tune detection parameters** if accuracy is insufficient for your region.
+
+That's it—you now have a reproducible pipeline to detect and visualize building changes for any study area using the same technical process and visual language.
+
+---
+
+### 14) Parameter Tuning for Different Regions
+
+The detection algorithm uses several thresholds that may need adjustment for different geographic regions:
+
+**In `full_circle_detection.py`, `get_composite()` function:**
+
+```python
+# Current thresholds (optimized for Texas/Humble):
+buildings = composite.expression(
+    '((NDBI > NDVI - 0.15) and (NDVI < 0.45) and (NDWI < 0.35)) or ' +
+    '((B4 + B3 + B2)/3 > 0.11 and NDVI < 0.4 and NDWI < 0.3) or ' +
+    '((B11/B8 > 0.9) and (NDVI < 0.4) and (NDWI < 0.35))',
+    # ... variables
+)
+```
+
+**Suggested adjustments by region type:**
+
+- **Tropical regions**: Lower NDVI thresholds (0.3-0.35) due to dense vegetation
+- **Desert regions**: Higher NDVI thresholds (0.5-0.6) due to sparse vegetation
+- **Urban areas**: May need higher NDBI thresholds (0.2-0.25) to reduce false positives
+- **Rural areas**: May need lower NDBI thresholds (0.1-0.15) to catch smaller developments
+- **High-latitude regions**: Consider seasonal variations in vegetation indices
+
+**Testing approach:**
+1. Run detection with current parameters
+2. Sample 20-30 detected polygons
+3. Visually verify against high-resolution imagery
+4. Adjust thresholds based on false positive/negative rates
+5. Re-run detection and validate
+
+---
+
+### 15) Critical Code Snippets: Ripples and Color Gradients
+
+These exact code examples drive the Humble visual effects. Adapt the highlighted values for your new geography.
+
+#### A) Color Gradient Logic (Per-Layer Dimming)
+
+**Precomputed color palettes that dim as newer layers appear:**
+
+```147:163:src/utils/colorUtils.js
+// Pre-calculate all color combinations for each year and dimming level
+years.forEach(year => {
+  COLOR_LOOKUP_TABLE[year] = {};
+  const scheme = colorSchemes[year];
+  for (let newerLayersCount = 0; newerLayersCount <= maxLayers; newerLayersCount++) {
+    const dimmingFactor = Math.max(0.3, 1 - (newerLayersCount * 0.25));
+    const interpolationFactor = 1 - dimmingFactor;
+    COLOR_LOOKUP_TABLE[year][newerLayersCount] = {
+      base: interpolateColor(scheme.bright.base, scheme.dark.base, interpolationFactor),
+      mid: interpolateColor(scheme.bright.mid, scheme.dark.mid, interpolationFactor),
+      far: interpolateColor(scheme.bright.far, scheme.dark.far, interpolationFactor),
+      opacity: calculateLayerOpacity(newerLayersCount, maxLayers, year)
+    };
+  }
+});
+```
+
+**Read precomputed colors for a given period:**
+
+```180:189:src/utils/colorUtils.js
+export function getPreCalculatedColors(year, newerLayersCount) {
+  if (!COLOR_LOOKUP_TABLE[year]) {
+    console.warn(`No color scheme for year ${year}, using 2025 default`);
+    year = 2025;
+  }
+  const maxCount = Math.max(...Object.keys(COLOR_LOOKUP_TABLE[year]).map(Number));
+  const safeCount = Math.min(newerLayersCount, maxCount);
+  return COLOR_LOOKUP_TABLE[year][safeCount] || COLOR_LOOKUP_TABLE[year][0];
+}
+```
+
+#### B) Distance-Based Color Ramps (Mapbox Layer Paint)
+
+**Per-chunk layer creation with distance-based gradient:**
+
+```268:305:src/components/Map/components/BuildingChangesAnimation.jsx
+map.current.addLayer({
+  id: layerId,
+  type: 'fill-extrusion',
+  source: sourceId,
+  paint: {
+    'fill-extrusion-color': [
+      'interpolate',
+      ['linear'],
+      ['get', 'distance_from_humble_km'],
+      0, baseColor,
+      12.5, midColor,
+      25, farColor
+    ],
+    'fill-extrusion-height': [
+      'case',
+      ['has', 'spatialHeight'],
+      ['coalesce', ['get', 'spatialHeight'], 20],
+      ['has', 'currentHeight'],
+      ['coalesce', ['get', 'currentHeight'], 15],
+      [
+        'interpolate',
+        ['linear'],
+        ['coalesce', ['get', 'visualIntensity'], ['get', 'intensity'], 0.7],
+        0, 5, 0.3, 15, 0.6, 35, 0.8, 60, 1.0, 100
+      ]
+    ],
+    'fill-extrusion-base': 0,
+    'fill-extrusion-opacity': layerOpacity
+  }
+});
+```
+
+**Dynamic dimming of earlier layers when new layers are added:**
+
+```1198:1231:src/components/Map/components/BuildingChangesAnimation.jsx
+const newerLayersCount = periods.filter(p => p.year > period.year && newCurrentPeriodIndex >= periods.findIndex(per => per.year === p.year)).length;
+const colors = getPreCalculatedColors(period.year, newerLayersCount);
+for (let chunkIndex = 0; chunkIndex < 50; chunkIndex++) {
+  const layerId = `building-changes-${period.year}-chunk-${chunkIndex}-fill`;
+  if (map.current.getLayer(layerId)) {
+    map.current.setPaintProperty(layerId, 'fill-extrusion-color', [
+      'interpolate', ['linear'], ['get', 'distance_from_humble_km'],
+      0, colors.base, 12.5, colors.mid, 25, colors.far
+    ]);
+    map.current.setPaintProperty(layerId, 'fill-extrusion-opacity', colors.opacity);
+  }
+}
+```
+
+#### C) GSAP Radial "Ripple" Animation (Older Layers)
+
+**Concentric wave emission grouped by distance from center:**
+
+```81:99:src/utils/gsapAnimations.js
+createRadialWave(buildings, onChunkReady) {
+  const rings = this.organizeIntoRings(buildings, ANIMATION_CONFIG.radialWaves.rings);
+  this.timeline = gsap.timeline();
+  let totalChunks = 0;
+  rings.forEach((ring, ringIndex) => {
+    const chunks = this.subdivideRing(ring, 3);
+    totalChunks += chunks.length;
+    chunks.forEach((chunk, chunkIndex) => {
+      const baseDelay = ringIndex * ANIMATION_CONFIG.radialWaves.ringDelay;
+      const chunkDelay = chunkIndex * (0.08 * (ANIMATION_CONFIG.radialWaves.ringDelay / 0.3));
+      this.timeline.add(() => {
+        const enhancedChunk = {
+          type: 'FeatureCollection',
+          features: chunk.map(feature => ({
+            ...feature,
+            properties: {
+              ...feature.properties,
+              animationRing: ringIndex,
+              animationChunk: chunkIndex,
+              animationDelay: baseDelay + chunkDelay,
+              visualIntensity: Math.min(1.0, feature.properties.intensity * 1.2),
+              heightFactor: Math.max(0.5, feature.properties.intensity || 0.7),
+              growthStage: 'emerging',
+              spatialHeight: Math.max(5, (feature.properties.intensity || 0.7) * 60),
+              targetHeight: Math.max(5, (feature.properties.intensity || 0.7) * 60),
+              currentHeight: 0,
+              growthProgress: 0
+            }
+          }))
+        };
+        onChunkReady(enhancedChunk, `ring-${ringIndex}-chunk-${chunkIndex}`, totalChunks);
+      }, baseDelay + chunkDelay);
+    });
+  });
+  return this.timeline;
+}
+```
+
+#### D) Ultra-Fast 2D "Pure Geometry" Ripple Mode
+
+**Flat ripple for diagnostics and performance testing:**
+
+```807:851:src/components/Map/components/BuildingChangesAnimation.jsx
+for (let chunkIndex = 0; chunkIndex < chunks.length; chunkIndex++) {
+  const sourceId = `pure-buildings-${period.year}-chunk-${chunkIndex}`;
+  const layerId = `pure-buildings-${period.year}-chunk-${chunkIndex}-fill`;
+  map.current.addSource(sourceId, { type: 'geojson', data: { type: 'FeatureCollection', features: chunkFeatures } });
+  map.current.addLayer({
+    id: layerId,
+    type: 'fill',
+    source: sourceId,
+    paint: {
+      'fill-color': period.color || '#ff85d1',
+      'fill-opacity': 0.8
+    }
+  });
+  if (chunkIndex < chunks.length - 1) {
+    const rippleDelay = Math.max(1, Math.min(20, animationSpeed / 80 + chunkIndex * 0.5));
+    await new Promise(resolve => setTimeout(resolve, rippleDelay));
+  }
+}
+```
+
+#### E) Spatially-Aware Height Model
+
+**Height calculation using multiple spatial factors:**
+
+```82:100:src/utils/spatialHeightAnalysis.js
+const baseHeight = Math.max(5, (props.intensity || 0.7) * 120);
+const zoneModifier = this.getZoneHeightModifier(point);
+const clusterModifier = this.getClusterDensityModifier(feature, point);
+const accessibilityModifier = this.getAccessibilityModifier(point);
+const topographyModifier = this.getTopographyModifier(point);
+const temporalModifier = this.getTemporalModifier(props.detection_year);
+const finalHeight = Math.floor(
+  baseHeight * zoneModifier * clusterModifier * accessibilityModifier * topographyModifier * temporalModifier
+);
+return Math.max(3, Math.min(200, finalHeight));
+```
+
+#### F) Key Values to Adapt for New Geography
+
+**Distance thresholds for color ramps:**
+- Change `0, 12.5, 25` km values in `addGradualLayerChunk` to match your study area radius
+- Update `distance_from_humble_km` property references to your center name
+
+**Ripple timing:**
+- Adjust `ANIMATION_CONFIG.radialWaves.ringDelay` and `ANIMATION_CONFIG.linearWave.segmentDelay` in `gsapAnimations.js`
+- Modify `rippleDelay` calculation in pure geometry mode
+
+**Color palettes:**
+- Update `colorSchemes` in `colorUtils.js` for your visual language
+- Adjust `dimmingFactor` calculation (currently `0.25`) for different fade rates
+
+**Height zones:**
+- Modify `createDevelopmentZones()` buffer distances in `spatialHeightAnalysis.js`
+- Update `getZoneHeightModifier()` logic for your city's morphology
+
+---
+
+## Appendix: Annotated Code References
+
+Use these references to match your implementation to this project’s working code.
+
+### A) GEE Generator Script: `full_circle_detection.py`
+
+Initialize Earth Engine with a service account and key path:
+
+```13:18:full_circle_detection.py
+def initialize_gee():
+    service_account = 'gentle-cinema-458613-f3@gentle-cinema-458613.iam.gserviceaccount.com'
+    creds_path = os.path.expanduser('~/.config/gee/gentle-cinema-458613-f3-62875d82a3f2.json')
+    credentials = ee.ServiceAccountCredentials(service_account, creds_path)
+    ee.Initialize(credentials)
+    print("✅ Google Earth Engine initialized")
+```
+
+Build yearly composites and compute indices and expression used to detect built surfaces:
+
+```35:63:full_circle_detection.py
+def get_composite(year):
+    collection = ee.ImageCollection('COPERNICUS/S2_SR_HARMONIZED') \
+        .filterBounds(geometry) \
+        .filterDate(f'{year}-01-01', f'{year}-12-31') \
+        .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 30)) \
+        .limit(20)  # Get more images for better coverage
+    
+    if collection.size().getInfo() == 0:
+        return None
+        
+    composite = collection.median()
+    ndvi = composite.normalizedDifference(['B8', 'B4'])
+    ndbi = composite.normalizedDifference(['B11', 'B8'])
+    ndwi = composite.normalizedDifference(['B3', 'B8'])
+    
+    # Sensitive detection for all types of development
+    buildings = composite.expression(
+        '((NDBI > NDVI - 0.15) and (NDVI < 0.45) and (NDWI < 0.35)) or ' +
+        '((B4 + B3 + B2)/3 > 0.11 and NDVI < 0.4 and NDWI < 0.3) or ' +
+        '((B11/B8 > 0.9) and (NDVI < 0.4) and (NDWI < 0.35))',
+        {
+            'NDBI': ndbi, 'NDVI': ndvi, 'NDWI': ndwi,
+            'B4': composite.select('B4'), 'B3': composite.select('B3'), 'B2': composite.select('B2'),
+            'B11': composite.select('B11'), 'B8': composite.select('B8')
+        }
+    )
+    
+    return buildings.selfMask()
+```
+
+Compute new development and vectorize polygons in the study area:
+
+```71:80:full_circle_detection.py
+new_buildings = buildings2.And(buildings1.Not())
+
+# Use stratified sampling to ensure coverage across the entire circle
+vectors = new_buildings.reduceToVectors(
+    geometry=geometry,
+    scale=20,
+    maxPixels=1e8,  # Allow more pixels for full coverage
+    geometryType='polygon'
+)
+```
+
+Write enriched features to disk as GeoJSON:
+
+```203:207:full_circle_detection.py
+filename = f'full_circle_{year1}_{year2}.geojson'
+with open(filename, 'w') as f:
+    json.dump(data, f)
+                
+print(f"  ✅ Saved {len(enhanced_features):,} buildings to {filename}")
+```
+
+### B) Frontend Animation: `BuildingChangesAnimation.jsx`
+
+Period configuration mapping years to served files and display colors:
+
+```34:42:src/components/Map/components/BuildingChangesAnimation.jsx
+const periods = [
+  { year: 2019, label: '2018 → 2019', file: '/data/full_circle_2018_2019.geojson', color: '#4a1d2b' },
+  { year: 2020, label: '2019 → 2020', file: '/data/full_circle_2019_2020.geojson', color: '#5d2235' },
+  { year: 2021, label: '2020 → 2021', file: '/data/full_circle_2020_2021.geojson', color: '#7a2d47' },
+  { year: 2022, label: '2021 → 2022', file: '/data/full_circle_2021_2022.geojson', color: '#a04068' },
+  { year: 2023, label: '2022 → 2023', file: '/data/full_circle_2022_2023.geojson', color: '#c75589' },
+  { year: 2024, label: '2023 → 2024', file: '/data/full_circle_2023_2024.geojson', color: '#e069aa' },
+  { year: 2025, label: '2024 → 2025', file: '/data/full_circle_2024_2025.geojson', color: '#ff85d1' }
+];
+```
+
+Play button handler that kicks off the animation loop and opens related UI:
+
+```971:981:src/components/Map/components/BuildingChangesAnimation.jsx
+const handlePlay = () => {
+  setIsPlaying(true);
+  if (onShowTimelinePanel) {
+    onShowTimelinePanel(true);
+  }
+  if (onAnimationStateChange) {
+    onAnimationStateChange(true);
+  }
+  console.log('🎬 Starting building changes animation...');
+};
+```
+
+Selecting how to render each period (pure 2D, GSAP, or chunked extrusion):
+
+```870:899:src/components/Map/components/BuildingChangesAnimation.jsx
+const addPeriodLayer = useCallback(async (periodIndex) => {
+  if (!map.current) return;
+
+  const period = periods[periodIndex];
+  
+  try {
+    // PURE GEOMETRY mode
+    if (usePureGeometry) {
+      console.log(`⚡ Using PURE GEOMETRY mode for ${period.label} - NO TURF.JS`);
+      await addPeriodLayerPure(periodIndex);
+      return;
+    }
+    
+    // GSAP for older years
+    if (useGSAPAnimations && period.year <= 2021) {
+      console.log(`🌊 Using GSAP radial wave animation for ${period.label}`);
+      await renderPeriodWithGSAP(period);
+    } else {
+      console.log(`📡 Using ${useGSAPAnimations ? 'regular wave' : 'standard'} loading for ${period.label}`);
+      await renderPeriodInChunks(period, addGradualLayerChunk);
+    }
+  } catch (error) {
+    console.error(`❌ Error in layer animation for ${period.label}:`, error);
+  }
+
+}, [map, periods, renderPeriodWithGSAP, renderPeriodInChunks, addGradualLayerChunk, useGSAPAnimations, usePureGeometry, addPeriodLayerPure]);
+```
+
+Chunked rendering path that progressively adds features and updates progress:
+
+```523:599:src/components/Map/components/BuildingChangesAnimation.jsx
+const renderPeriodInChunks = useCallback(async (period, onChunkLoaded) => {
+  // Get processed data (from cache or fresh processing)
+  const processedData = await loadPeriodData(period);
+  
+  if (!processedData || !processedData.chunks) {
+    console.warn(`⚠️ No processed data available for chunked rendering: ${period.label}`);
+    return null;
+  }
+  
+  console.log(`🎯 Starting ${period.label}: ${processedData.totalBuildings} buildings in ${processedData.chunks.length} pre-processed chunks`);
+  
+  // Preview and progressive chunk loop (enhance optional)
+  // For each chunk: onChunkLoaded(chunkData, chunkIndex, totalChunks, period)
+  // Update per-year chunkProgress and cumulative stats
+  // Add small delays scaled by animation speed and distance
+  // ... see file for full details
+}, [loadPeriodData, setChunkProgress, updateCumulativeStats, periods, animationSpeed, useSpatialEnhancement]);
+```
+
+Layer creation for each chunk: extrusion color/height/opacity and outline layer:
+
+```198:307:src/components/Map/components/BuildingChangesAnimation.jsx
+const addGradualLayerChunk = useCallback((chunkData, chunkIndex, totalChunks, period) => {
+  if (!map.current) {
+    console.warn(`❌ Map not available for chunk ${chunkIndex} of ${period.label}`);
+    return;
+  }
+  
+  // Validate/sanitize features, add GeoJSON source
+  map.current.addLayer({
+    id: layerId,
+    type: 'fill-extrusion',
+    source: sourceId,
+    paint: {
+      'fill-extrusion-color': [
+        'interpolate', ['linear'], ['get', 'distance_from_humble_km'],
+        0, baseColor,
+        12.5, midColor,
+        25, farColor
+      ],
+      'fill-extrusion-height': [ /* height logic incl. spatialHeight/currentHeight/intensity */ ],
+      'fill-extrusion-base': 0,
+      'fill-extrusion-opacity': layerOpacity
+    }
+  });
+  // Add outline layer; handle Mapbox vertex-limit errors
+}, [map]);
+```
+
+

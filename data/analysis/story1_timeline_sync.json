@@ -1,0 +1,697 @@
+{
+  "dc_timeline": [
+    {
+      "project_name": "Unknown Project",
+      "county": "ew",
+      "announced_date": "2025-12-10 14:33:58 UTC",
+      "announced_dt": "2025-12-10 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "ey",
+      "announced_date": "2025-12-09 21:59:00 UTC",
+      "announced_dt": "2025-12-09 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "hays county",
+      "announced_date": "2025-11-06 08:00:00 UTC",
+      "announced_dt": "2025-11-06 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Austin County",
+      "announced_date": "2025-10-29 07:00:00 UTC",
+      "announced_dt": "2025-10-29 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Armstrong County",
+      "announced_date": "2025-10-17 07:00:00 UTC",
+      "announced_dt": "2025-10-17 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Fort Worth moving forward",
+      "announced_date": "2025-09-30 07:00:00 UTC",
+      "announced_dt": "2025-09-30 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "fort worth",
+      "announced_date": "2025-09-30 07:00:00 UTC",
+      "announced_dt": "2025-09-30 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "South Fort Worth",
+      "announced_date": "2025-09-30 07:00:00 UTC",
+      "announced_dt": "2025-09-30 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "and Beyond",
+      "announced_date": "2025-09-29 07:00:00 UTC",
+      "announced_dt": "2025-09-29 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Jarrell",
+      "announced_date": "2025-08-27 07:00:00 UTC",
+      "announced_dt": "2025-08-27 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Unknown Location",
+      "announced_date": "2025-08-20 07:00:00 UTC",
+      "announced_dt": "2025-08-20 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Cedar Creek",
+      "announced_date": "2025-08-01 07:00:00 UTC",
+      "announced_dt": "2025-08-01 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "bosque county",
+      "announced_date": "2025-07-31 07:00:00 UTC",
+      "announced_dt": "2025-07-31 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "crews in",
+      "announced_date": "2025-05-29 07:00:00 UTC",
+      "announced_dt": "2025-05-29 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Ellis County",
+      "announced_date": "2025-02-25 08:00:00 UTC",
+      "announced_dt": "2025-02-25 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Aligned Dallas Fort Worth",
+      "county": "th",
+      "announced_date": "2025-02-20 08:00:00 UTC",
+      "announced_dt": "2025-02-20 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Amazon work medina",
+      "county": "work medina",
+      "announced_date": "2025-10-15 07:00:00 UTC",
+      "announced_dt": "2025-10-15 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Amazon Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-07-21 07:00:00 UTC",
+      "announced_dt": "2025-07-21 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Amazon Indiana",
+      "county": "Indiana",
+      "announced_date": "2025-06-24 07:00:00 UTC",
+      "announced_dt": "2025-06-24 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "Blueprint Projects or",
+      "county": "or",
+      "announced_date": "2025-07-28 07:00:00 UTC",
+      "announced_dt": "2025-07-28 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Blueprint Projects Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-06-25 07:00:00 UTC",
+      "announced_dt": "2025-06-25 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Calpine Texas",
+      "county": "Bosque County",
+      "announced_date": "2025-07-31 07:00:00 UTC",
+      "announced_dt": "2025-07-31 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Cielo Digital Infrastructure Cherokee County",
+      "county": "Cherokee County",
+      "announced_date": "2025-06-25 07:00:00 UTC",
+      "announced_dt": "2025-06-25 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "CoreWeave GW AI campus in Pecos County",
+      "county": "GW AI campus in Pecos County",
+      "announced_date": "2025-10-25 07:00:00 UTC",
+      "announced_dt": "2025-10-25 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "CoreWeave Lancaster",
+      "county": "Lancaster",
+      "announced_date": "2025-09-03 07:00:00 UTC",
+      "announced_dt": "2025-09-03 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "CyrusOne co",
+      "county": "co",
+      "announced_date": "2025-12-08 11:36:23 UTC",
+      "announced_dt": "2025-12-08 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "CyrusOne DFW10",
+      "county": "Texas Calpine",
+      "announced_date": "2025-07-31 07:00:00 UTC",
+      "announced_dt": "2025-07-31 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "CyrusOne bosque county",
+      "county": "bosque county",
+      "announced_date": "2025-07-31 07:00:00 UTC",
+      "announced_dt": "2025-07-31 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "CyrusOne bosque county",
+      "county": "bosque county",
+      "announced_date": "2025-07-30 07:00:00 UTC",
+      "announced_dt": "2025-07-30 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "CyrusOne bexar county",
+      "county": "bexar county",
+      "announced_date": "2025-03-25 07:00:00 UTC",
+      "announced_dt": "2025-03-25 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "DataBank ak",
+      "county": "ak",
+      "announced_date": "2025-06-20 07:00:00 UTC",
+      "announced_dt": "2025-06-20 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Digital Realty Texas",
+      "county": "Texas",
+      "announced_date": "2025-12-03 17:00:00 UTC",
+      "announced_dt": "2025-12-03 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Digital Realty Historic uptown",
+      "county": "Historic uptown",
+      "announced_date": "2025-10-08 07:00:00 UTC",
+      "announced_dt": "2025-10-08 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "EdgeConneX Bastrop County",
+      "county": "Bastrop County",
+      "announced_date": "2025-07-23 07:00:00 UTC",
+      "announced_dt": "2025-07-23 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Energy Capital Partners bosque county",
+      "county": "bosque county",
+      "announced_date": "2025-08-07 07:00:00 UTC",
+      "announced_dt": "2025-08-07 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Energy Capital Partners ECP and KKR to develop new",
+      "county": "ECP and KKR to develop new",
+      "announced_date": "2025-07-31 07:00:00 UTC",
+      "announced_dt": "2025-07-31 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Google Texas",
+      "county": "Midlothian",
+      "announced_date": "2025-12-11 23:07:31 UTC",
+      "announced_dt": "2025-12-11 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Google Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-12-11 15:51:59 UTC",
+      "announced_dt": "2025-12-11 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Google Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-12-10 22:05:46 UTC",
+      "announced_dt": "2025-12-10 00:00:00",
+      "expected_completion_date": "2027",
+      "expected_dt": "2027-01-01 00:00:00",
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Google Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-12-09 20:08:27 UTC",
+      "announced_dt": "2025-12-09 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Google billion in",
+      "county": "billion in",
+      "announced_date": "2025-11-17 08:00:00 UTC",
+      "announced_dt": "2025-11-17 00:00:00",
+      "expected_completion_date": "2027",
+      "expected_dt": "2027-01-01 00:00:00",
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Google Billion in",
+      "county": "Billion in",
+      "announced_date": "2025-11-14 08:00:00 UTC",
+      "announced_dt": "2025-11-14 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "KDC or",
+      "county": "or",
+      "announced_date": "2025-11-12 08:00:00 UTC",
+      "announced_dt": "2025-11-12 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Meta Texas",
+      "county": "el paso",
+      "announced_date": "2025-12-12 10:14:25 UTC",
+      "announced_dt": "2025-12-12 00:00:00",
+      "expected_completion_date": "2028",
+      "expected_dt": "2028-01-01 00:00:00",
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-12-05 04:10:00 UTC",
+      "announced_dt": "2025-12-05 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-12-01 08:00:00 UTC",
+      "announced_dt": "2025-12-01 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-11-15 08:00:00 UTC",
+      "announced_dt": "2025-11-15 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Meta El Paso",
+      "county": "el paso",
+      "announced_date": "2025-10-15 07:00:00 UTC",
+      "announced_dt": "2025-10-15 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Meta Texas",
+      "county": "Texas",
+      "announced_date": "2025-10-15 07:00:00 UTC",
+      "announced_dt": "2025-10-15 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-10-15 07:00:00 UTC",
+      "announced_dt": "2025-10-15 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-08-24 07:00:00 UTC",
+      "announced_dt": "2025-08-24 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Microsoft Nscale Plans to Build Massive",
+      "county": "Nscale Plans to Build Massive",
+      "announced_date": "2025-10-15 07:00:00 UTC",
+      "announced_dt": "2025-10-15 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Microsoft Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-09-22 07:00:00 UTC",
+      "announced_dt": "2025-09-22 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Microsoft Plano",
+      "county": "Plano",
+      "announced_date": "2025-06-11 07:00:00 UTC",
+      "announced_dt": "2025-06-11 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Microsoft Texas",
+      "county": "Texas",
+      "announced_date": "2024-12-18 08:00:00 UTC",
+      "announced_dt": "2024-12-18 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "Oracle new stargate site in shackelford",
+      "county": "new stargate site in shackelford",
+      "announced_date": "2025-10-23 07:00:00 UTC",
+      "announced_dt": "2025-10-23 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Oracle santa teresa",
+      "county": "santa teresa",
+      "announced_date": "2025-09-25 07:00:00 UTC",
+      "announced_dt": "2025-09-25 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Oracle Texas",
+      "county": "Texas",
+      "announced_date": "2025-09-23 07:00:00 UTC",
+      "announced_dt": "2025-09-23 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "QTS as",
+      "county": "as",
+      "announced_date": "2025-04-24 07:00:00 UTC",
+      "announced_dt": "2025-04-24 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "QTS Texas",
+      "county": "Texas",
+      "announced_date": "2025-02-24 08:00:00 UTC",
+      "announced_dt": "2025-02-24 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Rowan Digital Infrastructure Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-08-15 07:00:00 UTC",
+      "announced_dt": "2025-08-15 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "Roxanne Marquis West",
+      "county": "West",
+      "announced_date": "2025-06-18 07:00:00 UTC",
+      "announced_dt": "2025-06-18 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "STACK Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-07-24 07:00:00 UTC",
+      "announced_dt": "2025-07-24 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Sabey Data Centers Texas",
+      "county": "Texas",
+      "announced_date": "2025-07-30 07:00:00 UTC",
+      "announced_dt": "2025-07-30 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Sabey Data Centers Key Technology Hub Sabey",
+      "county": "Key Technology Hub Sabey",
+      "announced_date": "2025-07-29 07:00:00 UTC",
+      "announced_dt": "2025-07-29 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "active"
+    },
+    {
+      "project_name": "Skybox Datacenters Data Center",
+      "county": "Unknown Location",
+      "announced_date": "2025-12-05 20:45:00 UTC",
+      "announced_dt": "2025-12-05 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Switch reading street in dallas",
+      "county": "reading street in dallas",
+      "announced_date": "2025-07-28 07:00:00 UTC",
+      "announced_dt": "2025-07-28 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "TRG Datacenters Texas",
+      "county": "Texas",
+      "announced_date": "2025-11-20 08:00:00 UTC",
+      "announced_dt": "2025-11-20 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Texas Critical Data Center Ector County",
+      "county": "Ector County",
+      "announced_date": "2025-10-08 07:00:00 UTC",
+      "announced_dt": "2025-10-08 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Vantage Texas",
+      "county": "Shackelford County",
+      "announced_date": "2025-08-29 07:00:00 UTC",
+      "announced_dt": "2025-08-29 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Vantage Texas",
+      "county": "Texas",
+      "announced_date": "2025-08-22 07:00:00 UTC",
+      "announced_dt": "2025-08-22 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    },
+    {
+      "project_name": "Vantage shackelford county",
+      "county": "shackelford county",
+      "announced_date": "2025-08-21 07:00:00 UTC",
+      "announced_dt": "2025-08-21 00:00:00",
+      "expected_completion_date": null,
+      "expected_dt": null,
+      "status": "uncertain"
+    }
+  ],
+  "announcements_by_year": {
+    "2025": 71,
+    "2024": 1
+  },
+  "expected_by_year": {
+    "2027": 2,
+    "2028": 1
+  },
+  "timeline_gaps": [
+    {
+      "project": "Google Data Center",
+      "county": "Unknown Location",
+      "announced": 2025,
+      "expected": 2027,
+      "gap_years": 1.0595482546201231
+    },
+    {
+      "project": "Google billion in",
+      "county": "billion in",
+      "announced": 2025,
+      "expected": 2027,
+      "gap_years": 1.1225188227241616
+    },
+    {
+      "project": "Meta Texas",
+      "county": "el paso",
+      "announced": 2025,
+      "expected": 2028,
+      "gap_years": 2.0533880903490758
+    }
+  ],
+  "status_by_year": {
+    "2025": {
+      "active": 9,
+      "uncertain": 62,
+      "dead": 0,
+      "unknown": 0
+    },
+    "2024": {
+      "active": 1,
+      "uncertain": 0,
+      "dead": 0,
+      "unknown": 0
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "project_name": "DFW-03",
+      "company": "Aligned Data Centers",
+      "city": "Mansfield",
+      "county": "Tarrant",
+      "approx_mw": 0,
+      "approx_sqft": 430000,
+      "status": "under construction",
+      "primary_source_url": "https://insider.govtech.com/texas/news/dallas-fort-worth-the-site-of-new-data-center",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Plano Campus",
+      "company": "Aligned Data Centers",
+      "city": "Plano",
+      "county": "Collin",
+      "approx_mw": 0,
+      "approx_sqft": 450000,
+      "status": "announced",
+      "primary_source_url": "https://insider.govtech.com/texas/news/dallas-fort-worth-the-site-of-new-data-center",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Fort Worth Campus",
+      "company": "QTS Data Centers",
+      "city": "Fort Worth",
+      "county": "Tarrant",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "operational",
+      "primary_source_url": "https://qtsdatacenters.com/data-centers/fort-worth/",
+      "announced_year": 0
+    },
+    {
+      "project_name": "Fort Worth DC1",
+      "company": "QTS Data Centers",
+      "city": "Fort Worth",
+      "county": "Tarrant",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "operational",
+      "primary_source_url": "https://www.datacentermap.com/usa/texas/dallas/",
+      "announced_year": 0
+    },
+    {
+      "project_name": "Irving DC1 & DC2",
+      "company": "QTS Data Centers",
+      "city": "Irving",
+      "county": "Dallas",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "operational",
+      "primary_source_url": "https://www.datacentermap.com/usa/texas/dallas/",
+      "announced_year": 0
+    },
+    {
+      "project_name": "Irving DC6",
+      "company": "QTS Data Centers",
+      "city": "Irving",
+      "county": "Dallas",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "operational",
+      "primary_source_url": "https://www.datacentermap.com/usa/texas/dallas/",
+      "announced_year": 0
+    },
+    {
+      "project_name": "DFW01",
+      "company": "STACK Infrastructure",
+      "city": "Plano",
+      "county": "Collin",
+      "approx_mw": 48,
+      "approx_sqft": 0,
+      "status": "operational",
+      "primary_source_url": "https://www.stackinfra.com/locations/americas/dallas-fort-worth/",
+      "announced_year": 0
+    },
+    {
+      "project_name": "DFW02",
+      "company": "STACK Infrastructure",
+      "city": "Lancaster",
+      "county": "Dallas",
+      "approx_mw": 500,
+      "approx_sqft": 0,
+      "status": "under construction",
+      "primary_source_url": "https://www.stackinfra.com/locations/americas/dallas-fort-worth/",
+      "announced_year"

@@ -1,0 +1,964 @@
+{
+  "downtown_core": {
+    "zone_analysis": {
+      "zone_id": "downtown_core",
+      "zone_name": "Downtown Core",
+      "radius_meters": 1500,
+      "conversion_candidates": [
+        {
+          "coordinates": [
+            -95.3614672,
+            29.7592233
+          ],
+          "sqft": 1329,
+          "price": 2750001,
+          "address": "1120 Texas St",
+          "name": "1120 Texas St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.66,
+          "public_investment_momentum": 1,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.52,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.17,
+            "investment_weight": 0.2,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3614672,
+            29.7592233
+          ],
+          "sqft": 1329,
+          "price": 3000001,
+          "address": "1120 Texas St",
+          "name": "1120 Texas St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.66,
+          "public_investment_momentum": 1,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.52,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.17,
+            "investment_weight": 0.2,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3631083,
+            29.7589677
+          ],
+          "sqft": 1207,
+          "price": 2790002,
+          "address": "705 Main St",
+          "name": "705 Main St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.55,
+          "public_investment_momentum": 1,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.49,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.14,
+            "investment_weight": 0.2,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3631083,
+            29.7589677
+          ],
+          "sqft": 762,
+          "price": 1850001,
+          "address": "705 Main St",
+          "name": "705 Main St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.55,
+          "public_investment_momentum": 1,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.49,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.14,
+            "investment_weight": 0.2,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3631083,
+            29.7589677
+          ],
+          "sqft": 1496,
+          "price": 3750002,
+          "address": "705 Main St",
+          "name": "705 Main St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.55,
+          "public_investment_momentum": 1,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.49,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.14,
+            "investment_weight": 0.2,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3631083,
+            29.7589677
+          ],
+          "sqft": 1072,
+          "price": 2250001,
+          "address": "705 Main St",
+          "name": "705 Main St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.55,
+          "public_investment_momentum": 1,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.49,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.14,
+            "investment_weight": 0.2,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.360152,
+            29.762849
+          ],
+          "sqft": 1132,
+          "price": 2500001,
+          "address": "201 Main St",
+          "name": "201 Main St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.62,
+          "public_investment_momentum": 0.9,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.49,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.16,
+            "investment_weight": 0.18,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3607509,
+            29.7634676
+          ],
+          "sqft": 917,
+          "price": 3999001,
+          "address": "915 Franklin St",
+          "name": "915 Franklin St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.61,
+          "public_investment_momentum": 0.9,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.48,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.15,
+            "investment_weight": 0.18,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3607509,
+            29.7634676
+          ],
+          "sqft": 928,
+          "price": 2549901,
+          "address": "915 Franklin St",
+          "name": "915 Franklin St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.61,
+          "public_investment_momentum": 0.9,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.48,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.15,
+            "investment_weight": 0.18,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3607509,
+            29.7634676
+          ],
+          "sqft": 1132,
+          "price": 2690002,
+          "address": "915 Franklin St",
+          "name": "915 Franklin St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.61,
+          "public_investment_momentum": 0.9,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.48,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.15,
+            "investment_weight": 0.18,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        }
+      ],
+      "amenity_context": "126 dining/entertainment, 0 entertainment venues, 0 pedestrian zones, 8 hotels, 0 commercial buildings (137 total amenities within zone)",
+      "market_signals": "0 residential listings (avg $0), 35 office buildings (avg 1,432 sqft, $0/sqft), estimated 100% office vacancy",
+      "development_timeline": "6 active projects (9 renovations, 0 new construction) - 9 total projects in zone",
+      "fifa_intelligence": {
+        "conversion_candidates": 0,
+        "high_priority_features": 8,
+        "walkability_infrastructure": 0,
+        "total_amenities": 137,
+        "amenity_breakdown": {
+          "dining_entertainment": 126,
+          "entertainment_venue": 0,
+          "pedestrian_zone": 0,
+          "hotel": 8,
+          "commercial_building": 0,
+          "parking": 3
+        },
+        "office_buildings_with_scores": 0
+      },
+      "summary": {
+        "total_office_buildings": 35,
+        "high_potential_candidates": 0,
+        "avg_conversion_score": 0.49,
+        "walkability_analysis": {
+          "avg_walkability": 1,
+          "high_walkability_candidates": 10
+        },
+        "clustering_analysis": {
+          "avg_clustering": 0.7,
+          "clustered_candidates": 10,
+          "critical_mass_zones": [
+            {
+              "center": [
+                -95.36256126666667,
+                29.7590529
+              ],
+              "size": 6,
+              "avg_score": 0.5,
+              "buildings": [
+                "1120 Texas St",
+                "1120 Texas St",
+                "705 Main St",
+                "705 Main St",
+                "705 Main St",
+                "705 Main St"
+              ]
+            },
+            {
+              "center": [
+                -95.360601175,
+                29.76331295
+              ],
+              "size": 4,
+              "avg_score": 0.4825,
+              "buildings": [
+                "201 Main St",
+                "915 Franklin St",
+                "915 Franklin St",
+                "915 Franklin St"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "eado_district": {
+    "zone_analysis": {
+      "zone_id": "eado_district",
+      "zone_name": "EaDo Fan Festival Zone",
+      "radius_meters": 2000,
+      "conversion_candidates": [
+        {
+          "coordinates": [
+            -95.3544221,
+            29.7507293
+          ],
+          "sqft": 894,
+          "price": 2200001,
+          "address": "2205 Mckinney St",
+          "name": "2205 Mckinney St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.27,
+          "public_investment_momentum": 0,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.22,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.07,
+            "investment_weight": 0,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3472478,
+            29.7543915
+          ],
+          "sqft": 2065,
+          "price": 4000003,
+          "address": "2503 Garrow St",
+          "name": "2503 Garrow St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.03,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0,
+          "conversion_score": 0.2,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.01,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3486243,
+            29.7457121
+          ],
+          "sqft": 2443,
+          "price": 5400003,
+          "address": "1120 Ennis St",
+          "name": "1120 Ennis St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.19,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3456946,
+            29.7573487
+          ],
+          "sqft": 2276,
+          "price": 4990003,
+          "address": "2414 Canal St",
+          "name": "2414 Canal St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0,
+          "conversion_score": 0.19,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.342072,
+            29.7532015
+          ],
+          "sqft": 2047,
+          "price": 3700002,
+          "address": "3018 Commerce St",
+          "name": "3018 Commerce St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.02,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0,
+          "conversion_score": 0.19,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.01,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3457567,
+            29.7429671
+          ],
+          "sqft": 1729,
+          "price": 3499902,
+          "address": "1208 Sampson St",
+          "name": "1208 Sampson St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.19,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.353211,
+            29.7463189
+          ],
+          "sqft": 1965,
+          "price": 3850002,
+          "address": "1312 Live Oak St",
+          "name": "1312 Live Oak St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.19,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.353211,
+            29.7463189
+          ],
+          "sqft": 1341,
+          "price": 2490001,
+          "address": "1312 Live Oak St",
+          "name": "1312 Live Oak St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.19,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3520527,
+            29.7424912
+          ],
+          "sqft": 1917,
+          "price": 3650003,
+          "address": "2910 Leeland St",
+          "name": "2910 Leeland St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.19,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.347402,
+            29.742429
+          ],
+          "sqft": 2004,
+          "price": 4100003,
+          "address": "1310 Roberts St",
+          "name": "1310 Roberts St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0.19,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.19,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0.04,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        }
+      ],
+      "amenity_context": "48 dining/entertainment, 0 entertainment venues, 0 pedestrian zones, 0 hotels, 0 commercial buildings (48 total amenities within zone)",
+      "market_signals": "0 residential listings (avg $0), 31 office buildings (avg 2,066 sqft, $0/sqft), estimated 100% office vacancy",
+      "development_timeline": "2 active projects (2 renovations, 0 new construction) - 2 total projects in zone",
+      "fifa_intelligence": {
+        "conversion_candidates": 0,
+        "high_priority_features": 0,
+        "walkability_infrastructure": 0,
+        "total_amenities": 48,
+        "amenity_breakdown": {
+          "dining_entertainment": 48,
+          "entertainment_venue": 0,
+          "pedestrian_zone": 0,
+          "hotel": 0,
+          "commercial_building": 0,
+          "parking": 0
+        },
+        "office_buildings_with_scores": 0
+      },
+      "summary": {
+        "total_office_buildings": 31,
+        "high_potential_candidates": 0,
+        "avg_conversion_score": 0.19,
+        "walkability_analysis": {
+          "avg_walkability": 1,
+          "high_walkability_candidates": 10
+        },
+        "clustering_analysis": {
+          "avg_clustering": 0.49,
+          "clustered_candidates": 7,
+          "critical_mass_zones": []
+        }
+      }
+    }
+  },
+  "midtown_connector": {
+    "zone_analysis": {
+      "zone_id": "midtown_connector",
+      "zone_name": "Midtown Transit Corridor",
+      "radius_meters": 1000,
+      "conversion_candidates": [
+        {
+          "coordinates": [
+            -95.3635421,
+            29.7536874
+          ],
+          "sqft": 727,
+          "price": 3200001,
+          "address": "1211 Caroline Street",
+          "name": "1211 Caroline Street",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.28,
+          "public_investment_momentum": 0.29,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.28,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.07,
+            "investment_weight": 0.06,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3635421,
+            29.7536874
+          ],
+          "sqft": 1100,
+          "price": 4399002,
+          "address": "1211 Caroline St",
+          "name": "1211 Caroline St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.28,
+          "public_investment_momentum": 0.29,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.28,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.07,
+            "investment_weight": 0.06,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3635421,
+            29.7536874
+          ],
+          "sqft": 1001,
+          "price": 3849002,
+          "address": "1211 Caroline St",
+          "name": "1211 Caroline St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.28,
+          "public_investment_momentum": 0.29,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.28,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.07,
+            "investment_weight": 0.06,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3635421,
+            29.7536874
+          ],
+          "sqft": 989,
+          "price": 3650002,
+          "address": "1211 Caroline St",
+          "name": "1211 Caroline St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.28,
+          "public_investment_momentum": 0.29,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.28,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.07,
+            "investment_weight": 0.06,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3544221,
+            29.7507293
+          ],
+          "sqft": 894,
+          "price": 2200001,
+          "address": "2205 Mckinney St",
+          "name": "2205 Mckinney St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.27,
+          "public_investment_momentum": 0,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.22,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.07,
+            "investment_weight": 0,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3535266,
+            29.7475032
+          ],
+          "sqft": 2649,
+          "price": 4600004,
+          "address": "1224 Saint Charles St",
+          "name": "1224 Saint Charles St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.09,
+          "public_investment_momentum": 0,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.17,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.02,
+            "investment_weight": 0,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3521751,
+            29.7489191
+          ],
+          "sqft": 2800,
+          "price": 5255004,
+          "address": "1027 Saint Charles St",
+          "name": "1027 Saint Charles St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0.06,
+          "public_investment_momentum": 0,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.16,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0.02,
+            "investment_weight": 0,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.353211,
+            29.7463189
+          ],
+          "sqft": 1965,
+          "price": 3850002,
+          "address": "1312 Live Oak St",
+          "name": "1312 Live Oak St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.15,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.353211,
+            29.7463189
+          ],
+          "sqft": 1341,
+          "price": 2490001,
+          "address": "1312 Live Oak St",
+          "name": "1312 Live Oak St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.15,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        },
+        {
+          "coordinates": [
+            -95.3533727,
+            29.7442152
+          ],
+          "sqft": 2328,
+          "price": 3990002,
+          "address": "1513 Nagle St",
+          "name": "1513 Nagle St",
+          "building_levels": null,
+          "priority": 1,
+          "fifa_conversion_score": 0,
+          "amenity_accessibility": 0,
+          "public_investment_momentum": 0,
+          "economic_density": 0,
+          "walkability_score": 1,
+          "clustering_score": 0.7,
+          "conversion_score": 0.15,
+          "score_breakdown": {
+            "fifa_conversion_weight": 0,
+            "amenity_weight": 0,
+            "investment_weight": 0,
+            "walkability_weight": 0.15,
+            "economic_weight": 0
+          }
+        }
+      ],
+      "amenity_context": "68 dining/entertainment, 0 entertainment venues, 0 pedestrian zones, 2 hotels, 0 commercial buildings (72 total amenities within zone)",
+      "market_signals": "0 residential listings (avg $0), 11 office buildings (avg 1,646 sqft, $0/sqft), estimated 100% office vacancy",
+      "development_timeline": "1 active projects (1 renovations, 0 new construction) - 1 total projects in zone",
+      "fifa_intelligence": {
+        "conversion_candidates": 0,
+        "high_priority_features": 2,
+        "walkability_infrastructure": 0,
+        "total_amenities": 72,
+        "amenity_breakdown": {
+          "dining_entertainment": 68,
+          "entertainment_venue": 0,
+          "pedestrian_zone": 0,
+          "hotel": 2,
+          "commercial_building": 0,
+          "parking": 2
+        },
+        "office_buildings_with_scores": 0
+      },
+      "summary": {
+        "total_office_buildings": 11,
+        "high_potential_candidates": 0,
+        "avg_conversion_score": 0.21,
+        "walkability_analysis": {
+          "avg_walkability": 1,
+          "high_walkability_candidates": 10
+        },
+        "clustering_analysis": {
+          "avg_clustering": 0.7,
+          "clustered_candidates": 10,
+          "critical_mass_zones": [
+            {
+              "center": [
+                -95.3635421,
+                29.7536874
+              ],
+              "size": 4,
+              "avg_score": 0.28,
+              "buildings": [
+                "1211 Caroline Street",
+                "1211 Caroline St",
+                "1211 Caroline St",
+                "1211 Caroline St"
+              ]
+            },
+            {
+              "center": [
+                -95.3533162,
+                29.746713666666665
+              ],
+              "size": 3,
+              "avg_score": 0.15666666666666665,
+              "buildings": [
+                "1224 Saint Charles St",
+                "1312 Live Oak St",
+                "1312 Live Oak St"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

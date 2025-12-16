@@ -1,0 +1,101 @@
+```json
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-95.363, 29.758],
+            [-95.361, 29.758],
+            [-95.361, 29.760],
+            [-95.363, 29.760],
+            [-95.363, 29.758]
+          ]
+        ]
+      },
+      "properties": {
+        "gentrification_risk": 1.0,
+        "timeline_to_unaffordable": 12,
+        "displacement_risk_factors": [
+          "High investment density",
+          "Zero residential listings",
+          "Downtown core proximity"
+        ],
+        "investment_cluster_proximity": "Within 200m of 8 high-priority FIFA investment features",
+        "development_momentum_score": 7.7,
+        "block_id": "gentrification_block_1",
+        "analysis": "This block in the Downtown Core is the most vulnerable with the shortest timeline (12 months) to becoming unaffordable. Its extremely high investment density and proximity to multiple FIFA investment features create strong displacement pressure. The absence of residential listings indicates limited current housing supply, exacerbating affordability loss. The commercial hub nature and downtown core location increase attractiveness to investors, accelerating gentrification."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-95.360, 29.740],
+            [-95.358, 29.740],
+            [-95.358, 29.742],
+            [-95.360, 29.742],
+            [-95.360, 29.740]
+          ]
+        ]
+      },
+      "properties": {
+        "gentrification_risk": 1.0,
+        "timeline_to_unaffordable": 15,
+        "displacement_risk_factors": [
+          "Moderate investment density",
+          "Midtown Transit Corridor",
+          "High displacement risk"
+        ],
+        "investment_cluster_proximity": "Within 300m of 2 high-priority FIFA features",
+        "development_momentum_score": 7.7,
+        "block_id": "gentrification_block_3",
+        "analysis": "The Midtown block shows high gentrification risk with a 15-month timeline to unaffordability. Moderate investment density and proximity to transit corridors facilitate rapid development and displacement. Although fewer FIFA investment features are nearby compared to Downtown Core, the mixed-use character and transit access increase development momentum, making it vulnerable to displacement triggered by FIFA investments."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-95.350, 29.750],
+            [-95.348, 29.750],
+            [-95.348, 29.752],
+            [-95.350, 29.752],
+            [-95.350, 29.750]
+          ]
+        ]
+      },
+      "properties": {
+        "gentrification_risk": 1.0,
+        "timeline_to_unaffordable": 18,
+        "displacement_risk_factors": [
+          "No residential listings",
+          "EaDo Fan Festival Zone",
+          "High displacement risk"
+        ],
+        "investment_cluster_proximity": "Adjacent to zero high-priority FIFA features but high displacement risk due to event zone",
+        "development_momentum_score": 7.7,
+        "block_id": "gentrification_block_2",
+        "analysis": "This EaDo district block has the longest timeline (18 months) to unaffordability but remains at very high risk due to its event zone status and zero residential listings. Despite lacking direct proximity to FIFA investment clusters, the entertainment and event-driven development momentum drive displacement risk. The high development momentum score reflects ongoing pressures that FIFA-triggered gentrification could amplify."
+      }
+    }
+  ]
+}
+```
+
+**Analysis Summary:**
+
+- The **Downtown Core block (gentrification_block_1)** is the most vulnerable, becoming unaffordable within 12 months due to *very high investment density*, *proximity to multiple FIFA investment features*, and *zero residential listings*, indicating an acute displacement risk in the commercial hub area.
+
+- The **Midtown block (gentrification_block_3)** follows with a 15-month timeline, driven by *moderate investment density* and *transit corridor access*, which supports rapid development and displacement despite fewer FIFA features nearby.
+
+- The **EaDo district block (gentrification_block_2)**, while adjacent to no high-priority FIFA features, still faces high displacement risk due to its *event zone status* and *lack of residential listings*, with an 18-month timeline to unaffordability. This suggests indirect FIFA investment effects via event-driven gentrification.
+
+All three blocks share a high development momentum score (7.7), indicating strong ongoing development pressures that FIFA investments will likely accelerate, increasing displacement vulnerability in these downtown Houston areas.

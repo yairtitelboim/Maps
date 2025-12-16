@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5833,
+          40.8667
+        ]
+      },
+      "properties": {
+        "project_id": "pjm-ai2-366",
+        "project_url": "https://www.interconnection.fyi/project/pjm-ai2-366",
+        "project_name": "Active",
+        "queue_id": "AI2-366",
+        "status": "active",
+        "power_market": "PJM",
+        "utility": "AEP",
+        "project_type": "generation",
+        "generation_type": "solar",
+        "county": "Van Wert",
+        "state": "OH",
+        "interconnection_location": "Maddox Creek-RP Mone 345 kV",
+        "transmission_owner": "AEP",
+        "queue_date": null,
+        "proposed_completion_date": null,
+        "capacity_min_mw": 75.0,
+        "capacity_max_mw": 100.0,
+        "capacity_range_display": "75 - 100 MW",
+        "recent_changes": null,
+        "distance_to_columbus_center_km": 167.72,
+        "is_near_columbus_10mi": false,
+        "nearest_substation_id": null,
+        "nearest_substation_name": "Unnamed",
+        "nearest_substation_voltage_kv": null,
+        "distance_to_nearest_substation_km": 1.19,
+        "is_within_5mi_substation": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4833,
+          40.0833
+        ]
+      },
+      "properties": {
+        "project_id": "pjm-ai2-483",
+        "project_url": "https://www.interconnection.fyi/project/pjm-ai2-483",
+        "project_name": "Active",
+        "queue_id": "AI2-483",
+        "status": "active",
+        "power_market": "PJM",
+        "utility": "AEP",
+        "project_type": "generation",
+        "generation_type": "battery",
+        "county": "Licking",
+        "state": "OH",
+        "interconnection_location": "Heath 69 kV",
+        "transmission_owner": "AEP",
+        "queue_date": null,
+        "proposed_completion_date": null,
+        "capacity_min_mw": 10.0,
+        "capacity_max_mw": 25.0,
+        "capacity_range_display": "10 - 25 MW",
+        "recent_changes": null,
+        "distance_to_columbus_center_km": 45.95,
+        "is_near_columbus_10mi": false,
+        "nearest_substation_id": null,
+        "nearest_substation_name": "Unnamed",
+        "nearest_substation_voltage_kv": null,
+        "distance_to_nearest_substation_km": 4.23,
+        "is_within_5mi_substation": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7667,
+          40.1333
+        ]
+      },
+      "properties": {
+        "project_id": "pjm-ai2-491",
+        "project_url": "https://www.interconnection.fyi/project/pjm-ai2-491",
+        "project_name": "Active",
+        "queue_id": "AI2-491",
+        "status": "active",
+        "power_market": "PJM",
+        "utility": "AEP",
+        "project_type": "generation",
+        "generation_type": "wind",
+        "county": "Champaign",
+        "state": "OH",
+        "interconnection_location": "East Lima-Marysville 345kV",
+        "transmission_owner": "AEP",
+        "queue_date": null,
+        "proposed_completion_date": null,
+        "capacity_min_mw": 100.0,
+        "capacity_max_mw": 200.0,
+        "capacity_range_display": "100 - 200 MW",
+        "recent_changes": null,
+        "distance_to_columbus_center_km": 68.11,
+        "is_near_columbus_10mi": false,
+        "nearest_substation_id": null,
+        "nearest_substation_name": "Unnamed",
+        "nearest_substation_voltage_kv": null,
+        "distance_to_nearest_substation_km": 2.6,
+        "is_within_5mi_substation": true
+      }
+    }
+  ]
+}

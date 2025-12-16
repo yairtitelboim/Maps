@@ -1,0 +1,6027 @@
+{
+  "40143006703": {
+    "name": "67.03",
+    "building_count": 237,
+    "file_path": "/neighborhood_buildings/tract_40143006703_buildings.geojson"
+  },
+  "40143006801": {
+    "name": "68.01",
+    "building_count": 146,
+    "file_path": "/neighborhood_buildings/tract_40143006801_buildings.geojson"
+  },
+  "40143006902": {
+    "name": "69.02",
+    "building_count": 109,
+    "file_path": "/neighborhood_buildings/tract_40143006902_buildings.geojson"
+  },
+  "40143006903": {
+    "name": "69.03",
+    "building_count": 291,
+    "file_path": "/neighborhood_buildings/tract_40143006903_buildings.geojson"
+  },
+  "40143006905": {
+    "name": "69.05",
+    "building_count": 200,
+    "file_path": "/neighborhood_buildings/tract_40143006905_buildings.geojson"
+  },
+  "40143006906": {
+    "name": "69.06",
+    "building_count": 319,
+    "file_path": "/neighborhood_buildings/tract_40143006906_buildings.geojson"
+  },
+  "40143006907": {
+    "name": "69.07",
+    "building_count": 113,
+    "file_path": "/neighborhood_buildings/tract_40143006907_buildings.geojson"
+  },
+  "40143007000": {
+    "name": "70",
+    "building_count": 236,
+    "file_path": "/neighborhood_buildings/tract_40143007000_buildings.geojson"
+  },
+  "40143007101": {
+    "name": "71.01",
+    "building_count": 178,
+    "file_path": "/neighborhood_buildings/tract_40143007101_buildings.geojson"
+  },
+  "40143007102": {
+    "name": "71.02",
+    "building_count": 293,
+    "file_path": "/neighborhood_buildings/tract_40143007102_buildings.geojson"
+  },
+  "40031002301": {
+    "name": "23.01",
+    "building_count": 142,
+    "file_path": "/neighborhood_buildings/tract_40031002301_buildings.geojson"
+  },
+  "40031002004": {
+    "name": "20.04",
+    "building_count": 16,
+    "file_path": "/neighborhood_buildings/tract_40031002004_buildings.geojson"
+  },
+  "40027202007": {
+    "name": "2020.07",
+    "building_count": 625,
+    "file_path": "/neighborhood_buildings/tract_40027202007_buildings.geojson"
+  },
+  "40143007200": {
+    "name": "72",
+    "building_count": 194,
+    "file_path": "/neighborhood_buildings/tract_40143007200_buildings.geojson"
+  },
+  "40143007306": {
+    "name": "73.06",
+    "building_count": 460,
+    "file_path": "/neighborhood_buildings/tract_40143007306_buildings.geojson"
+  },
+  "40143007308": {
+    "name": "73.08",
+    "building_count": 436,
+    "file_path": "/neighborhood_buildings/tract_40143007308_buildings.geojson"
+  },
+  "40143007309": {
+    "name": "73.09",
+    "building_count": 103,
+    "file_path": "/neighborhood_buildings/tract_40143007309_buildings.geojson"
+  },
+  "40143007310": {
+    "name": "73.10",
+    "building_count": 99,
+    "file_path": "/neighborhood_buildings/tract_40143007310_buildings.geojson"
+  },
+  "40143007402": {
+    "name": "74.02",
+    "building_count": 297,
+    "file_path": "/neighborhood_buildings/tract_40143007402_buildings.geojson"
+  },
+  "40143007304": {
+    "name": "73.04",
+    "building_count": 518,
+    "file_path": "/neighborhood_buildings/tract_40143007304_buildings.geojson"
+  },
+  "40143007408": {
+    "name": "74.08",
+    "building_count": 175,
+    "file_path": "/neighborhood_buildings/tract_40143007408_buildings.geojson"
+  },
+  "40143007409": {
+    "name": "74.09",
+    "building_count": 235,
+    "file_path": "/neighborhood_buildings/tract_40143007409_buildings.geojson"
+  },
+  "40143007410": {
+    "name": "74.10",
+    "building_count": 124,
+    "file_path": "/neighborhood_buildings/tract_40143007410_buildings.geojson"
+  },
+  "40143007415": {
+    "name": "74.15",
+    "building_count": 277,
+    "file_path": "/neighborhood_buildings/tract_40143007415_buildings.geojson"
+  },
+  "40143007503": {
+    "name": "75.03",
+    "building_count": 80,
+    "file_path": "/neighborhood_buildings/tract_40143007503_buildings.geojson"
+  },
+  "40143007507": {
+    "name": "75.07",
+    "building_count": 1489,
+    "file_path": "/neighborhood_buildings/tract_40143007507_buildings.geojson"
+  },
+  "40151954201": {
+    "name": "9542.01",
+    "building_count": 257,
+    "file_path": "/neighborhood_buildings/tract_40151954201_buildings.geojson"
+  },
+  "40143007510": {
+    "name": "75.10",
+    "building_count": 37,
+    "file_path": "/neighborhood_buildings/tract_40143007510_buildings.geojson"
+  },
+  "40151954202": {
+    "name": "9542.02",
+    "building_count": 257,
+    "file_path": "/neighborhood_buildings/tract_40151954202_buildings.geojson"
+  },
+  "40143007511": {
+    "name": "75.11",
+    "building_count": 105,
+    "file_path": "/neighborhood_buildings/tract_40143007511_buildings.geojson"
+  },
+  "40143007512": {
+    "name": "75.12",
+    "building_count": 1013,
+    "file_path": "/neighborhood_buildings/tract_40143007512_buildings.geojson"
+  },
+  "40143007411": {
+    "name": "74.11",
+    "building_count": 130,
+    "file_path": "/neighborhood_buildings/tract_40143007411_buildings.geojson"
+  },
+  "40143007414": {
+    "name": "74.14",
+    "building_count": 96,
+    "file_path": "/neighborhood_buildings/tract_40143007414_buildings.geojson"
+  },
+  "40027200100": {
+    "name": "2001",
+    "building_count": 133,
+    "file_path": "/neighborhood_buildings/tract_40027200100_buildings.geojson"
+  },
+  "40027200200": {
+    "name": "2002",
+    "building_count": 54,
+    "file_path": "/neighborhood_buildings/tract_40027200200_buildings.geojson"
+  },
+  "40027201102": {
+    "name": "2011.02",
+    "building_count": 1034,
+    "file_path": "/neighborhood_buildings/tract_40027201102_buildings.geojson"
+  },
+  "40027202403": {
+    "name": "2024.03",
+    "building_count": 50,
+    "file_path": "/neighborhood_buildings/tract_40027202403_buildings.geojson"
+  },
+  "40027200400": {
+    "name": "2004",
+    "building_count": 45,
+    "file_path": "/neighborhood_buildings/tract_40027200400_buildings.geojson"
+  },
+  "40027201700": {
+    "name": "2017",
+    "building_count": 981,
+    "file_path": "/neighborhood_buildings/tract_40027201700_buildings.geojson"
+  },
+  "40027202302": {
+    "name": "2023.02",
+    "building_count": 35,
+    "file_path": "/neighborhood_buildings/tract_40027202302_buildings.geojson"
+  },
+  "40027201604": {
+    "name": "2016.04",
+    "building_count": 1172,
+    "file_path": "/neighborhood_buildings/tract_40027201604_buildings.geojson"
+  },
+  "40027202006": {
+    "name": "2020.06",
+    "building_count": 133,
+    "file_path": "/neighborhood_buildings/tract_40027202006_buildings.geojson"
+  },
+  "40143007520": {
+    "name": "75.20",
+    "building_count": 137,
+    "file_path": "/neighborhood_buildings/tract_40143007520_buildings.geojson"
+  },
+  "40143007522": {
+    "name": "75.22",
+    "building_count": 353,
+    "file_path": "/neighborhood_buildings/tract_40143007522_buildings.geojson"
+  },
+  "40143007523": {
+    "name": "75.23",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40143007523_buildings.geojson"
+  },
+  "40143007611": {
+    "name": "76.11",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40143007611_buildings.geojson"
+  },
+  "40143007612": {
+    "name": "76.12",
+    "building_count": 202,
+    "file_path": "/neighborhood_buildings/tract_40143007612_buildings.geojson"
+  },
+  "40027202301": {
+    "name": "2023.01",
+    "building_count": 412,
+    "file_path": "/neighborhood_buildings/tract_40027202301_buildings.geojson"
+  },
+  "40027202600": {
+    "name": "2026",
+    "building_count": 4,
+    "file_path": "/neighborhood_buildings/tract_40027202600_buildings.geojson"
+  },
+  "40027202404": {
+    "name": "2024.04",
+    "building_count": 5,
+    "file_path": "/neighborhood_buildings/tract_40027202404_buildings.geojson"
+  },
+  "40027201903": {
+    "name": "2019.03",
+    "building_count": 592,
+    "file_path": "/neighborhood_buildings/tract_40027201903_buildings.geojson"
+  },
+  "40027202405": {
+    "name": "2024.05",
+    "building_count": 139,
+    "file_path": "/neighborhood_buildings/tract_40027202405_buildings.geojson"
+  },
+  "40143007614": {
+    "name": "76.14",
+    "building_count": 69,
+    "file_path": "/neighborhood_buildings/tract_40143007614_buildings.geojson"
+  },
+  "40143007615": {
+    "name": "76.15",
+    "building_count": 73,
+    "file_path": "/neighborhood_buildings/tract_40143007615_buildings.geojson"
+  },
+  "40143007616": {
+    "name": "76.16",
+    "building_count": 111,
+    "file_path": "/neighborhood_buildings/tract_40143007616_buildings.geojson"
+  },
+  "40027202106": {
+    "name": "2021.06",
+    "building_count": 214,
+    "file_path": "/neighborhood_buildings/tract_40027202106_buildings.geojson"
+  },
+  "40027200900": {
+    "name": "2009",
+    "building_count": 501,
+    "file_path": "/neighborhood_buildings/tract_40027200900_buildings.geojson"
+  },
+  "40027201000": {
+    "name": "2010",
+    "building_count": 840,
+    "file_path": "/neighborhood_buildings/tract_40027201000_buildings.geojson"
+  },
+  "40027201201": {
+    "name": "2012.01",
+    "building_count": 387,
+    "file_path": "/neighborhood_buildings/tract_40027201201_buildings.geojson"
+  },
+  "40027201202": {
+    "name": "2012.02",
+    "building_count": 188,
+    "file_path": "/neighborhood_buildings/tract_40027201202_buildings.geojson"
+  },
+  "40027201509": {
+    "name": "2015.09",
+    "building_count": 392,
+    "file_path": "/neighborhood_buildings/tract_40027201509_buildings.geojson"
+  },
+  "40109108535": {
+    "name": "1085.35",
+    "building_count": 298,
+    "file_path": "/neighborhood_buildings/tract_40109108535_buildings.geojson"
+  },
+  "40109108227": {
+    "name": "1082.27",
+    "building_count": 749,
+    "file_path": "/neighborhood_buildings/tract_40109108227_buildings.geojson"
+  },
+  "40109108226": {
+    "name": "1082.26",
+    "building_count": 946,
+    "file_path": "/neighborhood_buildings/tract_40109108226_buildings.geojson"
+  },
+  "40109108235": {
+    "name": "1082.35",
+    "building_count": 446,
+    "file_path": "/neighborhood_buildings/tract_40109108235_buildings.geojson"
+  },
+  "40115574500": {
+    "name": "5745",
+    "building_count": 62,
+    "file_path": "/neighborhood_buildings/tract_40115574500_buildings.geojson"
+  },
+  "40115574400": {
+    "name": "5744",
+    "building_count": 25,
+    "file_path": "/neighborhood_buildings/tract_40115574400_buildings.geojson"
+  },
+  "40031000100": {
+    "name": "1",
+    "building_count": 474,
+    "file_path": "/neighborhood_buildings/tract_40031000100_buildings.geojson"
+  },
+  "40031000800": {
+    "name": "8",
+    "building_count": 92,
+    "file_path": "/neighborhood_buildings/tract_40031000800_buildings.geojson"
+  },
+  "40031002003": {
+    "name": "20.03",
+    "building_count": 32,
+    "file_path": "/neighborhood_buildings/tract_40031002003_buildings.geojson"
+  },
+  "40031001902": {
+    "name": "19.02",
+    "building_count": 280,
+    "file_path": "/neighborhood_buildings/tract_40031001902_buildings.geojson"
+  },
+  "40031000300": {
+    "name": "3",
+    "building_count": 375,
+    "file_path": "/neighborhood_buildings/tract_40031000300_buildings.geojson"
+  },
+  "40031000402": {
+    "name": "4.02",
+    "building_count": 1286,
+    "file_path": "/neighborhood_buildings/tract_40031000402_buildings.geojson"
+  },
+  "40031000403": {
+    "name": "4.03",
+    "building_count": 647,
+    "file_path": "/neighborhood_buildings/tract_40031000403_buildings.geojson"
+  },
+  "40053956500": {
+    "name": "9565",
+    "building_count": 324,
+    "file_path": "/neighborhood_buildings/tract_40053956500_buildings.geojson"
+  },
+  "40053956400": {
+    "name": "9564",
+    "building_count": 325,
+    "file_path": "/neighborhood_buildings/tract_40053956400_buildings.geojson"
+  },
+  "40031000600": {
+    "name": "6",
+    "building_count": 712,
+    "file_path": "/neighborhood_buildings/tract_40031000600_buildings.geojson"
+  },
+  "40109105906": {
+    "name": "1059.06",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40109105906_buildings.geojson"
+  },
+  "40109108900": {
+    "name": "1089",
+    "building_count": 61,
+    "file_path": "/neighborhood_buildings/tract_40109108900_buildings.geojson"
+  },
+  "40109108109": {
+    "name": "1081.09",
+    "building_count": 612,
+    "file_path": "/neighborhood_buildings/tract_40109108109_buildings.geojson"
+  },
+  "40109108106": {
+    "name": "1081.06",
+    "building_count": 20,
+    "file_path": "/neighborhood_buildings/tract_40109108106_buildings.geojson"
+  },
+  "40109106907": {
+    "name": "1069.07",
+    "building_count": 129,
+    "file_path": "/neighborhood_buildings/tract_40109106907_buildings.geojson"
+  },
+  "40109107900": {
+    "name": "1079",
+    "building_count": 26,
+    "file_path": "/neighborhood_buildings/tract_40109107900_buildings.geojson"
+  },
+  "40109108309": {
+    "name": "1083.09",
+    "building_count": 127,
+    "file_path": "/neighborhood_buildings/tract_40109108309_buildings.geojson"
+  },
+  "40109106100": {
+    "name": "1061",
+    "building_count": 387,
+    "file_path": "/neighborhood_buildings/tract_40109106100_buildings.geojson"
+  },
+  "40109106503": {
+    "name": "1065.03",
+    "building_count": 87,
+    "file_path": "/neighborhood_buildings/tract_40109106503_buildings.geojson"
+  },
+  "40109107809": {
+    "name": "1078.09",
+    "building_count": 34,
+    "file_path": "/neighborhood_buildings/tract_40109107809_buildings.geojson"
+  },
+  "40109108804": {
+    "name": "1088.04",
+    "building_count": 27,
+    "file_path": "/neighborhood_buildings/tract_40109108804_buildings.geojson"
+  },
+  "40143011300": {
+    "name": "113",
+    "building_count": 644,
+    "file_path": "/neighborhood_buildings/tract_40143011300_buildings.geojson"
+  },
+  "40143006709": {
+    "name": "67.09",
+    "building_count": 939,
+    "file_path": "/neighborhood_buildings/tract_40143006709_buildings.geojson"
+  },
+  "40143005813": {
+    "name": "58.13",
+    "building_count": 174,
+    "file_path": "/neighborhood_buildings/tract_40143005813_buildings.geojson"
+  },
+  "40143005809": {
+    "name": "58.09",
+    "building_count": 712,
+    "file_path": "/neighborhood_buildings/tract_40143005809_buildings.geojson"
+  },
+  "40143005812": {
+    "name": "58.12",
+    "building_count": 115,
+    "file_path": "/neighborhood_buildings/tract_40143005812_buildings.geojson"
+  },
+  "40143005811": {
+    "name": "58.11",
+    "building_count": 825,
+    "file_path": "/neighborhood_buildings/tract_40143005811_buildings.geojson"
+  },
+  "40143005810": {
+    "name": "58.10",
+    "building_count": 271,
+    "file_path": "/neighborhood_buildings/tract_40143005810_buildings.geojson"
+  },
+  "40143005404": {
+    "name": "54.04",
+    "building_count": 660,
+    "file_path": "/neighborhood_buildings/tract_40143005404_buildings.geojson"
+  },
+  "40143005403": {
+    "name": "54.03",
+    "building_count": 237,
+    "file_path": "/neighborhood_buildings/tract_40143005403_buildings.geojson"
+  },
+  "40143007653": {
+    "name": "76.53",
+    "building_count": 359,
+    "file_path": "/neighborhood_buildings/tract_40143007653_buildings.geojson"
+  },
+  "40143007528": {
+    "name": "75.28",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40143007528_buildings.geojson"
+  },
+  "40143007652": {
+    "name": "76.52",
+    "building_count": 88,
+    "file_path": "/neighborhood_buildings/tract_40143007652_buildings.geojson"
+  },
+  "40143007646": {
+    "name": "76.46",
+    "building_count": 160,
+    "file_path": "/neighborhood_buildings/tract_40143007646_buildings.geojson"
+  },
+  "40143009011": {
+    "name": "90.11",
+    "building_count": 25,
+    "file_path": "/neighborhood_buildings/tract_40143009011_buildings.geojson"
+  },
+  "40143007417": {
+    "name": "74.17",
+    "building_count": 234,
+    "file_path": "/neighborhood_buildings/tract_40143007417_buildings.geojson"
+  },
+  "40143007536": {
+    "name": "75.36",
+    "building_count": 206,
+    "file_path": "/neighborhood_buildings/tract_40143007536_buildings.geojson"
+  },
+  "40143007804": {
+    "name": "78.04",
+    "building_count": 122,
+    "file_path": "/neighborhood_buildings/tract_40143007804_buildings.geojson"
+  },
+  "40143007703": {
+    "name": "77.03",
+    "building_count": 750,
+    "file_path": "/neighborhood_buildings/tract_40143007703_buildings.geojson"
+  },
+  "40143009404": {
+    "name": "94.04",
+    "building_count": 831,
+    "file_path": "/neighborhood_buildings/tract_40143009404_buildings.geojson"
+  },
+  "40143007705": {
+    "name": "77.05",
+    "building_count": 859,
+    "file_path": "/neighborhood_buildings/tract_40143007705_buildings.geojson"
+  },
+  "40143009021": {
+    "name": "90.21",
+    "building_count": 322,
+    "file_path": "/neighborhood_buildings/tract_40143009021_buildings.geojson"
+  },
+  "40143009403": {
+    "name": "94.03",
+    "building_count": 17,
+    "file_path": "/neighborhood_buildings/tract_40143009403_buildings.geojson"
+  },
+  "40143007704": {
+    "name": "77.04",
+    "building_count": 835,
+    "file_path": "/neighborhood_buildings/tract_40143007704_buildings.geojson"
+  },
+  "40143007647": {
+    "name": "76.47",
+    "building_count": 51,
+    "file_path": "/neighborhood_buildings/tract_40143007647_buildings.geojson"
+  },
+  "40143007535": {
+    "name": "75.35",
+    "building_count": 54,
+    "file_path": "/neighborhood_buildings/tract_40143007535_buildings.geojson"
+  },
+  "40143007530": {
+    "name": "75.30",
+    "building_count": 480,
+    "file_path": "/neighborhood_buildings/tract_40143007530_buildings.geojson"
+  },
+  "40143007534": {
+    "name": "75.34",
+    "building_count": 202,
+    "file_path": "/neighborhood_buildings/tract_40143007534_buildings.geojson"
+  },
+  "40143007645": {
+    "name": "76.45",
+    "building_count": 76,
+    "file_path": "/neighborhood_buildings/tract_40143007645_buildings.geojson"
+  },
+  "40143009013": {
+    "name": "90.13",
+    "building_count": 426,
+    "file_path": "/neighborhood_buildings/tract_40143009013_buildings.geojson"
+  },
+  "40143007654": {
+    "name": "76.54",
+    "building_count": 65,
+    "file_path": "/neighborhood_buildings/tract_40143007654_buildings.geojson"
+  },
+  "40143006712": {
+    "name": "67.12",
+    "building_count": 824,
+    "file_path": "/neighborhood_buildings/tract_40143006712_buildings.geojson"
+  },
+  "40143007313": {
+    "name": "73.13",
+    "building_count": 131,
+    "file_path": "/neighborhood_buildings/tract_40143007313_buildings.geojson"
+  },
+  "40143006711": {
+    "name": "67.11",
+    "building_count": 1126,
+    "file_path": "/neighborhood_buildings/tract_40143006711_buildings.geojson"
+  },
+  "40143009010": {
+    "name": "90.10",
+    "building_count": 46,
+    "file_path": "/neighborhood_buildings/tract_40143009010_buildings.geojson"
+  },
+  "40143007527": {
+    "name": "75.27",
+    "building_count": 376,
+    "file_path": "/neighborhood_buildings/tract_40143007527_buildings.geojson"
+  },
+  "40143009019": {
+    "name": "90.19",
+    "building_count": 534,
+    "file_path": "/neighborhood_buildings/tract_40143009019_buildings.geojson"
+  },
+  "40143007803": {
+    "name": "78.03",
+    "building_count": 225,
+    "file_path": "/neighborhood_buildings/tract_40143007803_buildings.geojson"
+  },
+  "40143007644": {
+    "name": "76.44",
+    "building_count": 295,
+    "file_path": "/neighborhood_buildings/tract_40143007644_buildings.geojson"
+  },
+  "40143007643": {
+    "name": "76.43",
+    "building_count": 171,
+    "file_path": "/neighborhood_buildings/tract_40143007643_buildings.geojson"
+  },
+  "40143007648": {
+    "name": "76.48",
+    "building_count": 18,
+    "file_path": "/neighborhood_buildings/tract_40143007648_buildings.geojson"
+  },
+  "40143009012": {
+    "name": "90.12",
+    "building_count": 123,
+    "file_path": "/neighborhood_buildings/tract_40143009012_buildings.geojson"
+  },
+  "40143007650": {
+    "name": "76.50",
+    "building_count": 265,
+    "file_path": "/neighborhood_buildings/tract_40143007650_buildings.geojson"
+  },
+  "40143009017": {
+    "name": "90.17",
+    "building_count": 12,
+    "file_path": "/neighborhood_buildings/tract_40143009017_buildings.geojson"
+  },
+  "40109106602": {
+    "name": "1066.02",
+    "building_count": 130,
+    "file_path": "/neighborhood_buildings/tract_40109106602_buildings.geojson"
+  },
+  "40109108802": {
+    "name": "1088.02",
+    "building_count": 312,
+    "file_path": "/neighborhood_buildings/tract_40109108802_buildings.geojson"
+  },
+  "40109108508": {
+    "name": "1085.08",
+    "building_count": 133,
+    "file_path": "/neighborhood_buildings/tract_40109108508_buildings.geojson"
+  },
+  "40109106200": {
+    "name": "1062",
+    "building_count": 230,
+    "file_path": "/neighborhood_buildings/tract_40109106200_buildings.geojson"
+  },
+  "40119010400": {
+    "name": "104",
+    "building_count": 224,
+    "file_path": "/neighborhood_buildings/tract_40119010400_buildings.geojson"
+  },
+  "40143006710": {
+    "name": "67.10",
+    "building_count": 265,
+    "file_path": "/neighborhood_buildings/tract_40143006710_buildings.geojson"
+  },
+  "40143007532": {
+    "name": "75.32",
+    "building_count": 165,
+    "file_path": "/neighborhood_buildings/tract_40143007532_buildings.geojson"
+  },
+  "40143007533": {
+    "name": "75.33",
+    "building_count": 183,
+    "file_path": "/neighborhood_buildings/tract_40143007533_buildings.geojson"
+  },
+  "40143007706": {
+    "name": "77.06",
+    "building_count": 12,
+    "file_path": "/neighborhood_buildings/tract_40143007706_buildings.geojson"
+  },
+  "40143007314": {
+    "name": "73.14",
+    "building_count": 128,
+    "file_path": "/neighborhood_buildings/tract_40143007314_buildings.geojson"
+  },
+  "40143007526": {
+    "name": "75.26",
+    "building_count": 125,
+    "file_path": "/neighborhood_buildings/tract_40143007526_buildings.geojson"
+  },
+  "40143007656": {
+    "name": "76.56",
+    "building_count": 132,
+    "file_path": "/neighborhood_buildings/tract_40143007656_buildings.geojson"
+  },
+  "40143007707": {
+    "name": "77.07",
+    "building_count": 340,
+    "file_path": "/neighborhood_buildings/tract_40143007707_buildings.geojson"
+  },
+  "40143009014": {
+    "name": "90.14",
+    "building_count": 51,
+    "file_path": "/neighborhood_buildings/tract_40143009014_buildings.geojson"
+  },
+  "40143007529": {
+    "name": "75.29",
+    "building_count": 191,
+    "file_path": "/neighborhood_buildings/tract_40143007529_buildings.geojson"
+  },
+  "40143007655": {
+    "name": "76.55",
+    "building_count": 56,
+    "file_path": "/neighborhood_buildings/tract_40143007655_buildings.geojson"
+  },
+  "40143007525": {
+    "name": "75.25",
+    "building_count": 67,
+    "file_path": "/neighborhood_buildings/tract_40143007525_buildings.geojson"
+  },
+  "40143007651": {
+    "name": "76.51",
+    "building_count": 406,
+    "file_path": "/neighborhood_buildings/tract_40143007651_buildings.geojson"
+  },
+  "40143007416": {
+    "name": "74.16",
+    "building_count": 82,
+    "file_path": "/neighborhood_buildings/tract_40143007416_buildings.geojson"
+  },
+  "40143009016": {
+    "name": "90.16",
+    "building_count": 66,
+    "file_path": "/neighborhood_buildings/tract_40143009016_buildings.geojson"
+  },
+  "40143009020": {
+    "name": "90.20",
+    "building_count": 324,
+    "file_path": "/neighborhood_buildings/tract_40143009020_buildings.geojson"
+  },
+  "40143007531": {
+    "name": "75.31",
+    "building_count": 105,
+    "file_path": "/neighborhood_buildings/tract_40143007531_buildings.geojson"
+  },
+  "40143009015": {
+    "name": "90.15",
+    "building_count": 508,
+    "file_path": "/neighborhood_buildings/tract_40143009015_buildings.geojson"
+  },
+  "40143007649": {
+    "name": "76.49",
+    "building_count": 123,
+    "file_path": "/neighborhood_buildings/tract_40143007649_buildings.geojson"
+  },
+  "40143006713": {
+    "name": "67.13",
+    "building_count": 244,
+    "file_path": "/neighborhood_buildings/tract_40143006713_buildings.geojson"
+  },
+  "40143009018": {
+    "name": "90.18",
+    "building_count": 16,
+    "file_path": "/neighborhood_buildings/tract_40143009018_buildings.geojson"
+  },
+  "40109106000": {
+    "name": "1060",
+    "building_count": 176,
+    "file_path": "/neighborhood_buildings/tract_40109106000_buildings.geojson"
+  },
+  "40109107305": {
+    "name": "1073.05",
+    "building_count": 138,
+    "file_path": "/neighborhood_buildings/tract_40109107305_buildings.geojson"
+  },
+  "40109104100": {
+    "name": "1041",
+    "building_count": 291,
+    "file_path": "/neighborhood_buildings/tract_40109104100_buildings.geojson"
+  },
+  "40109108005": {
+    "name": "1080.05",
+    "building_count": 23,
+    "file_path": "/neighborhood_buildings/tract_40109108005_buildings.geojson"
+  },
+  "40109108307": {
+    "name": "1083.07",
+    "building_count": 1640,
+    "file_path": "/neighborhood_buildings/tract_40109108307_buildings.geojson"
+  },
+  "40119010600": {
+    "name": "106",
+    "building_count": 705,
+    "file_path": "/neighborhood_buildings/tract_40119010600_buildings.geojson"
+  },
+  "40119010700": {
+    "name": "107",
+    "building_count": 398,
+    "file_path": "/neighborhood_buildings/tract_40119010700_buildings.geojson"
+  },
+  "40119010800": {
+    "name": "108",
+    "building_count": 355,
+    "file_path": "/neighborhood_buildings/tract_40119010800_buildings.geojson"
+  },
+  "40139950902": {
+    "name": "9509.02",
+    "building_count": 275,
+    "file_path": "/neighborhood_buildings/tract_40139950902_buildings.geojson"
+  },
+  "40139950901": {
+    "name": "9509.01",
+    "building_count": 2,
+    "file_path": "/neighborhood_buildings/tract_40139950901_buildings.geojson"
+  },
+  "40109105905": {
+    "name": "1059.05",
+    "building_count": 4,
+    "file_path": "/neighborhood_buildings/tract_40109105905_buildings.geojson"
+  },
+  "40109105907": {
+    "name": "1059.07",
+    "building_count": 41,
+    "file_path": "/neighborhood_buildings/tract_40109105907_buildings.geojson"
+  },
+  "40109107206": {
+    "name": "1072.06",
+    "building_count": 328,
+    "file_path": "/neighborhood_buildings/tract_40109107206_buildings.geojson"
+  },
+  "40109107207": {
+    "name": "1072.07",
+    "building_count": 509,
+    "file_path": "/neighborhood_buildings/tract_40109107207_buildings.geojson"
+  },
+  "40109108507": {
+    "name": "1085.07",
+    "building_count": 356,
+    "file_path": "/neighborhood_buildings/tract_40109108507_buildings.geojson"
+  },
+  "40109108513": {
+    "name": "1085.13",
+    "building_count": 19,
+    "file_path": "/neighborhood_buildings/tract_40109108513_buildings.geojson"
+  },
+  "40109108514": {
+    "name": "1085.14",
+    "building_count": 141,
+    "file_path": "/neighborhood_buildings/tract_40109108514_buildings.geojson"
+  },
+  "40109108515": {
+    "name": "1085.15",
+    "building_count": 484,
+    "file_path": "/neighborhood_buildings/tract_40109108515_buildings.geojson"
+  },
+  "40143000300": {
+    "name": "3",
+    "building_count": 238,
+    "file_path": "/neighborhood_buildings/tract_40143000300_buildings.geojson"
+  },
+  "40143000400": {
+    "name": "4",
+    "building_count": 216,
+    "file_path": "/neighborhood_buildings/tract_40143000400_buildings.geojson"
+  },
+  "40143000500": {
+    "name": "5",
+    "building_count": 16,
+    "file_path": "/neighborhood_buildings/tract_40143000500_buildings.geojson"
+  },
+  "40023967100": {
+    "name": "9671",
+    "building_count": 160,
+    "file_path": "/neighborhood_buildings/tract_40023967100_buildings.geojson"
+  },
+  "40109106301": {
+    "name": "1063.01",
+    "building_count": 173,
+    "file_path": "/neighborhood_buildings/tract_40109106301_buildings.geojson"
+  },
+  "40109106302": {
+    "name": "1063.02",
+    "building_count": 1556,
+    "file_path": "/neighborhood_buildings/tract_40109106302_buildings.geojson"
+  },
+  "40109107212": {
+    "name": "1072.12",
+    "building_count": 167,
+    "file_path": "/neighborhood_buildings/tract_40109107212_buildings.geojson"
+  },
+  "40125500301": {
+    "name": "5003.01",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40125500301_buildings.geojson"
+  },
+  "40023967200": {
+    "name": "9672",
+    "building_count": 366,
+    "file_path": "/neighborhood_buildings/tract_40023967200_buildings.geojson"
+  },
+  "40143004302": {
+    "name": "43.02",
+    "building_count": 269,
+    "file_path": "/neighborhood_buildings/tract_40143004302_buildings.geojson"
+  },
+  "40109106303": {
+    "name": "1063.03",
+    "building_count": 229,
+    "file_path": "/neighborhood_buildings/tract_40109106303_buildings.geojson"
+  },
+  "40109106401": {
+    "name": "1064.01",
+    "building_count": 21,
+    "file_path": "/neighborhood_buildings/tract_40109106401_buildings.geojson"
+  },
+  "40109106402": {
+    "name": "1064.02",
+    "building_count": 154,
+    "file_path": "/neighborhood_buildings/tract_40109106402_buildings.geojson"
+  },
+  "40109106501": {
+    "name": "1065.01",
+    "building_count": 846,
+    "file_path": "/neighborhood_buildings/tract_40109106501_buildings.geojson"
+  },
+  "40109107213": {
+    "name": "1072.13",
+    "building_count": 32,
+    "file_path": "/neighborhood_buildings/tract_40109107213_buildings.geojson"
+  },
+  "40109107214": {
+    "name": "1072.14",
+    "building_count": 23,
+    "file_path": "/neighborhood_buildings/tract_40109107214_buildings.geojson"
+  },
+  "40149964900": {
+    "name": "9649",
+    "building_count": 162,
+    "file_path": "/neighborhood_buildings/tract_40149964900_buildings.geojson"
+  },
+  "40149965000": {
+    "name": "9650",
+    "building_count": 52,
+    "file_path": "/neighborhood_buildings/tract_40149965000_buildings.geojson"
+  },
+  "40149965100": {
+    "name": "9651",
+    "building_count": 24,
+    "file_path": "/neighborhood_buildings/tract_40149965100_buildings.geojson"
+  },
+  "40149965400": {
+    "name": "9654",
+    "building_count": 337,
+    "file_path": "/neighborhood_buildings/tract_40149965400_buildings.geojson"
+  },
+  "40143007617": {
+    "name": "76.17",
+    "building_count": 328,
+    "file_path": "/neighborhood_buildings/tract_40143007617_buildings.geojson"
+  },
+  "40143004200": {
+    "name": "42",
+    "building_count": 206,
+    "file_path": "/neighborhood_buildings/tract_40143004200_buildings.geojson"
+  },
+  "40109105000": {
+    "name": "1050",
+    "building_count": 254,
+    "file_path": "/neighborhood_buildings/tract_40109105000_buildings.geojson"
+  },
+  "40109105201": {
+    "name": "1052.01",
+    "building_count": 105,
+    "file_path": "/neighborhood_buildings/tract_40109105201_buildings.geojson"
+  },
+  "40109107215": {
+    "name": "1072.15",
+    "building_count": 126,
+    "file_path": "/neighborhood_buildings/tract_40109107215_buildings.geojson"
+  },
+  "40109107216": {
+    "name": "1072.16",
+    "building_count": 25,
+    "file_path": "/neighborhood_buildings/tract_40109107216_buildings.geojson"
+  },
+  "40109107217": {
+    "name": "1072.17",
+    "building_count": 11,
+    "file_path": "/neighborhood_buildings/tract_40109107217_buildings.geojson"
+  },
+  "40109107219": {
+    "name": "1072.19",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40109107219_buildings.geojson"
+  },
+  "40109107220": {
+    "name": "1072.20",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40109107220_buildings.geojson"
+  },
+  "40131050104": {
+    "name": "501.04",
+    "building_count": 150,
+    "file_path": "/neighborhood_buildings/tract_40131050104_buildings.geojson"
+  },
+  "40131050103": {
+    "name": "501.03",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40131050103_buildings.geojson"
+  },
+  "40109107221": {
+    "name": "1072.21",
+    "building_count": 126,
+    "file_path": "/neighborhood_buildings/tract_40109107221_buildings.geojson"
+  },
+  "40109107222": {
+    "name": "1072.22",
+    "building_count": 80,
+    "file_path": "/neighborhood_buildings/tract_40109107222_buildings.geojson"
+  },
+  "40109107223": {
+    "name": "1072.23",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40109107223_buildings.geojson"
+  },
+  "40109107302": {
+    "name": "1073.02",
+    "building_count": 195,
+    "file_path": "/neighborhood_buildings/tract_40109107302_buildings.geojson"
+  },
+  "40109107306": {
+    "name": "1073.06",
+    "building_count": 1322,
+    "file_path": "/neighborhood_buildings/tract_40109107306_buildings.geojson"
+  },
+  "40109107401": {
+    "name": "1074.01",
+    "building_count": 2255,
+    "file_path": "/neighborhood_buildings/tract_40109107401_buildings.geojson"
+  },
+  "40033871100": {
+    "name": "8711",
+    "building_count": 114,
+    "file_path": "/neighborhood_buildings/tract_40033871100_buildings.geojson"
+  },
+  "40033871200": {
+    "name": "8712",
+    "building_count": 289,
+    "file_path": "/neighborhood_buildings/tract_40033871200_buildings.geojson"
+  },
+  "40069660300": {
+    "name": "6603",
+    "building_count": 97,
+    "file_path": "/neighborhood_buildings/tract_40069660300_buildings.geojson"
+  },
+  "40069660198": {
+    "name": "6601.98",
+    "building_count": 161,
+    "file_path": "/neighborhood_buildings/tract_40069660198_buildings.geojson"
+  },
+  "40007951700": {
+    "name": "9517",
+    "building_count": 106,
+    "file_path": "/neighborhood_buildings/tract_40007951700_buildings.geojson"
+  },
+  "40109107601": {
+    "name": "1076.01",
+    "building_count": 362,
+    "file_path": "/neighborhood_buildings/tract_40109107601_buildings.geojson"
+  },
+  "40109107604": {
+    "name": "1076.04",
+    "building_count": 92,
+    "file_path": "/neighborhood_buildings/tract_40109107604_buildings.geojson"
+  },
+  "40109107605": {
+    "name": "1076.05",
+    "building_count": 30,
+    "file_path": "/neighborhood_buildings/tract_40109107605_buildings.geojson"
+  },
+  "40109107704": {
+    "name": "1077.04",
+    "building_count": 27,
+    "file_path": "/neighborhood_buildings/tract_40109107704_buildings.geojson"
+  },
+  "40109107705": {
+    "name": "1077.05",
+    "building_count": 79,
+    "file_path": "/neighborhood_buildings/tract_40109107705_buildings.geojson"
+  },
+  "40109107706": {
+    "name": "1077.06",
+    "building_count": 90,
+    "file_path": "/neighborhood_buildings/tract_40109107706_buildings.geojson"
+  },
+  "40109107707": {
+    "name": "1077.07",
+    "building_count": 261,
+    "file_path": "/neighborhood_buildings/tract_40109107707_buildings.geojson"
+  },
+  "40093955200": {
+    "name": "9552",
+    "building_count": 188,
+    "file_path": "/neighborhood_buildings/tract_40093955200_buildings.geojson"
+  },
+  "40093955100": {
+    "name": "9551",
+    "building_count": 202,
+    "file_path": "/neighborhood_buildings/tract_40093955100_buildings.geojson"
+  },
+  "40093955300": {
+    "name": "9553",
+    "building_count": 61,
+    "file_path": "/neighborhood_buildings/tract_40093955300_buildings.geojson"
+  },
+  "40071000100": {
+    "name": "1",
+    "building_count": 321,
+    "file_path": "/neighborhood_buildings/tract_40071000100_buildings.geojson"
+  },
+  "40071001100": {
+    "name": "11",
+    "building_count": 212,
+    "file_path": "/neighborhood_buildings/tract_40071001100_buildings.geojson"
+  },
+  "40071000500": {
+    "name": "5",
+    "building_count": 55,
+    "file_path": "/neighborhood_buildings/tract_40071000500_buildings.geojson"
+  },
+  "40071000300": {
+    "name": "3",
+    "building_count": 85,
+    "file_path": "/neighborhood_buildings/tract_40071000300_buildings.geojson"
+  },
+  "40071000600": {
+    "name": "6",
+    "building_count": 487,
+    "file_path": "/neighborhood_buildings/tract_40071000600_buildings.geojson"
+  },
+  "40071000400": {
+    "name": "4",
+    "building_count": 123,
+    "file_path": "/neighborhood_buildings/tract_40071000400_buildings.geojson"
+  },
+  "40109107801": {
+    "name": "1078.01",
+    "building_count": 36,
+    "file_path": "/neighborhood_buildings/tract_40109107801_buildings.geojson"
+  },
+  "40109107804": {
+    "name": "1078.04",
+    "building_count": 137,
+    "file_path": "/neighborhood_buildings/tract_40109107804_buildings.geojson"
+  },
+  "40109107805": {
+    "name": "1078.05",
+    "building_count": 55,
+    "file_path": "/neighborhood_buildings/tract_40109107805_buildings.geojson"
+  },
+  "40109107807": {
+    "name": "1078.07",
+    "building_count": 315,
+    "file_path": "/neighborhood_buildings/tract_40109107807_buildings.geojson"
+  },
+  "40109107808": {
+    "name": "1078.08",
+    "building_count": 109,
+    "file_path": "/neighborhood_buildings/tract_40109107808_buildings.geojson"
+  },
+  "40071000201": {
+    "name": "2.01",
+    "building_count": 31,
+    "file_path": "/neighborhood_buildings/tract_40071000201_buildings.geojson"
+  },
+  "40023966900": {
+    "name": "9669",
+    "building_count": 2052,
+    "file_path": "/neighborhood_buildings/tract_40023966900_buildings.geojson"
+  },
+  "40023967000": {
+    "name": "9670",
+    "building_count": 909,
+    "file_path": "/neighborhood_buildings/tract_40023967000_buildings.geojson"
+  },
+  "40023967300": {
+    "name": "9673",
+    "building_count": 2519,
+    "file_path": "/neighborhood_buildings/tract_40023967300_buildings.geojson"
+  },
+  "40071000202": {
+    "name": "2.02",
+    "building_count": 127,
+    "file_path": "/neighborhood_buildings/tract_40071000202_buildings.geojson"
+  },
+  "40143005500": {
+    "name": "55",
+    "building_count": 772,
+    "file_path": "/neighborhood_buildings/tract_40143005500_buildings.geojson"
+  },
+  "40143004400": {
+    "name": "44",
+    "building_count": 106,
+    "file_path": "/neighborhood_buildings/tract_40143004400_buildings.geojson"
+  },
+  "40143007608": {
+    "name": "76.08",
+    "building_count": 256,
+    "file_path": "/neighborhood_buildings/tract_40143007608_buildings.geojson"
+  },
+  "40143007412": {
+    "name": "74.12",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40143007412_buildings.geojson"
+  },
+  "40143000900": {
+    "name": "9",
+    "building_count": 233,
+    "file_path": "/neighborhood_buildings/tract_40143000900_buildings.geojson"
+  },
+  "40143009500": {
+    "name": "95",
+    "building_count": 449,
+    "file_path": "/neighborhood_buildings/tract_40143009500_buildings.geojson"
+  },
+  "40109108527": {
+    "name": "1085.27",
+    "building_count": 734,
+    "file_path": "/neighborhood_buildings/tract_40109108527_buildings.geojson"
+  },
+  "40027201610": {
+    "name": "2016.10",
+    "building_count": 1562,
+    "file_path": "/neighborhood_buildings/tract_40027201610_buildings.geojson"
+  },
+  "40041976200": {
+    "name": "9762",
+    "building_count": 140,
+    "file_path": "/neighborhood_buildings/tract_40041976200_buildings.geojson"
+  },
+  "40041376000": {
+    "name": "3760",
+    "building_count": 52,
+    "file_path": "/neighborhood_buildings/tract_40041376000_buildings.geojson"
+  },
+  "40107081000": {
+    "name": "810",
+    "building_count": 5,
+    "file_path": "/neighborhood_buildings/tract_40107081000_buildings.geojson"
+  },
+  "40107080600": {
+    "name": "806",
+    "building_count": 22,
+    "file_path": "/neighborhood_buildings/tract_40107080600_buildings.geojson"
+  },
+  "40107080700": {
+    "name": "807",
+    "building_count": 79,
+    "file_path": "/neighborhood_buildings/tract_40107080700_buildings.geojson"
+  },
+  "40107080900": {
+    "name": "809",
+    "building_count": 77,
+    "file_path": "/neighborhood_buildings/tract_40107080900_buildings.geojson"
+  },
+  "40125500902": {
+    "name": "5009.02",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40125500902_buildings.geojson"
+  },
+  "40125501104": {
+    "name": "5011.04",
+    "building_count": 1385,
+    "file_path": "/neighborhood_buildings/tract_40125501104_buildings.geojson"
+  },
+  "40125500901": {
+    "name": "5009.01",
+    "building_count": 35,
+    "file_path": "/neighborhood_buildings/tract_40125500901_buildings.geojson"
+  },
+  "40125501005": {
+    "name": "5010.05",
+    "building_count": 125,
+    "file_path": "/neighborhood_buildings/tract_40125501005_buildings.geojson"
+  },
+  "40125501006": {
+    "name": "5010.06",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40125501006_buildings.geojson"
+  },
+  "40125500302": {
+    "name": "5003.02",
+    "building_count": 27,
+    "file_path": "/neighborhood_buildings/tract_40125500302_buildings.geojson"
+  },
+  "40125501103": {
+    "name": "5011.03",
+    "building_count": 17,
+    "file_path": "/neighborhood_buildings/tract_40125501103_buildings.geojson"
+  },
+  "40125501105": {
+    "name": "5011.05",
+    "building_count": 661,
+    "file_path": "/neighborhood_buildings/tract_40125501105_buildings.geojson"
+  },
+  "40125500400": {
+    "name": "5004",
+    "building_count": 18,
+    "file_path": "/neighborhood_buildings/tract_40125500400_buildings.geojson"
+  },
+  "40125500600": {
+    "name": "5006",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40125500600_buildings.geojson"
+  },
+  "40021978100": {
+    "name": "9781",
+    "building_count": 86,
+    "file_path": "/neighborhood_buildings/tract_40021978100_buildings.geojson"
+  },
+  "40021977600": {
+    "name": "9776",
+    "building_count": 22,
+    "file_path": "/neighborhood_buildings/tract_40021977600_buildings.geojson"
+  },
+  "40021978000": {
+    "name": "9780",
+    "building_count": 133,
+    "file_path": "/neighborhood_buildings/tract_40021978000_buildings.geojson"
+  },
+  "40153953200": {
+    "name": "9532",
+    "building_count": 385,
+    "file_path": "/neighborhood_buildings/tract_40153953200_buildings.geojson"
+  },
+  "40153953100": {
+    "name": "9531",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40153953100_buildings.geojson"
+  },
+  "40153953400": {
+    "name": "9534",
+    "building_count": 572,
+    "file_path": "/neighborhood_buildings/tract_40153953400_buildings.geojson"
+  },
+  "40153953500": {
+    "name": "9535",
+    "building_count": 183,
+    "file_path": "/neighborhood_buildings/tract_40153953500_buildings.geojson"
+  },
+  "40153953300": {
+    "name": "9533",
+    "building_count": 197,
+    "file_path": "/neighborhood_buildings/tract_40153953300_buildings.geojson"
+  },
+  "40039960702": {
+    "name": "9607.02",
+    "building_count": 34,
+    "file_path": "/neighborhood_buildings/tract_40039960702_buildings.geojson"
+  },
+  "40039960402": {
+    "name": "9604.02",
+    "building_count": 73,
+    "file_path": "/neighborhood_buildings/tract_40039960402_buildings.geojson"
+  },
+  "40143003300": {
+    "name": "33",
+    "building_count": 1227,
+    "file_path": "/neighborhood_buildings/tract_40143003300_buildings.geojson"
+  },
+  "40143006901": {
+    "name": "69.01",
+    "building_count": 75,
+    "file_path": "/neighborhood_buildings/tract_40143006901_buildings.geojson"
+  },
+  "40143007631": {
+    "name": "76.31",
+    "building_count": 335,
+    "file_path": "/neighborhood_buildings/tract_40143007631_buildings.geojson"
+  },
+  "40143001000": {
+    "name": "10",
+    "building_count": 246,
+    "file_path": "/neighborhood_buildings/tract_40143001000_buildings.geojson"
+  },
+  "40037020705": {
+    "name": "207.05",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40037020705_buildings.geojson"
+  },
+  "40037021202": {
+    "name": "212.02",
+    "building_count": 162,
+    "file_path": "/neighborhood_buildings/tract_40037021202_buildings.geojson"
+  },
+  "40037020704": {
+    "name": "207.04",
+    "building_count": 143,
+    "file_path": "/neighborhood_buildings/tract_40037020704_buildings.geojson"
+  },
+  "40037020707": {
+    "name": "207.07",
+    "building_count": 33,
+    "file_path": "/neighborhood_buildings/tract_40037020707_buildings.geojson"
+  },
+  "40037020900": {
+    "name": "209",
+    "building_count": 333,
+    "file_path": "/neighborhood_buildings/tract_40037020900_buildings.geojson"
+  },
+  "40037021500": {
+    "name": "215",
+    "building_count": 324,
+    "file_path": "/neighborhood_buildings/tract_40037021500_buildings.geojson"
+  },
+  "40037020706": {
+    "name": "207.06",
+    "building_count": 68,
+    "file_path": "/neighborhood_buildings/tract_40037020706_buildings.geojson"
+  },
+  "40037021102": {
+    "name": "211.02",
+    "building_count": 166,
+    "file_path": "/neighborhood_buildings/tract_40037021102_buildings.geojson"
+  },
+  "40037021101": {
+    "name": "211.01",
+    "building_count": 74,
+    "file_path": "/neighborhood_buildings/tract_40037021101_buildings.geojson"
+  },
+  "40037020800": {
+    "name": "208",
+    "building_count": 85,
+    "file_path": "/neighborhood_buildings/tract_40037020800_buildings.geojson"
+  },
+  "40037020103": {
+    "name": "201.03",
+    "building_count": 97,
+    "file_path": "/neighborhood_buildings/tract_40037020103_buildings.geojson"
+  },
+  "40037020702": {
+    "name": "207.02",
+    "building_count": 24,
+    "file_path": "/neighborhood_buildings/tract_40037020702_buildings.geojson"
+  },
+  "40037021201": {
+    "name": "212.01",
+    "building_count": 66,
+    "file_path": "/neighborhood_buildings/tract_40037021201_buildings.geojson"
+  },
+  "40077087200": {
+    "name": "872",
+    "building_count": 303,
+    "file_path": "/neighborhood_buildings/tract_40077087200_buildings.geojson"
+  },
+  "40077087100": {
+    "name": "871",
+    "building_count": 46,
+    "file_path": "/neighborhood_buildings/tract_40077087100_buildings.geojson"
+  },
+  "40089098300": {
+    "name": "983",
+    "building_count": 258,
+    "file_path": "/neighborhood_buildings/tract_40089098300_buildings.geojson"
+  },
+  "40089098600": {
+    "name": "986",
+    "building_count": 1206,
+    "file_path": "/neighborhood_buildings/tract_40089098600_buildings.geojson"
+  },
+  "40089098200": {
+    "name": "982",
+    "building_count": 677,
+    "file_path": "/neighborhood_buildings/tract_40089098200_buildings.geojson"
+  },
+  "40077087300": {
+    "name": "873",
+    "building_count": 38,
+    "file_path": "/neighborhood_buildings/tract_40077087300_buildings.geojson"
+  },
+  "40089098400": {
+    "name": "984",
+    "building_count": 512,
+    "file_path": "/neighborhood_buildings/tract_40089098400_buildings.geojson"
+  },
+  "40089098800": {
+    "name": "988",
+    "building_count": 321,
+    "file_path": "/neighborhood_buildings/tract_40089098800_buildings.geojson"
+  },
+  "40089098700": {
+    "name": "987",
+    "building_count": 356,
+    "file_path": "/neighborhood_buildings/tract_40089098700_buildings.geojson"
+  },
+  "40089098900": {
+    "name": "989",
+    "building_count": 24,
+    "file_path": "/neighborhood_buildings/tract_40089098900_buildings.geojson"
+  },
+  "40135030106": {
+    "name": "301.06",
+    "building_count": 980,
+    "file_path": "/neighborhood_buildings/tract_40135030106_buildings.geojson"
+  },
+  "40135030403": {
+    "name": "304.03",
+    "building_count": 117,
+    "file_path": "/neighborhood_buildings/tract_40135030403_buildings.geojson"
+  },
+  "40135030404": {
+    "name": "304.04",
+    "building_count": 261,
+    "file_path": "/neighborhood_buildings/tract_40135030404_buildings.geojson"
+  },
+  "40135030105": {
+    "name": "301.05",
+    "building_count": 181,
+    "file_path": "/neighborhood_buildings/tract_40135030105_buildings.geojson"
+  },
+  "40135030304": {
+    "name": "303.04",
+    "building_count": 88,
+    "file_path": "/neighborhood_buildings/tract_40135030304_buildings.geojson"
+  },
+  "40135030303": {
+    "name": "303.03",
+    "building_count": 98,
+    "file_path": "/neighborhood_buildings/tract_40135030303_buildings.geojson"
+  },
+  "40087400104": {
+    "name": "4001.04",
+    "building_count": 218,
+    "file_path": "/neighborhood_buildings/tract_40087400104_buildings.geojson"
+  },
+  "40087400103": {
+    "name": "4001.03",
+    "building_count": 758,
+    "file_path": "/neighborhood_buildings/tract_40087400103_buildings.geojson"
+  },
+  "40087400203": {
+    "name": "4002.03",
+    "building_count": 50,
+    "file_path": "/neighborhood_buildings/tract_40087400203_buildings.geojson"
+  },
+  "40087400106": {
+    "name": "4001.06",
+    "building_count": 3725,
+    "file_path": "/neighborhood_buildings/tract_40087400106_buildings.geojson"
+  },
+  "40087400204": {
+    "name": "4002.04",
+    "building_count": 999,
+    "file_path": "/neighborhood_buildings/tract_40087400204_buildings.geojson"
+  },
+  "40087400105": {
+    "name": "4001.05",
+    "building_count": 2793,
+    "file_path": "/neighborhood_buildings/tract_40087400105_buildings.geojson"
+  },
+  "40109107806": {
+    "name": "1078.06",
+    "building_count": 263,
+    "file_path": "/neighborhood_buildings/tract_40109107806_buildings.geojson"
+  },
+  "40109105300": {
+    "name": "1053",
+    "building_count": 321,
+    "file_path": "/neighborhood_buildings/tract_40109105300_buildings.geojson"
+  },
+  "40109107002": {
+    "name": "1070.02",
+    "building_count": 499,
+    "file_path": "/neighborhood_buildings/tract_40109107002_buildings.geojson"
+  },
+  "40109107703": {
+    "name": "1077.03",
+    "building_count": 195,
+    "file_path": "/neighborhood_buildings/tract_40109107703_buildings.geojson"
+  },
+  "40109107218": {
+    "name": "1072.18",
+    "building_count": 429,
+    "file_path": "/neighborhood_buildings/tract_40109107218_buildings.geojson"
+  },
+  "40109104600": {
+    "name": "1046",
+    "building_count": 31,
+    "file_path": "/neighborhood_buildings/tract_40109104600_buildings.geojson"
+  },
+  "40109100300": {
+    "name": "1003",
+    "building_count": 78,
+    "file_path": "/neighborhood_buildings/tract_40109100300_buildings.geojson"
+  },
+  "40109100400": {
+    "name": "1004",
+    "building_count": 153,
+    "file_path": "/neighborhood_buildings/tract_40109100400_buildings.geojson"
+  },
+  "40109100500": {
+    "name": "1005",
+    "building_count": 233,
+    "file_path": "/neighborhood_buildings/tract_40109100500_buildings.geojson"
+  },
+  "40109100800": {
+    "name": "1008",
+    "building_count": 112,
+    "file_path": "/neighborhood_buildings/tract_40109100800_buildings.geojson"
+  },
+  "40109101800": {
+    "name": "1018",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40109101800_buildings.geojson"
+  },
+  "40109109202": {
+    "name": "1092.02",
+    "building_count": 337,
+    "file_path": "/neighborhood_buildings/tract_40109109202_buildings.geojson"
+  },
+  "40109108114": {
+    "name": "1081.14",
+    "building_count": 157,
+    "file_path": "/neighborhood_buildings/tract_40109108114_buildings.geojson"
+  },
+  "40109108318": {
+    "name": "1083.18",
+    "building_count": 450,
+    "file_path": "/neighborhood_buildings/tract_40109108318_buildings.geojson"
+  },
+  "40109108314": {
+    "name": "1083.14",
+    "building_count": 615,
+    "file_path": "/neighborhood_buildings/tract_40109108314_buildings.geojson"
+  },
+  "40027201612": {
+    "name": "2016.12",
+    "building_count": 426,
+    "file_path": "/neighborhood_buildings/tract_40027201612_buildings.geojson"
+  },
+  "40075963700": {
+    "name": "9637",
+    "building_count": 54,
+    "file_path": "/neighborhood_buildings/tract_40075963700_buildings.geojson"
+  },
+  "40075964200": {
+    "name": "9642",
+    "building_count": 130,
+    "file_path": "/neighborhood_buildings/tract_40075964200_buildings.geojson"
+  },
+  "40075963600": {
+    "name": "9636",
+    "building_count": 55,
+    "file_path": "/neighborhood_buildings/tract_40075963600_buildings.geojson"
+  },
+  "40111000500": {
+    "name": "5",
+    "building_count": 333,
+    "file_path": "/neighborhood_buildings/tract_40111000500_buildings.geojson"
+  },
+  "40111000800": {
+    "name": "8",
+    "building_count": 34,
+    "file_path": "/neighborhood_buildings/tract_40111000800_buildings.geojson"
+  },
+  "40111000200": {
+    "name": "2",
+    "building_count": 47,
+    "file_path": "/neighborhood_buildings/tract_40111000200_buildings.geojson"
+  },
+  "40111000100": {
+    "name": "1",
+    "building_count": 1259,
+    "file_path": "/neighborhood_buildings/tract_40111000100_buildings.geojson"
+  },
+  "40111000300": {
+    "name": "3",
+    "building_count": 76,
+    "file_path": "/neighborhood_buildings/tract_40111000300_buildings.geojson"
+  },
+  "40111000400": {
+    "name": "4",
+    "building_count": 1701,
+    "file_path": "/neighborhood_buildings/tract_40111000400_buildings.geojson"
+  },
+  "40111000700": {
+    "name": "7",
+    "building_count": 1067,
+    "file_path": "/neighborhood_buildings/tract_40111000700_buildings.geojson"
+  },
+  "40087400201": {
+    "name": "4002.01",
+    "building_count": 76,
+    "file_path": "/neighborhood_buildings/tract_40087400201_buildings.geojson"
+  },
+  "40111000902": {
+    "name": "9.02",
+    "building_count": 187,
+    "file_path": "/neighborhood_buildings/tract_40111000902_buildings.geojson"
+  },
+  "40111000901": {
+    "name": "9.01",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40111000901_buildings.geojson"
+  },
+  "40017301408": {
+    "name": "3014.08",
+    "building_count": 73,
+    "file_path": "/neighborhood_buildings/tract_40017301408_buildings.geojson"
+  },
+  "40121485900": {
+    "name": "4859",
+    "building_count": 46,
+    "file_path": "/neighborhood_buildings/tract_40121485900_buildings.geojson"
+  },
+  "40027201609": {
+    "name": "2016.09",
+    "building_count": 1433,
+    "file_path": "/neighborhood_buildings/tract_40027201609_buildings.geojson"
+  },
+  "40143007619": {
+    "name": "76.19",
+    "building_count": 67,
+    "file_path": "/neighborhood_buildings/tract_40143007619_buildings.geojson"
+  },
+  "40143007630": {
+    "name": "76.30",
+    "building_count": 720,
+    "file_path": "/neighborhood_buildings/tract_40143007630_buildings.geojson"
+  },
+  "40143007632": {
+    "name": "76.32",
+    "building_count": 115,
+    "file_path": "/neighborhood_buildings/tract_40143007632_buildings.geojson"
+  },
+  "40143007633": {
+    "name": "76.33",
+    "building_count": 162,
+    "file_path": "/neighborhood_buildings/tract_40143007633_buildings.geojson"
+  },
+  "40143011400": {
+    "name": "114",
+    "building_count": 338,
+    "file_path": "/neighborhood_buildings/tract_40143011400_buildings.geojson"
+  },
+  "40143008300": {
+    "name": "83",
+    "building_count": 244,
+    "file_path": "/neighborhood_buildings/tract_40143008300_buildings.geojson"
+  },
+  "40143000200": {
+    "name": "2",
+    "building_count": 121,
+    "file_path": "/neighborhood_buildings/tract_40143000200_buildings.geojson"
+  },
+  "40007951600": {
+    "name": "9516",
+    "building_count": 453,
+    "file_path": "/neighborhood_buildings/tract_40007951600_buildings.geojson"
+  },
+  "40007951800": {
+    "name": "9518",
+    "building_count": 533,
+    "file_path": "/neighborhood_buildings/tract_40007951800_buildings.geojson"
+  },
+  "40039960401": {
+    "name": "9604.01",
+    "building_count": 28,
+    "file_path": "/neighborhood_buildings/tract_40039960401_buildings.geojson"
+  },
+  "40039960701": {
+    "name": "9607.01",
+    "building_count": 43,
+    "file_path": "/neighborhood_buildings/tract_40039960701_buildings.geojson"
+  },
+  "40121485700": {
+    "name": "4857",
+    "building_count": 165,
+    "file_path": "/neighborhood_buildings/tract_40121485700_buildings.geojson"
+  },
+  "40121486600": {
+    "name": "4866",
+    "building_count": 1399,
+    "file_path": "/neighborhood_buildings/tract_40121486600_buildings.geojson"
+  },
+  "40121486800": {
+    "name": "4868",
+    "building_count": 47,
+    "file_path": "/neighborhood_buildings/tract_40121486800_buildings.geojson"
+  },
+  "40121486400": {
+    "name": "4864",
+    "building_count": 92,
+    "file_path": "/neighborhood_buildings/tract_40121486400_buildings.geojson"
+  },
+  "40121485800": {
+    "name": "4858",
+    "building_count": 9,
+    "file_path": "/neighborhood_buildings/tract_40121485800_buildings.geojson"
+  },
+  "40121486200": {
+    "name": "4862",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40121486200_buildings.geojson"
+  },
+  "40121486100": {
+    "name": "4861",
+    "building_count": 85,
+    "file_path": "/neighborhood_buildings/tract_40121486100_buildings.geojson"
+  },
+  "40079040401": {
+    "name": "404.01",
+    "building_count": 12,
+    "file_path": "/neighborhood_buildings/tract_40079040401_buildings.geojson"
+  },
+  "40069660202": {
+    "name": "6602.02",
+    "building_count": 24,
+    "file_path": "/neighborhood_buildings/tract_40069660202_buildings.geojson"
+  },
+  "40069660201": {
+    "name": "6602.01",
+    "building_count": 144,
+    "file_path": "/neighborhood_buildings/tract_40069660201_buildings.geojson"
+  },
+  "40031002406": {
+    "name": "24.06",
+    "building_count": 474,
+    "file_path": "/neighborhood_buildings/tract_40031002406_buildings.geojson"
+  },
+  "40031002405": {
+    "name": "24.05",
+    "building_count": 763,
+    "file_path": "/neighborhood_buildings/tract_40031002405_buildings.geojson"
+  },
+  "40031000504": {
+    "name": "5.04",
+    "building_count": 442,
+    "file_path": "/neighborhood_buildings/tract_40031000504_buildings.geojson"
+  },
+  "40031000506": {
+    "name": "5.06",
+    "building_count": 271,
+    "file_path": "/neighborhood_buildings/tract_40031000506_buildings.geojson"
+  },
+  "40031000505": {
+    "name": "5.05",
+    "building_count": 823,
+    "file_path": "/neighborhood_buildings/tract_40031000505_buildings.geojson"
+  },
+  "40031002101": {
+    "name": "21.01",
+    "building_count": 32,
+    "file_path": "/neighborhood_buildings/tract_40031002101_buildings.geojson"
+  },
+  "40031002202": {
+    "name": "22.02",
+    "building_count": 540,
+    "file_path": "/neighborhood_buildings/tract_40031002202_buildings.geojson"
+  },
+  "40031002102": {
+    "name": "21.02",
+    "building_count": 32,
+    "file_path": "/neighborhood_buildings/tract_40031002102_buildings.geojson"
+  },
+  "40031002201": {
+    "name": "22.01",
+    "building_count": 55,
+    "file_path": "/neighborhood_buildings/tract_40031002201_buildings.geojson"
+  },
+  "40031000405": {
+    "name": "4.05",
+    "building_count": 189,
+    "file_path": "/neighborhood_buildings/tract_40031000405_buildings.geojson"
+  },
+  "40027202008": {
+    "name": "2020.08",
+    "building_count": 704,
+    "file_path": "/neighborhood_buildings/tract_40027202008_buildings.geojson"
+  },
+  "40027202107": {
+    "name": "2021.07",
+    "building_count": 805,
+    "file_path": "/neighborhood_buildings/tract_40027202107_buildings.geojson"
+  },
+  "40027200500": {
+    "name": "2005",
+    "building_count": 372,
+    "file_path": "/neighborhood_buildings/tract_40027200500_buildings.geojson"
+  },
+  "40027200602": {
+    "name": "2006.02",
+    "building_count": 526,
+    "file_path": "/neighborhood_buildings/tract_40027200602_buildings.geojson"
+  },
+  "40027200800": {
+    "name": "2008",
+    "building_count": 916,
+    "file_path": "/neighborhood_buildings/tract_40027200800_buildings.geojson"
+  },
+  "40127097702": {
+    "name": "977.02",
+    "building_count": 43,
+    "file_path": "/neighborhood_buildings/tract_40127097702_buildings.geojson"
+  },
+  "40127097701": {
+    "name": "977.01",
+    "building_count": 153,
+    "file_path": "/neighborhood_buildings/tract_40127097701_buildings.geojson"
+  },
+  "40079040102": {
+    "name": "401.02",
+    "building_count": 113,
+    "file_path": "/neighborhood_buildings/tract_40079040102_buildings.geojson"
+  },
+  "40079040700": {
+    "name": "407",
+    "building_count": 219,
+    "file_path": "/neighborhood_buildings/tract_40079040700_buildings.geojson"
+  },
+  "40079040198": {
+    "name": "401.98",
+    "building_count": 59,
+    "file_path": "/neighborhood_buildings/tract_40079040198_buildings.geojson"
+  },
+  "40079040301": {
+    "name": "403.01",
+    "building_count": 443,
+    "file_path": "/neighborhood_buildings/tract_40079040301_buildings.geojson"
+  },
+  "40079040500": {
+    "name": "405",
+    "building_count": 191,
+    "file_path": "/neighborhood_buildings/tract_40079040500_buildings.geojson"
+  },
+  "40079040302": {
+    "name": "403.02",
+    "building_count": 57,
+    "file_path": "/neighborhood_buildings/tract_40079040302_buildings.geojson"
+  },
+  "40027201403": {
+    "name": "2014.03",
+    "building_count": 565,
+    "file_path": "/neighborhood_buildings/tract_40027201403_buildings.geojson"
+  },
+  "40027201505": {
+    "name": "2015.05",
+    "building_count": 139,
+    "file_path": "/neighborhood_buildings/tract_40027201505_buildings.geojson"
+  },
+  "40143004600": {
+    "name": "46",
+    "building_count": 554,
+    "file_path": "/neighborhood_buildings/tract_40143004600_buildings.geojson"
+  },
+  "40143004800": {
+    "name": "48",
+    "building_count": 1118,
+    "file_path": "/neighborhood_buildings/tract_40143004800_buildings.geojson"
+  },
+  "40143004900": {
+    "name": "49",
+    "building_count": 1217,
+    "file_path": "/neighborhood_buildings/tract_40143004900_buildings.geojson"
+  },
+  "40143005002": {
+    "name": "50.02",
+    "building_count": 390,
+    "file_path": "/neighborhood_buildings/tract_40143005002_buildings.geojson"
+  },
+  "40143005100": {
+    "name": "51",
+    "building_count": 150,
+    "file_path": "/neighborhood_buildings/tract_40143005100_buildings.geojson"
+  },
+  "40143005200": {
+    "name": "52",
+    "building_count": 194,
+    "file_path": "/neighborhood_buildings/tract_40143005200_buildings.geojson"
+  },
+  "40143005300": {
+    "name": "53",
+    "building_count": 860,
+    "file_path": "/neighborhood_buildings/tract_40143005300_buildings.geojson"
+  },
+  "40143005600": {
+    "name": "56",
+    "building_count": 285,
+    "file_path": "/neighborhood_buildings/tract_40143005600_buildings.geojson"
+  },
+  "40143004700": {
+    "name": "47",
+    "building_count": 446,
+    "file_path": "/neighborhood_buildings/tract_40143004700_buildings.geojson"
+  },
+  "40143005700": {
+    "name": "57",
+    "building_count": 30,
+    "file_path": "/neighborhood_buildings/tract_40143005700_buildings.geojson"
+  },
+  "40143005805": {
+    "name": "58.05",
+    "building_count": 970,
+    "file_path": "/neighborhood_buildings/tract_40143005805_buildings.geojson"
+  },
+  "40041375701": {
+    "name": "3757.01",
+    "building_count": 166,
+    "file_path": "/neighborhood_buildings/tract_40041375701_buildings.geojson"
+  },
+  "40041375702": {
+    "name": "3757.02",
+    "building_count": 38,
+    "file_path": "/neighborhood_buildings/tract_40041375702_buildings.geojson"
+  },
+  "40041375805": {
+    "name": "3758.05",
+    "building_count": 65,
+    "file_path": "/neighborhood_buildings/tract_40041375805_buildings.geojson"
+  },
+  "40041375901": {
+    "name": "3759.01",
+    "building_count": 36,
+    "file_path": "/neighborhood_buildings/tract_40041375901_buildings.geojson"
+  },
+  "40041375902": {
+    "name": "3759.02",
+    "building_count": 7,
+    "file_path": "/neighborhood_buildings/tract_40041375902_buildings.geojson"
+  },
+  "40041375804": {
+    "name": "3758.04",
+    "building_count": 634,
+    "file_path": "/neighborhood_buildings/tract_40041375804_buildings.geojson"
+  },
+  "40041375803": {
+    "name": "3758.03",
+    "building_count": 62,
+    "file_path": "/neighborhood_buildings/tract_40041375803_buildings.geojson"
+  },
+  "40041375806": {
+    "name": "3758.06",
+    "building_count": 1,
+    "file_path": "/neighborhood_buildings/tract_40041375806_buildings.geojson"
+  },
+  "40027201602": {
+    "name": "2016.02",
+    "building_count": 1079,
+    "file_path": "/neighborhood_buildings/tract_40027201602_buildings.geojson"
+  },
+  "40143006000": {
+    "name": "60",
+    "building_count": 411,
+    "file_path": "/neighborhood_buildings/tract_40143006000_buildings.geojson"
+  },
+  "40143006200": {
+    "name": "62",
+    "building_count": 174,
+    "file_path": "/neighborhood_buildings/tract_40143006200_buildings.geojson"
+  },
+  "40143006506": {
+    "name": "65.06",
+    "building_count": 99,
+    "file_path": "/neighborhood_buildings/tract_40143006506_buildings.geojson"
+  },
+  "40143006507": {
+    "name": "65.07",
+    "building_count": 124,
+    "file_path": "/neighborhood_buildings/tract_40143006507_buildings.geojson"
+  },
+  "40143006600": {
+    "name": "66",
+    "building_count": 1178,
+    "file_path": "/neighborhood_buildings/tract_40143006600_buildings.geojson"
+  },
+  "40143006701": {
+    "name": "67.01",
+    "building_count": 908,
+    "file_path": "/neighborhood_buildings/tract_40143006701_buildings.geojson"
+  },
+  "40109107810": {
+    "name": "1078.10",
+    "building_count": 36,
+    "file_path": "/neighborhood_buildings/tract_40109107810_buildings.geojson"
+  },
+  "40109108007": {
+    "name": "1080.07",
+    "building_count": 80,
+    "file_path": "/neighborhood_buildings/tract_40109108007_buildings.geojson"
+  },
+  "40109108008": {
+    "name": "1080.08",
+    "building_count": 200,
+    "file_path": "/neighborhood_buildings/tract_40109108008_buildings.geojson"
+  },
+  "40123088802": {
+    "name": "888.02",
+    "building_count": 101,
+    "file_path": "/neighborhood_buildings/tract_40123088802_buildings.geojson"
+  },
+  "40123088801": {
+    "name": "888.01",
+    "building_count": 50,
+    "file_path": "/neighborhood_buildings/tract_40123088801_buildings.geojson"
+  },
+  "40017300400": {
+    "name": "3004",
+    "building_count": 7,
+    "file_path": "/neighborhood_buildings/tract_40017300400_buildings.geojson"
+  },
+  "40017300500": {
+    "name": "3005",
+    "building_count": 15,
+    "file_path": "/neighborhood_buildings/tract_40017300500_buildings.geojson"
+  },
+  "40109108520": {
+    "name": "1085.20",
+    "building_count": 810,
+    "file_path": "/neighborhood_buildings/tract_40109108520_buildings.geojson"
+  },
+  "40109108521": {
+    "name": "1085.21",
+    "building_count": 339,
+    "file_path": "/neighborhood_buildings/tract_40109108521_buildings.geojson"
+  },
+  "40109108603": {
+    "name": "1086.03",
+    "building_count": 1643,
+    "file_path": "/neighborhood_buildings/tract_40109108603_buildings.geojson"
+  },
+  "40017300600": {
+    "name": "3006",
+    "building_count": 5,
+    "file_path": "/neighborhood_buildings/tract_40017300600_buildings.geojson"
+  },
+  "40147000500": {
+    "name": "5",
+    "building_count": 68,
+    "file_path": "/neighborhood_buildings/tract_40147000500_buildings.geojson"
+  },
+  "40147000900": {
+    "name": "9",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40147000900_buildings.geojson"
+  },
+  "40109103300": {
+    "name": "1033",
+    "building_count": 158,
+    "file_path": "/neighborhood_buildings/tract_40109103300_buildings.geojson"
+  },
+  "40109109800": {
+    "name": "1098",
+    "building_count": 395,
+    "file_path": "/neighborhood_buildings/tract_40109109800_buildings.geojson"
+  },
+  "40109103200": {
+    "name": "1032",
+    "building_count": 337,
+    "file_path": "/neighborhood_buildings/tract_40109103200_buildings.geojson"
+  },
+  "40037020101": {
+    "name": "201.01",
+    "building_count": 315,
+    "file_path": "/neighborhood_buildings/tract_40037020101_buildings.geojson"
+  },
+  "40037020102": {
+    "name": "201.02",
+    "building_count": 48,
+    "file_path": "/neighborhood_buildings/tract_40037020102_buildings.geojson"
+  },
+  "40037020602": {
+    "name": "206.02",
+    "building_count": 70,
+    "file_path": "/neighborhood_buildings/tract_40037020602_buildings.geojson"
+  },
+  "40037021300": {
+    "name": "213",
+    "building_count": 155,
+    "file_path": "/neighborhood_buildings/tract_40037021300_buildings.geojson"
+  },
+  "40029388100": {
+    "name": "3881",
+    "building_count": 385,
+    "file_path": "/neighborhood_buildings/tract_40029388100_buildings.geojson"
+  },
+  "40029388200": {
+    "name": "3882",
+    "building_count": 26,
+    "file_path": "/neighborhood_buildings/tract_40029388200_buildings.geojson"
+  },
+  "40109980009": {
+    "name": "9800.09",
+    "building_count": 11,
+    "file_path": "/neighborhood_buildings/tract_40109980009_buildings.geojson"
+  },
+  "40109980008": {
+    "name": "9800.08",
+    "building_count": 25,
+    "file_path": "/neighborhood_buildings/tract_40109980008_buildings.geojson"
+  },
+  "40061279400": {
+    "name": "2794",
+    "building_count": 16,
+    "file_path": "/neighborhood_buildings/tract_40061279400_buildings.geojson"
+  },
+  "40061279200": {
+    "name": "2792",
+    "building_count": 151,
+    "file_path": "/neighborhood_buildings/tract_40061279200_buildings.geojson"
+  },
+  "40061279300": {
+    "name": "2793",
+    "building_count": 692,
+    "file_path": "/neighborhood_buildings/tract_40061279300_buildings.geojson"
+  },
+  "40061279100": {
+    "name": "2791",
+    "building_count": 85,
+    "file_path": "/neighborhood_buildings/tract_40061279100_buildings.geojson"
+  },
+  "40133583100": {
+    "name": "5831",
+    "building_count": 4,
+    "file_path": "/neighborhood_buildings/tract_40133583100_buildings.geojson"
+  },
+  "40133583300": {
+    "name": "5833",
+    "building_count": 185,
+    "file_path": "/neighborhood_buildings/tract_40133583300_buildings.geojson"
+  },
+  "40133583800": {
+    "name": "5838",
+    "building_count": 62,
+    "file_path": "/neighborhood_buildings/tract_40133583800_buildings.geojson"
+  },
+  "40133583200": {
+    "name": "5832",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40133583200_buildings.geojson"
+  },
+  "40133583400": {
+    "name": "5834",
+    "building_count": 141,
+    "file_path": "/neighborhood_buildings/tract_40133583400_buildings.geojson"
+  },
+  "40133583600": {
+    "name": "5836",
+    "building_count": 104,
+    "file_path": "/neighborhood_buildings/tract_40133583600_buildings.geojson"
+  },
+  "40133583700": {
+    "name": "5837",
+    "building_count": 1,
+    "file_path": "/neighborhood_buildings/tract_40133583700_buildings.geojson"
+  },
+  "40133583900": {
+    "name": "5839",
+    "building_count": 12,
+    "file_path": "/neighborhood_buildings/tract_40133583900_buildings.geojson"
+  },
+  "40133583500": {
+    "name": "5835",
+    "building_count": 135,
+    "file_path": "/neighborhood_buildings/tract_40133583500_buildings.geojson"
+  },
+  "40091780200": {
+    "name": "7802",
+    "building_count": 438,
+    "file_path": "/neighborhood_buildings/tract_40091780200_buildings.geojson"
+  },
+  "40027201104": {
+    "name": "2011.04",
+    "building_count": 651,
+    "file_path": "/neighborhood_buildings/tract_40027201104_buildings.geojson"
+  },
+  "40027201204": {
+    "name": "2012.04",
+    "building_count": 225,
+    "file_path": "/neighborhood_buildings/tract_40027201204_buildings.geojson"
+  },
+  "40027201103": {
+    "name": "2011.03",
+    "building_count": 1215,
+    "file_path": "/neighborhood_buildings/tract_40027201103_buildings.geojson"
+  },
+  "40027201514": {
+    "name": "2015.14",
+    "building_count": 1485,
+    "file_path": "/neighborhood_buildings/tract_40027201514_buildings.geojson"
+  },
+  "40027201302": {
+    "name": "2013.02",
+    "building_count": 600,
+    "file_path": "/neighborhood_buildings/tract_40027201302_buildings.geojson"
+  },
+  "40027202502": {
+    "name": "2025.02",
+    "building_count": 185,
+    "file_path": "/neighborhood_buildings/tract_40027202502_buildings.geojson"
+  },
+  "40027201512": {
+    "name": "2015.12",
+    "building_count": 259,
+    "file_path": "/neighborhood_buildings/tract_40027201512_buildings.geojson"
+  },
+  "40027200603": {
+    "name": "2006.03",
+    "building_count": 440,
+    "file_path": "/neighborhood_buildings/tract_40027200603_buildings.geojson"
+  },
+  "40027202407": {
+    "name": "2024.07",
+    "building_count": 10,
+    "file_path": "/neighborhood_buildings/tract_40027202407_buildings.geojson"
+  },
+  "40109107404": {
+    "name": "1074.04",
+    "building_count": 959,
+    "file_path": "/neighborhood_buildings/tract_40109107404_buildings.geojson"
+  },
+  "40119010102": {
+    "name": "101.02",
+    "building_count": 688,
+    "file_path": "/neighborhood_buildings/tract_40119010102_buildings.geojson"
+  },
+  "40119010101": {
+    "name": "101.01",
+    "building_count": 1000,
+    "file_path": "/neighborhood_buildings/tract_40119010101_buildings.geojson"
+  },
+  "40119011101": {
+    "name": "111.01",
+    "building_count": 241,
+    "file_path": "/neighborhood_buildings/tract_40119011101_buildings.geojson"
+  },
+  "40119011302": {
+    "name": "113.02",
+    "building_count": 137,
+    "file_path": "/neighborhood_buildings/tract_40119011302_buildings.geojson"
+  },
+  "40119011301": {
+    "name": "113.01",
+    "building_count": 216,
+    "file_path": "/neighborhood_buildings/tract_40119011301_buildings.geojson"
+  },
+  "40017300905": {
+    "name": "3009.05",
+    "building_count": 324,
+    "file_path": "/neighborhood_buildings/tract_40017300905_buildings.geojson"
+  },
+  "40017300904": {
+    "name": "3009.04",
+    "building_count": 338,
+    "file_path": "/neighborhood_buildings/tract_40017300904_buildings.geojson"
+  },
+  "40065968300": {
+    "name": "9683",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40065968300_buildings.geojson"
+  },
+  "40065968600": {
+    "name": "9686",
+    "building_count": 133,
+    "file_path": "/neighborhood_buildings/tract_40065968600_buildings.geojson"
+  },
+  "40065968500": {
+    "name": "9685",
+    "building_count": 430,
+    "file_path": "/neighborhood_buildings/tract_40065968500_buildings.geojson"
+  },
+  "40065968100": {
+    "name": "9681",
+    "building_count": 147,
+    "file_path": "/neighborhood_buildings/tract_40065968100_buildings.geojson"
+  },
+  "40065968200": {
+    "name": "9682",
+    "building_count": 70,
+    "file_path": "/neighborhood_buildings/tract_40065968200_buildings.geojson"
+  },
+  "40065968700": {
+    "name": "9687",
+    "building_count": 192,
+    "file_path": "/neighborhood_buildings/tract_40065968700_buildings.geojson"
+  },
+  "40057967800": {
+    "name": "9678",
+    "building_count": 187,
+    "file_path": "/neighborhood_buildings/tract_40057967800_buildings.geojson"
+  },
+  "40017301006": {
+    "name": "3010.06",
+    "building_count": 201,
+    "file_path": "/neighborhood_buildings/tract_40017301006_buildings.geojson"
+  },
+  "40027202406": {
+    "name": "2024.06",
+    "building_count": 27,
+    "file_path": "/neighborhood_buildings/tract_40027202406_buildings.geojson"
+  },
+  "40027202208": {
+    "name": "2022.08",
+    "building_count": 641,
+    "file_path": "/neighborhood_buildings/tract_40027202208_buildings.geojson"
+  },
+  "40027201513": {
+    "name": "2015.13",
+    "building_count": 1139,
+    "file_path": "/neighborhood_buildings/tract_40027201513_buildings.geojson"
+  },
+  "40065968800": {
+    "name": "9688",
+    "building_count": 24,
+    "file_path": "/neighborhood_buildings/tract_40065968800_buildings.geojson"
+  },
+  "40065968400": {
+    "name": "9684",
+    "building_count": 340,
+    "file_path": "/neighborhood_buildings/tract_40065968400_buildings.geojson"
+  },
+  "40067371600": {
+    "name": "3716",
+    "building_count": 41,
+    "file_path": "/neighborhood_buildings/tract_40067371600_buildings.geojson"
+  },
+  "40067371700": {
+    "name": "3717",
+    "building_count": 463,
+    "file_path": "/neighborhood_buildings/tract_40067371700_buildings.geojson"
+  },
+  "40067371800": {
+    "name": "3718",
+    "building_count": 270,
+    "file_path": "/neighborhood_buildings/tract_40067371800_buildings.geojson"
+  },
+  "40109108524": {
+    "name": "1085.24",
+    "building_count": 710,
+    "file_path": "/neighborhood_buildings/tract_40109108524_buildings.geojson"
+  },
+  "40109108528": {
+    "name": "1085.28",
+    "building_count": 288,
+    "file_path": "/neighborhood_buildings/tract_40109108528_buildings.geojson"
+  },
+  "40109108526": {
+    "name": "1085.26",
+    "building_count": 942,
+    "file_path": "/neighborhood_buildings/tract_40109108526_buildings.geojson"
+  },
+  "40027201205": {
+    "name": "2012.05",
+    "building_count": 1484,
+    "file_path": "/neighborhood_buildings/tract_40027201205_buildings.geojson"
+  },
+  "40095094700": {
+    "name": "947",
+    "building_count": 80,
+    "file_path": "/neighborhood_buildings/tract_40095094700_buildings.geojson"
+  },
+  "40095094698": {
+    "name": "946.98",
+    "building_count": 85,
+    "file_path": "/neighborhood_buildings/tract_40095094698_buildings.geojson"
+  },
+  "40027202501": {
+    "name": "2025.01",
+    "building_count": 337,
+    "file_path": "/neighborhood_buildings/tract_40027202501_buildings.geojson"
+  },
+  "40027201303": {
+    "name": "2013.03",
+    "building_count": 1230,
+    "file_path": "/neighborhood_buildings/tract_40027201303_buildings.geojson"
+  },
+  "40027202207": {
+    "name": "2022.07",
+    "building_count": 269,
+    "file_path": "/neighborhood_buildings/tract_40027202207_buildings.geojson"
+  },
+  "40027200604": {
+    "name": "2006.04",
+    "building_count": 801,
+    "file_path": "/neighborhood_buildings/tract_40027200604_buildings.geojson"
+  },
+  "40047001602": {
+    "name": "16.02",
+    "building_count": 502,
+    "file_path": "/neighborhood_buildings/tract_40047001602_buildings.geojson"
+  },
+  "40031002302": {
+    "name": "23.02",
+    "building_count": 561,
+    "file_path": "/neighborhood_buildings/tract_40031002302_buildings.geojson"
+  },
+  "40031002005": {
+    "name": "20.05",
+    "building_count": 71,
+    "file_path": "/neighborhood_buildings/tract_40031002005_buildings.geojson"
+  },
+  "40031002401": {
+    "name": "24.01",
+    "building_count": 99,
+    "file_path": "/neighborhood_buildings/tract_40031002401_buildings.geojson"
+  },
+  "40071001301": {
+    "name": "13.01",
+    "building_count": 26,
+    "file_path": "/neighborhood_buildings/tract_40071001301_buildings.geojson"
+  },
+  "40071001302": {
+    "name": "13.02",
+    "building_count": 37,
+    "file_path": "/neighborhood_buildings/tract_40071001302_buildings.geojson"
+  },
+  "40079040402": {
+    "name": "404.02",
+    "building_count": 129,
+    "file_path": "/neighborhood_buildings/tract_40079040402_buildings.geojson"
+  },
+  "40079040299": {
+    "name": "402.99",
+    "building_count": 12,
+    "file_path": "/neighborhood_buildings/tract_40079040299_buildings.geojson"
+  },
+  "40125501004": {
+    "name": "5010.04",
+    "building_count": 62,
+    "file_path": "/neighborhood_buildings/tract_40125501004_buildings.geojson"
+  },
+  "40135030103": {
+    "name": "301.03",
+    "building_count": 722,
+    "file_path": "/neighborhood_buildings/tract_40135030103_buildings.geojson"
+  },
+  "40137000902": {
+    "name": "9.02",
+    "building_count": 77,
+    "file_path": "/neighborhood_buildings/tract_40137000902_buildings.geojson"
+  },
+  "40137000901": {
+    "name": "9.01",
+    "building_count": 178,
+    "file_path": "/neighborhood_buildings/tract_40137000901_buildings.geojson"
+  },
+  "40145030201": {
+    "name": "302.01",
+    "building_count": 22,
+    "file_path": "/neighborhood_buildings/tract_40145030201_buildings.geojson"
+  },
+  "40145030101": {
+    "name": "301.01",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40145030101_buildings.geojson"
+  },
+  "40031000200": {
+    "name": "2",
+    "building_count": 112,
+    "file_path": "/neighborhood_buildings/tract_40031000200_buildings.geojson"
+  },
+  "40147000601": {
+    "name": "6.01",
+    "building_count": 22,
+    "file_path": "/neighborhood_buildings/tract_40147000601_buildings.geojson"
+  },
+  "40109108009": {
+    "name": "1080.09",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40109108009_buildings.geojson"
+  },
+  "40109108010": {
+    "name": "1080.10",
+    "building_count": 61,
+    "file_path": "/neighborhood_buildings/tract_40109108010_buildings.geojson"
+  },
+  "40109108011": {
+    "name": "1080.11",
+    "building_count": 101,
+    "file_path": "/neighborhood_buildings/tract_40109108011_buildings.geojson"
+  },
+  "40109108101": {
+    "name": "1081.01",
+    "building_count": 295,
+    "file_path": "/neighborhood_buildings/tract_40109108101_buildings.geojson"
+  },
+  "40109108701": {
+    "name": "1087.01",
+    "building_count": 41,
+    "file_path": "/neighborhood_buildings/tract_40109108701_buildings.geojson"
+  },
+  "40017300300": {
+    "name": "3003",
+    "building_count": 28,
+    "file_path": "/neighborhood_buildings/tract_40017300300_buildings.geojson"
+  },
+  "40017300100": {
+    "name": "3001",
+    "building_count": 41,
+    "file_path": "/neighborhood_buildings/tract_40017300100_buildings.geojson"
+  },
+  "40017300201": {
+    "name": "3002.01",
+    "building_count": 857,
+    "file_path": "/neighborhood_buildings/tract_40017300201_buildings.geojson"
+  },
+  "40017300202": {
+    "name": "3002.02",
+    "building_count": 91,
+    "file_path": "/neighborhood_buildings/tract_40017300202_buildings.geojson"
+  },
+  "40017301201": {
+    "name": "3012.01",
+    "building_count": 155,
+    "file_path": "/neighborhood_buildings/tract_40017301201_buildings.geojson"
+  },
+  "40109108706": {
+    "name": "1087.06",
+    "building_count": 37,
+    "file_path": "/neighborhood_buildings/tract_40109108706_buildings.geojson"
+  },
+  "40109108707": {
+    "name": "1087.07",
+    "building_count": 149,
+    "file_path": "/neighborhood_buildings/tract_40109108707_buildings.geojson"
+  },
+  "40109108803": {
+    "name": "1088.03",
+    "building_count": 1,
+    "file_path": "/neighborhood_buildings/tract_40109108803_buildings.geojson"
+  },
+  "40109108110": {
+    "name": "1081.10",
+    "building_count": 214,
+    "file_path": "/neighborhood_buildings/tract_40109108110_buildings.geojson"
+  },
+  "40109106502": {
+    "name": "1065.02",
+    "building_count": 211,
+    "file_path": "/neighborhood_buildings/tract_40109106502_buildings.geojson"
+  },
+  "40109106601": {
+    "name": "1066.01",
+    "building_count": 203,
+    "file_path": "/neighborhood_buildings/tract_40109106601_buildings.geojson"
+  },
+  "40109108107": {
+    "name": "1081.07",
+    "building_count": 844,
+    "file_path": "/neighborhood_buildings/tract_40109108107_buildings.geojson"
+  },
+  "40109108201": {
+    "name": "1082.01",
+    "building_count": 319,
+    "file_path": "/neighborhood_buildings/tract_40109108201_buildings.geojson"
+  },
+  "40109108203": {
+    "name": "1082.03",
+    "building_count": 1084,
+    "file_path": "/neighborhood_buildings/tract_40109108203_buildings.geojson"
+  },
+  "40109108204": {
+    "name": "1082.04",
+    "building_count": 852,
+    "file_path": "/neighborhood_buildings/tract_40109108204_buildings.geojson"
+  },
+  "40109108207": {
+    "name": "1082.07",
+    "building_count": 153,
+    "file_path": "/neighborhood_buildings/tract_40109108207_buildings.geojson"
+  },
+  "40123089300": {
+    "name": "893",
+    "building_count": 31,
+    "file_path": "/neighborhood_buildings/tract_40123089300_buildings.geojson"
+  },
+  "40123089100": {
+    "name": "891",
+    "building_count": 43,
+    "file_path": "/neighborhood_buildings/tract_40123089100_buildings.geojson"
+  },
+  "40123088600": {
+    "name": "886",
+    "building_count": 20,
+    "file_path": "/neighborhood_buildings/tract_40123088600_buildings.geojson"
+  },
+  "40123089598": {
+    "name": "895.98",
+    "building_count": 169,
+    "file_path": "/neighborhood_buildings/tract_40123089598_buildings.geojson"
+  },
+  "40123089600": {
+    "name": "896",
+    "building_count": 211,
+    "file_path": "/neighborhood_buildings/tract_40123089600_buildings.geojson"
+  },
+  "40109106606": {
+    "name": "1066.06",
+    "building_count": 339,
+    "file_path": "/neighborhood_buildings/tract_40109106606_buildings.geojson"
+  },
+  "40109106607": {
+    "name": "1066.07",
+    "building_count": 24,
+    "file_path": "/neighborhood_buildings/tract_40109106607_buildings.geojson"
+  },
+  "40109106608": {
+    "name": "1066.08",
+    "building_count": 767,
+    "file_path": "/neighborhood_buildings/tract_40109106608_buildings.geojson"
+  },
+  "40109108208": {
+    "name": "1082.08",
+    "building_count": 294,
+    "file_path": "/neighborhood_buildings/tract_40109108208_buildings.geojson"
+  },
+  "40109108215": {
+    "name": "1082.15",
+    "building_count": 1104,
+    "file_path": "/neighborhood_buildings/tract_40109108215_buildings.geojson"
+  },
+  "40109108216": {
+    "name": "1082.16",
+    "building_count": 1109,
+    "file_path": "/neighborhood_buildings/tract_40109108216_buildings.geojson"
+  },
+  "40109108217": {
+    "name": "1082.17",
+    "building_count": 96,
+    "file_path": "/neighborhood_buildings/tract_40109108217_buildings.geojson"
+  },
+  "40109108301": {
+    "name": "1083.01",
+    "building_count": 321,
+    "file_path": "/neighborhood_buildings/tract_40109108301_buildings.geojson"
+  },
+  "40021977702": {
+    "name": "9777.02",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40021977702_buildings.geojson"
+  },
+  "40021978302": {
+    "name": "9783.02",
+    "building_count": 81,
+    "file_path": "/neighborhood_buildings/tract_40021978302_buildings.geojson"
+  },
+  "40021978301": {
+    "name": "9783.01",
+    "building_count": 18,
+    "file_path": "/neighborhood_buildings/tract_40021978301_buildings.geojson"
+  },
+  "40021977802": {
+    "name": "9778.02",
+    "building_count": 66,
+    "file_path": "/neighborhood_buildings/tract_40021977802_buildings.geojson"
+  },
+  "40021977901": {
+    "name": "9779.01",
+    "building_count": 1,
+    "file_path": "/neighborhood_buildings/tract_40021977901_buildings.geojson"
+  },
+  "40021977902": {
+    "name": "9779.02",
+    "building_count": 77,
+    "file_path": "/neighborhood_buildings/tract_40021977902_buildings.geojson"
+  },
+  "40021977701": {
+    "name": "9777.01",
+    "building_count": 126,
+    "file_path": "/neighborhood_buildings/tract_40021977701_buildings.geojson"
+  },
+  "40021977801": {
+    "name": "9778.01",
+    "building_count": 99,
+    "file_path": "/neighborhood_buildings/tract_40021977801_buildings.geojson"
+  },
+  "40017300902": {
+    "name": "3009.02",
+    "building_count": 70,
+    "file_path": "/neighborhood_buildings/tract_40017300902_buildings.geojson"
+  },
+  "40017300802": {
+    "name": "3008.02",
+    "building_count": 1398,
+    "file_path": "/neighborhood_buildings/tract_40017300802_buildings.geojson"
+  },
+  "40109104900": {
+    "name": "1049",
+    "building_count": 169,
+    "file_path": "/neighborhood_buildings/tract_40109104900_buildings.geojson"
+  },
+  "40109106610": {
+    "name": "1066.10",
+    "building_count": 448,
+    "file_path": "/neighborhood_buildings/tract_40109106610_buildings.geojson"
+  },
+  "40109106702": {
+    "name": "1067.02",
+    "building_count": 182,
+    "file_path": "/neighborhood_buildings/tract_40109106702_buildings.geojson"
+  },
+  "40109106704": {
+    "name": "1067.04",
+    "building_count": 571,
+    "file_path": "/neighborhood_buildings/tract_40109106704_buildings.geojson"
+  },
+  "40047000102": {
+    "name": "1.02",
+    "building_count": 47,
+    "file_path": "/neighborhood_buildings/tract_40047000102_buildings.geojson"
+  },
+  "40047000702": {
+    "name": "7.02",
+    "building_count": 6,
+    "file_path": "/neighborhood_buildings/tract_40047000702_buildings.geojson"
+  },
+  "40047000602": {
+    "name": "6.02",
+    "building_count": 82,
+    "file_path": "/neighborhood_buildings/tract_40047000602_buildings.geojson"
+  },
+  "40047001604": {
+    "name": "16.04",
+    "building_count": 321,
+    "file_path": "/neighborhood_buildings/tract_40047001604_buildings.geojson"
+  },
+  "40047001603": {
+    "name": "16.03",
+    "building_count": 150,
+    "file_path": "/neighborhood_buildings/tract_40047001603_buildings.geojson"
+  },
+  "40047001301": {
+    "name": "13.01",
+    "building_count": 277,
+    "file_path": "/neighborhood_buildings/tract_40047001301_buildings.geojson"
+  },
+  "40047001302": {
+    "name": "13.02",
+    "building_count": 238,
+    "file_path": "/neighborhood_buildings/tract_40047001302_buildings.geojson"
+  },
+  "40047000101": {
+    "name": "1.01",
+    "building_count": 151,
+    "file_path": "/neighborhood_buildings/tract_40047000101_buildings.geojson"
+  },
+  "40047000601": {
+    "name": "6.01",
+    "building_count": 47,
+    "file_path": "/neighborhood_buildings/tract_40047000601_buildings.geojson"
+  },
+  "40047000701": {
+    "name": "7.01",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40047000701_buildings.geojson"
+  },
+  "40119010202": {
+    "name": "102.02",
+    "building_count": 437,
+    "file_path": "/neighborhood_buildings/tract_40119010202_buildings.geojson"
+  },
+  "40119011001": {
+    "name": "110.01",
+    "building_count": 263,
+    "file_path": "/neighborhood_buildings/tract_40119011001_buildings.geojson"
+  },
+  "40119010501": {
+    "name": "105.01",
+    "building_count": 259,
+    "file_path": "/neighborhood_buildings/tract_40119010501_buildings.geojson"
+  },
+  "40119010902": {
+    "name": "109.02",
+    "building_count": 1709,
+    "file_path": "/neighborhood_buildings/tract_40119010902_buildings.geojson"
+  },
+  "40119010502": {
+    "name": "105.02",
+    "building_count": 95,
+    "file_path": "/neighborhood_buildings/tract_40119010502_buildings.geojson"
+  },
+  "40119011103": {
+    "name": "111.03",
+    "building_count": 216,
+    "file_path": "/neighborhood_buildings/tract_40119011103_buildings.geojson"
+  },
+  "40119011104": {
+    "name": "111.04",
+    "building_count": 350,
+    "file_path": "/neighborhood_buildings/tract_40119011104_buildings.geojson"
+  },
+  "40119010503": {
+    "name": "105.03",
+    "building_count": 344,
+    "file_path": "/neighborhood_buildings/tract_40119010503_buildings.geojson"
+  },
+  "40119010201": {
+    "name": "102.01",
+    "building_count": 966,
+    "file_path": "/neighborhood_buildings/tract_40119010201_buildings.geojson"
+  },
+  "40119011002": {
+    "name": "110.02",
+    "building_count": 113,
+    "file_path": "/neighborhood_buildings/tract_40119011002_buildings.geojson"
+  },
+  "40119010901": {
+    "name": "109.01",
+    "building_count": 1271,
+    "file_path": "/neighborhood_buildings/tract_40119010901_buildings.geojson"
+  },
+  "40101001200": {
+    "name": "12",
+    "building_count": 123,
+    "file_path": "/neighborhood_buildings/tract_40101001200_buildings.geojson"
+  },
+  "40101001600": {
+    "name": "16",
+    "building_count": 1077,
+    "file_path": "/neighborhood_buildings/tract_40101001600_buildings.geojson"
+  },
+  "40101001100": {
+    "name": "11",
+    "building_count": 26,
+    "file_path": "/neighborhood_buildings/tract_40101001100_buildings.geojson"
+  },
+  "40115574100": {
+    "name": "5741",
+    "building_count": 295,
+    "file_path": "/neighborhood_buildings/tract_40115574100_buildings.geojson"
+  },
+  "40109105202": {
+    "name": "1052.02",
+    "building_count": 35,
+    "file_path": "/neighborhood_buildings/tract_40109105202_buildings.geojson"
+  },
+  "40089098501": {
+    "name": "985.01",
+    "building_count": 29,
+    "file_path": "/neighborhood_buildings/tract_40089098501_buildings.geojson"
+  },
+  "40089098502": {
+    "name": "985.02",
+    "building_count": 1518,
+    "file_path": "/neighborhood_buildings/tract_40089098502_buildings.geojson"
+  },
+  "40109106705": {
+    "name": "1067.05",
+    "building_count": 63,
+    "file_path": "/neighborhood_buildings/tract_40109106705_buildings.geojson"
+  },
+  "40109106706": {
+    "name": "1067.06",
+    "building_count": 43,
+    "file_path": "/neighborhood_buildings/tract_40109106706_buildings.geojson"
+  },
+  "40109106801": {
+    "name": "1068.01",
+    "building_count": 54,
+    "file_path": "/neighborhood_buildings/tract_40109106801_buildings.geojson"
+  },
+  "40109106803": {
+    "name": "1068.03",
+    "building_count": 190,
+    "file_path": "/neighborhood_buildings/tract_40109106803_buildings.geojson"
+  },
+  "40109106804": {
+    "name": "1068.04",
+    "building_count": 201,
+    "file_path": "/neighborhood_buildings/tract_40109106804_buildings.geojson"
+  },
+  "40109106902": {
+    "name": "1069.02",
+    "building_count": 55,
+    "file_path": "/neighborhood_buildings/tract_40109106902_buildings.geojson"
+  },
+  "40109108304": {
+    "name": "1083.04",
+    "building_count": 206,
+    "file_path": "/neighborhood_buildings/tract_40109108304_buildings.geojson"
+  },
+  "40017301003": {
+    "name": "3010.03",
+    "building_count": 1053,
+    "file_path": "/neighborhood_buildings/tract_40017301003_buildings.geojson"
+  },
+  "40145030202": {
+    "name": "302.02",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40145030202_buildings.geojson"
+  },
+  "40145030406": {
+    "name": "304.06",
+    "building_count": 224,
+    "file_path": "/neighborhood_buildings/tract_40145030406_buildings.geojson"
+  },
+  "40145030102": {
+    "name": "301.02",
+    "building_count": 98,
+    "file_path": "/neighborhood_buildings/tract_40145030102_buildings.geojson"
+  },
+  "40101000100": {
+    "name": "1",
+    "building_count": 185,
+    "file_path": "/neighborhood_buildings/tract_40101000100_buildings.geojson"
+  },
+  "40123088900": {
+    "name": "889",
+    "building_count": 91,
+    "file_path": "/neighborhood_buildings/tract_40123088900_buildings.geojson"
+  },
+  "40101000200": {
+    "name": "2",
+    "building_count": 118,
+    "file_path": "/neighborhood_buildings/tract_40101000200_buildings.geojson"
+  },
+  "40101000300": {
+    "name": "3",
+    "building_count": 5,
+    "file_path": "/neighborhood_buildings/tract_40101000300_buildings.geojson"
+  },
+  "40101000400": {
+    "name": "4",
+    "building_count": 323,
+    "file_path": "/neighborhood_buildings/tract_40101000400_buildings.geojson"
+  },
+  "40101000600": {
+    "name": "6",
+    "building_count": 28,
+    "file_path": "/neighborhood_buildings/tract_40101000600_buildings.geojson"
+  },
+  "40123089200": {
+    "name": "892",
+    "building_count": 110,
+    "file_path": "/neighborhood_buildings/tract_40123089200_buildings.geojson"
+  },
+  "40123089000": {
+    "name": "890",
+    "building_count": 70,
+    "file_path": "/neighborhood_buildings/tract_40123089000_buildings.geojson"
+  },
+  "40109105400": {
+    "name": "1054",
+    "building_count": 48,
+    "file_path": "/neighborhood_buildings/tract_40109105400_buildings.geojson"
+  },
+  "40123088700": {
+    "name": "887",
+    "building_count": 130,
+    "file_path": "/neighborhood_buildings/tract_40123088700_buildings.geojson"
+  },
+  "40109105500": {
+    "name": "1055",
+    "building_count": 7,
+    "file_path": "/neighborhood_buildings/tract_40109105500_buildings.geojson"
+  },
+  "40109106903": {
+    "name": "1069.03",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40109106903_buildings.geojson"
+  },
+  "40109106906": {
+    "name": "1069.06",
+    "building_count": 84,
+    "file_path": "/neighborhood_buildings/tract_40109106906_buildings.geojson"
+  },
+  "40109106909": {
+    "name": "1069.09",
+    "building_count": 599,
+    "file_path": "/neighborhood_buildings/tract_40109106909_buildings.geojson"
+  },
+  "40109106910": {
+    "name": "1069.10",
+    "building_count": 59,
+    "file_path": "/neighborhood_buildings/tract_40109106910_buildings.geojson"
+  },
+  "40109106911": {
+    "name": "1069.11",
+    "building_count": 100,
+    "file_path": "/neighborhood_buildings/tract_40109106911_buildings.geojson"
+  },
+  "40141070400": {
+    "name": "704",
+    "building_count": 219,
+    "file_path": "/neighborhood_buildings/tract_40141070400_buildings.geojson"
+  },
+  "40141070500": {
+    "name": "705",
+    "building_count": 86,
+    "file_path": "/neighborhood_buildings/tract_40141070500_buildings.geojson"
+  },
+  "40141070300": {
+    "name": "703",
+    "building_count": 181,
+    "file_path": "/neighborhood_buildings/tract_40141070300_buildings.geojson"
+  },
+  "40141070100": {
+    "name": "701",
+    "building_count": 41,
+    "file_path": "/neighborhood_buildings/tract_40141070100_buildings.geojson"
+  },
+  "40141070200": {
+    "name": "702",
+    "building_count": 1,
+    "file_path": "/neighborhood_buildings/tract_40141070200_buildings.geojson"
+  },
+  "40101000700": {
+    "name": "7",
+    "building_count": 140,
+    "file_path": "/neighborhood_buildings/tract_40101000700_buildings.geojson"
+  },
+  "40101001000": {
+    "name": "10",
+    "building_count": 41,
+    "file_path": "/neighborhood_buildings/tract_40101001000_buildings.geojson"
+  },
+  "40073958100": {
+    "name": "9581",
+    "building_count": 445,
+    "file_path": "/neighborhood_buildings/tract_40073958100_buildings.geojson"
+  },
+  "40073958200": {
+    "name": "9582",
+    "building_count": 414,
+    "file_path": "/neighborhood_buildings/tract_40073958200_buildings.geojson"
+  },
+  "40073958300": {
+    "name": "9583",
+    "building_count": 283,
+    "file_path": "/neighborhood_buildings/tract_40073958300_buildings.geojson"
+  },
+  "40073958400": {
+    "name": "9584",
+    "building_count": 53,
+    "file_path": "/neighborhood_buildings/tract_40073958400_buildings.geojson"
+  },
+  "40109110000": {
+    "name": "1100",
+    "building_count": 359,
+    "file_path": "/neighborhood_buildings/tract_40109110000_buildings.geojson"
+  },
+  "40109105904": {
+    "name": "1059.04",
+    "building_count": 86,
+    "file_path": "/neighborhood_buildings/tract_40109105904_buildings.geojson"
+  },
+  "40105172400": {
+    "name": "1724",
+    "building_count": 35,
+    "file_path": "/neighborhood_buildings/tract_40105172400_buildings.geojson"
+  },
+  "40105172200": {
+    "name": "1722",
+    "building_count": 12,
+    "file_path": "/neighborhood_buildings/tract_40105172200_buildings.geojson"
+  },
+  "40009966100": {
+    "name": "9661",
+    "building_count": 302,
+    "file_path": "/neighborhood_buildings/tract_40009966100_buildings.geojson"
+  },
+  "40105172300": {
+    "name": "1723",
+    "building_count": 81,
+    "file_path": "/neighborhood_buildings/tract_40105172300_buildings.geojson"
+  },
+  "40105172100": {
+    "name": "1721",
+    "building_count": 113,
+    "file_path": "/neighborhood_buildings/tract_40105172100_buildings.geojson"
+  },
+  "40009966800": {
+    "name": "9668",
+    "building_count": 128,
+    "file_path": "/neighborhood_buildings/tract_40009966800_buildings.geojson"
+  },
+  "40009966500": {
+    "name": "9665",
+    "building_count": 245,
+    "file_path": "/neighborhood_buildings/tract_40009966500_buildings.geojson"
+  },
+  "40145030512": {
+    "name": "305.12",
+    "building_count": 157,
+    "file_path": "/neighborhood_buildings/tract_40145030512_buildings.geojson"
+  },
+  "40145030798": {
+    "name": "307.98",
+    "building_count": 173,
+    "file_path": "/neighborhood_buildings/tract_40145030798_buildings.geojson"
+  },
+  "40145030511": {
+    "name": "305.11",
+    "building_count": 345,
+    "file_path": "/neighborhood_buildings/tract_40145030511_buildings.geojson"
+  },
+  "40145030502": {
+    "name": "305.02",
+    "building_count": 245,
+    "file_path": "/neighborhood_buildings/tract_40145030502_buildings.geojson"
+  },
+  "40019892400": {
+    "name": "8924",
+    "building_count": 65,
+    "file_path": "/neighborhood_buildings/tract_40019892400_buildings.geojson"
+  },
+  "40019892100": {
+    "name": "8921",
+    "building_count": 149,
+    "file_path": "/neighborhood_buildings/tract_40019892100_buildings.geojson"
+  },
+  "40019892900": {
+    "name": "8929",
+    "building_count": 173,
+    "file_path": "/neighborhood_buildings/tract_40019892900_buildings.geojson"
+  },
+  "40019892700": {
+    "name": "8927",
+    "building_count": 66,
+    "file_path": "/neighborhood_buildings/tract_40019892700_buildings.geojson"
+  },
+  "40019893100": {
+    "name": "8931",
+    "building_count": 11,
+    "file_path": "/neighborhood_buildings/tract_40019893100_buildings.geojson"
+  },
+  "40145030403": {
+    "name": "304.03",
+    "building_count": 361,
+    "file_path": "/neighborhood_buildings/tract_40145030403_buildings.geojson"
+  },
+  "40145030509": {
+    "name": "305.09",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40145030509_buildings.geojson"
+  },
+  "40091779700": {
+    "name": "7797",
+    "building_count": 2334,
+    "file_path": "/neighborhood_buildings/tract_40091779700_buildings.geojson"
+  },
+  "40091780100": {
+    "name": "7801",
+    "building_count": 125,
+    "file_path": "/neighborhood_buildings/tract_40091780100_buildings.geojson"
+  },
+  "40131050501": {
+    "name": "505.01",
+    "building_count": 54,
+    "file_path": "/neighborhood_buildings/tract_40131050501_buildings.geojson"
+  },
+  "40131050405": {
+    "name": "504.05",
+    "building_count": 250,
+    "file_path": "/neighborhood_buildings/tract_40131050405_buildings.geojson"
+  },
+  "40131050702": {
+    "name": "507.02",
+    "building_count": 150,
+    "file_path": "/neighborhood_buildings/tract_40131050702_buildings.geojson"
+  },
+  "40131050302": {
+    "name": "503.02",
+    "building_count": 107,
+    "file_path": "/neighborhood_buildings/tract_40131050302_buildings.geojson"
+  },
+  "40131050602": {
+    "name": "506.02",
+    "building_count": 364,
+    "file_path": "/neighborhood_buildings/tract_40131050602_buildings.geojson"
+  },
+  "40131050203": {
+    "name": "502.03",
+    "building_count": 29,
+    "file_path": "/neighborhood_buildings/tract_40131050203_buildings.geojson"
+  },
+  "40131050303": {
+    "name": "503.03",
+    "building_count": 131,
+    "file_path": "/neighborhood_buildings/tract_40131050303_buildings.geojson"
+  },
+  "40131050101": {
+    "name": "501.01",
+    "building_count": 406,
+    "file_path": "/neighborhood_buildings/tract_40131050101_buildings.geojson"
+  },
+  "40131050603": {
+    "name": "506.03",
+    "building_count": 594,
+    "file_path": "/neighborhood_buildings/tract_40131050603_buildings.geojson"
+  },
+  "40131050409": {
+    "name": "504.09",
+    "building_count": 394,
+    "file_path": "/neighborhood_buildings/tract_40131050409_buildings.geojson"
+  },
+  "40131050502": {
+    "name": "505.02",
+    "building_count": 34,
+    "file_path": "/neighborhood_buildings/tract_40131050502_buildings.geojson"
+  },
+  "40131050404": {
+    "name": "504.04",
+    "building_count": 372,
+    "file_path": "/neighborhood_buildings/tract_40131050404_buildings.geojson"
+  },
+  "40131050406": {
+    "name": "504.06",
+    "building_count": 249,
+    "file_path": "/neighborhood_buildings/tract_40131050406_buildings.geojson"
+  },
+  "40131050301": {
+    "name": "503.01",
+    "building_count": 35,
+    "file_path": "/neighborhood_buildings/tract_40131050301_buildings.geojson"
+  },
+  "40131050403": {
+    "name": "504.03",
+    "building_count": 308,
+    "file_path": "/neighborhood_buildings/tract_40131050403_buildings.geojson"
+  },
+  "40131050701": {
+    "name": "507.01",
+    "building_count": 42,
+    "file_path": "/neighborhood_buildings/tract_40131050701_buildings.geojson"
+  },
+  "40131050201": {
+    "name": "502.01",
+    "building_count": 123,
+    "file_path": "/neighborhood_buildings/tract_40131050201_buildings.geojson"
+  },
+  "40131050408": {
+    "name": "504.08",
+    "building_count": 551,
+    "file_path": "/neighborhood_buildings/tract_40131050408_buildings.geojson"
+  },
+  "40009966200": {
+    "name": "9662",
+    "building_count": 184,
+    "file_path": "/neighborhood_buildings/tract_40009966200_buildings.geojson"
+  },
+  "40097040802": {
+    "name": "408.02",
+    "building_count": 73,
+    "file_path": "/neighborhood_buildings/tract_40097040802_buildings.geojson"
+  },
+  "40097040801": {
+    "name": "408.01",
+    "building_count": 83,
+    "file_path": "/neighborhood_buildings/tract_40097040801_buildings.geojson"
+  },
+  "40115574300": {
+    "name": "5743",
+    "building_count": 99,
+    "file_path": "/neighborhood_buildings/tract_40115574300_buildings.geojson"
+  },
+  "40115574800": {
+    "name": "5748",
+    "building_count": 287,
+    "file_path": "/neighborhood_buildings/tract_40115574800_buildings.geojson"
+  },
+  "40115574600": {
+    "name": "5746",
+    "building_count": 24,
+    "file_path": "/neighborhood_buildings/tract_40115574600_buildings.geojson"
+  },
+  "40115574700": {
+    "name": "5747",
+    "building_count": 146,
+    "file_path": "/neighborhood_buildings/tract_40115574700_buildings.geojson"
+  },
+  "40115574900": {
+    "name": "5749",
+    "building_count": 292,
+    "file_path": "/neighborhood_buildings/tract_40115574900_buildings.geojson"
+  },
+  "40115574200": {
+    "name": "5742",
+    "building_count": 165,
+    "file_path": "/neighborhood_buildings/tract_40115574200_buildings.geojson"
+  },
+  "40035373200": {
+    "name": "3732",
+    "building_count": 324,
+    "file_path": "/neighborhood_buildings/tract_40035373200_buildings.geojson"
+  },
+  "40035373500": {
+    "name": "3735",
+    "building_count": 130,
+    "file_path": "/neighborhood_buildings/tract_40035373500_buildings.geojson"
+  },
+  "40035373300": {
+    "name": "3733",
+    "building_count": 96,
+    "file_path": "/neighborhood_buildings/tract_40035373300_buildings.geojson"
+  },
+  "40035373100": {
+    "name": "3731",
+    "building_count": 26,
+    "file_path": "/neighborhood_buildings/tract_40035373100_buildings.geojson"
+  },
+  "40035373400": {
+    "name": "3734",
+    "building_count": 239,
+    "file_path": "/neighborhood_buildings/tract_40035373400_buildings.geojson"
+  },
+  "40039960600": {
+    "name": "9606",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40039960600_buildings.geojson"
+  },
+  "40039950800": {
+    "name": "9508",
+    "building_count": 268,
+    "file_path": "/neighborhood_buildings/tract_40039950800_buildings.geojson"
+  },
+  "40039961000": {
+    "name": "9610",
+    "building_count": 182,
+    "file_path": "/neighborhood_buildings/tract_40039961000_buildings.geojson"
+  },
+  "40063485000": {
+    "name": "4850",
+    "building_count": 181,
+    "file_path": "/neighborhood_buildings/tract_40063485000_buildings.geojson"
+  },
+  "40031000503": {
+    "name": "5.03",
+    "building_count": 56,
+    "file_path": "/neighborhood_buildings/tract_40031000503_buildings.geojson"
+  },
+  "40031000404": {
+    "name": "4.04",
+    "building_count": 193,
+    "file_path": "/neighborhood_buildings/tract_40031000404_buildings.geojson"
+  },
+  "40027201508": {
+    "name": "2015.08",
+    "building_count": 367,
+    "file_path": "/neighborhood_buildings/tract_40027201508_buildings.geojson"
+  },
+  "40109108003": {
+    "name": "1080.03",
+    "building_count": 229,
+    "file_path": "/neighborhood_buildings/tract_40109108003_buildings.geojson"
+  },
+  "40109108006": {
+    "name": "1080.06",
+    "building_count": 98,
+    "file_path": "/neighborhood_buildings/tract_40109108006_buildings.geojson"
+  },
+  "40109106609": {
+    "name": "1066.09",
+    "building_count": 602,
+    "file_path": "/neighborhood_buildings/tract_40109106609_buildings.geojson"
+  },
+  "40109108302": {
+    "name": "1083.02",
+    "building_count": 776,
+    "file_path": "/neighborhood_buildings/tract_40109108302_buildings.geojson"
+  },
+  "40017301100": {
+    "name": "3011",
+    "building_count": 455,
+    "file_path": "/neighborhood_buildings/tract_40017301100_buildings.geojson"
+  },
+  "40017301202": {
+    "name": "3012.02",
+    "building_count": 30,
+    "file_path": "/neighborhood_buildings/tract_40017301202_buildings.geojson"
+  },
+  "40017301406": {
+    "name": "3014.06",
+    "building_count": 830,
+    "file_path": "/neighborhood_buildings/tract_40017301406_buildings.geojson"
+  },
+  "40017300901": {
+    "name": "3009.01",
+    "building_count": 537,
+    "file_path": "/neighborhood_buildings/tract_40017300901_buildings.geojson"
+  },
+  "40109106912": {
+    "name": "1069.12",
+    "building_count": 503,
+    "file_path": "/neighborhood_buildings/tract_40109106912_buildings.geojson"
+  },
+  "40109108310": {
+    "name": "1083.10",
+    "building_count": 666,
+    "file_path": "/neighborhood_buildings/tract_40109108310_buildings.geojson"
+  },
+  "40109105903": {
+    "name": "1059.03",
+    "building_count": 88,
+    "file_path": "/neighborhood_buildings/tract_40109105903_buildings.geojson"
+  },
+  "40055967100": {
+    "name": "9671",
+    "building_count": 51,
+    "file_path": "/neighborhood_buildings/tract_40055967100_buildings.geojson"
+  },
+  "40055967200": {
+    "name": "9672",
+    "building_count": 118,
+    "file_path": "/neighborhood_buildings/tract_40055967200_buildings.geojson"
+  },
+  "40063484900": {
+    "name": "4849",
+    "building_count": 18,
+    "file_path": "/neighborhood_buildings/tract_40063484900_buildings.geojson"
+  },
+  "40063484700": {
+    "name": "4847",
+    "building_count": 25,
+    "file_path": "/neighborhood_buildings/tract_40063484700_buildings.geojson"
+  },
+  "40063484600": {
+    "name": "4846",
+    "building_count": 25,
+    "file_path": "/neighborhood_buildings/tract_40063484600_buildings.geojson"
+  },
+  "40043959200": {
+    "name": "9592",
+    "building_count": 99,
+    "file_path": "/neighborhood_buildings/tract_40043959200_buildings.geojson"
+  },
+  "40043959300": {
+    "name": "9593",
+    "building_count": 16,
+    "file_path": "/neighborhood_buildings/tract_40043959300_buildings.geojson"
+  },
+  "40043959100": {
+    "name": "9591",
+    "building_count": 110,
+    "file_path": "/neighborhood_buildings/tract_40043959100_buildings.geojson"
+  },
+  "40013796400": {
+    "name": "7964",
+    "building_count": 57,
+    "file_path": "/neighborhood_buildings/tract_40013796400_buildings.geojson"
+  },
+  "40013795600": {
+    "name": "7956",
+    "building_count": 841,
+    "file_path": "/neighborhood_buildings/tract_40013795600_buildings.geojson"
+  },
+  "40125501003": {
+    "name": "5010.03",
+    "building_count": 60,
+    "file_path": "/neighborhood_buildings/tract_40125501003_buildings.geojson"
+  },
+  "40031002403": {
+    "name": "24.03",
+    "building_count": 157,
+    "file_path": "/neighborhood_buildings/tract_40031002403_buildings.geojson"
+  },
+  "40081961402": {
+    "name": "9614.02",
+    "building_count": 27,
+    "file_path": "/neighborhood_buildings/tract_40081961402_buildings.geojson"
+  },
+  "40081961401": {
+    "name": "9614.01",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40081961401_buildings.geojson"
+  },
+  "40139950700": {
+    "name": "9507",
+    "building_count": 246,
+    "file_path": "/neighborhood_buildings/tract_40139950700_buildings.geojson"
+  },
+  "40139951000": {
+    "name": "9510",
+    "building_count": 438,
+    "file_path": "/neighborhood_buildings/tract_40139951000_buildings.geojson"
+  },
+  "40139950800": {
+    "name": "9508",
+    "building_count": 327,
+    "file_path": "/neighborhood_buildings/tract_40139950800_buildings.geojson"
+  },
+  "40139950600": {
+    "name": "9506",
+    "building_count": 1559,
+    "file_path": "/neighborhood_buildings/tract_40139950600_buildings.geojson"
+  },
+  "40109106403": {
+    "name": "1064.03",
+    "building_count": 147,
+    "file_path": "/neighborhood_buildings/tract_40109106403_buildings.geojson"
+  },
+  "40097040502": {
+    "name": "405.02",
+    "building_count": 61,
+    "file_path": "/neighborhood_buildings/tract_40097040502_buildings.geojson"
+  },
+  "40097040501": {
+    "name": "405.01",
+    "building_count": 20,
+    "file_path": "/neighborhood_buildings/tract_40097040501_buildings.geojson"
+  },
+  "40025950300": {
+    "name": "9503",
+    "building_count": 292,
+    "file_path": "/neighborhood_buildings/tract_40025950300_buildings.geojson"
+  },
+  "40025950100": {
+    "name": "9501",
+    "building_count": 794,
+    "file_path": "/neighborhood_buildings/tract_40025950100_buildings.geojson"
+  },
+  "40143006803": {
+    "name": "68.03",
+    "building_count": 290,
+    "file_path": "/neighborhood_buildings/tract_40143006803_buildings.geojson"
+  },
+  "40143005808": {
+    "name": "58.08",
+    "building_count": 1345,
+    "file_path": "/neighborhood_buildings/tract_40143005808_buildings.geojson"
+  },
+  "40109100100": {
+    "name": "1001",
+    "building_count": 494,
+    "file_path": "/neighborhood_buildings/tract_40109100100_buildings.geojson"
+  },
+  "40027201405": {
+    "name": "2014.05",
+    "building_count": 1612,
+    "file_path": "/neighborhood_buildings/tract_40027201405_buildings.geojson"
+  },
+  "40109107101": {
+    "name": "1071.01",
+    "building_count": 303,
+    "file_path": "/neighborhood_buildings/tract_40109107101_buildings.geojson"
+  },
+  "40027201511": {
+    "name": "2015.11",
+    "building_count": 58,
+    "file_path": "/neighborhood_buildings/tract_40027201511_buildings.geojson"
+  },
+  "40109105600": {
+    "name": "1056",
+    "building_count": 252,
+    "file_path": "/neighborhood_buildings/tract_40109105600_buildings.geojson"
+  },
+  "40135030301": {
+    "name": "303.01",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40135030301_buildings.geojson"
+  },
+  "40109107303": {
+    "name": "1073.03",
+    "building_count": 327,
+    "file_path": "/neighborhood_buildings/tract_40109107303_buildings.geojson"
+  },
+  "40051001000": {
+    "name": "10",
+    "building_count": 134,
+    "file_path": "/neighborhood_buildings/tract_40051001000_buildings.geojson"
+  },
+  "40005587700": {
+    "name": "5877",
+    "building_count": 602,
+    "file_path": "/neighborhood_buildings/tract_40005587700_buildings.geojson"
+  },
+  "40005587600": {
+    "name": "5876",
+    "building_count": 69,
+    "file_path": "/neighborhood_buildings/tract_40005587600_buildings.geojson"
+  },
+  "40005587900": {
+    "name": "5879",
+    "building_count": 45,
+    "file_path": "/neighborhood_buildings/tract_40005587900_buildings.geojson"
+  },
+  "40005587800": {
+    "name": "5878",
+    "building_count": 176,
+    "file_path": "/neighborhood_buildings/tract_40005587800_buildings.geojson"
+  },
+  "40071001200": {
+    "name": "12",
+    "building_count": 398,
+    "file_path": "/neighborhood_buildings/tract_40071001200_buildings.geojson"
+  },
+  "40113940009": {
+    "name": "9400.09",
+    "building_count": 235,
+    "file_path": "/neighborhood_buildings/tract_40113940009_buildings.geojson"
+  },
+  "40001376900": {
+    "name": "3769",
+    "building_count": 27,
+    "file_path": "/neighborhood_buildings/tract_40001376900_buildings.geojson"
+  },
+  "40001376700": {
+    "name": "3767",
+    "building_count": 15,
+    "file_path": "/neighborhood_buildings/tract_40001376700_buildings.geojson"
+  },
+  "40001376600": {
+    "name": "3766",
+    "building_count": 5,
+    "file_path": "/neighborhood_buildings/tract_40001376600_buildings.geojson"
+  },
+  "40001377000": {
+    "name": "3770",
+    "building_count": 27,
+    "file_path": "/neighborhood_buildings/tract_40001377000_buildings.geojson"
+  },
+  "40001376800": {
+    "name": "3768",
+    "building_count": 19,
+    "file_path": "/neighborhood_buildings/tract_40001376800_buildings.geojson"
+  },
+  "40101000802": {
+    "name": "8.02",
+    "building_count": 373,
+    "file_path": "/neighborhood_buildings/tract_40101000802_buildings.geojson"
+  },
+  "40131050105": {
+    "name": "501.05",
+    "building_count": 190,
+    "file_path": "/neighborhood_buildings/tract_40131050105_buildings.geojson"
+  },
+  "40113940007": {
+    "name": "9400.07",
+    "building_count": 78,
+    "file_path": "/neighborhood_buildings/tract_40113940007_buildings.geojson"
+  },
+  "40031002500": {
+    "name": "25",
+    "building_count": 332,
+    "file_path": "/neighborhood_buildings/tract_40031002500_buildings.geojson"
+  },
+  "40113940003": {
+    "name": "9400.03",
+    "building_count": 157,
+    "file_path": "/neighborhood_buildings/tract_40113940003_buildings.geojson"
+  },
+  "40113940005": {
+    "name": "9400.05",
+    "building_count": 462,
+    "file_path": "/neighborhood_buildings/tract_40113940005_buildings.geojson"
+  },
+  "40113940004": {
+    "name": "9400.04",
+    "building_count": 231,
+    "file_path": "/neighborhood_buildings/tract_40113940004_buildings.geojson"
+  },
+  "40113940008": {
+    "name": "9400.08",
+    "building_count": 171,
+    "file_path": "/neighborhood_buildings/tract_40113940008_buildings.geojson"
+  },
+  "40113940011": {
+    "name": "9400.11",
+    "building_count": 275,
+    "file_path": "/neighborhood_buildings/tract_40113940011_buildings.geojson"
+  },
+  "40113940001": {
+    "name": "9400.01",
+    "building_count": 632,
+    "file_path": "/neighborhood_buildings/tract_40113940001_buildings.geojson"
+  },
+  "40125500800": {
+    "name": "5008",
+    "building_count": 97,
+    "file_path": "/neighborhood_buildings/tract_40125500800_buildings.geojson"
+  },
+  "40131050304": {
+    "name": "503.04",
+    "building_count": 329,
+    "file_path": "/neighborhood_buildings/tract_40131050304_buildings.geojson"
+  },
+  "40131050407": {
+    "name": "504.07",
+    "building_count": 215,
+    "file_path": "/neighborhood_buildings/tract_40131050407_buildings.geojson"
+  },
+  "40131050601": {
+    "name": "506.01",
+    "building_count": 117,
+    "file_path": "/neighborhood_buildings/tract_40131050601_buildings.geojson"
+  },
+  "40131050802": {
+    "name": "508.02",
+    "building_count": 79,
+    "file_path": "/neighborhood_buildings/tract_40131050802_buildings.geojson"
+  },
+  "40145030601": {
+    "name": "306.01",
+    "building_count": 332,
+    "file_path": "/neighborhood_buildings/tract_40145030601_buildings.geojson"
+  },
+  "40145030300": {
+    "name": "303",
+    "building_count": 47,
+    "file_path": "/neighborhood_buildings/tract_40145030300_buildings.geojson"
+  },
+  "40145030506": {
+    "name": "305.06",
+    "building_count": 393,
+    "file_path": "/neighborhood_buildings/tract_40145030506_buildings.geojson"
+  },
+  "40145030800": {
+    "name": "308",
+    "building_count": 275,
+    "file_path": "/neighborhood_buildings/tract_40145030800_buildings.geojson"
+  },
+  "40117957400": {
+    "name": "9574",
+    "building_count": 19,
+    "file_path": "/neighborhood_buildings/tract_40117957400_buildings.geojson"
+  },
+  "40117957200": {
+    "name": "9572",
+    "building_count": 88,
+    "file_path": "/neighborhood_buildings/tract_40117957200_buildings.geojson"
+  },
+  "40117957500": {
+    "name": "9575",
+    "building_count": 69,
+    "file_path": "/neighborhood_buildings/tract_40117957500_buildings.geojson"
+  },
+  "40117957300": {
+    "name": "9573",
+    "building_count": 363,
+    "file_path": "/neighborhood_buildings/tract_40117957300_buildings.geojson"
+  },
+  "40117957100": {
+    "name": "9571",
+    "building_count": 67,
+    "file_path": "/neighborhood_buildings/tract_40117957100_buildings.geojson"
+  },
+  "40151954300": {
+    "name": "9543",
+    "building_count": 242,
+    "file_path": "/neighborhood_buildings/tract_40151954300_buildings.geojson"
+  },
+  "40151954400": {
+    "name": "9544",
+    "building_count": 179,
+    "file_path": "/neighborhood_buildings/tract_40151954400_buildings.geojson"
+  },
+  "40091779900": {
+    "name": "7799",
+    "building_count": 50,
+    "file_path": "/neighborhood_buildings/tract_40091779900_buildings.geojson"
+  },
+  "40063484800": {
+    "name": "4848",
+    "building_count": 43,
+    "file_path": "/neighborhood_buildings/tract_40063484800_buildings.geojson"
+  },
+  "40101000801": {
+    "name": "8.01",
+    "building_count": 127,
+    "file_path": "/neighborhood_buildings/tract_40101000801_buildings.geojson"
+  },
+  "40109107405": {
+    "name": "1074.05",
+    "building_count": 1338,
+    "file_path": "/neighborhood_buildings/tract_40109107405_buildings.geojson"
+  },
+  "40109108530": {
+    "name": "1085.30",
+    "building_count": 159,
+    "file_path": "/neighborhood_buildings/tract_40109108530_buildings.geojson"
+  },
+  "40027202203": {
+    "name": "2022.03",
+    "building_count": 853,
+    "file_path": "/neighborhood_buildings/tract_40027202203_buildings.geojson"
+  },
+  "40027201611": {
+    "name": "2016.11",
+    "building_count": 911,
+    "file_path": "/neighborhood_buildings/tract_40027201611_buildings.geojson"
+  },
+  "40109106708": {
+    "name": "1067.08",
+    "building_count": 1509,
+    "file_path": "/neighborhood_buildings/tract_40109106708_buildings.geojson"
+  },
+  "40143007634": {
+    "name": "76.34",
+    "building_count": 189,
+    "file_path": "/neighborhood_buildings/tract_40143007634_buildings.geojson"
+  },
+  "40143007636": {
+    "name": "76.36",
+    "building_count": 146,
+    "file_path": "/neighborhood_buildings/tract_40143007636_buildings.geojson"
+  },
+  "40143007638": {
+    "name": "76.38",
+    "building_count": 670,
+    "file_path": "/neighborhood_buildings/tract_40143007638_buildings.geojson"
+  },
+  "40143007639": {
+    "name": "76.39",
+    "building_count": 139,
+    "file_path": "/neighborhood_buildings/tract_40143007639_buildings.geojson"
+  },
+  "40143007900": {
+    "name": "79",
+    "building_count": 357,
+    "file_path": "/neighborhood_buildings/tract_40143007900_buildings.geojson"
+  },
+  "40143008001": {
+    "name": "80.01",
+    "building_count": 126,
+    "file_path": "/neighborhood_buildings/tract_40143008001_buildings.geojson"
+  },
+  "40143008002": {
+    "name": "80.02",
+    "building_count": 190,
+    "file_path": "/neighborhood_buildings/tract_40143008002_buildings.geojson"
+  },
+  "40081961300": {
+    "name": "9613",
+    "building_count": 767,
+    "file_path": "/neighborhood_buildings/tract_40081961300_buildings.geojson"
+  },
+  "40081961500": {
+    "name": "9615",
+    "building_count": 61,
+    "file_path": "/neighborhood_buildings/tract_40081961500_buildings.geojson"
+  },
+  "40081961600": {
+    "name": "9616",
+    "building_count": 173,
+    "file_path": "/neighborhood_buildings/tract_40081961600_buildings.geojson"
+  },
+  "40081961200": {
+    "name": "9612",
+    "building_count": 162,
+    "file_path": "/neighborhood_buildings/tract_40081961200_buildings.geojson"
+  },
+  "40081961700": {
+    "name": "9617",
+    "building_count": 681,
+    "file_path": "/neighborhood_buildings/tract_40081961700_buildings.geojson"
+  },
+  "40081961100": {
+    "name": "9611",
+    "building_count": 979,
+    "file_path": "/neighborhood_buildings/tract_40081961100_buildings.geojson"
+  },
+  "40143008200": {
+    "name": "82",
+    "building_count": 204,
+    "file_path": "/neighborhood_buildings/tract_40143008200_buildings.geojson"
+  },
+  "40143008400": {
+    "name": "84",
+    "building_count": 180,
+    "file_path": "/neighborhood_buildings/tract_40143008400_buildings.geojson"
+  },
+  "40143008502": {
+    "name": "85.02",
+    "building_count": 390,
+    "file_path": "/neighborhood_buildings/tract_40143008502_buildings.geojson"
+  },
+  "40143008600": {
+    "name": "86",
+    "building_count": 233,
+    "file_path": "/neighborhood_buildings/tract_40143008600_buildings.geojson"
+  },
+  "40143008700": {
+    "name": "87",
+    "building_count": 596,
+    "file_path": "/neighborhood_buildings/tract_40143008700_buildings.geojson"
+  },
+  "40143008800": {
+    "name": "88",
+    "building_count": 1061,
+    "file_path": "/neighborhood_buildings/tract_40143008800_buildings.geojson"
+  },
+  "40143008900": {
+    "name": "89",
+    "building_count": 257,
+    "file_path": "/neighborhood_buildings/tract_40143008900_buildings.geojson"
+  },
+  "40143009006": {
+    "name": "90.06",
+    "building_count": 298,
+    "file_path": "/neighborhood_buildings/tract_40143009006_buildings.geojson"
+  },
+  "40027202004": {
+    "name": "2020.04",
+    "building_count": 272,
+    "file_path": "/neighborhood_buildings/tract_40027202004_buildings.geojson"
+  },
+  "40027202005": {
+    "name": "2020.05",
+    "building_count": 386,
+    "file_path": "/neighborhood_buildings/tract_40027202005_buildings.geojson"
+  },
+  "40027202205": {
+    "name": "2022.05",
+    "building_count": 2187,
+    "file_path": "/neighborhood_buildings/tract_40027202205_buildings.geojson"
+  },
+  "40027202102": {
+    "name": "2021.02",
+    "building_count": 780,
+    "file_path": "/neighborhood_buildings/tract_40027202102_buildings.geojson"
+  },
+  "40027201607": {
+    "name": "2016.07",
+    "building_count": 1699,
+    "file_path": "/neighborhood_buildings/tract_40027201607_buildings.geojson"
+  },
+  "40047001500": {
+    "name": "15",
+    "building_count": 453,
+    "file_path": "/neighborhood_buildings/tract_40047001500_buildings.geojson"
+  },
+  "40047000200": {
+    "name": "2",
+    "building_count": 557,
+    "file_path": "/neighborhood_buildings/tract_40047000200_buildings.geojson"
+  },
+  "40047001200": {
+    "name": "12",
+    "building_count": 88,
+    "file_path": "/neighborhood_buildings/tract_40047001200_buildings.geojson"
+  },
+  "40047001100": {
+    "name": "11",
+    "building_count": 792,
+    "file_path": "/neighborhood_buildings/tract_40047001100_buildings.geojson"
+  },
+  "40143009008": {
+    "name": "90.08",
+    "building_count": 377,
+    "file_path": "/neighborhood_buildings/tract_40143009008_buildings.geojson"
+  },
+  "40143009101": {
+    "name": "91.01",
+    "building_count": 395,
+    "file_path": "/neighborhood_buildings/tract_40143009101_buildings.geojson"
+  },
+  "40143009104": {
+    "name": "91.04",
+    "building_count": 200,
+    "file_path": "/neighborhood_buildings/tract_40143009104_buildings.geojson"
+  },
+  "40145030402": {
+    "name": "304.02",
+    "building_count": 28,
+    "file_path": "/neighborhood_buildings/tract_40145030402_buildings.geojson"
+  },
+  "40041375602": {
+    "name": "3756.02",
+    "building_count": 15,
+    "file_path": "/neighborhood_buildings/tract_40041375602_buildings.geojson"
+  },
+  "40041375601": {
+    "name": "3756.01",
+    "building_count": 14,
+    "file_path": "/neighborhood_buildings/tract_40041375601_buildings.geojson"
+  },
+  "40103957000": {
+    "name": "9570",
+    "building_count": 134,
+    "file_path": "/neighborhood_buildings/tract_40103957000_buildings.geojson"
+  },
+  "40143000800": {
+    "name": "8",
+    "building_count": 93,
+    "file_path": "/neighborhood_buildings/tract_40143000800_buildings.geojson"
+  },
+  "40143001200": {
+    "name": "12",
+    "building_count": 268,
+    "file_path": "/neighborhood_buildings/tract_40143001200_buildings.geojson"
+  },
+  "40143001300": {
+    "name": "13",
+    "building_count": 702,
+    "file_path": "/neighborhood_buildings/tract_40143001300_buildings.geojson"
+  },
+  "40143001400": {
+    "name": "14",
+    "building_count": 984,
+    "file_path": "/neighborhood_buildings/tract_40143001400_buildings.geojson"
+  },
+  "40143001500": {
+    "name": "15",
+    "building_count": 203,
+    "file_path": "/neighborhood_buildings/tract_40143001500_buildings.geojson"
+  },
+  "40143001600": {
+    "name": "16",
+    "building_count": 469,
+    "file_path": "/neighborhood_buildings/tract_40143001600_buildings.geojson"
+  },
+  "40143001700": {
+    "name": "17",
+    "building_count": 406,
+    "file_path": "/neighborhood_buildings/tract_40143001700_buildings.geojson"
+  },
+  "40143001900": {
+    "name": "19",
+    "building_count": 551,
+    "file_path": "/neighborhood_buildings/tract_40143001900_buildings.geojson"
+  },
+  "40143002000": {
+    "name": "20",
+    "building_count": 571,
+    "file_path": "/neighborhood_buildings/tract_40143002000_buildings.geojson"
+  },
+  "40143002100": {
+    "name": "21",
+    "building_count": 465,
+    "file_path": "/neighborhood_buildings/tract_40143002100_buildings.geojson"
+  },
+  "40143002500": {
+    "name": "25",
+    "building_count": 643,
+    "file_path": "/neighborhood_buildings/tract_40143002500_buildings.geojson"
+  },
+  "40143002700": {
+    "name": "27",
+    "building_count": 1617,
+    "file_path": "/neighborhood_buildings/tract_40143002700_buildings.geojson"
+  },
+  "40143002900": {
+    "name": "29",
+    "building_count": 1247,
+    "file_path": "/neighborhood_buildings/tract_40143002900_buildings.geojson"
+  },
+  "40143003000": {
+    "name": "30",
+    "building_count": 1276,
+    "file_path": "/neighborhood_buildings/tract_40143003000_buildings.geojson"
+  },
+  "40143003100": {
+    "name": "31",
+    "building_count": 740,
+    "file_path": "/neighborhood_buildings/tract_40143003100_buildings.geojson"
+  },
+  "40143003200": {
+    "name": "32",
+    "building_count": 1052,
+    "file_path": "/neighborhood_buildings/tract_40143003200_buildings.geojson"
+  },
+  "40143003400": {
+    "name": "34",
+    "building_count": 1018,
+    "file_path": "/neighborhood_buildings/tract_40143003400_buildings.geojson"
+  },
+  "40143003500": {
+    "name": "35",
+    "building_count": 968,
+    "file_path": "/neighborhood_buildings/tract_40143003500_buildings.geojson"
+  },
+  "40131050202": {
+    "name": "502.02",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40131050202_buildings.geojson"
+  },
+  "40131050604": {
+    "name": "506.04",
+    "building_count": 56,
+    "file_path": "/neighborhood_buildings/tract_40131050604_buildings.geojson"
+  },
+  "40131050801": {
+    "name": "508.01",
+    "building_count": 55,
+    "file_path": "/neighborhood_buildings/tract_40131050801_buildings.geojson"
+  },
+  "40143003600": {
+    "name": "36",
+    "building_count": 611,
+    "file_path": "/neighborhood_buildings/tract_40143003600_buildings.geojson"
+  },
+  "40143003700": {
+    "name": "37",
+    "building_count": 526,
+    "file_path": "/neighborhood_buildings/tract_40143003700_buildings.geojson"
+  },
+  "40143003800": {
+    "name": "38",
+    "building_count": 331,
+    "file_path": "/neighborhood_buildings/tract_40143003800_buildings.geojson"
+  },
+  "40145030507": {
+    "name": "305.07",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40145030507_buildings.geojson"
+  },
+  "40145030505": {
+    "name": "305.05",
+    "building_count": 176,
+    "file_path": "/neighborhood_buildings/tract_40145030505_buildings.geojson"
+  },
+  "40145030508": {
+    "name": "305.08",
+    "building_count": 139,
+    "file_path": "/neighborhood_buildings/tract_40145030508_buildings.geojson"
+  },
+  "40145030510": {
+    "name": "305.10",
+    "building_count": 150,
+    "file_path": "/neighborhood_buildings/tract_40145030510_buildings.geojson"
+  },
+  "40143003900": {
+    "name": "39",
+    "building_count": 697,
+    "file_path": "/neighborhood_buildings/tract_40143003900_buildings.geojson"
+  },
+  "40143004000": {
+    "name": "40",
+    "building_count": 1606,
+    "file_path": "/neighborhood_buildings/tract_40143004000_buildings.geojson"
+  },
+  "40143004101": {
+    "name": "41.01",
+    "building_count": 136,
+    "file_path": "/neighborhood_buildings/tract_40143004101_buildings.geojson"
+  },
+  "40143004301": {
+    "name": "43.01",
+    "building_count": 288,
+    "file_path": "/neighborhood_buildings/tract_40143004301_buildings.geojson"
+  },
+  "40059952100": {
+    "name": "9521",
+    "building_count": 408,
+    "file_path": "/neighborhood_buildings/tract_40059952100_buildings.geojson"
+  },
+  "40059952200": {
+    "name": "9522",
+    "building_count": 723,
+    "file_path": "/neighborhood_buildings/tract_40059952200_buildings.geojson"
+  },
+  "40109105101": {
+    "name": "1051.01",
+    "building_count": 540,
+    "file_path": "/neighborhood_buildings/tract_40109105101_buildings.geojson"
+  },
+  "40109100203": {
+    "name": "1002.03",
+    "building_count": 121,
+    "file_path": "/neighborhood_buildings/tract_40109100203_buildings.geojson"
+  },
+  "40109109700": {
+    "name": "1097",
+    "building_count": 447,
+    "file_path": "/neighborhood_buildings/tract_40109109700_buildings.geojson"
+  },
+  "40109108326": {
+    "name": "1083.26",
+    "building_count": 237,
+    "file_path": "/neighborhood_buildings/tract_40109108326_buildings.geojson"
+  },
+  "40109108537": {
+    "name": "1085.37",
+    "building_count": 108,
+    "file_path": "/neighborhood_buildings/tract_40109108537_buildings.geojson"
+  },
+  "40109108229": {
+    "name": "1082.29",
+    "building_count": 443,
+    "file_path": "/neighborhood_buildings/tract_40109108229_buildings.geojson"
+  },
+  "40109106709": {
+    "name": "1067.09",
+    "building_count": 116,
+    "file_path": "/neighborhood_buildings/tract_40109106709_buildings.geojson"
+  },
+  "40109108604": {
+    "name": "1086.04",
+    "building_count": 1704,
+    "file_path": "/neighborhood_buildings/tract_40109108604_buildings.geojson"
+  },
+  "40109106917": {
+    "name": "1069.17",
+    "building_count": 79,
+    "file_path": "/neighborhood_buildings/tract_40109106917_buildings.geojson"
+  },
+  "40109108323": {
+    "name": "1083.23",
+    "building_count": 269,
+    "file_path": "/neighborhood_buildings/tract_40109108323_buildings.geojson"
+  },
+  "40109108322": {
+    "name": "1083.22",
+    "building_count": 519,
+    "file_path": "/neighborhood_buildings/tract_40109108322_buildings.geojson"
+  },
+  "40109109205": {
+    "name": "1092.05",
+    "building_count": 100,
+    "file_path": "/neighborhood_buildings/tract_40109109205_buildings.geojson"
+  },
+  "40109109300": {
+    "name": "1093",
+    "building_count": 47,
+    "file_path": "/neighborhood_buildings/tract_40109109300_buildings.geojson"
+  },
+  "40109109900": {
+    "name": "1099",
+    "building_count": 473,
+    "file_path": "/neighborhood_buildings/tract_40109109900_buildings.geojson"
+  },
+  "40109107226": {
+    "name": "1072.26",
+    "building_count": 144,
+    "file_path": "/neighborhood_buildings/tract_40109107226_buildings.geojson"
+  },
+  "40109109204": {
+    "name": "1092.04",
+    "building_count": 107,
+    "file_path": "/neighborhood_buildings/tract_40109109204_buildings.geojson"
+  },
+  "40109106611": {
+    "name": "1066.11",
+    "building_count": 270,
+    "file_path": "/neighborhood_buildings/tract_40109106611_buildings.geojson"
+  },
+  "40109108236": {
+    "name": "1082.36",
+    "building_count": 2,
+    "file_path": "/neighborhood_buildings/tract_40109108236_buildings.geojson"
+  },
+  "40109108228": {
+    "name": "1082.28",
+    "building_count": 10,
+    "file_path": "/neighborhood_buildings/tract_40109108228_buildings.geojson"
+  },
+  "40109109400": {
+    "name": "1094",
+    "building_count": 203,
+    "file_path": "/neighborhood_buildings/tract_40109109400_buildings.geojson"
+  },
+  "40109108807": {
+    "name": "1088.07",
+    "building_count": 21,
+    "file_path": "/neighborhood_buildings/tract_40109108807_buildings.geojson"
+  },
+  "40109108321": {
+    "name": "1083.21",
+    "building_count": 195,
+    "file_path": "/neighborhood_buildings/tract_40109108321_buildings.geojson"
+  },
+  "40109108325": {
+    "name": "1083.25",
+    "building_count": 242,
+    "file_path": "/neighborhood_buildings/tract_40109108325_buildings.geojson"
+  },
+  "40109108806": {
+    "name": "1088.06",
+    "building_count": 23,
+    "file_path": "/neighborhood_buildings/tract_40109108806_buildings.geojson"
+  },
+  "40109108710": {
+    "name": "1087.10",
+    "building_count": 36,
+    "file_path": "/neighborhood_buildings/tract_40109108710_buildings.geojson"
+  },
+  "40109108222": {
+    "name": "1082.22",
+    "building_count": 306,
+    "file_path": "/neighborhood_buildings/tract_40109108222_buildings.geojson"
+  },
+  "40109980002": {
+    "name": "9800.02",
+    "building_count": 17,
+    "file_path": "/neighborhood_buildings/tract_40109980002_buildings.geojson"
+  },
+  "40109109600": {
+    "name": "1096",
+    "building_count": 79,
+    "file_path": "/neighborhood_buildings/tract_40109109600_buildings.geojson"
+  },
+  "40109107407": {
+    "name": "1074.07",
+    "building_count": 80,
+    "file_path": "/neighborhood_buildings/tract_40109107407_buildings.geojson"
+  },
+  "40109108532": {
+    "name": "1085.32",
+    "building_count": 559,
+    "file_path": "/neighborhood_buildings/tract_40109108532_buildings.geojson"
+  },
+  "40109108224": {
+    "name": "1082.24",
+    "building_count": 1020,
+    "file_path": "/neighborhood_buildings/tract_40109108224_buildings.geojson"
+  },
+  "40109108238": {
+    "name": "1082.38",
+    "building_count": 42,
+    "file_path": "/neighborhood_buildings/tract_40109108238_buildings.geojson"
+  },
+  "40109108320": {
+    "name": "1083.20",
+    "building_count": 107,
+    "file_path": "/neighborhood_buildings/tract_40109108320_buildings.geojson"
+  },
+  "40109108319": {
+    "name": "1083.19",
+    "building_count": 348,
+    "file_path": "/neighborhood_buildings/tract_40109108319_buildings.geojson"
+  },
+  "40109980001": {
+    "name": "9800.01",
+    "building_count": 212,
+    "file_path": "/neighborhood_buildings/tract_40109980001_buildings.geojson"
+  },
+  "40109108538": {
+    "name": "1085.38",
+    "building_count": 436,
+    "file_path": "/neighborhood_buildings/tract_40109108538_buildings.geojson"
+  },
+  "40109107225": {
+    "name": "1072.25",
+    "building_count": 57,
+    "file_path": "/neighborhood_buildings/tract_40109107225_buildings.geojson"
+  },
+  "40109109203": {
+    "name": "1092.03",
+    "building_count": 531,
+    "file_path": "/neighborhood_buildings/tract_40109109203_buildings.geojson"
+  },
+  "40109108232": {
+    "name": "1082.32",
+    "building_count": 138,
+    "file_path": "/neighborhood_buildings/tract_40109108232_buildings.geojson"
+  },
+  "40109108230": {
+    "name": "1082.30",
+    "building_count": 774,
+    "file_path": "/neighborhood_buildings/tract_40109108230_buildings.geojson"
+  },
+  "40109108231": {
+    "name": "1082.31",
+    "building_count": 585,
+    "file_path": "/neighborhood_buildings/tract_40109108231_buildings.geojson"
+  },
+  "40109108531": {
+    "name": "1085.31",
+    "building_count": 2290,
+    "file_path": "/neighborhood_buildings/tract_40109108531_buildings.geojson"
+  },
+  "40109108223": {
+    "name": "1082.23",
+    "building_count": 1279,
+    "file_path": "/neighborhood_buildings/tract_40109108223_buildings.geojson"
+  },
+  "40109107608": {
+    "name": "1076.08",
+    "building_count": 337,
+    "file_path": "/neighborhood_buildings/tract_40109107608_buildings.geojson"
+  },
+  "40109108225": {
+    "name": "1082.25",
+    "building_count": 1180,
+    "file_path": "/neighborhood_buildings/tract_40109108225_buildings.geojson"
+  },
+  "40109100201": {
+    "name": "1002.01",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40109100201_buildings.geojson"
+  },
+  "40109100202": {
+    "name": "1002.02",
+    "building_count": 201,
+    "file_path": "/neighborhood_buildings/tract_40109100202_buildings.geojson"
+  },
+  "40109107224": {
+    "name": "1072.24",
+    "building_count": 175,
+    "file_path": "/neighborhood_buildings/tract_40109107224_buildings.geojson"
+  },
+  "40109980006": {
+    "name": "9800.06",
+    "building_count": 19,
+    "file_path": "/neighborhood_buildings/tract_40109980006_buildings.geojson"
+  },
+  "40109106916": {
+    "name": "1069.16",
+    "building_count": 125,
+    "file_path": "/neighborhood_buildings/tract_40109106916_buildings.geojson"
+  },
+  "40109108536": {
+    "name": "1085.36",
+    "building_count": 46,
+    "file_path": "/neighborhood_buildings/tract_40109108536_buildings.geojson"
+  },
+  "40109108233": {
+    "name": "1082.33",
+    "building_count": 292,
+    "file_path": "/neighborhood_buildings/tract_40109108233_buildings.geojson"
+  },
+  "40109980003": {
+    "name": "9800.03",
+    "building_count": 46,
+    "file_path": "/neighborhood_buildings/tract_40109980003_buildings.geojson"
+  },
+  "40109108533": {
+    "name": "1085.33",
+    "building_count": 495,
+    "file_path": "/neighborhood_buildings/tract_40109108533_buildings.geojson"
+  },
+  "40109108534": {
+    "name": "1085.34",
+    "building_count": 588,
+    "file_path": "/neighborhood_buildings/tract_40109108534_buildings.geojson"
+  },
+  "40109108324": {
+    "name": "1083.24",
+    "building_count": 67,
+    "file_path": "/neighborhood_buildings/tract_40109108324_buildings.geojson"
+  },
+  "40109980004": {
+    "name": "9800.04",
+    "building_count": 6,
+    "file_path": "/neighborhood_buildings/tract_40109980004_buildings.geojson"
+  },
+  "40109980005": {
+    "name": "9800.05",
+    "building_count": 5,
+    "file_path": "/neighborhood_buildings/tract_40109980005_buildings.geojson"
+  },
+  "40109107406": {
+    "name": "1074.06",
+    "building_count": 2372,
+    "file_path": "/neighborhood_buildings/tract_40109107406_buildings.geojson"
+  },
+  "40109108712": {
+    "name": "1087.12",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40109108712_buildings.geojson"
+  },
+  "40109108713": {
+    "name": "1087.13",
+    "building_count": 11,
+    "file_path": "/neighborhood_buildings/tract_40109108713_buildings.geojson"
+  },
+  "40109108234": {
+    "name": "1082.34",
+    "building_count": 1167,
+    "file_path": "/neighborhood_buildings/tract_40109108234_buildings.geojson"
+  },
+  "40109108711": {
+    "name": "1087.11",
+    "building_count": 22,
+    "file_path": "/neighborhood_buildings/tract_40109108711_buildings.geojson"
+  },
+  "40109108237": {
+    "name": "1082.37",
+    "building_count": 27,
+    "file_path": "/neighborhood_buildings/tract_40109108237_buildings.geojson"
+  },
+  "40109106710": {
+    "name": "1067.10",
+    "building_count": 198,
+    "file_path": "/neighborhood_buildings/tract_40109106710_buildings.geojson"
+  },
+  "40109108805": {
+    "name": "1088.05",
+    "building_count": 26,
+    "file_path": "/neighborhood_buildings/tract_40109108805_buildings.geojson"
+  },
+  "40127097600": {
+    "name": "976",
+    "building_count": 151,
+    "file_path": "/neighborhood_buildings/tract_40127097600_buildings.geojson"
+  },
+  "40127097800": {
+    "name": "978",
+    "building_count": 218,
+    "file_path": "/neighborhood_buildings/tract_40127097800_buildings.geojson"
+  },
+  "40109109001": {
+    "name": "1090.01",
+    "building_count": 218,
+    "file_path": "/neighborhood_buildings/tract_40109109001_buildings.geojson"
+  },
+  "40109103900": {
+    "name": "1039",
+    "building_count": 148,
+    "file_path": "/neighborhood_buildings/tract_40109103900_buildings.geojson"
+  },
+  "40135030401": {
+    "name": "304.01",
+    "building_count": 248,
+    "file_path": "/neighborhood_buildings/tract_40135030401_buildings.geojson"
+  },
+  "40135030201": {
+    "name": "302.01",
+    "building_count": 6,
+    "file_path": "/neighborhood_buildings/tract_40135030201_buildings.geojson"
+  },
+  "40135030101": {
+    "name": "301.01",
+    "building_count": 114,
+    "file_path": "/neighborhood_buildings/tract_40135030101_buildings.geojson"
+  },
+  "40135030202": {
+    "name": "302.02",
+    "building_count": 334,
+    "file_path": "/neighborhood_buildings/tract_40135030202_buildings.geojson"
+  },
+  "40109104300": {
+    "name": "1043",
+    "building_count": 61,
+    "file_path": "/neighborhood_buildings/tract_40109104300_buildings.geojson"
+  },
+  "40109104400": {
+    "name": "1044",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40109104400_buildings.geojson"
+  },
+  "40109104500": {
+    "name": "1045",
+    "building_count": 659,
+    "file_path": "/neighborhood_buildings/tract_40109104500_buildings.geojson"
+  },
+  "40109104700": {
+    "name": "1047",
+    "building_count": 45,
+    "file_path": "/neighborhood_buildings/tract_40109104700_buildings.geojson"
+  },
+  "40109104800": {
+    "name": "1048",
+    "building_count": 41,
+    "file_path": "/neighborhood_buildings/tract_40109104800_buildings.geojson"
+  },
+  "40019892501": {
+    "name": "8925.01",
+    "building_count": 136,
+    "file_path": "/neighborhood_buildings/tract_40019892501_buildings.geojson"
+  },
+  "40019892602": {
+    "name": "8926.02",
+    "building_count": 408,
+    "file_path": "/neighborhood_buildings/tract_40019892602_buildings.geojson"
+  },
+  "40019892802": {
+    "name": "8928.02",
+    "building_count": 35,
+    "file_path": "/neighborhood_buildings/tract_40019892802_buildings.geojson"
+  },
+  "40019892601": {
+    "name": "8926.01",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40019892601_buildings.geojson"
+  },
+  "40019892301": {
+    "name": "8923.01",
+    "building_count": 2,
+    "file_path": "/neighborhood_buildings/tract_40019892301_buildings.geojson"
+  },
+  "40019893001": {
+    "name": "8930.01",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40019893001_buildings.geojson"
+  },
+  "40019893002": {
+    "name": "8930.02",
+    "building_count": 185,
+    "file_path": "/neighborhood_buildings/tract_40019893002_buildings.geojson"
+  },
+  "40019892502": {
+    "name": "8925.02",
+    "building_count": 99,
+    "file_path": "/neighborhood_buildings/tract_40019892502_buildings.geojson"
+  },
+  "40019892801": {
+    "name": "8928.01",
+    "building_count": 15,
+    "file_path": "/neighborhood_buildings/tract_40019892801_buildings.geojson"
+  },
+  "40019892302": {
+    "name": "8923.02",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40019892302_buildings.geojson"
+  },
+  "40109108525": {
+    "name": "1085.25",
+    "building_count": 324,
+    "file_path": "/neighborhood_buildings/tract_40109108525_buildings.geojson"
+  },
+  "40051000901": {
+    "name": "9.01",
+    "building_count": 352,
+    "file_path": "/neighborhood_buildings/tract_40051000901_buildings.geojson"
+  },
+  "40051000902": {
+    "name": "9.02",
+    "building_count": 1659,
+    "file_path": "/neighborhood_buildings/tract_40051000902_buildings.geojson"
+  },
+  "40051000600": {
+    "name": "6",
+    "building_count": 453,
+    "file_path": "/neighborhood_buildings/tract_40051000600_buildings.geojson"
+  },
+  "40051000100": {
+    "name": "1",
+    "building_count": 17,
+    "file_path": "/neighborhood_buildings/tract_40051000100_buildings.geojson"
+  },
+  "40051000400": {
+    "name": "4",
+    "building_count": 66,
+    "file_path": "/neighborhood_buildings/tract_40051000400_buildings.geojson"
+  },
+  "40113940014": {
+    "name": "9400.14",
+    "building_count": 594,
+    "file_path": "/neighborhood_buildings/tract_40113940014_buildings.geojson"
+  },
+  "40113940013": {
+    "name": "9400.13",
+    "building_count": 159,
+    "file_path": "/neighborhood_buildings/tract_40113940013_buildings.geojson"
+  },
+  "40113940012": {
+    "name": "9400.12",
+    "building_count": 59,
+    "file_path": "/neighborhood_buildings/tract_40113940012_buildings.geojson"
+  },
+  "40113940015": {
+    "name": "9400.15",
+    "building_count": 560,
+    "file_path": "/neighborhood_buildings/tract_40113940015_buildings.geojson"
+  },
+  "40017300702": {
+    "name": "3007.02",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40017300702_buildings.geojson"
+  },
+  "40017300805": {
+    "name": "3008.05",
+    "building_count": 798,
+    "file_path": "/neighborhood_buildings/tract_40017300805_buildings.geojson"
+  },
+  "40017300803": {
+    "name": "3008.03",
+    "building_count": 1247,
+    "file_path": "/neighborhood_buildings/tract_40017300803_buildings.geojson"
+  },
+  "40017300806": {
+    "name": "3008.06",
+    "building_count": 699,
+    "file_path": "/neighborhood_buildings/tract_40017300806_buildings.geojson"
+  },
+  "40017301301": {
+    "name": "3013.01",
+    "building_count": 1181,
+    "file_path": "/neighborhood_buildings/tract_40017301301_buildings.geojson"
+  },
+  "40017301302": {
+    "name": "3013.02",
+    "building_count": 1979,
+    "file_path": "/neighborhood_buildings/tract_40017301302_buildings.geojson"
+  },
+  "40017301015": {
+    "name": "3010.15",
+    "building_count": 346,
+    "file_path": "/neighborhood_buildings/tract_40017301015_buildings.geojson"
+  },
+  "40017300804": {
+    "name": "3008.04",
+    "building_count": 2053,
+    "file_path": "/neighborhood_buildings/tract_40017300804_buildings.geojson"
+  },
+  "40017301013": {
+    "name": "3010.13",
+    "building_count": 1376,
+    "file_path": "/neighborhood_buildings/tract_40017301013_buildings.geojson"
+  },
+  "40017301014": {
+    "name": "3010.14",
+    "building_count": 1045,
+    "file_path": "/neighborhood_buildings/tract_40017301014_buildings.geojson"
+  },
+  "40017300701": {
+    "name": "3007.01",
+    "building_count": 11,
+    "file_path": "/neighborhood_buildings/tract_40017300701_buildings.geojson"
+  },
+  "40017301010": {
+    "name": "3010.10",
+    "building_count": 1569,
+    "file_path": "/neighborhood_buildings/tract_40017301010_buildings.geojson"
+  },
+  "40017301012": {
+    "name": "3010.12",
+    "building_count": 1029,
+    "file_path": "/neighborhood_buildings/tract_40017301012_buildings.geojson"
+  },
+  "40017301011": {
+    "name": "3010.11",
+    "building_count": 1635,
+    "file_path": "/neighborhood_buildings/tract_40017301011_buildings.geojson"
+  },
+  "40013796004": {
+    "name": "7960.04",
+    "building_count": 4,
+    "file_path": "/neighborhood_buildings/tract_40013796004_buildings.geojson"
+  },
+  "40013796102": {
+    "name": "7961.02",
+    "building_count": 247,
+    "file_path": "/neighborhood_buildings/tract_40013796102_buildings.geojson"
+  },
+  "40013796003": {
+    "name": "7960.03",
+    "building_count": 238,
+    "file_path": "/neighborhood_buildings/tract_40013796003_buildings.geojson"
+  },
+  "40013796101": {
+    "name": "7961.01",
+    "building_count": 219,
+    "file_path": "/neighborhood_buildings/tract_40013796101_buildings.geojson"
+  },
+  "40083600501": {
+    "name": "6005.01",
+    "building_count": 67,
+    "file_path": "/neighborhood_buildings/tract_40083600501_buildings.geojson"
+  },
+  "40083600802": {
+    "name": "6008.02",
+    "building_count": 236,
+    "file_path": "/neighborhood_buildings/tract_40083600802_buildings.geojson"
+  },
+  "40083601000": {
+    "name": "6010",
+    "building_count": 559,
+    "file_path": "/neighborhood_buildings/tract_40083601000_buildings.geojson"
+  },
+  "40083600801": {
+    "name": "6008.01",
+    "building_count": 448,
+    "file_path": "/neighborhood_buildings/tract_40083600801_buildings.geojson"
+  },
+  "40083600402": {
+    "name": "6004.02",
+    "building_count": 54,
+    "file_path": "/neighborhood_buildings/tract_40083600402_buildings.geojson"
+  },
+  "40083600401": {
+    "name": "6004.01",
+    "building_count": 37,
+    "file_path": "/neighborhood_buildings/tract_40083600401_buildings.geojson"
+  },
+  "40083600502": {
+    "name": "6005.02",
+    "building_count": 46,
+    "file_path": "/neighborhood_buildings/tract_40083600502_buildings.geojson"
+  },
+  "40083600101": {
+    "name": "6001.01",
+    "building_count": 465,
+    "file_path": "/neighborhood_buildings/tract_40083600101_buildings.geojson"
+  },
+  "40083600903": {
+    "name": "6009.03",
+    "building_count": 142,
+    "file_path": "/neighborhood_buildings/tract_40083600903_buildings.geojson"
+  },
+  "40045952800": {
+    "name": "9528",
+    "building_count": 18,
+    "file_path": "/neighborhood_buildings/tract_40045952800_buildings.geojson"
+  },
+  "40045952600": {
+    "name": "9526",
+    "building_count": 153,
+    "file_path": "/neighborhood_buildings/tract_40045952600_buildings.geojson"
+  },
+  "40049681100": {
+    "name": "6811",
+    "building_count": 201,
+    "file_path": "/neighborhood_buildings/tract_40049681100_buildings.geojson"
+  },
+  "40049681900": {
+    "name": "6819",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40049681900_buildings.geojson"
+  },
+  "40049681200": {
+    "name": "6812",
+    "building_count": 36,
+    "file_path": "/neighborhood_buildings/tract_40049681200_buildings.geojson"
+  },
+  "40049681700": {
+    "name": "6817",
+    "building_count": 32,
+    "file_path": "/neighborhood_buildings/tract_40049681700_buildings.geojson"
+  },
+  "40049681400": {
+    "name": "6814",
+    "building_count": 116,
+    "file_path": "/neighborhood_buildings/tract_40049681400_buildings.geojson"
+  },
+  "40049681500": {
+    "name": "6815",
+    "building_count": 3,
+    "file_path": "/neighborhood_buildings/tract_40049681500_buildings.geojson"
+  },
+  "40049681300": {
+    "name": "6813",
+    "building_count": 73,
+    "file_path": "/neighborhood_buildings/tract_40049681300_buildings.geojson"
+  },
+  "40049681800": {
+    "name": "6818",
+    "building_count": 31,
+    "file_path": "/neighborhood_buildings/tract_40049681800_buildings.geojson"
+  },
+  "40079040303": {
+    "name": "403.03",
+    "building_count": 2,
+    "file_path": "/neighborhood_buildings/tract_40079040303_buildings.geojson"
+  },
+  "40079040602": {
+    "name": "406.02",
+    "building_count": 18,
+    "file_path": "/neighborhood_buildings/tract_40079040602_buildings.geojson"
+  },
+  "40079040601": {
+    "name": "406.01",
+    "building_count": 19,
+    "file_path": "/neighborhood_buildings/tract_40079040601_buildings.geojson"
+  },
+  "40109100900": {
+    "name": "1009",
+    "building_count": 33,
+    "file_path": "/neighborhood_buildings/tract_40109100900_buildings.geojson"
+  },
+  "40109101000": {
+    "name": "1010",
+    "building_count": 127,
+    "file_path": "/neighborhood_buildings/tract_40109101000_buildings.geojson"
+  },
+  "40109101100": {
+    "name": "1011",
+    "building_count": 91,
+    "file_path": "/neighborhood_buildings/tract_40109101100_buildings.geojson"
+  },
+  "40109101200": {
+    "name": "1012",
+    "building_count": 62,
+    "file_path": "/neighborhood_buildings/tract_40109101200_buildings.geojson"
+  },
+  "40109101300": {
+    "name": "1013",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40109101300_buildings.geojson"
+  },
+  "40109101400": {
+    "name": "1014",
+    "building_count": 216,
+    "file_path": "/neighborhood_buildings/tract_40109101400_buildings.geojson"
+  },
+  "40021978202": {
+    "name": "9782.02",
+    "building_count": 168,
+    "file_path": "/neighborhood_buildings/tract_40021978202_buildings.geojson"
+  },
+  "40109101900": {
+    "name": "1019",
+    "building_count": 110,
+    "file_path": "/neighborhood_buildings/tract_40109101900_buildings.geojson"
+  },
+  "40109102000": {
+    "name": "1020",
+    "building_count": 68,
+    "file_path": "/neighborhood_buildings/tract_40109102000_buildings.geojson"
+  },
+  "40109102100": {
+    "name": "1021",
+    "building_count": 35,
+    "file_path": "/neighborhood_buildings/tract_40109102100_buildings.geojson"
+  },
+  "40109102200": {
+    "name": "1022",
+    "building_count": 14,
+    "file_path": "/neighborhood_buildings/tract_40109102200_buildings.geojson"
+  },
+  "40109102300": {
+    "name": "1023",
+    "building_count": 35,
+    "file_path": "/neighborhood_buildings/tract_40109102300_buildings.geojson"
+  },
+  "40109102400": {
+    "name": "1024",
+    "building_count": 60,
+    "file_path": "/neighborhood_buildings/tract_40109102400_buildings.geojson"
+  },
+  "40097040700": {
+    "name": "407",
+    "building_count": 227,
+    "file_path": "/neighborhood_buildings/tract_40097040700_buildings.geojson"
+  },
+  "40097040600": {
+    "name": "406",
+    "building_count": 20,
+    "file_path": "/neighborhood_buildings/tract_40097040600_buildings.geojson"
+  },
+  "40097040200": {
+    "name": "402",
+    "building_count": 23,
+    "file_path": "/neighborhood_buildings/tract_40097040200_buildings.geojson"
+  },
+  "40097040100": {
+    "name": "401",
+    "building_count": 225,
+    "file_path": "/neighborhood_buildings/tract_40097040100_buildings.geojson"
+  },
+  "40097040400": {
+    "name": "404",
+    "building_count": 440,
+    "file_path": "/neighborhood_buildings/tract_40097040400_buildings.geojson"
+  },
+  "40097040300": {
+    "name": "403",
+    "building_count": 243,
+    "file_path": "/neighborhood_buildings/tract_40097040300_buildings.geojson"
+  },
+  "40109980007": {
+    "name": "9800.07",
+    "building_count": 59,
+    "file_path": "/neighborhood_buildings/tract_40109980007_buildings.geojson"
+  },
+  "40147001300": {
+    "name": "13",
+    "building_count": 119,
+    "file_path": "/neighborhood_buildings/tract_40147001300_buildings.geojson"
+  },
+  "40147001000": {
+    "name": "10",
+    "building_count": 76,
+    "file_path": "/neighborhood_buildings/tract_40147001000_buildings.geojson"
+  },
+  "40147000300": {
+    "name": "3",
+    "building_count": 264,
+    "file_path": "/neighborhood_buildings/tract_40147000300_buildings.geojson"
+  },
+  "40147001200": {
+    "name": "12",
+    "building_count": 84,
+    "file_path": "/neighborhood_buildings/tract_40147001200_buildings.geojson"
+  },
+  "40147000200": {
+    "name": "2",
+    "building_count": 71,
+    "file_path": "/neighborhood_buildings/tract_40147000200_buildings.geojson"
+  },
+  "40147000100": {
+    "name": "1",
+    "building_count": 9,
+    "file_path": "/neighborhood_buildings/tract_40147000100_buildings.geojson"
+  },
+  "40147001100": {
+    "name": "11",
+    "building_count": 111,
+    "file_path": "/neighborhood_buildings/tract_40147001100_buildings.geojson"
+  },
+  "40147000400": {
+    "name": "4",
+    "building_count": 101,
+    "file_path": "/neighborhood_buildings/tract_40147000400_buildings.geojson"
+  },
+  "40147000700": {
+    "name": "7",
+    "building_count": 85,
+    "file_path": "/neighborhood_buildings/tract_40147000700_buildings.geojson"
+  },
+  "40147000800": {
+    "name": "8",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40147000800_buildings.geojson"
+  },
+  "40109108113": {
+    "name": "1081.13",
+    "building_count": 232,
+    "file_path": "/neighborhood_buildings/tract_40109108113_buildings.geojson"
+  },
+  "40109102500": {
+    "name": "1025",
+    "building_count": 235,
+    "file_path": "/neighborhood_buildings/tract_40109102500_buildings.geojson"
+  },
+  "40109109500": {
+    "name": "1095",
+    "building_count": 740,
+    "file_path": "/neighborhood_buildings/tract_40109109500_buildings.geojson"
+  },
+  "40017301410": {
+    "name": "3014.10",
+    "building_count": 794,
+    "file_path": "/neighborhood_buildings/tract_40017301410_buildings.geojson"
+  },
+  "40109108529": {
+    "name": "1085.29",
+    "building_count": 271,
+    "file_path": "/neighborhood_buildings/tract_40109108529_buildings.geojson"
+  },
+  "40109108317": {
+    "name": "1083.17",
+    "building_count": 316,
+    "file_path": "/neighborhood_buildings/tract_40109108317_buildings.geojson"
+  },
+  "40027201801": {
+    "name": "2018.01",
+    "building_count": 1441,
+    "file_path": "/neighborhood_buildings/tract_40027201801_buildings.geojson"
+  },
+  "40027201802": {
+    "name": "2018.02",
+    "building_count": 284,
+    "file_path": "/neighborhood_buildings/tract_40027201802_buildings.geojson"
+  },
+  "40109109004": {
+    "name": "1090.04",
+    "building_count": 98,
+    "file_path": "/neighborhood_buildings/tract_40109109004_buildings.geojson"
+  },
+  "40109109003": {
+    "name": "1090.03",
+    "building_count": 57,
+    "file_path": "/neighborhood_buildings/tract_40109109003_buildings.geojson"
+  },
+  "40109108709": {
+    "name": "1087.09",
+    "building_count": 19,
+    "file_path": "/neighborhood_buildings/tract_40109108709_buildings.geojson"
+  },
+  "40109108708": {
+    "name": "1087.08",
+    "building_count": 48,
+    "file_path": "/neighborhood_buildings/tract_40109108708_buildings.geojson"
+  },
+  "40109106913": {
+    "name": "1069.13",
+    "building_count": 467,
+    "file_path": "/neighborhood_buildings/tract_40109106913_buildings.geojson"
+  },
+  "40109106914": {
+    "name": "1069.14",
+    "building_count": 106,
+    "file_path": "/neighborhood_buildings/tract_40109106914_buildings.geojson"
+  },
+  "40015161602": {
+    "name": "1616.02",
+    "building_count": 823,
+    "file_path": "/neighborhood_buildings/tract_40015161602_buildings.geojson"
+  },
+  "40015162101": {
+    "name": "1621.01",
+    "building_count": 24,
+    "file_path": "/neighborhood_buildings/tract_40015162101_buildings.geojson"
+  },
+  "40015162102": {
+    "name": "1621.02",
+    "building_count": 34,
+    "file_path": "/neighborhood_buildings/tract_40015162102_buildings.geojson"
+  },
+  "40015161601": {
+    "name": "1616.01",
+    "building_count": 111,
+    "file_path": "/neighborhood_buildings/tract_40015161601_buildings.geojson"
+  },
+  "40109107001": {
+    "name": "1070.01",
+    "building_count": 51,
+    "file_path": "/neighborhood_buildings/tract_40109107001_buildings.geojson"
+  },
+  "40109107104": {
+    "name": "1071.04",
+    "building_count": 16,
+    "file_path": "/neighborhood_buildings/tract_40109107104_buildings.geojson"
+  },
+  "40109108402": {
+    "name": "1084.02",
+    "building_count": 224,
+    "file_path": "/neighborhood_buildings/tract_40109108402_buildings.geojson"
+  },
+  "40109108403": {
+    "name": "1084.03",
+    "building_count": 43,
+    "file_path": "/neighborhood_buildings/tract_40109108403_buildings.geojson"
+  },
+  "40109108404": {
+    "name": "1084.04",
+    "building_count": 768,
+    "file_path": "/neighborhood_buildings/tract_40109108404_buildings.geojson"
+  },
+  "40143007519": {
+    "name": "75.19",
+    "building_count": 62,
+    "file_path": "/neighborhood_buildings/tract_40143007519_buildings.geojson"
+  },
+  "40143007311": {
+    "name": "73.11",
+    "building_count": 201,
+    "file_path": "/neighborhood_buildings/tract_40143007311_buildings.geojson"
+  },
+  "40109108506": {
+    "name": "1085.06",
+    "building_count": 1179,
+    "file_path": "/neighborhood_buildings/tract_40109108506_buildings.geojson"
+  },
+  "40143005900": {
+    "name": "59",
+    "building_count": 1171,
+    "file_path": "/neighborhood_buildings/tract_40143005900_buildings.geojson"
+  },
+  "40143001800": {
+    "name": "18",
+    "building_count": 823,
+    "file_path": "/neighborhood_buildings/tract_40143001800_buildings.geojson"
+  },
+  "40143005801": {
+    "name": "58.01",
+    "building_count": 1456,
+    "file_path": "/neighborhood_buildings/tract_40143005801_buildings.geojson"
+  },
+  "40143007613": {
+    "name": "76.13",
+    "building_count": 98,
+    "file_path": "/neighborhood_buildings/tract_40143007613_buildings.geojson"
+  },
+  "40143009401": {
+    "name": "94.01",
+    "building_count": 283,
+    "file_path": "/neighborhood_buildings/tract_40143009401_buildings.geojson"
+  },
+  "40143008501": {
+    "name": "85.01",
+    "building_count": 384,
+    "file_path": "/neighborhood_buildings/tract_40143008501_buildings.geojson"
+  },
+  "40143007413": {
+    "name": "74.13",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40143007413_buildings.geojson"
+  },
+  "40143007629": {
+    "name": "76.29",
+    "building_count": 167,
+    "file_path": "/neighborhood_buildings/tract_40143007629_buildings.geojson"
+  },
+  "40143004500": {
+    "name": "45",
+    "building_count": 616,
+    "file_path": "/neighborhood_buildings/tract_40143004500_buildings.geojson"
+  },
+  "40143005001": {
+    "name": "50.01",
+    "building_count": 98,
+    "file_path": "/neighborhood_buildings/tract_40143005001_buildings.geojson"
+  },
+  "40143007518": {
+    "name": "75.18",
+    "building_count": 37,
+    "file_path": "/neighborhood_buildings/tract_40143007518_buildings.geojson"
+  },
+  "40143007312": {
+    "name": "73.12",
+    "building_count": 482,
+    "file_path": "/neighborhood_buildings/tract_40143007312_buildings.geojson"
+  },
+  "40091780301": {
+    "name": "7803.01",
+    "building_count": 1,
+    "file_path": "/neighborhood_buildings/tract_40091780301_buildings.geojson"
+  },
+  "40091779602": {
+    "name": "7796.02",
+    "building_count": 346,
+    "file_path": "/neighborhood_buildings/tract_40091779602_buildings.geojson"
+  },
+  "40091780302": {
+    "name": "7803.02",
+    "building_count": 78,
+    "file_path": "/neighborhood_buildings/tract_40091780302_buildings.geojson"
+  },
+  "40091779601": {
+    "name": "7796.01",
+    "building_count": 110,
+    "file_path": "/neighborhood_buildings/tract_40091779601_buildings.geojson"
+  },
+  "40143005401": {
+    "name": "54.01",
+    "building_count": 274,
+    "file_path": "/neighborhood_buildings/tract_40143005401_buildings.geojson"
+  },
+  "40143007642": {
+    "name": "76.42",
+    "building_count": 327,
+    "file_path": "/neighborhood_buildings/tract_40143007642_buildings.geojson"
+  },
+  "40143006708": {
+    "name": "67.08",
+    "building_count": 720,
+    "file_path": "/neighborhood_buildings/tract_40143006708_buildings.geojson"
+  },
+  "40143007641": {
+    "name": "76.41",
+    "building_count": 177,
+    "file_path": "/neighborhood_buildings/tract_40143007641_buildings.geojson"
+  },
+  "40143002301": {
+    "name": "23.01",
+    "building_count": 1922,
+    "file_path": "/neighborhood_buildings/tract_40143002301_buildings.geojson"
+  },
+  "40119011400": {
+    "name": "114",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40119011400_buildings.geojson"
+  },
+  "40119010300": {
+    "name": "103",
+    "building_count": 681,
+    "file_path": "/neighborhood_buildings/tract_40119010300_buildings.geojson"
+  },
+  "40119011200": {
+    "name": "112",
+    "building_count": 90,
+    "file_path": "/neighborhood_buildings/tract_40119011200_buildings.geojson"
+  },
+  "40099790600": {
+    "name": "7906",
+    "building_count": 102,
+    "file_path": "/neighborhood_buildings/tract_40099790600_buildings.geojson"
+  },
+  "40147000602": {
+    "name": "6.02",
+    "building_count": 39,
+    "file_path": "/neighborhood_buildings/tract_40147000602_buildings.geojson"
+  },
+  "40095094805": {
+    "name": "948.05",
+    "building_count": 457,
+    "file_path": "/neighborhood_buildings/tract_40095094805_buildings.geojson"
+  },
+  "40095094806": {
+    "name": "948.06",
+    "building_count": 45,
+    "file_path": "/neighborhood_buildings/tract_40095094806_buildings.geojson"
+  },
+  "40095094804": {
+    "name": "948.04",
+    "building_count": 74,
+    "file_path": "/neighborhood_buildings/tract_40095094804_buildings.geojson"
+  },
+  "40085094200": {
+    "name": "942",
+    "building_count": 111,
+    "file_path": "/neighborhood_buildings/tract_40085094200_buildings.geojson"
+  },
+  "40085094100": {
+    "name": "941",
+    "building_count": 95,
+    "file_path": "/neighborhood_buildings/tract_40085094100_buildings.geojson"
+  },
+  "40145030603": {
+    "name": "306.03",
+    "building_count": 557,
+    "file_path": "/neighborhood_buildings/tract_40145030603_buildings.geojson"
+  },
+  "40145030408": {
+    "name": "304.08",
+    "building_count": 64,
+    "file_path": "/neighborhood_buildings/tract_40145030408_buildings.geojson"
+  },
+  "40145030604": {
+    "name": "306.04",
+    "building_count": 990,
+    "file_path": "/neighborhood_buildings/tract_40145030604_buildings.geojson"
+  },
+  "40145030407": {
+    "name": "304.07",
+    "building_count": 672,
+    "file_path": "/neighborhood_buildings/tract_40145030407_buildings.geojson"
+  },
+  "40145030605": {
+    "name": "306.05",
+    "building_count": 399,
+    "file_path": "/neighborhood_buildings/tract_40145030605_buildings.geojson"
+  },
+  "40103956600": {
+    "name": "9566",
+    "building_count": 450,
+    "file_path": "/neighborhood_buildings/tract_40103956600_buildings.geojson"
+  },
+  "40103957100": {
+    "name": "9571",
+    "building_count": 108,
+    "file_path": "/neighborhood_buildings/tract_40103957100_buildings.geojson"
+  },
+  "40103956900": {
+    "name": "9569",
+    "building_count": 67,
+    "file_path": "/neighborhood_buildings/tract_40103956900_buildings.geojson"
+  },
+  "40017301409": {
+    "name": "3014.09",
+    "building_count": 89,
+    "file_path": "/neighborhood_buildings/tract_40017301409_buildings.geojson"
+  },
+  "40017301001": {
+    "name": "3010.01",
+    "building_count": 629,
+    "file_path": "/neighborhood_buildings/tract_40017301001_buildings.geojson"
+  },
+  "40013795900": {
+    "name": "7959",
+    "building_count": 614,
+    "file_path": "/neighborhood_buildings/tract_40013795900_buildings.geojson"
+  },
+  "40013796200": {
+    "name": "7962",
+    "building_count": 139,
+    "file_path": "/neighborhood_buildings/tract_40013796200_buildings.geojson"
+  },
+  "40013795700": {
+    "name": "7957",
+    "building_count": 686,
+    "file_path": "/neighborhood_buildings/tract_40013795700_buildings.geojson"
+  },
+  "40013796500": {
+    "name": "7965",
+    "building_count": 119,
+    "file_path": "/neighborhood_buildings/tract_40013796500_buildings.geojson"
+  },
+  "40013796600": {
+    "name": "7966",
+    "building_count": 391,
+    "file_path": "/neighborhood_buildings/tract_40013796600_buildings.geojson"
+  },
+  "40011958700": {
+    "name": "9587",
+    "building_count": 175,
+    "file_path": "/neighborhood_buildings/tract_40011958700_buildings.geojson"
+  },
+  "40011958600": {
+    "name": "9586",
+    "building_count": 29,
+    "file_path": "/neighborhood_buildings/tract_40011958600_buildings.geojson"
+  },
+  "40011958800": {
+    "name": "9588",
+    "building_count": 295,
+    "file_path": "/neighborhood_buildings/tract_40011958800_buildings.geojson"
+  },
+  "40011958900": {
+    "name": "9589",
+    "building_count": 256,
+    "file_path": "/neighborhood_buildings/tract_40011958900_buildings.geojson"
+  },
+  "40011959000": {
+    "name": "9590",
+    "building_count": 20,
+    "file_path": "/neighborhood_buildings/tract_40011959000_buildings.geojson"
+  },
+  "40083600200": {
+    "name": "6002",
+    "building_count": 191,
+    "file_path": "/neighborhood_buildings/tract_40083600200_buildings.geojson"
+  },
+  "40083600700": {
+    "name": "6007",
+    "building_count": 28,
+    "file_path": "/neighborhood_buildings/tract_40083600700_buildings.geojson"
+  },
+  "40083600300": {
+    "name": "6003",
+    "building_count": 579,
+    "file_path": "/neighborhood_buildings/tract_40083600300_buildings.geojson"
+  },
+  "40083600600": {
+    "name": "6006",
+    "building_count": 180,
+    "file_path": "/neighborhood_buildings/tract_40083600600_buildings.geojson"
+  },
+  "40037021401": {
+    "name": "214.01",
+    "building_count": 198,
+    "file_path": "/neighborhood_buildings/tract_40037021401_buildings.geojson"
+  },
+  "40037021402": {
+    "name": "214.02",
+    "building_count": 64,
+    "file_path": "/neighborhood_buildings/tract_40037021402_buildings.geojson"
+  },
+  "40037020603": {
+    "name": "206.03",
+    "building_count": 36,
+    "file_path": "/neighborhood_buildings/tract_40037020603_buildings.geojson"
+  },
+  "40037020604": {
+    "name": "206.04",
+    "building_count": 279,
+    "file_path": "/neighborhood_buildings/tract_40037020604_buildings.geojson"
+  },
+  "40027202201": {
+    "name": "2022.01",
+    "building_count": 1247,
+    "file_path": "/neighborhood_buildings/tract_40027202201_buildings.geojson"
+  },
+  "40113940006": {
+    "name": "9400.06",
+    "building_count": 484,
+    "file_path": "/neighborhood_buildings/tract_40113940006_buildings.geojson"
+  },
+  "40031000700": {
+    "name": "7",
+    "building_count": 662,
+    "file_path": "/neighborhood_buildings/tract_40031000700_buildings.geojson"
+  },
+  "40031000900": {
+    "name": "9",
+    "building_count": 124,
+    "file_path": "/neighborhood_buildings/tract_40031000900_buildings.geojson"
+  },
+  "40031001000": {
+    "name": "10",
+    "building_count": 318,
+    "file_path": "/neighborhood_buildings/tract_40031001000_buildings.geojson"
+  },
+  "40031001100": {
+    "name": "11",
+    "building_count": 44,
+    "file_path": "/neighborhood_buildings/tract_40031001100_buildings.geojson"
+  },
+  "40031001400": {
+    "name": "14",
+    "building_count": 634,
+    "file_path": "/neighborhood_buildings/tract_40031001400_buildings.geojson"
+  },
+  "40031001500": {
+    "name": "15",
+    "building_count": 90,
+    "file_path": "/neighborhood_buildings/tract_40031001500_buildings.geojson"
+  },
+  "40031001600": {
+    "name": "16",
+    "building_count": 84,
+    "file_path": "/neighborhood_buildings/tract_40031001600_buildings.geojson"
+  },
+  "40031001700": {
+    "name": "17",
+    "building_count": 29,
+    "file_path": "/neighborhood_buildings/tract_40031001700_buildings.geojson"
+  },
+  "40031001901": {
+    "name": "19.01",
+    "building_count": 635,
+    "file_path": "/neighborhood_buildings/tract_40031001901_buildings.geojson"
+  },
+  "40031002001": {
+    "name": "20.01",
+    "building_count": 13,
+    "file_path": "/neighborhood_buildings/tract_40031002001_buildings.geojson"
+  },
+  "40027201904": {
+    "name": "2019.04",
+    "building_count": 353,
+    "file_path": "/neighborhood_buildings/tract_40027201904_buildings.geojson"
+  },
+  "40027202002": {
+    "name": "2020.02",
+    "building_count": 609,
+    "file_path": "/neighborhood_buildings/tract_40027202002_buildings.geojson"
+  },
+  "40051000501": {
+    "name": "5.01",
+    "building_count": 51,
+    "file_path": "/neighborhood_buildings/tract_40051000501_buildings.geojson"
+  },
+  "40051000702": {
+    "name": "7.02",
+    "building_count": 117,
+    "file_path": "/neighborhood_buildings/tract_40051000702_buildings.geojson"
+  },
+  "40051000802": {
+    "name": "8.02",
+    "building_count": 1737,
+    "file_path": "/neighborhood_buildings/tract_40051000802_buildings.geojson"
+  },
+  "40051000701": {
+    "name": "7.01",
+    "building_count": 107,
+    "file_path": "/neighborhood_buildings/tract_40051000701_buildings.geojson"
+  },
+  "40051000905": {
+    "name": "9.05",
+    "building_count": 1225,
+    "file_path": "/neighborhood_buildings/tract_40051000905_buildings.geojson"
+  },
+  "40051000904": {
+    "name": "9.04",
+    "building_count": 955,
+    "file_path": "/neighborhood_buildings/tract_40051000904_buildings.geojson"
+  },
+  "40051000801": {
+    "name": "8.01",
+    "building_count": 726,
+    "file_path": "/neighborhood_buildings/tract_40051000801_buildings.geojson"
+  },
+  "40051000502": {
+    "name": "5.02",
+    "building_count": 14,
+    "file_path": "/neighborhood_buildings/tract_40051000502_buildings.geojson"
+  },
+  "40051000906": {
+    "name": "9.06",
+    "building_count": 1622,
+    "file_path": "/neighborhood_buildings/tract_40051000906_buildings.geojson"
+  },
+  "40015161900": {
+    "name": "1619",
+    "building_count": 62,
+    "file_path": "/neighborhood_buildings/tract_40015161900_buildings.geojson"
+  },
+  "40111000601": {
+    "name": "6.01",
+    "building_count": 174,
+    "file_path": "/neighborhood_buildings/tract_40111000601_buildings.geojson"
+  },
+  "40111000602": {
+    "name": "6.02",
+    "building_count": 158,
+    "file_path": "/neighborhood_buildings/tract_40111000602_buildings.geojson"
+  },
+  "40015162300": {
+    "name": "1623",
+    "building_count": 9,
+    "file_path": "/neighborhood_buildings/tract_40015162300_buildings.geojson"
+  },
+  "40015161700": {
+    "name": "1617",
+    "building_count": 275,
+    "file_path": "/neighborhood_buildings/tract_40015161700_buildings.geojson"
+  },
+  "40015161800": {
+    "name": "1618",
+    "building_count": 61,
+    "file_path": "/neighborhood_buildings/tract_40015161800_buildings.geojson"
+  },
+  "40015162200": {
+    "name": "1622",
+    "building_count": 194,
+    "file_path": "/neighborhood_buildings/tract_40015162200_buildings.geojson"
+  },
+  "40015162000": {
+    "name": "1620",
+    "building_count": 97,
+    "file_path": "/neighborhood_buildings/tract_40015162000_buildings.geojson"
+  },
+  "40101001302": {
+    "name": "13.02",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40101001302_buildings.geojson"
+  },
+  "40101001501": {
+    "name": "15.01",
+    "building_count": 113,
+    "file_path": "/neighborhood_buildings/tract_40101001501_buildings.geojson"
+  },
+  "40101001502": {
+    "name": "15.02",
+    "building_count": 42,
+    "file_path": "/neighborhood_buildings/tract_40101001502_buildings.geojson"
+  },
+  "40101001402": {
+    "name": "14.02",
+    "building_count": 210,
+    "file_path": "/neighborhood_buildings/tract_40101001402_buildings.geojson"
+  },
+  "40101001301": {
+    "name": "13.01",
+    "building_count": 213,
+    "file_path": "/neighborhood_buildings/tract_40101001301_buildings.geojson"
+  },
+  "40101000902": {
+    "name": "9.02",
+    "building_count": 135,
+    "file_path": "/neighborhood_buildings/tract_40101000902_buildings.geojson"
+  },
+  "40101001401": {
+    "name": "14.01",
+    "building_count": 1155,
+    "file_path": "/neighborhood_buildings/tract_40101001401_buildings.geojson"
+  },
+  "40101000901": {
+    "name": "9.01",
+    "building_count": 77,
+    "file_path": "/neighborhood_buildings/tract_40101000901_buildings.geojson"
+  },
+  "40121486300": {
+    "name": "4863",
+    "building_count": 21,
+    "file_path": "/neighborhood_buildings/tract_40121486300_buildings.geojson"
+  },
+  "40121486500": {
+    "name": "4865",
+    "building_count": 111,
+    "file_path": "/neighborhood_buildings/tract_40121486500_buildings.geojson"
+  },
+  "40121486000": {
+    "name": "4860",
+    "building_count": 111,
+    "file_path": "/neighborhood_buildings/tract_40121486000_buildings.geojson"
+  },
+  "40121486700": {
+    "name": "4867",
+    "building_count": 167,
+    "file_path": "/neighborhood_buildings/tract_40121486700_buildings.geojson"
+  },
+  "40013796300": {
+    "name": "7963",
+    "building_count": 140,
+    "file_path": "/neighborhood_buildings/tract_40013796300_buildings.geojson"
+  },
+  "40041376100": {
+    "name": "3761",
+    "building_count": 214,
+    "file_path": "/neighborhood_buildings/tract_40041376100_buildings.geojson"
+  },
+  "40087400300": {
+    "name": "4003",
+    "building_count": 66,
+    "file_path": "/neighborhood_buildings/tract_40087400300_buildings.geojson"
+  },
+  "40087400400": {
+    "name": "4004",
+    "building_count": 199,
+    "file_path": "/neighborhood_buildings/tract_40087400400_buildings.geojson"
+  },
+  "40003955600": {
+    "name": "9556",
+    "building_count": 210,
+    "file_path": "/neighborhood_buildings/tract_40003955600_buildings.geojson"
+  },
+  "40003956000": {
+    "name": "9560",
+    "building_count": 369,
+    "file_path": "/neighborhood_buildings/tract_40003956000_buildings.geojson"
+  },
+  "40003955700": {
+    "name": "9557",
+    "building_count": 86,
+    "file_path": "/neighborhood_buildings/tract_40003955700_buildings.geojson"
+  },
+  "40137000400": {
+    "name": "4",
+    "building_count": 1252,
+    "file_path": "/neighborhood_buildings/tract_40137000400_buildings.geojson"
+  },
+  "40137000300": {
+    "name": "3",
+    "building_count": 42,
+    "file_path": "/neighborhood_buildings/tract_40137000300_buildings.geojson"
+  },
+  "40137000800": {
+    "name": "8",
+    "building_count": 108,
+    "file_path": "/neighborhood_buildings/tract_40137000800_buildings.geojson"
+  },
+  "40137001100": {
+    "name": "11",
+    "building_count": 88,
+    "file_path": "/neighborhood_buildings/tract_40137001100_buildings.geojson"
+  },
+  "40137000101": {
+    "name": "1.01",
+    "building_count": 1978,
+    "file_path": "/neighborhood_buildings/tract_40137000101_buildings.geojson"
+  },
+  "40137001000": {
+    "name": "10",
+    "building_count": 4,
+    "file_path": "/neighborhood_buildings/tract_40137001000_buildings.geojson"
+  },
+  "40137000102": {
+    "name": "1.02",
+    "building_count": 1016,
+    "file_path": "/neighborhood_buildings/tract_40137000102_buildings.geojson"
+  },
+  "40137000200": {
+    "name": "2",
+    "building_count": 187,
+    "file_path": "/neighborhood_buildings/tract_40137000200_buildings.geojson"
+  },
+  "40027202105": {
+    "name": "2021.05",
+    "building_count": 1005,
+    "file_path": "/neighborhood_buildings/tract_40027202105_buildings.geojson"
+  },
+  "40027200300": {
+    "name": "2003",
+    "building_count": 487,
+    "file_path": "/neighborhood_buildings/tract_40027200300_buildings.geojson"
+  },
+  "40027202104": {
+    "name": "2021.04",
+    "building_count": 337,
+    "file_path": "/neighborhood_buildings/tract_40027202104_buildings.geojson"
+  },
+  "40125501300": {
+    "name": "5013",
+    "building_count": 159,
+    "file_path": "/neighborhood_buildings/tract_40125501300_buildings.geojson"
+  },
+  "40109106802": {
+    "name": "1068.02",
+    "building_count": 48,
+    "file_path": "/neighborhood_buildings/tract_40109106802_buildings.geojson"
+  },
+  "40143009200": {
+    "name": "92",
+    "building_count": 672,
+    "file_path": "/neighborhood_buildings/tract_40143009200_buildings.geojson"
+  },
+  "40143009300": {
+    "name": "93",
+    "building_count": 822,
+    "file_path": "/neighborhood_buildings/tract_40143009300_buildings.geojson"
+  },
+  "40143007801": {
+    "name": "78.01",
+    "building_count": 447,
+    "file_path": "/neighborhood_buildings/tract_40143007801_buildings.geojson"
+  },
+  "40099790702": {
+    "name": "7907.02",
+    "building_count": 377,
+    "file_path": "/neighborhood_buildings/tract_40099790702_buildings.geojson"
+  },
+  "40099790802": {
+    "name": "7908.02",
+    "building_count": 276,
+    "file_path": "/neighborhood_buildings/tract_40099790802_buildings.geojson"
+  },
+  "40099790801": {
+    "name": "7908.01",
+    "building_count": 230,
+    "file_path": "/neighborhood_buildings/tract_40099790801_buildings.geojson"
+  },
+  "40099790701": {
+    "name": "7907.01",
+    "building_count": 307,
+    "file_path": "/neighborhood_buildings/tract_40099790701_buildings.geojson"
+  },
+  "40129960000": {
+    "name": "9600",
+    "building_count": 184,
+    "file_path": "/neighborhood_buildings/tract_40129960000_buildings.geojson"
+  },
+  "40027201404": {
+    "name": "2014.04",
+    "building_count": 736,
+    "file_path": "/neighborhood_buildings/tract_40027201404_buildings.geojson"
+  },
+  "40121485601": {
+    "name": "4856.01",
+    "building_count": 72,
+    "file_path": "/neighborhood_buildings/tract_40121485601_buildings.geojson"
+  },
+  "40121485602": {
+    "name": "4856.02",
+    "building_count": 64,
+    "file_path": "/neighborhood_buildings/tract_40121485602_buildings.geojson"
+  },
+  "40027201603": {
+    "name": "2016.03",
+    "building_count": 1396,
+    "file_path": "/neighborhood_buildings/tract_40027201603_buildings.geojson"
+  },
+  "40109101500": {
+    "name": "1015",
+    "building_count": 263,
+    "file_path": "/neighborhood_buildings/tract_40109101500_buildings.geojson"
+  },
+  "40037021600": {
+    "name": "216",
+    "building_count": 38,
+    "file_path": "/neighborhood_buildings/tract_40037021600_buildings.geojson"
+  },
+  "40037021000": {
+    "name": "210",
+    "building_count": 94,
+    "file_path": "/neighborhood_buildings/tract_40037021000_buildings.geojson"
+  },
+  "40125500700": {
+    "name": "5007",
+    "building_count": 40,
+    "file_path": "/neighborhood_buildings/tract_40125500700_buildings.geojson"
+  },
+  "40109108523": {
+    "name": "1085.23",
+    "building_count": 264,
+    "file_path": "/neighborhood_buildings/tract_40109108523_buildings.geojson"
+  },
+  "40109104200": {
+    "name": "1042",
+    "building_count": 42,
+    "file_path": "/neighborhood_buildings/tract_40109104200_buildings.geojson"
+  },
+  "40027201902": {
+    "name": "2019.02",
+    "building_count": 214,
+    "file_path": "/neighborhood_buildings/tract_40027201902_buildings.geojson"
+  },
+  "40013796002": {
+    "name": "7960.02",
+    "building_count": 227,
+    "file_path": "/neighborhood_buildings/tract_40013796002_buildings.geojson"
+  },
+  "40143006804": {
+    "name": "68.04",
+    "building_count": 218,
+    "file_path": "/neighborhood_buildings/tract_40143006804_buildings.geojson"
+  },
+  "40137000600": {
+    "name": "6",
+    "building_count": 269,
+    "file_path": "/neighborhood_buildings/tract_40137000600_buildings.geojson"
+  },
+  "40125501201": {
+    "name": "5012.01",
+    "building_count": 20,
+    "file_path": "/neighborhood_buildings/tract_40125501201_buildings.geojson"
+  },
+  "40125500200": {
+    "name": "5002",
+    "building_count": 144,
+    "file_path": "/neighborhood_buildings/tract_40125500200_buildings.geojson"
+  },
+  "40125501101": {
+    "name": "5011.01",
+    "building_count": 1013,
+    "file_path": "/neighborhood_buildings/tract_40125501101_buildings.geojson"
+  },
+  "40125500500": {
+    "name": "5005",
+    "building_count": 37,
+    "file_path": "/neighborhood_buildings/tract_40125500500_buildings.geojson"
+  },
+  "40047001402": {
+    "name": "14.02",
+    "building_count": 189,
+    "file_path": "/neighborhood_buildings/tract_40047001402_buildings.geojson"
+  },
+  "40047001401": {
+    "name": "14.01",
+    "building_count": 122,
+    "file_path": "/neighborhood_buildings/tract_40047001401_buildings.geojson"
+  },
+  "40017301407": {
+    "name": "3014.07",
+    "building_count": 1049,
+    "file_path": "/neighborhood_buildings/tract_40017301407_buildings.geojson"
+  },
+  "40027200700": {
+    "name": "2007",
+    "building_count": 49,
+    "file_path": "/neighborhood_buildings/tract_40027200700_buildings.geojson"
+  },
+  "40019892200": {
+    "name": "8922",
+    "building_count": 0,
+    "file_path": "/neighborhood_buildings/tract_40019892200_buildings.geojson"
+  },
+  "40049681600": {
+    "name": "6816",
+    "building_count": 0,
+    "file_path": "/neighborhood_buildings/tract_40049681600_buildings.geojson"
+  },
+  "40021978201": {
+    "name": "9782.01",
+    "building_count": 0,
+    "file_path": "/neighborhood_buildings/tract_40021978201_buildings.geojson"
+  },
+  "40109107103": {
+    "name": "1071.03",
+    "building_count": 0,
+    "file_path": "/neighborhood_buildings/tract_40109107103_buildings.geojson"
+  },
+  "40095094803": {
+    "name": "948.03",
+    "building_count": 0,
+    "file_path": "/neighborhood_buildings/tract_40095094803_buildings.geojson"
+  },
+  "40085094300": {
+    "name": "943",
+    "building_count": 0,
+    "file_path": "/neighborhood_buildings/tract_40085094300_buildings.geojson"
+  }
+}

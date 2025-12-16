@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "project_name": "Denton Data Center Expansion",
+      "company": "CoreWeave",
+      "city": "Denton",
+      "county": "Denton County",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "under construction",
+      "primary_source_url": "https://corescientific.com/news/core-scientific-and-coreweave-announce-1-2b-expansion-in-texas-to-power-ai-growth/",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Helios Data Center Campus Phase II",
+      "company": "CoreWeave",
+      "city": "",
+      "county": "Dickens County",
+      "approx_mw": 260,
+      "approx_sqft": 0,
+      "status": "announced",
+      "primary_source_url": "https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Commitment-with-CoreWeave-to-Host-Additional-Artificial-Intelligence-and-High-Performance-Computing-Infrastructure-at-Helios-Data-Center-Campus/default.aspx",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Project Horizon Phase 1",
+      "company": "CoreWeave",
+      "city": "",
+      "county": "",
+      "approx_mw": 250,
+      "approx_sqft": 0,
+      "status": "announced",
+      "primary_source_url": "https://www.coreweave.com/news/coreweave-announces-partnership-with-foundation-model-company-poolside-to-deliver-ai-cloud-services",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Stargate Abilene",
+      "company": "OpenAI",
+      "city": "Abilene",
+      "county": "",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "operational",
+      "primary_source_url": "https://openai.com/index/five-new-stargate-sites/",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Stargate Shackelford County",
+      "company": "OpenAI",
+      "city": "",
+      "county": "Shackelford County",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "announced",
+      "primary_source_url": "https://openai.com/index/five-new-stargate-sites/",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Stargate Abilene Expansion",
+      "company": "OpenAI",
+      "city": "Abilene",
+      "county": "",
+      "approx_mw": 600,
+      "approx_sqft": 0,
+      "status": "announced",
+      "primary_source_url": "https://openai.com/index/five-new-stargate-sites/",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Stargate Milam County",
+      "company": "OpenAI",
+      "city": "",
+      "county": "Milam County",
+      "approx_mw": 0,
+      "approx_sqft": 0,
+      "status": "announced",
+      "primary_source_url": "https://openai.com/index/five-new-stargate-sites/",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Project Horizon",
+      "company": "Poolside",
+      "city": "",
+      "county": "",

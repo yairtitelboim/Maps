@@ -1,0 +1,33 @@
+================================================================================
+OG&E (OKLAHOMA GAS & ELECTRIC) DATA (FROM WEBSITE)
+================================================================================
+
+CURRENT CAPACITY BY RESOURCE TYPE:
+--------------------------------------------------------------------------------
+  No capacity data found.
+
+RATE INFORMATION:
+--------------------------------------------------------------------------------
+
+SERVICE TERRITORY:
+--------------------------------------------------------------------------------
+  ✓ Overlap with GRDA: Minimal/None
+
+WATER SOURCES:
+--------------------------------------------------------------------------------
+  ✓ Independent from Grand Lake: Yes (drought resilient)
+
+REDUNDANCY ANALYSIS (vs GRDA):
+--------------------------------------------------------------------------------
+  ✓ Water independence: Stillwater unaffected by Grand Lake drought
+
+SOURCES:
+--------------------------------------------------------------------------------
+  • https://www.oge.com/wps/portal/ord/who-we-are/what-we-do/
+  • https://www.oge.com/wps/portal/ord/who-we-are/our-company/
+  • https://www.oge.com/wps/portal/ord/customer-service/rates-and-regulations/
+  • https://www.oge.com/wps/portal/ord/customer-service/rates-and-regulations/electric-rates/
+  • https://www.oge.com/wps/portal/ord/who-we-are/what-we-do/generation/
+  • https://www.oge.com/wps/portal/ord/who-we-are/what-we-do/power-plants/
+
+================================================================================

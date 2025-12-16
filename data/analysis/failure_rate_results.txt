@@ -1,0 +1,61 @@
+================================================================================
+STEP 1: STATUS BREAKDOWN (RAW project_status TABLE)
+================================================================================
+
+Status Breakdown:
+  uncertain: 87 projects (86.1%)
+  active: 14 projects (13.9%)
+
+================================================================================
+STEP 2: RECLASSIFY BY TIME SINCE LAST SIGNAL
+================================================================================
+
+Reclassified by time since last signal:
+  Dead (12+ months no updates): 0
+  Stalled (6-12 months no updates): 0
+  Active (updates < 6 months): 0
+  Never updated: 92
+
+================================================================================
+STEP 3: GEOGRAPHIC FAILURE PATTERN (BY COUNTY)
+================================================================================
+
+Locations with highest failure rates (min 2 projects, by location_text):
+  Texas: 0/11 failed (0.0%)
+  bosque county: 0/4 failed (0.0%)
+  el paso: 0/2 failed (0.0%)
+  or: 0/2 failed (0.0%)
+
+================================================================================
+STEP 4: DEATH SIGNALS FOR DEAD / STALLED PROJECTS
+================================================================================
+
+No projects classified as dead/stalled by these rules.
+
+================================================================================
+STEP 5: TIMELINE FROM ANNOUNCEMENT TO DEATH
+================================================================================
+
+No projects meet the 'dead' criteria with both announced_date and last_signal_at.
+
+================================================================================
+STEP 6: FAILURE RATE BY COMPANY
+================================================================================
+
+Failure rate by company (min 2 projects):
+  Google: 0/8 failed (0.0%)
+  Meta: 0/8 failed (0.0%)
+  Amazon: 0/6 failed (0.0%)
+  QTS: 0/6 failed (0.0%)
+  CyrusOne: 0/5 failed (0.0%)
+  Microsoft: 0/5 failed (0.0%)
+  Oracle: 0/5 failed (0.0%)
+  Vantage: 0/4 failed (0.0%)
+  Digital Realty: 0/3 failed (0.0%)
+  Roxanne Marquis: 0/3 failed (0.0%)
+  Blueprint Projects: 0/2 failed (0.0%)
+  CoreWeave: 0/2 failed (0.0%)
+  Energy Capital Partners: 0/2 failed (0.0%)
+  STACK: 0/2 failed (0.0%)
+  Sabey Data Centers: 0/2 failed (0.0%)
+

@@ -1,0 +1,263 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Planning Document",
+  "description": "Schema for structured planning document data",
+  "type": "object",
+  "required": ["documentId", "documentType", "title", "documentDate", "content"],
+  "properties": {
+    "documentId": {
+      "type": "string",
+      "description": "Unique identifier for the document"
+    },
+    "documentType": {
+      "type": "string",
+      "description": "Type of planning document",
+      "enum": ["zoning_ordinance", "community_plan", "specific_plan", "general_plan", "development_agreement", "planning_report", "environmental_impact", "other"]
+    },
+    "title": {
+      "type": "string",
+      "description": "Title of the document"
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Jurisdiction that issued the document (e.g., 'Los Angeles')"
+    },
+    "documentDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the document was issued or published"
+    },
+    "effectiveDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the document became effective"
+    },
+    "expirationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the document expires, if applicable"
+    },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of authors or agencies that created the document"
+    },
+    "content": {
+      "type": "object",
+      "description": "Structured content of the document",
+      "properties": {
+        "summary": {
+          "type": "string",
+          "description": "Executive summary or abstract of the document"
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "heading": {
+                "type": "string",
+                "description": "Section heading or title"
+              },
+              "text": {
+                "type": "string",
+                "description": "Text content of the section"
+              },
+              "subsections": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "heading": {
+                      "type": "string"
+                    },
+                    "text": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tables": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string",
+                "description": "Title of the table"
+              },
+              "description": {
+                "type": "string",
+                "description": "Description of the table's purpose"
+              },
+              "headers": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "rows": {
+                "type": "array",
+                "items": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "figures": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "figureId": {
+                "type": "string",
+                "description": "Identifier for the figure"
+              },
+              "caption": {
+                "type": "string",
+                "description": "Caption or description of the figure"
+              },
+              "imageFileName": {
+                "type": "string",
+                "description": "File name of the extracted image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "geographicReferences": {
+      "type": "array",
+      "description": "Geographic areas referenced in the document",
+      "items": {
+        "type": "object",
+        "properties": {
+          "referenceType": {
+            "type": "string",
+            "enum": ["zone", "district", "neighborhood", "street", "landmark", "parcel", "census_tract", "other"],
+            "description": "Type of geographic reference"
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the geographic area"
+          },
+          "identifier": {
+            "type": "string",
+            "description": "Code or identifier for the geographic area (e.g., zone code)"
+          },
+          "boundary": {
+            "type": "object",
+            "description": "GeoJSON geometry of the area boundary, if available",
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": ["Point", "LineString", "Polygon", "MultiPolygon"]
+              },
+              "coordinates": {
+                "type": "array",
+                "description": "GeoJSON coordinates"
+              }
+            }
+          },
+          "documentSections": {
+            "type": "array",
+            "description": "References to sections in the document that mention this area",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "zoning": {
+      "type": "array",
+      "description": "Zoning regulations mentioned in the document",
+      "items": {
+        "type": "object",
+        "properties": {
+          "zoneCode": {
+            "type": "string",
+            "description": "Code for the zone (e.g., 'R1', 'C2')"
+          },
+          "zoneName": {
+            "type": "string",
+            "description": "Name of the zone (e.g., 'Single Family Residential')"
+          },
+          "allowedUses": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Uses allowed in this zone"
+          },
+          "prohibitedUses": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Uses explicitly prohibited in this zone"
+          },
+          "developmentStandards": {
+            "type": "object",
+            "properties": {
+              "heightLimit": {
+                "type": "string",
+                "description": "Maximum allowed height"
+              },
+              "farLimit": {
+                "type": "string",
+                "description": "Floor area ratio limits"
+              },
+              "setbacks": {
+                "type": "object",
+                "properties": {
+                  "front": {"type": "string"},
+                  "side": {"type": "string"},
+                  "rear": {"type": "string"}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional metadata about the document",
+      "properties": {
+        "fileType": {
+          "type": "string",
+          "description": "Original file type (e.g., PDF, DOCX)"
+        },
+        "pageCount": {
+          "type": "integer",
+          "description": "Number of pages in the original document"
+        },
+        "processingTimestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the document was processed"
+        },
+        "processingMethod": {
+          "type": "string",
+          "description": "Method used to process the document"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Overall confidence score for the extracted data"
+        }
+      }
+    }
+  }
+} 

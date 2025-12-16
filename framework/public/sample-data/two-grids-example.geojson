@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site-east",
+        "name": "Grid A East Campus",
+        "utility": "Utility A",
+        "description": "Example east campus on Grid A. Represents a large facility on one utility territory.",
+        "grid": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.0, 35.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site-west",
+        "name": "Grid B West Campus",
+        "utility": "Utility B",
+        "description": "Example west campus on Grid B. Represents a second facility on an independent grid.",
+        "grid": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.0, 34.5]
+      }
+    }
+  ]
+}

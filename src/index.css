@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-white;
+}
+
+/* Custom styling for startup intelligence popups to remove Mapbox default styling */
+.startup-intelligence-popup {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.startup-intelligence-popup .mapboxgl-popup-content {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: none !important;
+  width: auto !important;
+}
+
+.startup-intelligence-popup .mapboxgl-popup-tip {
+  border-top-color: #1f2937 !important;
+}
+
+/* Target the outer popup container more aggressively */
+.mapboxgl-popup.startup-intelligence-popup {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Remove any remaining Mapbox styling */
+.mapboxgl-popup.startup-intelligence-popup * {
+  box-sizing: border-box;
+}
+
+/* Target all possible Mapbox popup elements */
+.mapboxgl-popup.startup-intelligence-popup,
+.mapboxgl-popup.startup-intelligence-popup .mapboxgl-popup-content,
+.mapboxgl-popup.startup-intelligence-popup .mapboxgl-popup-tip {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  outline: none !important;
+}
+
+/* Ensure no background or border on Mapbox wrapper elements only */
+.mapboxgl-popup.startup-intelligence-popup,
+.mapboxgl-popup.startup-intelligence-popup .mapboxgl-popup-content {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Mapbox markers are handled by the library - no custom CSS needed */

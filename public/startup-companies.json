@@ -1,0 +1,1363 @@
+{
+  "metadata": {
+    "generatedAt": "2025-09-15T14:57:20.161Z",
+    "totalCompanies": 67,
+    "failedCompanies": 299,
+    "source": "companies-9-15-2025.csv",
+    "geocodingService": "google-places",
+    "version": "3.0.0",
+    "note": "Only companies with real addresses in Boston/Cambridge, MA"
+  },
+  "statistics": {
+    "total": 67,
+    "categories": {
+      "Other": 67
+    },
+    "locations": {
+      "Cambridge": 26,
+      "Boston": 41
+    }
+  },
+  "companies": [
+    {
+      "id": "company_liquid_ai",
+      "name": "Liquid AI",
+      "url": "https://www.crunchbase.com/organization/liquid-ai",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.36194070000001,
+        "lng": -71.0904378
+      },
+      "address": "32 Vassar St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJRbMmRalw44kR7d9klh7aOjA",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_maven_agi",
+      "name": "Maven AGI",
+      "url": "https://www.crunchbase.com/organization/maven-agi",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3645532,
+        "lng": -71.0622659
+      },
+      "address": "200 Portland St 5th floor, Boston, MA 02114, United States",
+      "placeId": "ChIJgbEDvJtx44kRtBamqhUyCIg",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 1
+    },
+    {
+      "id": "company_lila_sciences",
+      "name": "Lila Sciences",
+      "url": "https://www.crunchbase.com/organization/lila-sciences",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3665836,
+        "lng": -71.077584
+      },
+      "address": "140 First St, Cambridge, MA 02141, United States",
+      "placeId": "ChIJCc5l3bZx44kRNvNIXf-jNc4",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 1
+    },
+    {
+      "id": "company_ge_vernova",
+      "name": "GE Vernova",
+      "url": "https://www.crunchbase.com/organization/ge-vernova",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3673277,
+        "lng": -71.0798499
+      },
+      "address": "58 Charles St, Cambridge, MA 02141, United States",
+      "placeId": "ChIJA29vKwxx44kRFCpiu1QOqnE",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-04-02",
+      "cbRank": "Energy",
+      "confidence": 1
+    },
+    {
+      "id": "company_antares_therapeutics",
+      "name": "Antares Therapeutics",
+      "url": "https://www.crunchbase.com/organization/antares-therapeutics-971a",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3544094,
+        "lng": -71.0578553
+      },
+      "address": "1 Winthrop Square Suite 400, Boston, MA 02110, United States",
+      "placeId": "ChIJA6che5Jx44kRp3G203x9Ffk",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2025-01-01",
+      "cbRank": "Biopharma",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_somite",
+      "name": "Somite",
+      "url": "https://www.crunchbase.com/organization/somite",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.357562,
+        "lng": -71.145853
+      },
+      "address": "40 Guest St Fourth Floor, Boston, MA 02135, United States",
+      "placeId": "ChIJP3ClZ-x544kRDYlAPghTg6w",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-10-19",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 1
+    },
+    {
+      "id": "company_stackai",
+      "name": "StackAI",
+      "url": "https://www.crunchbase.com/organization/stack-87fd",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3624859,
+        "lng": -71.0855624
+      },
+      "address": "300 Main St, Cambridge, MA 02142, United States",
+      "placeId": "ChIJ0a1MRa9w44kRjIOGckAkP-0",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Apps",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_seaport_therapeutics",
+      "name": "Seaport Therapeutics",
+      "url": "https://www.crunchbase.com/organization/seaport-therapeutics",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3431851,
+        "lng": -71.0531977
+      },
+      "address": "105 W First St, Boston, MA 02127, United States",
+      "placeId": "ChIJfVRu56Rw44kRkBICroI0UyI",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Biotechnology",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_cervomed",
+      "name": "CervoMed",
+      "url": "https://www.crunchbase.com/organization/cervomed",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3445651,
+        "lng": -71.1016511
+      },
+      "address": "201 Brookline Ave, Boston, MA 02215, United States",
+      "placeId": "ChIJ9bKEyptx44kRVifXafCfyJg",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Health Care",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_blitzy",
+      "name": "Blitzy",
+      "url": "https://www.crunchbase.com/organization/blitzy",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3511284,
+        "lng": -71.0745759
+      },
+      "address": "501 Boylston St, Boston, MA 02116, United States",
+      "placeId": "ChIJDRJnRAt644kRK-qG7Jb4P7Y",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_bambusa_therapeutics",
+      "name": "Bambusa Therapeutics",
+      "url": "https://www.crunchbase.com/organization/bambusa-therapeutics",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3504052,
+        "lng": -71.0467199
+      },
+      "address": "22 Boston Wharf Rd, Boston, MA 02210, United States",
+      "placeId": "ChIJASjHMgBx44kRvq40zITRTvI",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Biotechnology",
+      "confidence": 1
+    },
+    {
+      "id": "company_singulr_ai",
+      "name": "Singulr AI",
+      "url": "https://www.crunchbase.com/organization/singulr-ai",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3593857,
+        "lng": -71.0513553
+      },
+      "address": "255 State St 6th floor, Boston, MA 02109, United States",
+      "placeId": "ChIJlU-NTYJw44kRv97IA3a-EX8",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_cambridge_terahertz",
+      "name": "Cambridge Terahertz",
+      "url": "https://www.crunchbase.com/organization/cambridge-terahertz",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.370109,
+        "lng": -71.1033853
+      },
+      "address": "344 Broadway, Cambridge, MA 02139, United States",
+      "placeId": "ChIJQUPkBk5344kRRT5h7t0tYfY",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Business Development",
+      "confidence": 1
+    },
+    {
+      "id": "company_trimtech_therapeutics",
+      "name": "TRIMTECH Therapeutics",
+      "url": "https://www.crunchbase.com/organization/trimtech-therapeutics",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3646492,
+        "lng": -71.0819446
+      },
+      "address": "675 W Kendall St, Cambridge, MA 02142, United States",
+      "placeId": "ChIJm_LY16Rw44kRqVTNlytz8Xs",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Biotechnology",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_agency_ai",
+      "name": "Agency AI",
+      "url": "https://www.crunchbase.com/organization/agency-ai",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.358069,
+        "lng": -71.05523079999999
+      },
+      "address": "6 Liberty Sq, Boston, MA 02109, United States",
+      "placeId": "ChIJ3VKxGZJx44kRMECek7l7hro",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-06-16",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_realm_security",
+      "name": "Realm.Security",
+      "url": "https://www.crunchbase.com/organization/realm-security",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3568772,
+        "lng": -71.0575331
+      },
+      "address": "50 Milk St 16th floor, Boston, MA 02110, United States",
+      "placeId": "ChIJAxPy44Zx44kRsiwZDiq9Eio",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Cyber Security",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_author_health",
+      "name": "Author Health",
+      "url": "https://www.crunchbase.com/organization/author-health",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3399395,
+        "lng": -71.0647412
+      },
+      "address": "443 Albany St, Boston, MA 02118, United States",
+      "placeId": "ChIJI05ZCL9744kReh_ZkiTkbuI",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-06-01",
+      "cbRank": "Health Care",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_all_hands_ai",
+      "name": "All Hands AI",
+      "url": "https://www.crunchbase.com/organization/all-hands-ai",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.31323889999999,
+        "lng": -71.114541
+      },
+      "address": "655 Centre St Suite 301338, Boston, MA 02130, United States",
+      "placeId": "ChIJY_S0FtZ744kRsWVxTjhThbw",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_newleos_therapeutics",
+      "name": "Newleos Therapeutics",
+      "url": "https://www.crunchbase.com/organization/newleos-therapeutics",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3579888,
+        "lng": -71.0534479
+      },
+      "address": "20 Custom House St 9th floor, Boston, MA 02110, United States",
+      "placeId": "ChIJoTWE_oZw44kREHYFBiM6qpY",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Biotechnology",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_dbos",
+      "name": "DBOS",
+      "url": "Inc.",
+      "description": "For Profit",
+      "headquarters": "day",
+      "coordinates": {
+        "lat": 42.3695866,
+        "lng": -71.0767901
+      },
+      "address": "1 Canal Park, Cambridge, MA 02141, United States",
+      "placeId": "ChIJjYom1cRx44kRAnW1Y6OGHsk",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "United States",
+      "foundedDate": "https://www.crunchbase.com/organization/dbos-inc",
+      "cbRank": "Active",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_nchroma_bio",
+      "name": "nChroma Bio",
+      "url": "https://www.crunchbase.com/organization/nchroma-bio",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3445651,
+        "lng": -71.1016511
+      },
+      "address": "201 Brookline Ave, Boston, MA 02215, United States",
+      "placeId": "ChIJ9bKEyptx44kRVifXafCfyJg",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Biotechnology",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_futuremoney",
+      "name": "FutureMoney",
+      "url": "https://www.crunchbase.com/organization/futuremoney-5b86",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3592957,
+        "lng": -71.0574336
+      },
+      "address": "28 State St 26th Fl, Boston, MA 02109, United States",
+      "placeId": "ChIJf0CeKHRx44kRAC8mb5Ldh1E",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-06",
+      "cbRank": "Financial Services",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_biography",
+      "name": "Biography",
+      "url": "https://www.crunchbase.com/organization/biography-33df",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3463992,
+        "lng": -71.08988289999999
+      },
+      "address": "1154 Boylston St, Boston, MA 02215, United States",
+      "placeId": "ChIJ15BIbRt644kRNjU0uEq0-m8",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-12-01",
+      "cbRank": "Software",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_macrocycle_technologies",
+      "name": "MacroCycle Technologies",
+      "url": "https://www.crunchbase.com/organization/macrocycle",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.360091,
+        "lng": -71.09416
+      },
+      "address": "77 Massachusetts Ave, Cambridge, MA 02139, United States",
+      "placeId": "ChIJh2oa9apw44kRPCAIs6WO4NA",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-07-01",
+      "cbRank": "Plastics and Rubber Manufacturing",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_synquery",
+      "name": "Synquery",
+      "url": "https://www.crunchbase.com/organization/synquery",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.355008,
+        "lng": -71.0567919
+      },
+      "address": "75 Federal St 16th floor, Boston, MA 02110, United States",
+      "placeId": "ChIJxWpdz4Nw44kRlMl8-QrHLxY",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-06-12",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_alys_pharmaceuticals",
+      "name": "Alys Pharmaceuticals",
+      "url": "https://www.crunchbase.com/organization/alys-pharmaceuticals",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3646492,
+        "lng": -71.0819446
+      },
+      "address": "675 W Kendall St, Cambridge, MA 02142, United States",
+      "placeId": "ChIJm_LY16Rw44kRqVTNlytz8Xs",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-02-01",
+      "cbRank": "Biotechnology",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_marveri",
+      "name": "Marveri",
+      "url": "https://www.crunchbase.com/organization/marveri",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.36105020000001,
+        "lng": -71.0848173
+      },
+      "address": "Muckley Bldg, 1 Amherst St, Cambridge, MA 02142, United States",
+      "placeId": "ChIJMWmlBaZw44kRHadB0NuwDXU",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_axal",
+      "name": "Axal",
+      "url": "https://www.crunchbase.com/organization/axal-82e5",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3695447,
+        "lng": -71.0415577
+      },
+      "address": "125 Sumner St, Boston, MA 02128, United States",
+      "placeId": "ChIJDRLts7Vx44kRN4SU-_WIjFo",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Web3",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_freckle",
+      "name": "Freckle",
+      "url": "https://www.crunchbase.com/organization/freckle-b00d",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3629384,
+        "lng": -71.0955668
+      },
+      "address": "730 Main St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJd5rGHgBx44kR8gOSf8Y9B3E",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Data Management",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_tisento_therapeutics",
+      "name": "Tisento Therapeutics",
+      "url": "https://www.crunchbase.com/organization/tisento-therapeutics",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3631032,
+        "lng": -71.1153282
+      },
+      "address": "840 Memorial Dr 4th Floor, Cambridge, MA 02139, United States",
+      "placeId": "ChIJUfb_Sl9344kRa9Rc47CcgDs",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Health Care",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_hike_medical",
+      "name": "Hike Medical",
+      "url": "https://www.crunchbase.com/organization/hike-medical",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3627457,
+        "lng": -71.0687809
+      },
+      "address": "55 Fruit Street Yawkey, Building, Suite 3C, Boston, MA 02114, United States",
+      "placeId": "ChIJT7jiFqBx44kR7e7XGlEl2sE",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-10-03",
+      "cbRank": "Computer Vision",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_orbit_technologies",
+      "name": "Orbit Technologies",
+      "url": "https://www.crunchbase.com/organization/orbit-technologies-9771",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3534357,
+        "lng": -71.0476754
+      },
+      "address": "One Seaport Square, 77 Sleeper St, Boston, MA 02210, United States",
+      "placeId": "ChIJ_6692X9644kRtIDr-MBfjEY",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Biotechnology",
+      "confidence": 1
+    },
+    {
+      "id": "company_koya_ai",
+      "name": "Koya AI",
+      "url": "https://www.crunchbase.com/organization/koya-ai",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3505066,
+        "lng": -71.07653479999999
+      },
+      "address": "575 Boylston St, Boston, MA 02116, United States",
+      "placeId": "ChIJqdI79Dl744kRr9Gndz2Afb4",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-04-05",
+      "cbRank": "Data Integration",
+      "confidence": 1
+    },
+    {
+      "id": "company_atacama_biomaterials",
+      "name": "Atacama Biomaterials",
+      "url": "https://www.crunchbase.com/organization/atacama-biomaterials",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3613867,
+        "lng": -71.0981633
+      },
+      "address": "250 Massachusetts Ave, Cambridge, MA 02139, United States",
+      "placeId": "ChIJszG9KlV344kRcEZwPtHBEKw",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Advanced Materials",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_enfi",
+      "name": "EnFi",
+      "url": "https://www.crunchbase.com/organization/enfi-d0a0",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3444763,
+        "lng": -71.0289878
+      },
+      "address": "25 Drydock Ave, Boston, MA 02210, United States",
+      "placeId": "ChIJAQDQ4bFw44kRb_i48C1N3Mk",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_sesame_sustainability",
+      "name": "Sesame Sustainability",
+      "url": "https://www.crunchbase.com/organization/sesame-sustainability",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3584802,
+        "lng": -71.0608268
+      },
+      "address": "1 Beacon St 15th floor, Boston, MA 02108, United States",
+      "placeId": "ChIJ____uKVw44kR17mArheDsB8",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Analytics",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_neuronos",
+      "name": "NeuroNOS",
+      "url": "https://www.crunchbase.com/organization/neuronos",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3520815,
+        "lng": -71.0428913
+      },
+      "address": "200 Pier 4 Blvd., Boston, MA 02210, United States",
+      "placeId": "ChIJz_8TKqGf44kRrOFJpPAVsWI",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Biopharma",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_sora_fuel",
+      "name": "Sora Fuel",
+      "url": "https://www.crunchbase.com/organization/sora-fuel",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3629725,
+        "lng": -71.0788811
+      },
+      "address": "21 Athenaeum St, Cambridge, MA 02142, United States",
+      "placeId": "ChIJPQeSkKRw44kRwses5WqLkZY",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Fuel",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_pi_health",
+      "name": "Pi Health",
+      "url": "https://www.crunchbase.com/organization/pi-health",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3723653,
+        "lng": -71.0744735
+      },
+      "address": "222 Jacobs St, Cambridge, MA 02141, United States",
+      "placeId": "ChIJ2YXenpfAwokRDJ4Tig_ODA4",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_luminous",
+      "name": "Luminous",
+      "url": "https://www.crunchbase.com/organization/luminous-3a60",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.35137030000001,
+        "lng": -71.0461553
+      },
+      "address": "85 Seaport Blvd PH1707, Boston, MA 02210, United States",
+      "placeId": "ChIJA17J_UR344kRwk6rXgHXpKE",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-08-17",
+      "cbRank": "Solar",
+      "confidence": 1
+    },
+    {
+      "id": "company_blueshift",
+      "name": "BlueShift",
+      "url": "https://www.crunchbase.com/organization/blueshift-4105",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3627822,
+        "lng": -71.0835375
+      },
+      "address": "1 Broadway, Cambridge, MA 02142, United States",
+      "placeId": "ChIJyQ2a_KBx44kRGrBMI9eteHc",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Assistive Technology",
+      "confidence": 1
+    },
+    {
+      "id": "company_delineate",
+      "name": "Delineate",
+      "url": "https://www.crunchbase.com/organization/delineate-2fc6",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.345611,
+        "lng": -71.0426097
+      },
+      "address": "451 D St, Boston, MA 02210, United States",
+      "placeId": "ChIJDacYJrd744kRvs4wDh9BLpo",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_acceleron_fusion",
+      "name": "Acceleron Fusion",
+      "url": "https://www.crunchbase.com/organization/acceleron-fusion",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3712537,
+        "lng": -71.09717770000002
+      },
+      "address": "288 Norfolk St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJZySwL4hx44kRg_SeiHfG6cM",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "CleanTech",
+      "confidence": 1
+    },
+    {
+      "id": "company_crabi_robotics",
+      "name": "CRABI Robotics",
+      "url": "https://www.crunchbase.com/organization/crabi-robotics",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3455053,
+        "lng": -71.0367606
+      },
+      "address": "12 Channel St #202, Boston, MA 02210, United States",
+      "placeId": "ChIJ0YT1w5x644kRgJ_3h3Zfjow",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Manufacturing",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_virtual_staging_ai",
+      "name": "Virtual Staging AI",
+      "url": "https://www.crunchbase.com/organization/virtualstagingai",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3667449,
+        "lng": -71.0780982
+      },
+      "address": "55 Bent St, Cambridge, MA 02141, United States",
+      "placeId": "ChIJtSzbfxx344kRySOjXEOR71E",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-09",
+      "cbRank": "Apps",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_oligo",
+      "name": "Oligo",
+      "url": "https://www.crunchbase.com/organization/oligo-4fd9",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.36596,
+        "lng": -71.09119079999999
+      },
+      "address": "15 Hampshire St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJV7aPdK5w44kRUUaxUue6OIQ",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-11-01",
+      "cbRank": "Space Travel",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_cicada",
+      "name": "Cicada",
+      "url": "https://www.crunchbase.com/organization/cicada-9dba",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3677012,
+        "lng": -71.10208399999999
+      },
+      "address": "106 Prospect St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJAWdABEB344kRIR59Y5obYGM",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Financial Services",
+      "confidence": 1
+    },
+    {
+      "id": "company_newcase_ai",
+      "name": "Newcase.ai",
+      "url": "https://www.crunchbase.com/organization/newcase-ai",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3398984,
+        "lng": -71.0837612
+      },
+      "address": "380 Northampton St, Boston, MA 02118, United States",
+      "placeId": "ChIJYfeTCRd644kRSyTzOTerpcs",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_prudentia_sciences",
+      "name": "Prudentia Sciences",
+      "url": "https://www.crunchbase.com/organization/prudentia-sciences",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3622446,
+        "lng": -71.0950513
+      },
+      "address": "700 Main St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJRZ_Bcqtw44kRmcV_kKYEKCQ",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_enigma_aerospace",
+      "name": "Enigma Aerospace",
+      "url": "https://www.crunchbase.com/organization/enigma-aerospace",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3623438,
+        "lng": -71.0867684
+      },
+      "address": "314 Main St, Cambridge, MA 02142, United States",
+      "placeId": "ChIJJYQkTShx44kRf8PPPgs-YdU",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Aerospace",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_predicta_biosciences",
+      "name": "Predicta Biosciences",
+      "url": "https://www.crunchbase.com/organization/predicta-biosciences",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3633736,
+        "lng": -71.11433
+      },
+      "address": "19 Blackstone St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJaSlJz1h344kREiyno4yMsKw",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Biotechnology",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_selfserve",
+      "name": "SelfServe",
+      "url": "https://www.crunchbase.com/organization/selfserve",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.364968,
+        "lng": -71.10332919999999
+      },
+      "address": "614 Massachusetts Ave, Cambridge, MA 02139, United States",
+      "placeId": "ChIJ06use1N344kR0DaUPVDtVNI",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-12-20",
+      "cbRank": "Enterprise Resource Planning (ERP)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_enlaye",
+      "name": "Enlaye",
+      "url": "https://www.crunchbase.com/organization/enlaye",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3640774,
+        "lng": -71.12418199999999
+      },
+      "address": "125 Western Ave, Boston, MA 02163, United States",
+      "placeId": "ChIJUexmu-p344kRp6H9CeT4T7A",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 1
+    },
+    {
+      "id": "company_augmend",
+      "name": "AugMend",
+      "url": "https://www.crunchbase.com/organization/augmend",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3626466,
+        "lng": -71.083789
+      },
+      "address": "1 Broadway, Cambridge, MA 02142, United States",
+      "placeId": "ChIJDT9DfJBw44kRc3SRXbAfmYY",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 1
+    },
+    {
+      "id": "company_quilt_health",
+      "name": "Quilt Health",
+      "url": "https://www.crunchbase.com/organization/quilt-health",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3737356,
+        "lng": -71.0999454
+      },
+      "address": "1343 Cambridge St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJ8xcDFk5344kR_HOo2qF1HAw",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Assisted Living",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_hybrd",
+      "name": "HYBRD",
+      "url": "https://www.crunchbase.com/organization/hybrd",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3394779,
+        "lng": -71.0556593
+      },
+      "address": "55 W Fifth St, Boston, MA 02127, United States",
+      "placeId": "ChIJd5nk5g5744kREKJ1MKJMeU0",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-10-09",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_coolant",
+      "name": "Coolant",
+      "url": "https://www.crunchbase.com/organization/coolant",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3692763,
+        "lng": -71.1013838
+      },
+      "address": "320 Broadway, Cambridge, MA 02139, United States",
+      "placeId": "ChIJTartiE1344kRyOZvmxMaCNI",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-04",
+      "cbRank": "Software",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_patented_ai",
+      "name": "Patented.ai",
+      "url": "https://www.crunchbase.com/organization/the-licensing-corporation",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3608996,
+        "lng": -71.0620806
+      },
+      "address": "100 Cambridge St 14th floor, Boston, MA 02114, United States",
+      "placeId": "ChIJNcHHUmhx44kRoq7mlGRaPYo",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Business Intelligence",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_pascal",
+      "name": "Pascal",
+      "url": "https://www.crunchbase.com/organization/pascal-d568",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.36596,
+        "lng": -71.09119079999999
+      },
+      "address": "15 Hampshire St, Cambridge, MA 02139, United States",
+      "placeId": "ChIJV7aPdK5w44kRUUaxUue6OIQ",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Heating",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_cephable",
+      "name": "Cephable",
+      "url": "https://www.crunchbase.com/organization/cephable",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3630946,
+        "lng": -71.1403364
+      },
+      "address": "1300 Soldiers Fld Rd Suite 3, Boston, MA 02135, United States",
+      "placeId": "ChIJ7VuM3Gd544kR5PXML2qW1Yo",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-08-13",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_dannce_ai",
+      "name": "Dannce.ai",
+      "url": "https://www.crunchbase.com/organization/dannce-ai",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3377821,
+        "lng": -71.1080088
+      },
+      "address": "450 Brookline Ave, Boston, MA 02215, United States",
+      "placeId": "ChIJzfyB5o1544kRGE9ebfEuhyg",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-09-05",
+      "cbRank": "Computer Vision",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_advocatemh",
+      "name": "AdvocateMH",
+      "url": "https://www.crunchbase.com/organization/advocatemh",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3557269,
+        "lng": -71.05796029999999
+      },
+      "address": "70 Franklin St, Boston, MA 02110, United States",
+      "placeId": "ChIJGdcWKBxdXEARVu6Gh253xa8",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2025-01-01",
+      "cbRank": "Health Care",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_copley",
+      "name": "Copley",
+      "url": "https://www.crunchbase.com/organization/copley",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3471832,
+        "lng": -71.0778024
+      },
+      "address": "100 Huntington Ave, Boston, MA 02116, United States",
+      "placeId": "ChIJQ0eRlQ1644kR11stZbdBvM0",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 1
+    },
+    {
+      "id": "company_astralbio",
+      "name": "AstralBio",
+      "url": "https://www.crunchbase.com/organization/astralbio",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3539228,
+        "lng": -71.0577198
+      },
+      "address": "100 Summer St, Boston, MA 02110, United States",
+      "placeId": "ChIJYUGIWaWD44kR2q8RD4YV2s4",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-01-01",
+      "cbRank": "Biopharma",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_gordion_bioscience",
+      "name": "Gordion Bioscience",
+      "url": "https://www.crunchbase.com/organization/gordion-bioscience",
+      "description": "Active",
+      "headquarters": "Cambridge",
+      "coordinates": {
+        "lat": 42.3627822,
+        "lng": -71.0835375
+      },
+      "address": "1 Broadway, Cambridge, MA 02142, United States",
+      "placeId": "ChIJ9YoiCsZx44kRnqJCZKgKn4c",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2023-05-01",
+      "cbRank": "Biopharma",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_first_touch",
+      "name": "First Touch",
+      "url": "https://www.crunchbase.com/organization/first-touch-b4a9",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3299956,
+        "lng": -71.0833777
+      },
+      "address": "17 Warren St, Boston, MA 02119, United States",
+      "placeId": "ChIJ-cFM-zp644kRh0MQZ2TUJ3s",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2024-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    },
+    {
+      "id": "company_sigmantic_ai",
+      "name": "Sigmantic AI",
+      "url": "https://www.crunchbase.com/organization/sigmantic-ai",
+      "description": "Active",
+      "headquarters": "Boston",
+      "coordinates": {
+        "lat": 42.3455053,
+        "lng": -71.0367606
+      },
+      "address": "12 Channel St #202, Boston, MA 02210, United States",
+      "placeId": "ChIJ0YT1w5x644kRgJ_3h3Zfjow",
+      "category": "Other",
+      "categoryIcon": "🚀",
+      "fundingStage": "Unknown",
+      "industries": "For Profit",
+      "foundedDate": "2025-01-01",
+      "cbRank": "Artificial Intelligence (AI)",
+      "confidence": 0.7
+    }
+  ]
+}

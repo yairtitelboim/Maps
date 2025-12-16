@@ -1,0 +1,467 @@
+{
+  "county_counts": {
+    "Dallas": 13,
+    "Williamson": 8,
+    "Bosque": 5,
+    "Ellis": 4,
+    "El Paso": 4,
+    "Tarrant": 3,
+    "Harris": 3,
+    "Collin": 3,
+    "Bexar": 3,
+    "Travis": 3,
+    "McLennan": 2,
+    "Hays": 2,
+    "Bastrop": 2,
+    "Hill": 2,
+    "Taylor": 2,
+    "Shackelford": 2,
+    "Austin": 1,
+    "Donley": 1,
+    "Shelby": 1,
+    "Medina": 1,
+    "Cherokee": 1,
+    "Pecos": 1,
+    "Hidalgo": 1,
+    "Armstrong": 1,
+    "Brazos": 1,
+    "Ector": 1
+  },
+  "location_details": [
+    {
+      "project_name": "Unknown Project",
+      "county": "McLennan",
+      "location_text": "ew",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Bosque",
+      "location_text": "ey",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Hays",
+      "location_text": "hays county",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Austin",
+      "location_text": "Austin County, TX",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Donley",
+      "location_text": "Armstrong County",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Tarrant",
+      "location_text": "Fort Worth moving forward",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Tarrant",
+      "location_text": "fort worth",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Tarrant",
+      "location_text": "South Fort Worth, TX",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Harris",
+      "location_text": "and Beyond",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Williamson",
+      "location_text": "Jarrell, TX",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Dallas",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Bastrop",
+      "location_text": "Cedar Creek, TX",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Bosque",
+      "location_text": "bosque county",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Shelby",
+      "location_text": "crews in",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Unknown Project",
+      "county": "Ellis",
+      "location_text": "Ellis County, TX",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Aligned Dallas Fort Worth",
+      "county": "Collin",
+      "location_text": "th",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Amazon work medina",
+      "county": "Medina",
+      "location_text": "work medina",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Amazon Data Center",
+      "county": "Dallas",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Amazon Indiana",
+      "county": "Dallas",
+      "location_text": "Indiana",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Blueprint Projects or",
+      "county": "Williamson",
+      "location_text": "or",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Blueprint Projects Data Center",
+      "county": "Williamson",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Calpine Texas",
+      "county": "Bosque",
+      "location_text": "Bosque County, Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Cielo Digital Infrastructure Cherokee County",
+      "county": "Cherokee",
+      "location_text": "Cherokee County",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "CoreWeave GW AI campus in Pecos County",
+      "county": "Pecos",
+      "location_text": "GW AI campus in Pecos County",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "CoreWeave Lancaster",
+      "county": "Dallas",
+      "location_text": "Lancaster",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "CyrusOne co",
+      "county": "Hill",
+      "location_text": "co",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "CyrusOne DFW10",
+      "county": "Dallas",
+      "location_text": "Texas Calpine",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "CyrusOne bosque county",
+      "county": "Bosque",
+      "location_text": "bosque county",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "CyrusOne bosque county",
+      "county": "Hill",
+      "location_text": "bosque county",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "CyrusOne bexar county",
+      "county": "Bexar",
+      "location_text": "bexar county",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "DataBank ak",
+      "county": "Ellis",
+      "location_text": "ak",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Digital Realty Texas",
+      "county": "Dallas",
+      "location_text": "Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Digital Realty Historic uptown",
+      "county": "Dallas",
+      "location_text": "Historic uptown",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "EdgeConneX Bastrop County",
+      "county": "Bastrop",
+      "location_text": "Bastrop County",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Energy Capital Partners bosque county",
+      "county": "Bosque",
+      "location_text": "bosque county",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Energy Capital Partners ECP and KKR to develop new",
+      "county": "Dallas",
+      "location_text": "ECP and KKR to develop new",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Google Texas",
+      "county": "Ellis",
+      "location_text": "Midlothian, TX",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Google Data Center",
+      "county": "Travis",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Google Data Center",
+      "county": "Dallas",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Google Data Center",
+      "county": "Ellis",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Google billion in",
+      "county": "Hidalgo",
+      "location_text": "billion in",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Google Billion in",
+      "county": "Armstrong",
+      "location_text": "Billion in",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "KDC or",
+      "county": "Williamson",
+      "location_text": "or",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Meta Texas",
+      "county": "El Paso",
+      "location_text": "el paso",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Williamson",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Dallas",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Williamson",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Meta El Paso",
+      "county": "El Paso",
+      "location_text": "el paso",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Meta Texas",
+      "county": "Harris",
+      "location_text": "Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "El Paso",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Meta Data Center",
+      "county": "Hays",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Microsoft Nscale Plans to Build Massive",
+      "county": "Brazos",
+      "location_text": "Nscale Plans to Build Massive",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Microsoft Data Center",
+      "county": "Bexar",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Microsoft Plano",
+      "county": "Collin",
+      "location_text": "Plano",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Microsoft Texas",
+      "county": "Dallas",
+      "location_text": "Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Oracle new stargate site in shackelford",
+      "county": "Taylor",
+      "location_text": "new stargate site in shackelford",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Oracle santa teresa",
+      "county": null,
+      "location_text": "santa teresa",
+      "coordinates": [
+        -106.635,
+        31.864
+      ]
+    },
+    {
+      "project_name": "Oracle Texas",
+      "county": "Travis",
+      "location_text": "Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "QTS as",
+      "county": "Dallas",
+      "location_text": "as",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "QTS Texas",
+      "county": "El Paso",
+      "location_text": "Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Rowan Digital Infrastructure Data Center",
+      "county": "Bexar",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Roxanne Marquis West",
+      "county": "McLennan",
+      "location_text": "West",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "STACK Data Center",
+      "county": "Collin",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Sabey Data Centers Texas",
+      "county": "Williamson",
+      "location_text": "Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Sabey Data Centers Key Technology Hub Sabey",
+      "county": "Williamson",
+      "location_text": "Key Technology Hub Sabey",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Skybox Datacenters Data Center",
+      "county": "Travis",
+      "location_text": "Unknown Location",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Switch reading street in dallas",
+      "county": "Dallas",
+      "location_text": "reading street in dallas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "TRG Datacenters Texas",
+      "county": "Harris",
+      "location_text": "Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Texas Critical Data Center Ector County",
+      "county": "Ector",
+      "location_text": "Ector County",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Vantage Texas",
+      "county": "Taylor",
+      "location_text": "Shackelford County, Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Vantage Texas",
+      "county": "Shackelford",
+      "location_text": "Texas",
+      "method": "coordinates"
+    },
+    {
+      "project_name": "Vantage shackelford county",
+      "county": "Shackelford",
+      "location_text": "shackelford county",
+      "method": "coordinates"
+    }
+  ]
+}

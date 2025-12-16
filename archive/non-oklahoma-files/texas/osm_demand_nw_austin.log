@@ -1,0 +1,189 @@
+
+Downloading Power Grid Supply/Demand/Data Center POIs for corridor: 29.0,-103.0,30.5,-97.0
+
+
+Download complete! Files created:
+
+power_supply:
+- File: /Users/yairtitelboim/Documents/Kernel/ALLAPPS/POWER/Tx/public/data/osm/corridor_power_supply.geojson
+- Features: 13395
+  Sample 1: {
+  "name": "Unnamed",
+  "category": "power_supply",
+  "osm_id": 343419505,
+  "osm_type": "node",
+  "tags": {
+    "devices": "1",
+    "frequency": "60",
+    "location": "outdoor",
+    "phases": "3",
+    "power": "transformer",
+    "transformer": "main",
+    "voltage:primary": "138000",
+    "voltage:secondary": "12500"
+  }
+}
+  Sample 2: {
+  "name": "Unnamed",
+  "category": "power_supply",
+  "osm_id": 538511616,
+  "osm_type": "node",
+  "tags": {
+    "generator:source": "hydro",
+    "location": "indoor",
+    "power": "generator"
+  }
+}
+  Sample 3: {
+  "name": "Unnamed",
+  "category": "power_supply",
+  "osm_id": 1840723329,
+  "osm_type": "node",
+  "tags": {
+    "power": "transformer",
+    "voltage:primary": "138000"
+  }
+}
+
+power_demand:
+- File: /Users/yairtitelboim/Documents/Kernel/ALLAPPS/POWER/Tx/public/data/osm/corridor_power_demand.geojson
+- Features: 5547
+  Sample 1: {
+  "name": "Gary Job Corps",
+  "category": "power_demand",
+  "osm_id": 343342755,
+  "osm_type": "node",
+  "tags": {
+    "amenity": "school",
+    "created_by": "Potlatch 0.10f",
+    "name": "Gary Job Corps"
+  }
+}
+  Sample 2: {
+  "name": "Annunication School",
+  "category": "power_demand",
+  "osm_id": 356698765,
+  "osm_type": "node",
+  "tags": {
+    "amenity": "school",
+    "ele": "178",
+    "gnis:feature_id": "1329564",
+    "name": "Annunication School"
+  }
+}
+  Sample 3: {
+  "name": "Barkley School",
+  "category": "power_demand",
+  "osm_id": 356699488,
+  "osm_type": "node",
+  "tags": {
+    "amenity": "school",
+    "ele": "200",
+    "gnis:feature_id": "1330048",
+    "name": "Barkley School"
+  }
+}
+
+data_center:
+- File: /Users/yairtitelboim/Documents/Kernel/ALLAPPS/POWER/Tx/public/data/osm/corridor_data_center.geojson
+- Features: 16
+  Sample 1: {
+  "name": "Unnamed",
+  "category": "data_center",
+  "osm_id": 254742608,
+  "osm_type": "way",
+  "tags": {
+    "building": "data_center",
+    "ref": "A"
+  }
+}
+  Sample 2: {
+  "name": "Unnamed",
+  "category": "data_center",
+  "osm_id": 254742609,
+  "osm_type": "way",
+  "tags": {
+    "building": "data_center",
+    "ref": "B"
+  }
+}
+  Sample 3: {
+  "name": "Unnamed",
+  "category": "data_center",
+  "osm_id": 254742610,
+  "osm_type": "way",
+  "tags": {
+    "building": "data_center",
+    "ref": "Connector"
+  }
+}
+
+other:
+- File: /Users/yairtitelboim/Documents/Kernel/ALLAPPS/POWER/Tx/public/data/osm/corridor_other.geojson
+- Features: 126043
+  Sample 1: {
+  "name": "Unnamed",
+  "category": "other",
+  "osm_id": 11045360244,
+  "osm_type": "node",
+  "tags": {}
+}
+  Sample 2: {
+  "name": "Unnamed",
+  "category": "other",
+  "osm_id": 11045360245,
+  "osm_type": "node",
+  "tags": {}
+}
+  Sample 3: {
+  "name": "Unnamed",
+  "category": "other",
+  "osm_id": 11045360246,
+  "osm_type": "node",
+  "tags": {}
+}
+
+Summary:
+power_supply: 13395 features
+power_demand: 5547 features
+data_center: 16 features
+other: 126043 features
+Saved first 5000 power_supply features to: /Users/yairtitelboim/Documents/Kernel/ALLAPPS/POWER/Tx/public/data/osm/corridor_power_supply_5k.geojson (count: 5000)
+Saved first 5000 power_demand features to: /Users/yairtitelboim/Documents/Kernel/ALLAPPS/POWER/Tx/public/data/osm/corridor_power_demand_5k.geojson (count: 5000)
+
+Downloading Water-related POIs for corridor: 29.0,-103.0,30.5,-97.0
+
+
+Water POIs saved to: /Users/yairtitelboim/Documents/Kernel/ALLAPPS/POWER/Tx/public/data/osm/corridor_water.geojson (features: 626200)
+Sample feature: {
+  "name": "Unnamed",
+  "osm_id": 345241631,
+  "osm_type": "node",
+  "tags": {
+    "description": "City of San Marcos",
+    "man_made": "water_tower"
+  }
+}
+
+Downloading Power Demand POIs for NW Austin: 30.3,-98.0,30.55,-97.6
+
+
+NW Austin Power Demand POIs saved to: /Users/yairtitelboim/Documents/Kernel/ALLAPPS/POWER/Tx/public/data/osm/nw_austin_power_demand.geojson (features: 32360)
+Sample feature: {
+  "name": "Redeemer Lutheran School",
+  "osm_id": 356719519,
+  "osm_type": "node",
+  "tags": {
+    "addr:city": "Austin",
+    "addr:housenumber": "1500",
+    "addr:postcode": "78757",
+    "addr:street": "West Anderson Lane",
+    "amenity": "school",
+    "denomination": "lutheran",
+    "ele": "234",
+    "gnis:feature_id": "1344974",
+    "grades": "0-8",
+    "name": "Redeemer Lutheran School",
+    "operator": "Redeemer Lutheran Church",
+    "operator:type": "religious",
+    "phone": "+1-512-451-

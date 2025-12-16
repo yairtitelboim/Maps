@@ -1,0 +1,159 @@
+{
+  "total_projects": 72,
+  "status_counts": {
+    "uncertain": 62,
+    "active": 10
+  },
+  "status_percentages": {
+    "uncertain": 86.11111111111111,
+    "active": 13.88888888888889
+  },
+  "summary": {
+    "active": 10,
+    "uncertain": 62,
+    "dead_or_revived": 0,
+    "unknown": 0
+  },
+  "status_by_county": {
+    "ew": {
+      "uncertain": 1
+    },
+    "ey": {
+      "uncertain": 1
+    },
+    "hays county": {
+      "uncertain": 1
+    },
+    "Austin County": {
+      "uncertain": 1
+    },
+    "Armstrong County": {
+      "uncertain": 1
+    },
+    "Fort Worth moving forward": {
+      "uncertain": 1
+    },
+    "fort worth": {
+      "uncertain": 1
+    },
+    "South Fort Worth": {
+      "uncertain": 1
+    },
+    "and Beyond": {
+      "uncertain": 1
+    },
+    "Jarrell": {
+      "uncertain": 1
+    },
+    "Unknown Location": {
+      "uncertain": 13,
+      "active": 2
+    },
+    "Cedar Creek": {
+      "uncertain": 1
+    },
+    "bosque county": {
+      "uncertain": 4
+    },
+    "crews in": {
+      "uncertain": 1
+    },
+    "Ellis County": {
+      "uncertain": 1
+    },
+    "th": {
+      "uncertain": 1
+    },
+    "work medina": {
+      "uncertain": 1
+    },
+    "Indiana": {
+      "active": 1
+    },
+    "or": {
+      "uncertain": 2
+    },
+    "Bosque County": {
+      "uncertain": 1
+    },
+    "Cherokee County": {
+      "uncertain": 1
+    },
+    "GW AI campus in Pecos County": {
+      "active": 1
+    },
+    "Lancaster": {
+      "uncertain": 1
+    },
+    "co": {
+      "uncertain": 1
+    },
+    "Texas Calpine": {
+      "active": 1
+    },
+    "bexar county": {
+      "active": 1
+    },
+    "ak": {
+      "uncertain": 1
+    },
+    "Texas": {
+      "uncertain": 6,
+      "active": 2
+    },
+    "Historic uptown": {
+      "uncertain": 1
+    },
+    "Bastrop County": {
+      "uncertain": 1
+    },
+    "ECP and KKR to develop new": {
+      "uncertain": 1
+    },
+    "Midlothian": {
+      "uncertain": 1
+    },
+    "billion in": {
+      "uncertain": 1
+    },
+    "Billion in": {
+      "uncertain": 1
+    },
+    "el paso": {
+      "uncertain": 2
+    },
+    "Nscale Plans to Build Massive": {
+      "uncertain": 1
+    },
+    "Plano": {
+      "uncertain": 1
+    },
+    "new stargate site in shackelford": {
+      "uncertain": 1
+    },
+    "santa teresa": {
+      "uncertain": 1
+    },
+    "as": {
+      "active": 1
+    },
+    "West": {
+      "uncertain": 1
+    },
+    "Key Technology Hub Sabey": {
+      "active": 1
+    },
+    "reading street in dallas": {
+      "uncertain": 1
+    },
+    "Ector County": {
+      "uncertain": 1
+    },
+    "Shackelford County": {
+      "uncertain": 1
+    },
+    "shackelford county": {
+      "uncertain": 1
+    }
+  }
+}

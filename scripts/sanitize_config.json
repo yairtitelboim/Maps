@@ -1,0 +1,52 @@
+{
+  "source_dir": ".",
+  "output_dir": "./public-ready",
+  "patterns": {
+    "api_keys": [
+      "pplx-[A-Za-z0-9]{20,}",
+      "sk-[A-Za-z0-9]{20,}",
+      "AIza[0-9A-Za-z_-]{35}",
+      "[A-Za-z0-9]{32,}"
+    ],
+    "secrets": [
+      "password\\s*[:=]\\s*[\"']?[^\"'\\s]+[\"']?",
+      "secret\\s*[:=]\\s*[\"']?[^\"'\\s]+[\"']?",
+      "token\\s*[:=]\\s*[\"']?[^\"'\\s]+[\"']?"
+    ],
+    "replacements": {
+      "API_KEY": "YOUR_API_KEY_HERE",
+      "SECRET": "YOUR_SECRET_HERE",
+      "PASSWORD": "YOUR_PASSWORD_HERE",
+      "TOKEN": "YOUR_TOKEN_HERE"
+    }
+  },
+  "exclude_patterns": [
+    "\\.env$",
+    "\\.env\\.local$",
+    "\\.env.*\\.backup$",
+    "node_modules/",
+    "__pycache__/",
+    "\\.git/",
+    "build/",
+    "dist/",
+    "\\.venv/",
+    "venv/",
+    "public-ready-test/"
+  ],
+  "exclude_files": [
+    "gentle-cinema-*.json",
+    "*.shp",
+    "*.shx",
+    "*.dbf",
+    "*.prj",
+    "Census_Block.*",
+    "package-lock.json",
+    "*package-lock.json"
+  ],
+  "large_file_threshold_mb": 10,
+  "large_file_action": "exclude",
+  "file_extensions_to_sanitize": [".py", ".js", ".jsx", ".ts", ".tsx", ".json", ".md", ".txt"],
+  "preserve_structure": true,
+  "create_env_example": true
+}
+

@@ -1,0 +1,206 @@
+Loaded 254 county polygons from ercot_counties_aggregated_fixed.geojson
+================================================================================
+STEP 1: VERIFY YOUR DATA COUNT
+================================================================================
+
+Total DCs in dataset: 72
+
+1. Unknown Project - ew
+2. Unknown Project - ey
+3. Unknown Project - hays county
+4. Unknown Project - Austin County, TX
+5. Unknown Project - Armstrong County
+6. Unknown Project - Fort Worth moving forward
+7. Unknown Project - fort worth
+8. Unknown Project - South Fort Worth, TX
+9. Unknown Project - and Beyond
+10. Unknown Project - Jarrell, TX
+11. Unknown Project - Unknown Location
+12. Unknown Project - Cedar Creek, TX
+13. Unknown Project - bosque county
+14. Unknown Project - crews in
+15. Unknown Project - Ellis County, TX
+16. Aligned Dallas Fort Worth - th
+17. Amazon work medina - work medina
+18. Amazon Data Center - Unknown Location
+19. Amazon Indiana - Indiana
+20. Blueprint Projects or - or
+21. Blueprint Projects Data Center - Unknown Location
+22. Calpine Texas - Bosque County, Texas
+23. Cielo Digital Infrastructure Cherokee County - Cherokee County
+24. CoreWeave GW AI campus in Pecos County - GW AI campus in Pecos County
+25. CoreWeave Lancaster - Lancaster
+26. CyrusOne co - co
+27. CyrusOne DFW10 - Texas Calpine
+28. CyrusOne bosque county - bosque county
+29. CyrusOne bosque county - bosque county
+30. CyrusOne bexar county - bexar county
+31. DataBank ak - ak
+32. Digital Realty Texas - Texas
+33. Digital Realty Historic uptown - Historic uptown
+34. EdgeConneX Bastrop County - Bastrop County
+35. Energy Capital Partners bosque county - bosque county
+36. Energy Capital Partners ECP and KKR to develop new - ECP and KKR to develop new
+37. Google Texas - Midlothian, TX
+38. Google Data Center - Unknown Location
+39. Google Data Center - Unknown Location
+40. Google Data Center - Unknown Location
+41. Google billion in - billion in
+42. Google Billion in - Billion in
+43. KDC or - or
+44. Meta Texas - el paso
+45. Meta Data Center - Unknown Location
+46. Meta Data Center - Unknown Location
+47. Meta Data Center - Unknown Location
+48. Meta El Paso - el paso
+49. Meta Texas - Texas
+50. Meta Data Center - Unknown Location
+51. Meta Data Center - Unknown Location
+52. Microsoft Nscale Plans to Build Massive - Nscale Plans to Build Massive
+53. Microsoft Data Center - Unknown Location
+54. Microsoft Plano - Plano
+55. Microsoft Texas - Texas
+56. Oracle new stargate site in shackelford - new stargate site in shackelford
+57. Oracle santa teresa - santa teresa
+58. Oracle Texas - Texas
+59. QTS as - as
+60. QTS Texas - Texas
+61. Rowan Digital Infrastructure Data Center - Unknown Location
+62. Roxanne Marquis West - West
+63. STACK Data Center - Unknown Location
+64. Sabey Data Centers Texas - Texas
+65. Sabey Data Centers Key Technology Hub Sabey - Key Technology Hub Sabey
+66. Skybox Datacenters Data Center - Unknown Location
+67. Switch reading street in dallas - reading street in dallas
+68. TRG Datacenters Texas - Texas
+69. Texas Critical Data Center Ector County - Ector County
+70. Vantage Texas - Shackelford County, Texas
+71. Vantage Texas - Texas
+72. Vantage shackelford county - shackelford county
+
+================================================================================
+STEP 2: COUNT DCS BY COUNTY
+================================================================================
+
+Top 20 counties by DC count (after PIP county assignment):
+Dallas: 13 DCs
+Williamson: 8 DCs
+Bosque: 5 DCs
+Ellis: 4 DCs
+El Paso: 4 DCs
+Tarrant: 3 DCs
+Harris: 3 DCs
+Collin: 3 DCs
+Bexar: 3 DCs
+Travis: 3 DCs
+McLennan: 2 DCs
+Hays: 2 DCs
+Bastrop: 2 DCs
+Hill: 2 DCs
+Taylor: 2 DCs
+Shackelford: 2 DCs
+Austin: 1 DCs
+Donley: 1 DCs
+Shelby: 1 DCs
+Medina: 1 DCs
+
+Total unique counties: 27
+
+================================================================================
+STEP 3: METRO AREA COUNTS
+================================================================================
+
+DFW Metro:
+  Dallas: 13 DCs
+  Tarrant: 3 DCs
+  Collin: 3 DCs
+  Ellis: 4 DCs
+  Total: 23 DCs
+
+Austin Metro:
+  Travis: 3 DCs
+  Williamson: 8 DCs
+  Hays: 2 DCs
+  Bastrop: 2 DCs
+  Total: 15 DCs
+
+Houston Metro:
+  Harris: 3 DCs
+  Total: 3 DCs
+
+San Antonio Metro:
+  Bexar: 3 DCs
+  Medina: 1 DCs
+  Total: 4 DCs
+
+==================================================
+Top 4 metros: 45 DCs (62.5%)
+Rest of state: 27 DCs (37.5%)
+==================================================
+
+================================================================================
+STEP 4: NON-METRO COUNTIES WITH DCS
+================================================================================
+
+Non-metro counties with DCs:
+  Bosque: 5 DCs
+  El Paso: 4 DCs
+  McLennan: 2 DCs
+  Hill: 2 DCs
+  Taylor: 2 DCs
+  Shackelford: 2 DCs
+  Austin: 1 DCs
+  Donley: 1 DCs
+  Shelby: 1 DCs
+  Cherokee: 1 DCs
+  Pecos: 1 DCs
+  Hidalgo: 1 DCs
+  Armstrong: 1 DCs
+  Brazos: 1 DCs
+  santa teresa: 1 DCs
+  Ector: 1 DCs
+
+Total non-metro DCs: 27
+Non-metro counties with DCs: 16
+
+================================================================================
+STEP 5: METRO GROUPING TESTS
+================================================================================
+
+Top 3 MSAs (DFW, Houston, SA): 30 DCs (41.7%)
+Top 4 MSAs (+ Austin): 45 DCs (62.5%)
+4 core metro counties: 22 DCs (30.6%)
+Top 10 counties: 49 DCs (68.1%)
+Top 10 counties:
+  Dallas: 13
+  Williamson: 8
+  Bosque: 5
+  Ellis: 4
+  El Paso: 4
+  Tarrant: 3
+  Harris: 3
+  Collin: 3
+  Bexar: 3
+  Travis: 3
+
+================================================================================
+STEP 6: NEWS PIPELINE RECONCILIATION (IF AVAILABLE)
+================================================================================
+
+Total projects in pipeline: 92
+Projects with coordinates: 72
+
+Projects by status:
+  active: 13
+  uncertain: 79
+
+================================================================================
+STEP 7: CONCENTRATION METRICS (50/75/80% + 80/20 TEST)
+================================================================================
+
+50% of DCs in top 6 counties (37 DCs)
+75% of DCs in top 13 counties (55 DCs)
+
+80/20 rule test:
+Top 5 counties (20% of 27): 34 DCs
+

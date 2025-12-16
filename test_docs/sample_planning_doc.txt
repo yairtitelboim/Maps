@@ -1,0 +1,20 @@
+CITY OF LOS ANGELES
+
+ZONING ORDINANCE EXCERPT
+
+R1 ZONE: Single Family Residential
+Height limit: 35 feet
+FAR: 0.45
+Setbacks: Front 20 feet, Side 5 feet, Rear 15 feet
+Allowed uses: Single family homes, parks, playgrounds
+Prohibited uses: Multi-family housing, commercial buildings
+
+C2 ZONE: Commercial
+Height limit: 75 feet
+FAR: 1.5
+Setbacks: None required except when adjacent to residential
+Allowed uses: Retail, restaurants, offices, hotels
+Prohibited uses: Heavy industrial, manufacturing
+
+Downtown Commercial District encompasses blocks between Main Street and Broadway.
+Harbor Hills neighborhood is predominantly zoned R1.

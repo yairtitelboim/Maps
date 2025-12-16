@@ -1,0 +1,228 @@
+{
+  "stats": {
+    "total": 30,
+    "processed": 30,
+    "successful": 17,
+    "updated": 0,
+    "flagged": 6,
+    "failed": 4,
+    "skipped": 9
+  },
+  "results": [
+    {
+      "project_id": "proj_77c9164f874d",
+      "status": "no_update",
+      "distance": 9.296800961389618,
+      "reason": "Small difference (9.30km), but current confidence is address"
+    },
+    {
+      "project_id": "proj_e4d7694f1871",
+      "status": "no_update",
+      "distance": 5.327115098525727,
+      "reason": "Small difference (5.33km), but current confidence is address"
+    },
+    {
+      "project_id": "proj_e1428908844d",
+      "status": "no_update",
+      "distance": 1.915791475521709,
+      "reason": "Coordinates are very close (1.92km)"
+    },
+    {
+      "project_id": "proj_90c9dce9c5d2",
+      "status": "flagged",
+      "current_coords": [
+        31.9513,
+        -106.6056
+      ],
+      "perplexity_coords": [
+        32.9825,
+        -96.7581
+      ],
+      "distance": 930.5820404550442,
+      "reason": "LARGE DIFFERENCE (930.58km) - Manual review required"
+    },
+    {
+      "project_id": "proj_119e848d8619",
+      "status": "no_update",
+      "distance": 6.649605503984534,
+      "reason": "Small difference (6.65km), but current confidence is address"
+    },
+    {
+      "project_id": "proj_4867abff1592",
+      "status": "no_update",
+      "distance": 2.4300144352413957,
+      "reason": "Coordinates are very close (2.43km)"
+    },
+    {
+      "project_id": "proj_91c899c1c07c",
+      "status": "no_update",
+      "distance": 3.1112876731449637,
+      "reason": "Coordinates are very close (3.11km)"
+    },
+    {
+      "project_id": "proj_a60eedde0cfd",
+      "status": "no_update",
+      "distance": 3.675466326658298,
+      "reason": "Coordinates are very close (3.68km)"
+    },
+    {
+      "project_id": "proj_a3fea98293a9",
+      "status": "flagged",
+      "current_coords": [
+        29.8688353,
+        -95.4248406
+      ],
+      "perplexity_coords": [
+        27.506748,
+        -99.502914
+      ],
+      "distance": 476.625071778747,
+      "reason": "LARGE DIFFERENCE (476.63km) - Manual review required"
+    },
+    {
+      "project_id": "proj_ad88ebe8b5a3",
+      "status": "no_update",
+      "distance": 59.253711290263375,
+      "reason": "Significant difference (59.25km) - Manual review recommended"
+    },
+    {
+      "project_id": "proj_3f81efc4358b",
+      "status": "flagged",
+      "current_coords": [
+        30.321975,
+        -97.765669
+      ],
+      "perplexity_coords": [
+        31.0,
+        -100.0
+      ],
+      "distance": 226.61623034300322,
+      "reason": "LARGE DIFFERENCE (226.62km) - Manual review required"
+    },
+    {
+      "project_id": "proj_04bdd81a9a38",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_2a92377d84ee",
+      "status": "no_update",
+      "distance": 2.0847491378490557,
+      "reason": "Coordinates are very close (2.08km)"
+    },
+    {
+      "project_id": "proj_51b583afc528",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_51b06f4013fa",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_8e6b7059f6cb",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_1339fec1148c",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_3a2e798d3666",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_25080f22b275",
+      "status": "failed",
+      "error": null
+    },
+    {
+      "project_id": "proj_7e00b40d4d6f",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_4d94eab6404e",
+      "status": "flagged",
+      "current_coords": [
+        32.8387811,
+        -96.5744486
+      ],
+      "perplexity_coords": [
+        35.181,
+        -100.38
+      ],
+      "distance": 436.8266302687102,
+      "reason": "LARGE DIFFERENCE (436.83km) - Manual review required"
+    },
+    {
+      "project_id": "proj_9e155cfc5fbf",
+      "status": "no_update",
+      "distance": 2.3660584922807204,
+      "reason": "Coordinates are very close (2.37km)"
+    },
+    {
+      "project_id": "proj_253048193a43",
+      "status": "failed",
+      "error": null
+    },
+    {
+      "project_id": "proj_21909c0fe290",
+      "status": "failed",
+      "error": null
+    },
+    {
+      "project_id": "proj_a1344fc84322",
+      "status": "no_update",
+      "distance": 0.013478833161780224,
+      "reason": "Coordinates are very close (0.01km)"
+    },
+    {
+      "project_id": "proj_2d69fa43c96d",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_c12cc89dd0c4",
+      "status": "flagged",
+      "current_coords": [
+        30.2247882,
+        -97.7889051
+      ],
+      "perplexity_coords": [
+        32.8975,
+        -97.0575
+      ],
+      "distance": 305.1614330566922,
+      "reason": "LARGE DIFFERENCE (305.16km) - Manual review required"
+    },
+    {
+      "project_id": "proj_9751b5340d31",
+      "status": "flagged",
+      "current_coords": [
+        31.7952814,
+        -94.1803576
+      ],
+      "perplexity_coords": [
+        32.5086562,
+        -99.7771164
+      ],
+      "distance": 532.7618124871324,
+      "reason": "LARGE DIFFERENCE (532.76km) - Manual review required"
+    },
+    {
+      "project_id": "proj_e68dbff6172e",
+      "status": "skipped",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "project_id": "proj_798a7c5b8c89",
+      "status": "failed",
+      "error": null
+    }
+  ]
+}

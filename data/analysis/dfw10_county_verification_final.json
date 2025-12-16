@@ -1,0 +1,57 @@
+{
+  "address": "557 County Rd 3610, Whitney, TX 76692",
+  "verification_results": [
+    {
+      "query": "County Road 3610, Whitney, TX",
+      "geocoding_county": "Hill County",
+      "coordinates": [
+        31.9525796,
+        -97.3324669
+      ],
+      "point_in_polygon_county": "Hill",
+      "in_hill": true,
+      "in_bosque": false
+    },
+    {
+      "query": "Whitney, Hill County, Texas",
+      "geocoding_county": "Hill County",
+      "coordinates": [
+        31.951823,
+        -97.3214012
+      ],
+      "point_in_polygon_county": "Hill",
+      "in_hill": true,
+      "in_bosque": false
+    },
+    {
+      "query": "Whitney, Bosque County, Texas",
+      "geocoding_county": "Bosque County",
+      "coordinates": [
+        31.8501583,
+        -97.3669575
+      ],
+      "point_in_polygon_county": "Bosque",
+      "in_hill": false,
+      "in_bosque": true
+    }
+  ],
+  "most_relevant": {
+    "query": "County Road 3610, Whitney, TX",
+    "geocoding_county": "Hill County",
+    "coordinates": [
+      31.9525796,
+      -97.3324669
+    ],
+    "point_in_polygon_county": "Hill",
+    "in_hill": true,
+    "in_bosque": false
+  },
+  "conclusion": {
+    "county": "Hill",
+    "coordinates": [
+      31.9525796,
+      -97.3324669
+    ],
+    "matches_perplexity": false
+  }
+}

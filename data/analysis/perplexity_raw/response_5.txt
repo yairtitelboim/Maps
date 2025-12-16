@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "project_name": "Blueprint Projects Data Center",
+      "company": "Blueprint Projects",
+      "city": "Taylor",
+      "county": "Williamson",
+      "approx_mw": 60,
+      "approx_sqft": 135000,
+      "status": "permit approved",
+      "primary_source_url": "https://www.datacenterdynamics.com/en/news/blueprint-projects-gets-greenlight-for-data-center-in-taylor-texas/",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Blueprint Projects Georgetown Data Center",
+      "company": "Blueprint Projects",
+      "city": "Georgetown",
+      "county": "Williamson",
+      "approx_mw": 35,
+      "approx_sqft": 45000,
+      "status": "tax breaks approved",
+      "primary_source_url": "https://www.datacenterdynamics.com/en/news/blueprint-projects-gets-greenlight-for-data-center-in-taylor-texas/",
+      "announced_year": 2024
+    },
+    {
+      "project_name": "Advanced Energy and Intelligence Campus",
+      "company": "Texas University System & Fermi America",
+      "city": "Amarillo",
+      "county": "Potter",
+      "approx_mw": 11000,
+      "approx_sqft": 0,
+      "status": "geotechnical work started",
+      "primary_source_url": "https://www.blackridgeresearch.com/blog/largest-biggest-upcoming-new-data-centers-in-texas-united-states",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Data City Texas",
+      "company": "Energy Abundance Development Corporation",
+      "city": "Laredo",
+      "county": "Webb",
+      "approx_mw": 5000,
+      "approx_sqft": 0,
+      "status": "announced",
+      "primary_source_url": "https://www.blackridgeresearch.com/blog/largest-biggest-upcoming-new-data-centers-in-texas-united-states",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "OpenAI Stargate Campus",
+      "company": "OpenAI, Oracle, SoftBank",
+      "city": "Abilene",
+      "county": "Taylor",
+      "approx_mw": 4500,
+      "approx_sqft": 0,
+      "status": "under construction",
+      "primary_source_url": "https://www.blackridgeresearch.com/blog/largest-biggest-upcoming-new-data-centers-in-texas-united-states",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Tract Caldwell County Park",
+      "company": "Tract",
+      "city": "",
+      "county": "Caldwell",
+      "approx_mw": 2000,
+      "approx_sqft": 0,
+      "status": "land acquisition completed",
+      "primary_source_url": "https://www.blackridgeresearch.com/blog/largest-biggest-upcoming-new-data-centers-in-texas-united-states",
+      "announced_year": 2025
+    },
+    {
+      "project_name": "Frontier",
+      "company": "Vantage Data Centers",
+      "city": "",
+      "county": "Shackelford",
+      "approx_mw": 1400,
+      "approx_sqft": 0,
+      "status": "construction started",
+      "primary_source_url": "https://www.blackridgeresearch.com/blog/largest-biggest-upcoming-new-data-centers-in-texas-united-states",
+      "announced_year": 2025
+    },
+    {
+      

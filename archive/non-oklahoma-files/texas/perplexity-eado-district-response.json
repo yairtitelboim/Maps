@@ -1,0 +1,84 @@
+{
+  "id": "b3917113-9e34-4ee3-85a6-9d0a241fd844",
+  "model": "sonar",
+  "created": 1758912548,
+  "usage": {
+    "prompt_tokens": 453,
+    "completion_tokens": 440,
+    "total_tokens": 893,
+    "search_context_size": "low",
+    "cost": {
+      "input_tokens_cost": 0.0,
+      "output_tokens_cost": 0.0,
+      "request_cost": 0.005,
+      "total_cost": 0.006
+    }
+  },
+  "citations": [
+    "https://www.fwc26houston.com/post/fifa-fan-festival-houston-location-officially-announced",
+    "https://www.fwc26houston.com/fifafanfestivalhou",
+    "https://www.houstonchronicle.com/sports/dynamo/article/2026-fifa-world-cup-fan-festival-20325441.php",
+    "https://www.houstonchronicle.com/sports/dynamo/article/world-cup-one-year-away-20359336.php",
+    "https://www.youtube.com/watch?v=zHi1mLE7Q-w",
+    "https://matadornetwork.com/read/houston-bars-world-cup/"
+  ],
+  "search_results": [
+    {
+      "title": "FIFA Fan Festival™ Houston Location Officially Announced",
+      "url": "https://www.fwc26houston.com/post/fifa-fan-festival-houston-location-officially-announced",
+      "date": "2025-05-15",
+      "last_updated": "2025-05-18",
+      "snippet": "Today, the FIFA World Cup 26™ Houston Host Committee officially unveiled East Downtown (EaDo) as the official spot for FIFA FAN FESTIVAL™ ..."
+    },
+    {
+      "title": "FIFA FAN FESTIVAL - FWC26 Houston",
+      "url": "https://www.fwc26houston.com/fifafanfestivalhou",
+      "date": "2020-01-01",
+      "last_updated": "2025-09-23",
+      "snippet": "ABOUT THE LOCATION: East downtown, also known as EaDo, is a vibrant, walkable, residential neighborhood with rich history and an eclectic mix ..."
+    },
+    {
+      "title": "2026 FIFA World Cup Fan Festival Houston location in EaDo revealed",
+      "url": "https://www.houstonchronicle.com/sports/dynamo/article/2026-fifa-world-cup-fan-festival-20325441.php",
+      "date": "2025-05-15",
+      "last_updated": null,
+      "snippet": "The 2026 FIFA World Cup Fan Festival in Houston will take place next to Shell Energy Stadium in EaDo, the FIFA World Cup 26 Houston Host Committee announced ..."
+    },
+    {
+      "title": "Where does Houston stand with year to go before the World Cup?",
+      "url": "https://www.houstonchronicle.com/sports/dynamo/article/world-cup-one-year-away-20359336.php",
+      "date": "2025-06-10",
+      "last_updated": null,
+      "snippet": "The green space between Hutchins Street and Emancipation Avenue adjacent to Shell Energy Stadium in the EaDo district will be the location of ..."
+    },
+    {
+      "title": "Location for FIFA World Cup Fan Fest in Houston revealed! - YouTube",
+      "url": "https://www.youtube.com/watch?v=zHi1mLE7Q-w",
+      "date": "2025-05-15",
+      "last_updated": "2025-05-16",
+      "snippet": "The matches will be played in Houston next year, and even if you don't have a ticket, you can still get in the soccer spirit."
+    },
+    {
+      "title": "The 9 Best Bars in Houston to Watch The 2026 FIFA World Cup",
+      "url": "https://matadornetwork.com/read/houston-bars-world-cup/",
+      "date": "2025-06-05",
+      "last_updated": "2025-09-24",
+      "snippet": "... Houston's official FIFA Fan Festival comprising watch parties and other soccer-themed happenings. Split between EaDo, Downtown, and Midtown ..."
+    }
+  ],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "```json\n{\n  \"type\": \"FeatureCollection\",\n  \"features\": []\n}\n```\n\n**Analysis Summary:**\n\n- The EaDo Fan Festival Zone (centered at 29.7394, -95.3467 with a 2000m radius) currently has **31 office buildings** with an average size of 2,066 sqft and an estimated **100% office vacancy**.\n- There are **0 residential listings** in the zone, indicating a potential market gap for residential conversions.\n- The zone has **46 restaurants/cafes** but no entertainment or retail/service venues, suggesting moderate amenity support primarily from food services.\n- Walkability is very high (average score 1), and clustering potential is moderately high (average 0.7) with one critical mass zone identified.\n- There are **2 active renovation projects** but no new construction, showing some development interest but limited scale.\n- Conversion candidates have scores ranging from 0.4 to 0.48, all below the requested threshold of 0.7 for high conversion potential.\n- None of the candidates meet the **conversion_score > 0.7** criterion, despite good walkability and clustering scores.\n- The zone's strong walkability and clustering potential, combined with the FIFA Fan Festival and related urban improvements, create a favorable environment for future office-to-residential conversions.\n- However, current building-level conversion scores are low, likely due to limited public investment and economic factors.\n\n**Conclusion:**\n\nNo office buildings in the EaDo Fan Festival Zone currently exhibit **high conversion potential (score > 0.7)** based on the provided data. The high walkability and clustering values indicate good foundational conditions, but the low conversion scores suggest that factors such as economic viability, public investment, and amenity diversity need improvement before strong conversion candidates emerge.\n\n**Recommendation:**\n\nFocus on enhancing economic incentives, increasing amenity diversity beyond restaurants/cafes, and leveraging the FIFA Fan Festival legacy for public investment to boost office-to-residential conversion potential in this zone.\n\n---\n\nIf you require GeoJSON features for the existing candidates despite their lower scores, I can provide those as well."
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      }
+    }
+  ]
+}
