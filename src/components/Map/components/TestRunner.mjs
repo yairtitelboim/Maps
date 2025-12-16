@@ -28,15 +28,15 @@ dotenv.config({ path: envPath });
 
 // Set API keys directly if not in .env
 if (!process.env.REACT_APP_MAPBOX_TOKEN) {
-  process.env.REACT_APP_MAPBOX_TOKEN = 'pk.eyJ1IjoieWFpcnRpdGVsIiwiYSI6ImNsZm1wODZuNzAyNmIzcHAydTRsaWlpOTIifQ.OG_0yvbvyo6gbqOJuP1Q3g';
+  process.env.REACT_APP_MAPBOX_TOKEN = 'YOUR_MAPBOX_TOKEN_HERE';
 }
 
 if (!process.env.REACT_APP_PRP) {
-  process.env.REACT_APP_PRP = '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';
+  process.env.REACT_APP_PRP = 'YOUR_PERPLEXITY_API_KEY_HERE';
 }
 
 if (!process.env.REACT_APP_GOOGLE_PLACES_KEY) {
-  process.env.REACT_APP_GOOGLE_PLACES_KEY = 'AIzaSyBGFqyws8LGGGkof2ZbP_Mt8l3hf_glfpE';
+  process.env.REACT_APP_GOOGLE_PLACES_KEY = 'YOUR_GOOGLE_PLACES_KEY_HERE';
 }
 
 class TestRunner {

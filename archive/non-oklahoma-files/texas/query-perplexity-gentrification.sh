@@ -4,7 +4,7 @@
 # This script queries Perplexity AI with gentrification analysis data
 
 # Set your Perplexity API key
-export PERPLEXITY_API_KEY="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"
+export PERPLEXITY_API_KEY="${PERPLEXITY_API_KEY:-YOUR_PERPLEXITY_API_KEY_HERE}"
 
 # Read and properly escape the gentrification analysis data
 GENTRIFICATION_DATA=$(cat gentrification-analysis-geojson.json | jq -c .)
